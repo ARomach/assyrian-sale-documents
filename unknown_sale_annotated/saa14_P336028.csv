@@ -1,0 +1,21 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+16407,P336028.1.1,{⸢na₄⸣}KIŠIB,kunukku[seal]N,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{⸢NA₄⸣}KIŠIB,"['damaged', 'complete']",0.25,kunukku,kunukku,seal,,,P336028,1,1,seal identification
+16408,P336028.1.2,{1}EN—KAM-eš,Bel-ereš[1]PN,PN,"['𒁹', '𒂗', '𒄰', '𒌍']",𒁹𒂗𒄰𒌍,{1}EN-KAM-eš,"['complete', 'complete', 'complete', 'complete']",0.0,Bel-ereš,Bel-ereš,1,PN,,P336028,1,2,seal identification
+16409,P336028.2.1,[DUMU],mār[son]N,N,['𒌉'],𒌉,[DUMU],['missing'],1.0,mār,māru,son,,,P336028,2,1,seal identification
+16410,P336028.2.2,{1}AD—DUG₃.GA,Abu-ṭaba[1]PN,PN,"['𒁹', '𒀜', '𒄭', '𒂵']",𒁹𒀜𒄭𒂵,{1}AD-DUG₃.GA,"['complete', 'complete', 'complete', 'complete']",0.0,Abu-ṭaba,Abu-ṭaba,1,PN,,P336028,2,2,seal identification
+16411,P336028.3.1,[(x),u,u,['x'],x,[x],['missing'],1.0,,,,,,P336028,3,1,seal identification
+16412,P336028.3.2,{uru]}nu-uh-ba-a.a,Nuhbaya[from Nuhba]EN$,EN,"['𒌷', '𒉡', '𒄴', '𒁀', '𒀀', '𒀀']",𒌷𒉡𒄴𒁀𒀀𒀀,{[URU]}nu-uh-ba-a.a,"['missing', 'complete', 'complete', 'complete', 'complete', 'complete']",0.17,Nuhbaya,Nuhbaya,from Nuhba,,,P336028,3,2,seal identification
+16413,P336028.4.1,[EN,bēl[owner]N,N,['𒂗'],𒂗,[EN],['missing'],1.0,bēl,bēlu,owner,,,P336028,4,1,seal identification
+16414,P336028.4.2,x]+⸢x⸣,u,u,"['x', 'x']",xx,[x]+⸢x⸣,"['missing', 'damaged']",0.75,,,,,,P336028,4,2,seal identification
+16415,P336028.4.3,SUM-a-ni,tadāni[giving]'N,V,"['𒋧', '𒀀', '𒉌']",𒋧𒀀𒉌,SUM-a-ni,"['complete', 'complete', 'complete']",0.0,tadāni,tadānu,giving,,,P336028,4,3,seal identification
+16416,P336028.11.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336028,11,1,none
+16417,P336028.11.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336028,11,2,none
+16418,P336028.11.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336028,11,3,none
+16419,P336028.11.4,(x)],u,u,['x'],x,[x],['missing'],1.0,,,,,,P336028,11,4,none
+16420,P336028.11.5,IGI,šību[witness]N,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,,P336028,11,5,witness
+16421,P336028.11.6,{1}{d}⸢MAŠ⸣—[x],u,u,"['𒁹', '𒀭', '𒈦', 'x']",𒁹𒀭𒈦x,{1}{d}⸢MAŠ⸣-[x],"['complete', 'complete', 'damaged', 'missing']",0.38,,,,,,P336028,11,6,witness
+16422,P336028.12.1,⸢IGI⸣,šību[witness]N,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,,,P336028,12,1,witness
+16423,P336028.12.2,{1}MAN—lu—da₃-ri,Šarru-lu-dari[1]PN,PN,"['𒁹', '𒌋𒌋', '𒇻', '𒆕', '𒊑']",𒁹𒌋𒌋𒇻𒆕𒊑,{1}MAN-lu-da₃-ri,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Šarru-lu-dari,Šarru-lu-dari,1,PN,,P336028,12,2,witness
+16424,P336028.13.1,IGI,šību[witness]N,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,,P336028,13,1,witness
+16425,P336028.13.2,{1}{d}PA—tab-ni—PAB,Nabu-tabni-uṣur[1]PN,PN,"['𒁹', '𒀭', '𒉺', '𒋰', '𒉌', '𒉽']",𒁹𒀭𒉺𒋰𒉌𒉽,{1}{d}PA-tab-ni-PAB,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,Nabu-tabni-uṣur,Nabu-tabni-uṣur,1,PN,,P336028,13,2,witness
+16426,P336028.14.1,{lu₂v}A.BA—URU,ṭupšarru[scribe]N$ṭupšar&ālu[city]N$āli,N,"['𒇽', '𒀀', '𒁀', '𒌷']",𒇽𒀀𒁀𒌷,{LU₂~v}A.BA-URU,"['complete', 'complete', 'complete', 'complete']",0.0,ṭupšar,ṭupšarru,scribe,,,P336028,14,1,witness

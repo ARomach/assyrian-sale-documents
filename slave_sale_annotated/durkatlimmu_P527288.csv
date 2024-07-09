@@ -1,0 +1,34 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+13755,P527288.3.1,x[1]PN,{f}[x-x-x-(x),x,x,1,PN,"['𒊩', 'X', 'X', 'X', 'X']",𒊩XXXX,{f}[x-x-x-x],"['complete', 'missing', 'missing', 'missing', 'missing']",0.8,PN,,P527288,3,1,seal identification
+13756,P527288.3.2,amtišu[female slave]N,GEME₂-šu₂],amtišu,amtu,female slave,N,"['𒊩𒆳', '𒋙']",𒊩𒆳𒋙,[GEME₂-šu₂],"['missing', 'missing']",1.0,,,P527288,3,2,seal identification
+13757,P527288.4.1,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,,P527288,4,1,seal identification
+13758,P527288.4.2,+Ša-x-šu[]PN$,{m}ša₂-{d}[x-(x)-šu₂],Ša-x-šu,Ša-x-šu,1,PN,"['𒁹', '𒃻', '𒀭', 'X', 'X', '𒋙']",𒁹𒃻𒀭XX𒋙,{m}ša₂-{d}[x-x-šu₂],"['complete', 'complete', 'complete', 'missing', 'missing', 'missing']",0.5,PN,,P527288,4,2,seal identification
+13759,P527288.5.1,X,u₂-piš-ma,,,,X,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,u₂-piš-ma,"['complete', 'complete', 'complete']",0.0,,,P527288,5,1,initiation of transaction
+13760,P527288.5.2,x[1]PN,{[m}x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X']",𒁹XXXX,{[m]}[x-x-x-x],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,PN,,P527288,5,2,initiation of transaction
+13761,P527288.6.1,X,TA,,,,X,['𒋫'],𒋫,TA,['complete'],0.0,,,P527288,6,1,completion of transaction
+13762,P527288.6.2,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527288,6,2,completion of transaction
+13763,P527288.6.3,+Ša-x-šu[]PN$,{m}ša-{[d}x-(x)-šu₂],Ša-x-šu,Ša-x-šu,1,PN,"['𒁹', '𒊭', '𒀭', 'X', 'X', '𒋙']",𒁹𒊭𒀭XX𒋙,{m}ša-{[d]}[x-x-šu₂],"['complete', 'complete', 'missing', 'missing', 'missing', 'missing']",0.67,PN,,P527288,6,3,completion of transaction
+13764,P527288.7.1,ina[at]PRP,ina,ina,ina,at,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,,P527288,7,1,price
+13765,P527288.7.2,X,ŠA₃-bi,,,,X,"['𒊮', '𒁉']",𒊮𒁉,ŠA₃-bi,"['complete', 'complete']",0.0,,,P527288,7,2,price
+13766,P527288.7.3,n,1/2,,,,n,['𒈦'],𒈦,1/2,['complete'],0.0,NUMBER,,P527288,7,3,price
+13767,P527288.7.4,manā[a unit of weight]N,[MA.NA,manā,manû,a unit of weight,N,"['𒈠', '𒈾']",𒈠𒈾,[MA].[NA],"['missing', 'missing']",1.0,,,P527288,7,4,price
+13768,P527288.7.5,X,KU₃.BABBAR],,,,X,"['𒆬', '𒌓']",𒆬𒌓,[KU₃].[BABBAR],"['missing', 'missing']",1.0,,,P527288,7,5,price
+13769,P527288.8.1,ilqe[purchase]V,il-qe,ilqe,leqû,purchase,V,"['𒅋', '𒆥']",𒅋𒆥,il-qe,"['complete', 'complete']",0.0,,,P527288,8,1,completion of transaction
+13770,P527288.8.2,X,[kas-pu,,,,X,"['𒆜', '𒁍']",𒆜𒁍,[kas-pu],"['missing', 'missing']",1.0,,,P527288,8,2,confirmation of transfer 1
+13771,P527288.8.3,X,gam-mur,,,,X,"['𒃵', '𒄯']",𒃵𒄯,[gam-mur],"['missing', 'missing']",1.0,,,P527288,8,3,confirmation of transfer 1
+13772,P527288.8.4,X,ta-din],,,,X,"['𒋫', '𒁷']",𒋫𒁷,[ta-din],"['missing', 'missing']",1.0,,,P527288,8,4,confirmation of transfer 1
+13773,P527288.9.1,X,MI₂,,,,X,['𒊩'],𒊩,MI₂,['complete'],0.0,,,P527288,9,1,confirmation of transfer 2
+13774,P527288.9.2,X,šu-a-[tu₂,,,,X,"['𒋗', '𒀀', '𒌓']",𒋗𒀀𒌓,šu-a-[tu₂],"['complete', 'complete', 'missing']",0.33,,,P527288,9,2,confirmation of transfer 2
+13775,P527288.9.3,X,zar₄-pat],,,,X,"['𒆰', '𒉻']",𒆰𒉻,[zar₄-pat],"['missing', 'missing']",1.0,,,P527288,9,3,confirmation of transfer 2
+13776,P527288.10.1,X,la-qe-[at,,,,X,"['𒆷', '𒆥', '𒀜']",𒆷𒆥𒀜,la-qe-[at],"['complete', 'complete', 'missing']",0.33,,,P527288,10,1,confirmation of transfer 2
+13777,P527288.10.2,X,tu-a-ru,,,,X,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,[tu-a-ru],"['missing', 'missing', 'missing']",1.0,,,P527288,10,2,exclusion of litigation
+13778,P527288.10.3,X,de-nu],,,,X,"['𒁲', '𒉡']",𒁲𒉡,[de-nu],"['missing', 'missing']",1.0,,,P527288,10,3,exclusion of litigation
+13779,P527288.11.1,X,DUG₄.[DUG₄,,,,X,"['𒅗', '𒅗']",𒅗𒅗,DUG₄.[DUG₄],"['complete', 'missing']",0.5,,,P527288,11,1,exclusion of litigation
+13780,P527288.11.2,X,la-a-šu₂],,,,X,"['𒆷', '𒀀', '𒋙']",𒆷𒀀𒋙,[la-a-šu₂],"['missing', 'missing', 'missing']",1.0,,,P527288,11,2,exclusion of litigation
+13781,P527288.17.1,Elulu[Elul]MN,{[iti]}⸢KIN⸣,Elulu,Elulu,Elul,MN,"['𒌗', '𒆥']",𒌗𒆥,{[ITI]}⸢KIN⸣,"['missing', 'damaged']",0.75,MN,,P527288,17,1,date
+13782,P527288.17.2,n,UD-15-KAM,,,,n,"['𒌓', '𒌋𒐊', '𒄰']",𒌓𒌋𒐊𒄰,UD-15-KAM,"['complete', 'complete', 'complete']",0.0,NUMBER,,P527288,17,2,date
+13783,P527288.17.3,limmu[eponym (of year)]N,lim-mu,limmu,līmu,eponym (of year),N,"['𒅆', '𒈬']",𒅆𒈬,lim-mu,"['complete', 'complete']",0.0,,,P527288,17,3,date
+13784,P527288.17.4,x[1]PN,{[m}x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X']",𒁹XXXX,{[m]}[x-x-x-x],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,PN,,P527288,17,4,date
+13785,P527288.18.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527288,18,1,witness
+13786,P527288.18.2,Nabu-šezibanni[1]PN,{m]}{d}PA-še-zib-a-ni,Nabu-šezibanni,Nabu-šezibanni,1,PN,"['𒁹', '𒀭', '𒉺', '𒊺', '𒍦', '𒀀', '𒉌']",𒁹𒀭𒉺𒊺𒍦𒀀𒉌,{[m]}{d}PA-še-zib-a-ni,"['missing', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.14,PN,,P527288,18,2,witness
+13787,P527288.18.3,ṭupšarru[scribe]N,{lu₂}[A.BA],ṭupšarru,ṭupšarru,scribe,N,"['𒇽', '𒀀', '𒁀']",𒇽𒀀𒁀,{LU₂}[A].[BA],"['complete', 'missing', 'missing']",0.67,,,P527288,18,3,witness

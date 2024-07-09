@@ -1,0 +1,36 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+9128,P224612.4.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,4,1,none
+9129,P224612.4.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,4,2,none
+9130,P224612.4.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,4,3,none
+9131,P224612.4.4,u,x]-⸢ni⸣,,u,"['X', '𒉌']",X𒉌,[x]-⸢ni⸣,"['missing', 'damaged']",0.75,,,,P224612,4,4,none
+9132,P224612.4.5,uṭṭuru[paid off]AJ,u₂-ṭu-ru,,AJ,"['𒌑', '𒂅', '𒊒']",𒌑𒂅𒊒,u₂-ṭu-ru,"['complete', 'complete', 'complete']",0.0,uṭṭuru,eṭru,paid off,P224612,4,5,none
+9133,P224612.5.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,5,1,none
+9134,P224612.5.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,5,2,none
+9135,P224612.5.3,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224612,5,3,none
+9136,P224612.5.4,lā[not]MOD,la,,MOD,['𒆷'],𒆷,la,['complete'],0.0,lā,lā,not,P224612,5,4,none
+9137,P224612.5.5,idabbub[contest]V,i-da-bu-ub,,V,"['𒄿', '𒁕', '𒁍', '𒌒']",𒄿𒁕𒁍𒌒,i-da-bu-ub,"['complete', 'complete', 'complete', 'complete']",0.0,idabbub,dabābu,contest,P224612,5,5,none
+9138,P224612.6.1,tuāru[revocation]'N,[tu-a-ru,,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,[tu-a-ru],"['missing', 'missing', 'missing']",1.0,tuāru,târu,revocation,P224612,6,1,exclusion of litigation
+9139,P224612.6.2,dēnu[lawsuit]N,de-e]-nu,,N,"['𒁲', '𒂊', '𒉡']",𒁲𒂊𒉡,[de-e]-nu,"['missing', 'missing', 'complete']",0.67,dēnu,dīnu,lawsuit,P224612,6,2,exclusion of litigation
+9140,P224612.6.3,dabābu[litigation]'N,da-ba-bu,,V,"['𒁕', '𒁀', '𒁍']",𒁕𒁀𒁍,da-ba-bu,"['complete', 'complete', 'complete']",0.0,dabābu,dabābu,litigation,P224612,6,3,exclusion of litigation
+9141,P224612.6.4,laššu[(there) is not]V,la-aš₂-šu,,V,"['𒆷', '𒀾', '𒋗']",𒆷𒀾𒋗,la-aš₂-šu,"['complete', 'complete', 'complete']",0.0,laššu,laššu,(there) is not,P224612,6,4,exclusion of litigation
+9142,P224612.8.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,8,1,witness
+9143,P224612.8.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,8,2,witness
+9144,P224612.8.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,8,3,witness
+9145,P224612.8.4,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224612,8,4,witness
+9146,P224612.8.5,sangû[priest]N,{⸢lu₂⸣}SANGA,,N,"['𒇽', '𒋃']",𒇽𒋃,{⸢LU₂⸣}SANGA,"['damaged', 'complete']",0.25,sangû,šangû,priest,P224612,8,5,witness
+9147,P224612.8.6,ša[of]DET,ša,,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,P224612,8,6,witness
+9148,P224612.8.7,u,{d}[x],,u,"['𒀭', 'X']",𒀭X,{d}[x],"['complete', 'missing']",0.5,,,,P224612,8,7,witness
+9149,P224612.9.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,9,1,witness
+9150,P224612.9.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,9,2,witness
+9151,P224612.9.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,9,3,witness
+9152,P224612.9.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,9,4,witness
+9153,P224612.9.5,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,9,5,witness
+9154,P224612.9.6,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224612,9,6,witness
+9155,P224612.9.7,+gugallu[irrigation controller//canal inspector]N'N$,GU₂.GAL,,N,"['𒄘', '𒃲']",𒄘𒃲,GU₂.GAL,"['complete', 'complete']",0.0,gugallu,gugallu,canal inspector,P224612,9,7,witness
+9156,P224612.9.8,n,0,NUMBER,n,['0'],0,[0],['missing'],1.0,,,,P224612,9,8,witness
+9157,P224612.10.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,10,1,witness
+9158,P224612.10.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,10,2,witness
+9159,P224612.10.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,10,3,witness
+9160,P224612.10.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224612,10,4,witness
+9161,P224612.10.5,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P224612,10,5,witness
+9162,P224612.10.6,tankāru[merchant]N,{lu₂}DAM.[QAR],,N,"['𒇽', '𒁮', '𒃼']",𒇽𒁮𒃼,{LU₂}DAM.[QAR],"['complete', 'complete', 'missing']",0.33,tankāru,tamkāru,merchant,P224612,10,6,witness

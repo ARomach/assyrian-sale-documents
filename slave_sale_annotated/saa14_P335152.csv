@@ -1,0 +1,16 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+11305,P335152.2.1,{[na₄}KIŠIB,kunukku[seal]N,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}[KIŠIB],"['missing', 'missing']",1.0,kunukku,kunukku,seal,,,P335152,2,1,seal identification
+11306,P335152.2.2,{1}x,u,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,,P335152,2,2,seal identification
+11307,P335152.2.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335152,2,3,seal identification
+11308,P335152.2.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335152,2,4,seal identification
+11309,P335152.2.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335152,2,5,seal identification
+11310,P335152.2.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335152,2,6,seal identification
+11311,P335152.2.7,{⸢lu₂⸣}SANGA,sangû[priest]N,N,"['𒇽', '𒋃']",𒇽𒋃,{⸢LU₂⸣}SANGA,"['damaged', 'complete']",0.25,sangû,šangû,priest,,,P335152,2,7,seal identification
+11312,P335152.2.8,aš-šur,Aššur[1]DN,DN,"['𒀸', '𒋩']",𒀸𒋩,aš-šur,"['complete', 'complete']",0.0,Aššur,Aššur,1,DN,,P335152,2,8,seal identification
+11313,P335152.3.1,[EN,bēl[owner]N,N,['𒂗'],𒂗,[EN],['missing'],1.0,bēl,bēlu,owner,,,P335152,3,1,seal identification
+11314,P335152.3.2,LU₂],amēli[man]N,N,['𒇽'],𒇽,[LU₂],['missing'],1.0,amēli,awīlu,man,,,P335152,3,2,seal identification
+11315,P335152.3.3,⸢SUM⸣-a-ni,tadāni[giving]'N,V,"['𒋧', '𒀀', '𒉌']",𒋧𒀀𒉌,⸢SUM⸣-a-ni,"['damaged', 'complete', 'complete']",0.17,tadāni,tadānu,giving,,,P335152,3,3,seal identification
+11316,P335152.5.1,{1}x,u,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,,P335152,5,1,object sold
+11317,P335152.5.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335152,5,2,object sold
+11318,P335152.5.3,x]—IM,u,u,"['x', '𒅎']",x𒅎,[x]-IM,"['missing', 'complete']",0.5,,,,,,P335152,5,3,object sold
+11319,P335152.5.4,ARAD-šu₂,urdīšu[servant]N,N,"['𒀴', '𒋙']",𒀴𒋙,ARAD-šu₂,"['complete', 'complete']",0.0,urdīšu,ardu,servant,,,P335152,5,4,object sold

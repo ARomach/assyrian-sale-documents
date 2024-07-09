@@ -1,0 +1,31 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+13264,P527316.2.1,kunuk[seal]N,{[na₄}KIŠIB,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}[KIŠIB],"['missing', 'missing']",1.0,,,P527316,2,1,seal identification
+13265,P527316.2.2,x[1]PN,{m}x-x-x],x,x,1,PN,"['𒁹', 'X', 'X', 'X']",𒁹XXX,{[m]}[x-x-x],"['missing', 'missing', 'missing', 'missing']",1.0,PN,,P527316,2,2,seal identification
+13266,P527316.3.1,bēl[owner]N,[EN,bēl,bēlu,owner,N,['𒂗'],𒂗,[EN],['missing'],1.0,,,P527316,3,1,seal identification
+13267,P527316.3.2,X,ARAD],,,,X,['𒀴'],𒀴,[ARAD],['missing'],1.0,,,P527316,3,2,seal identification
+13268,P527316.3.3,X,SUM-an,,,,X,"['𒋧', '𒀭']",𒋧𒀭,SUM-an,"['complete', 'complete']",0.0,,,P527316,3,3,seal identification
+13269,P527316.5.1,+Šimki-Adad[]PN$,{m}[ši]-⸢im⸣-[ki]-{⸢d⸣}IM,Šimki-Adad,Šimki-Adad,1,PN,"['𒁹', '𒅆', '𒅎', '𒆠', '𒀭', '𒅎']",𒁹𒅆𒅎𒆠𒀭𒅎,{m}[ši]-⸢im⸣-[ki]-{⸢d⸣}IM,"['complete', 'missing', 'damaged', 'missing', 'damaged', 'complete']",0.5,PN,,P527316,5,1,object sold
+13270,P527316.5.2,X,ARAD-šu₂,,,,X,"['𒀴', '𒋙']",𒀴𒋙,ARAD-šu₂,"['complete', 'complete']",0.0,,,P527316,5,2,object sold
+13271,P527316.6.1,X,⸢u₂⸣-[piš-ma,,,,X,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,⸢u₂⸣-[piš-ma],"['damaged', 'missing', 'missing']",0.83,,,P527316,6,1,initiation of transaction
+13272,P527316.6.2,+x-šumu-ereš[]PN$,{m}x]-MU-APIN-eš,x-šumu-ereš,x-šumu-ereš,1,PN,"['𒁹', 'X', '𒈬', '𒀳', '𒌍']",𒁹X𒈬𒀳𒌍,{[m]}[x]-MU-APIN-eš,"['missing', 'missing', 'complete', 'complete', 'complete']",0.4,PN,,P527316,6,2,initiation of transaction
+13273,P527316.7.1,ina[at]PRP,ina,ina,ina,at,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,,P527316,7,1,price
+13274,P527316.7.2,X,⸢ŠA₃⸣,,,,X,['𒊮'],𒊮,⸢ŠA₃⸣,['damaged'],0.5,,,P527316,7,2,price
+13275,P527316.7.3,n,[x,,,,n,['X'],X,[x],['missing'],1.0,NUMBER,,P527316,7,3,price
+13276,P527316.7.4,manā[a unit of weight]N,MA.NA],manā,manû,a unit of weight,N,"['𒈠', '𒈾']",𒈠𒈾,[MA].[NA],"['missing', 'missing']",1.0,,,P527316,7,4,price
+13277,P527316.7.5,X,⸢KU₃⸣.BABBAR,,,,X,"['𒆬', '𒌓']",𒆬𒌓,⸢KU₃⸣.BABBAR,"['damaged', 'complete']",0.25,,,P527316,7,5,price
+13278,P527316.7.6,ilqe[purchase]V,il-qe,ilqe,leqû,purchase,V,"['𒅋', '𒆥']",𒅋𒆥,il-qe,"['complete', 'complete']",0.0,,,P527316,7,6,completion of transaction
+13279,P527316.8.1,X,ARAD,,,,X,['𒀴'],𒀴,ARAD,['complete'],0.0,,,P527316,8,1,confirmation of transfer 2
+13280,P527316.8.2,X,[za]-⸢rip⸣,,,,X,"['𒍝', '𒆗']",𒍝𒆗,[za]-⸢rip⸣,"['missing', 'damaged']",0.75,,,P527316,8,2,confirmation of transfer 2
+13281,P527316.8.3,X,la-[qe],,,,X,"['𒆷', '𒆥']",𒆷𒆥,la-[qe],"['complete', 'missing']",0.5,,,P527316,8,3,confirmation of transfer 2
+13282,P527316.12.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527316,12,1,witness
+13283,P527316.12.2,x[1]PN,{[m}x-x-x,x,x,1,PN,"['𒁹', 'X', 'X', 'X']",𒁹XXX,{[m]}[x-x-x],"['missing', 'missing', 'missing', 'missing']",1.0,PN,,P527316,12,2,witness
+13284,P527316.12.3,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,[A],['missing'],1.0,,,P527316,12,3,witness
+13285,P527316.12.4,x[1]PN,{m}x-x-x],x,x,1,PN,"['𒁹', 'X', 'X', 'X']",𒁹XXX,{[m]}[x-x-x],"['missing', 'missing', 'missing', 'missing']",1.0,PN,,P527316,12,4,witness
+13286,P527316.13.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527316,13,1,witness
+13287,P527316.13.2,x[1]PN,{m}[x-x-x,x,x,1,PN,"['𒁹', 'X', 'X', 'X']",𒁹XXX,{m}[x-x-x],"['complete', 'missing', 'missing', 'missing']",0.75,PN,,P527316,13,2,witness
+13288,P527316.13.3,mār[son]N,A],mār,māru,son,N,['𒀀'],𒀀,[A],['missing'],1.0,,,P527316,13,3,witness
+13289,P527316.13.4,+Ma-x[]PN$,{m}ma-⸢x⸣-[x],Ma-x,Ma-x,1,PN,"['𒁹', '𒈠', 'X', 'X']",𒁹𒈠XX,{m}ma-⸢x⸣-[x],"['complete', 'complete', 'damaged', 'missing']",0.38,PN,,P527316,13,4,witness
+13290,P527316.14.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527316,14,1,witness
+13291,P527316.14.2,+Ilu-x[]PN$,{m}⸢DINGIR⸣-[x-x],Ilu-x,Ilu-x,1,PN,"['𒁹', '𒀭', 'X', 'X']",𒁹𒀭XX,{m}⸢DINGIR⸣-[x-x],"['complete', 'damaged', 'missing', 'missing']",0.62,PN,,P527316,14,2,witness
+13292,P527316.14.3,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,,P527316,14,3,witness
+13293,P527316.14.4,+Salmanu-šarru-uṣur[]PN$,{m}DI-man-MAN-PAB,Salmanu-šarru-uṣur,Salmanu-šarru-uṣur,1,PN,"['𒁹', '𒁲', '𒌋𒌋', '𒌋𒌋', '𒉽']",𒁹𒁲𒌋𒌋𒌋𒌋𒉽,{m}DI-man-MAN-PAB,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,,P527316,14,4,witness

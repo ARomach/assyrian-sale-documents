@@ -1,0 +1,21 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+168,P527273.2.1,kunuk[seal]N,{[na₄]}⸢KIŠIB⸣,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}⸢KIŠIB⸣,"['missing', 'damaged']",0.75,,,P527273,2,1,seal identification
+169,P527273.2.2,+Iddin-Sin[]PN$Iddina-Sin,{m}SUM-⸢na-{d}30,Iddina-Sin,Iddin-Sin,1,PN,"['𒁹', '𒋧', '𒈾', '𒀭', '𒌍']",𒁹𒋧𒈾𒀭𒌍,{m}SUM-⸢na⸣-{⸢d⸣}⸢30⸣,"['complete', 'complete', 'damaged', 'damaged', 'damaged']",0.3,PN,,P527273,2,2,seal identification
+170,P527273.3.1,bēl[owner]N,[EN,bēl,bēlu,owner,N,['𒂗'],𒂗,[EN],['missing'],1.0,,,P527273,3,1,seal identification
+171,P527273.3.2,u,x],,,,u,['X'],X,[x],['missing'],1.0,,,P527273,3,2,seal identification
+172,P527273.3.3,X,ta-⸢SUM⸣,,,,X,"['𒋫', '𒋧']",𒋫𒋧,ta-⸢SUM⸣,"['complete', 'damaged']",0.25,,,P527273,3,3,seal identification
+173,P527273.11.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527273,11,1,witness
+174,P527273.11.2,x[1]PN,{m}[x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X']",𒁹XXXX,{m}[x-x-x-x],"['complete', 'missing', 'missing', 'missing', 'missing']",0.8,PN,,P527273,11,2,witness
+175,P527273.12.1,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,,P527273,12,1,witness
+176,P527273.12.2,x[1]PN,{[m}x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X']",𒁹XXXX,{[m]}[x-x-x-x],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,PN,,P527273,12,2,witness
+177,P527273.13.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527273,13,1,witness
+178,P527273.13.2,+Saʾilu[]PN$,{m}sa-⸢iʾ⸣-[lu],Saʾilu,Saʾilu,1,PN,"['𒁹', '𒊓', '𒀪', '𒇻']",𒁹𒊓𒀪𒇻,{m}sa-⸢iʾ⸣-[lu],"['complete', 'complete', 'damaged', 'missing']",0.38,PN,,P527273,13,2,witness
+179,P527273.14.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527273,14,1,witness
+180,P527273.14.2,Ahhe-leʾi[1]PN,{m}PAB-⸢le⸣-[i],Ahhe-leʾi,Ahhe-leʾi,1,PN,"['𒁹', '𒉽', '𒇷', '𒄿']",𒁹𒉽𒇷𒄿,{m}PAB-⸢le⸣-[i],"['complete', 'complete', 'damaged', 'missing']",0.38,PN,,P527273,14,2,witness
+181,P527273.15.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527273,15,1,witness
+182,P527273.15.2,A-x[1]PN,{m}a-[x-x-(x)],A-x,A-x,1,PN,"['𒁹', '𒀀', 'X', 'X', 'X']",𒁹𒀀XXX,{m}a-[x-x-x],"['complete', 'complete', 'missing', 'missing', 'missing']",0.6,PN,,P527273,15,2,witness
+183,P527273.16.1,Kislimu[Kislev]MN,{[iti]}GAN,Kislimu,Kislimu,Kislev,MN,"['𒌗', '𒃶']",𒌗𒃶,{[ITI]}GAN,"['missing', 'complete']",0.5,MN,,P527273,16,1,date
+184,P527273.16.2,limmu[eponym (of year)]N,lim-mu,limmu,līmu,eponym (of year),N,"['𒅆', '𒈬']",𒅆𒈬,lim-mu,"['complete', 'complete']",0.0,,,P527273,16,2,date
+185,P527273.16.3,+Iqbi-ilani[]PN$,{[m}E-DINGIR].⸢ME⸣,Iqbi-ilani,Iqbi-ilani,1,PN,"['𒁹', '𒂊', '𒀭', '𒈨']",𒁹𒂊𒀭𒈨,{[m]}[E-DINGIR].⸢ME⸣,"['missing', 'missing', 'missing', 'damaged']",0.88,PN,,P527273,16,3,date
+186,P527273.17.1,šību[witness]N,⸢IGI⸣,šību,šību,witness,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,,,P527273,17,1,witness
+187,P527273.17.2,+Baba-šadduʾa[]PN$,{m}{d}BA.⸢U₂⸣-[KUR-u-a],Baba-šadduʾa,Baba-šadduʾa,1,PN,"['𒁹', '𒀭', '𒁀', '𒌑', '𒆳', '𒌋', '𒀀']",𒁹𒀭𒁀𒌑𒆳𒌋𒀀,{m}{d}BA.⸢U₂⸣-[KUR-u-a],"['complete', 'complete', 'complete', 'damaged', 'missing', 'missing', 'missing']",0.5,PN,,P527273,17,2,witness

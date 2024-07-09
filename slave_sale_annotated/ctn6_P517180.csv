@@ -1,0 +1,66 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+2595,P517180.3.1,u,[...]-⸢e-kit-tu₂,,u,"['x', '𒂊', '𒆤', '𒌓']",x𒂊𒆤𒌓,[x]⸢e-kit-tu₂⸣,"['missing', 'damaged', 'damaged', 'damaged']",0.62,,,,P517180,3,1,none
+2596,P517180.3.2,māršu[son]N,DUMU-šu₂⸣,,N,"['𒌉', '𒋙']",𒌉𒋙,⸢DUMU-šu₂⸣,"['damaged', 'damaged']",0.5,māršu,māru,son,P517180,3,2,none
+2597,P517180.4.1,u,[...],,u,['x'],x,[x],['missing'],1.0,,,,P517180,4,1,none
+2598,P517180.4.2,Šamaš-eriba[1]PN,{1}{d}UTU-SU,PN,PN,"['𒁹', '𒀭', '𒌓', '𒋢']",𒁹𒀭𒌓𒋢,{1}{d}UTU-SU,"['complete', 'complete', 'complete', 'complete']",0.0,Šamaš-eriba,Šamaš-eriba,1,P517180,4,2,none
+2599,P517180.5.1,u,[...,,u,['x'],x,[x],['missing'],1.0,,,,P517180,5,1,none
+2600,P517180.5.2,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P517180,5,2,none
+2601,P517180.5.3,ana[for]PRP,a-na,,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,ana,ana,for,P517180,5,3,price
+2602,P517180.5.4,n,1,NUMBER,n,['𒁹'],𒁹,1,['complete'],0.0,,,,P517180,5,4,price
+2603,P517180.5.5,n,1/2,NUMBER,n,['𒈦'],𒈦,1/2,['complete'],0.0,,,,P517180,5,5,price
+2604,P517180.5.6,manê[a unit of weight]N,MA.NA,,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manê,manû,a unit of weight,P517180,5,6,price
+2605,P517180.5.7,ṣarpi[silver]N,KU₃.BABBAR,,N,"['𒆬', '𒌓']",𒆬𒌓,KU₃.BABBAR,"['complete', 'complete']",0.0,ṣarpi,ṣarpu,silver,P517180,5,7,price
+2606,P517180.6.1,u,[...,,u,['x'],x,[x],['missing'],1.0,,,,P517180,6,1,none
+2607,P517180.6.2,u,x]+x.KAM₂,,u,"['X', 'X', '𒆚']",XX𒆚,[x]+x.KAM₂,"['missing', 'complete', 'complete']",0.33,,,,P517180,6,2,none
+2608,P517180.6.3,+leqû[take//purchase]V'V$ilqe,il-qe₂,,V,"['𒅋', '𒆠']",𒅋𒆠,il-qe₂,"['complete', 'complete']",0.0,ilqe,leqû,purchase,P517180,6,3,completion of transaction
+2609,P517180.7.1,kaspu[money]N,[kaspu,,N,,,,,1.0,kaspu,kaspu,money,P517180,7,1,confirmation of transfer 1
+2610,P517180.7.2,gammur[completed]AJ,gammur],,AJ,,,,,1.0,gammur,gammuru,completed,P517180,7,2,confirmation of transfer 1
+2611,P517180.7.3,tadin[paid]AJ,⸢ta⸣-din,,AJ,"['𒋫', '𒁷']",𒋫𒁷,⸢ta⸣-din,"['damaged', 'complete']",0.25,tadin,tadnu,paid,P517180,7,3,confirmation of transfer 1
+2612,P517180.7.4,amēlu[man]N,LU₂,,N,['𒇽'],𒇽,LU₂,['complete'],0.0,amēlu,awīlu,man,P517180,7,4,confirmation of transfer 2
+2613,P517180.7.5,šuātu[that]'DP,šu₂-a-tu₂,,IP,"['𒋙', '𒀀', '𒌓']",𒋙𒀀𒌓,šu₂-a-tu₂,"['complete', 'complete', 'complete']",0.0,šuātu,šuāti,that,P517180,7,5,confirmation of transfer 2
+2614,P517180.8.1,zarip[purchased]AJ,[zarip,,AJ,,,,,1.0,zarip,zarpu,purchased,P517180,8,1,confirmation of transfer 2
+2615,P517180.8.2,laqi[acquired]AJ,laqi],,AJ,,,,,1.0,laqi,leqû,acquired,P517180,8,2,confirmation of transfer 2
+2616,P517180.8.3,tuāru[revocation]'N,⸢tu⸣-a-ru,,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,⸢tu⸣-a-ru,"['damaged', 'complete', 'complete']",0.17,tuāru,târu,revocation,P517180,8,3,exclusion of litigation
+2617,P517180.9.1,dēnu[lawsuit]N,[dēnu,,N,,,,,1.0,dēnu,dīnu,lawsuit,P517180,9,1,exclusion of litigation
+2618,P517180.9.2,dabābu[litigation]'N,DU₁₁.DU₁₁],,V,"['𒅗', '𒅗']",𒅗𒅗,[DU₁₁].[DU₁₁],"['missing', 'missing']",1.0,dabābu,dabābu,litigation,P517180,9,2,exclusion of litigation
+2619,P517180.9.3,laššu[(there) is not]V,la-aš₂-šu₂,,V,"['𒆷', '𒀾', '𒋙']",𒆷𒀾𒋙,la-aš₂-šu₂,"['complete', 'complete', 'complete']",0.0,laššu,laššu,(there) is not,P517180,9,3,exclusion of litigation
+2620,P517180.10.1,mannu[whoever]'XP,[mannu,,QP,,,,,1.0,mannu,mannu,whoever,P517180,10,1,penalties for litigation: contravention
+2621,P517180.10.2,ša[who]REL,(ša),,REL,,,,,1.0,ša,ša,who,P517180,10,2,penalties for litigation: contravention
+2622,P517180.10.3,ina[in]PRP,ina,,PRP,,,,,1.0,ina,ina,in,P517180,10,3,penalties for litigation: contravention
+2623,P517180.10.4,urkiš[later]AV,urkiš],,AV,,,,,1.0,urkiš,urkiš,later,P517180,10,4,penalties for litigation: contravention
+2624,P517180.10.5,u[and]CNJ,u₂,,CNJ,['𒌑'],𒌑,u₂,['complete'],0.0,u,u,and,P517180,10,5,penalties for litigation: contravention
+2625,P517180.10.6,matēma[ever]AV,ma-te-ma,,AV,"['𒈠', '𒋼', '𒈠']",𒈠𒋼𒈠,ma-te-ma,"['complete', 'complete', 'complete']",0.0,matēma,matīma,ever,P517180,10,6,penalties for litigation: contravention
+2626,P517180.11.1,izaqqupanni[complain]V,[izaqqupanni],,V,,,,,1.0,izaqqupanni,zaqāpu,complain,P517180,11,1,penalties for litigation: contravention
+2627,P517180.11.2,lū[may]MOD,⸢lu⸣-u,,MOD,"['𒇻', '𒌋']",𒇻𒌋,⸢lu⸣-u,"['damaged', 'complete']",0.25,lū,lū,may,P517180,11,2,penalties for litigation: contravention
+2628,P517180.11.3,+Puli[]PN$,{1}pu-li-i,PN,PN,"['𒁹', '𒁍', '𒇷', '𒄿']",𒁹𒁍𒇷𒄿,{1}pu-li-i,"['complete', 'complete', 'complete', 'complete']",0.0,Puli,Puli,1,P517180,11,3,penalties for litigation: contravention
+2629,P517180.12.1,lū[or]CNJ,[lu-u,,CNJ,"['𒇻', '𒌋']",𒇻𒌋,[lu-u],"['missing', 'missing']",1.0,lū,lū,or,P517180,12,1,penalties for litigation: contravention
+2630,P517180.12.2,marʾēšu[son]N,DUMU.MEŠ-šu₂,,N,"['𒌉', '𒈨𒌍', '𒋙']",𒌉𒈨𒌍𒋙,[DUMU].[MEŠ-šu₂],"['missing', 'missing', 'missing']",1.0,marʾēšu,māru,son,P517180,12,2,penalties for litigation: contravention
+2631,P517180.12.3,lū[or]CNJ,lu-u],,CNJ,"['𒇻', '𒌋']",𒇻𒌋,[lu-u],"['missing', 'missing']",1.0,lū,lū,or,P517180,12,3,penalties for litigation: contravention
+2632,P517180.12.4,mār[son]N&marʾēšu[son]N,⸢DUMU⸣-DUMU.MEŠ-šu₂,,N,"['𒌉', '𒌉', '𒈨𒌍', '𒋙']",𒌉𒌉𒈨𒌍𒋙,⸢DUMU⸣-DUMU.MEŠ-šu₂,"['damaged', 'complete', 'complete', 'complete']",0.12,mār,māru,son,P517180,12,4,penalties for litigation: contravention
+2634,P517180.13.1,lū[or]CNJ,[lu-u,,CNJ,"['𒇻', '𒌋']",𒇻𒌋,[lu-u],"['missing', 'missing']",1.0,lū,lū,or,P517180,13,1,penalties for litigation: contravention
+2635,P517180.13.2,u,...-šu₂,,u,"['x', '𒋙']",x𒋙,[x][šu₂],"['missing', 'missing']",1.0,,,,P517180,13,2,penalties for litigation: contravention
+2636,P517180.13.3,lū[or]CNJ,lu-u],,CNJ,"['𒇻', '𒌋']",𒇻𒌋,[lu-u],"['missing', 'missing']",1.0,lū,lū,or,P517180,13,3,penalties for litigation: contravention
+2637,P517180.13.4,qurubšu[neighbour]N,⸢qur⸣-ub-šu₂,,N,"['𒄥', '𒌒', '𒋙']",𒄥𒌒𒋙,⸢qur⸣-ub-šu₂,"['damaged', 'complete', 'complete']",0.17,qurubšu,qurbu,neighbour,P517180,13,4,penalties for litigation: contravention
+2638,P517180.15.1,issi[with]PRP,[TA,,PRP,['𒋫'],𒋫,[TA],['missing'],1.0,issi,išti,with,P517180,15,1,penalties for litigation: contravention
+2639,P517180.15.2,u,PN],,u,['pn'],pn,[PN],['missing'],1.0,,,,P517180,15,2,penalties for litigation: contravention
+2640,P517180.15.3,issi[with]PRP,TA,,PRP,['𒋫'],𒋫,TA,['complete'],0.0,issi,išti,with,P517180,15,3,penalties for litigation: contravention
+2641,P517180.15.4,marʾēšu[son]N,DUMU.MEŠ-šu₂,,N,"['𒌉', '𒈨𒌍', '𒋙']",𒌉𒈨𒌍𒋙,DUMU.MEŠ-šu₂,"['complete', 'complete', 'complete']",0.0,marʾēšu,māru,son,P517180,15,4,penalties for litigation: contravention
+2642,P517180.16.1,dēnu[lawsuit]N,[dēnu,,N,,,,,1.0,dēnu,dīnu,lawsuit,P517180,16,1,penalties for litigation: contravention
+2643,P517180.16.2,dabābu[litigation]'N,DU₁₁].DU₁₁,,V,"['𒅗', '𒅗']",𒅗𒅗,[DU₁₁].DU₁₁,"['missing', 'complete']",0.5,dabābu,dabābu,litigation,P517180,16,2,penalties for litigation: contravention
+2644,P517180.17.1,X,[ubtaʾūni,,X,,,,,1.0,ubtaʾūni,,,P517180,17,1,penalties for litigation: contravention
+2645,P517180.17.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P517180,17,2,penalties for litigation: penalty
+2646,P517180.17.3,manê[a unit of weight]N,MA.NA],,N,"['𒈠', '𒈾']",𒈠𒈾,[MA].[NA],"['missing', 'missing']",1.0,manê,manû,a unit of weight,P517180,17,3,penalties for litigation: penalty
+2647,P517180.17.4,ṣarpi[silver]N,⸢KU₃⸣.BABBAR,,N,"['𒆬', '𒌓']",𒆬𒌓,⸢KU₃⸣.BABBAR,"['damaged', 'complete']",0.25,ṣarpi,ṣarpu,silver,P517180,17,4,penalties for litigation: penalty
+2648,P517180.17.5,iddan[pay]V,i-dan,,V,"['𒄿', '𒆗']",𒄿𒆗,i-dan,"['complete', 'complete']",0.0,iddan,tadānu,pay,P517180,17,5,penalties for litigation: penalty
+2649,P517180.18.1,kaspu[money]N,[kaspu,,N,,,,,1.0,kaspu,kaspu,money,P517180,18,1,penalties for litigation: penalty
+2650,P517180.18.2,ana[to]PRP,ana,,PRP,,,,,1.0,ana,ana,to,P517180,18,2,penalties for litigation: penalty
+2651,P517180.18.3,n,10.MEŠ,NUMBER,n,"['𒌋', '𒈨𒌍']",𒌋𒈨𒌍,[10].[MEŠ],"['missing', 'missing']",1.0,,,,P517180,18,3,penalties for litigation: penalty
+2652,P517180.18.4,ana[to]PRP,ana],,PRP,['𒁹'],𒁹,[ana],['missing'],1.0,ana,ana,to,P517180,18,4,penalties for litigation: penalty
+2653,P517180.18.5,bēlīšu[owner]N,⸢EN⸣-šu₂,,N,"['𒂗', '𒋙']",𒂗𒋙,⸢EN⸣-šu₂,"['damaged', 'complete']",0.25,bēlīšu,bēlu,owner,P517180,18,5,penalties for litigation: penalty
+2654,P517180.18.6,utâr[return]V,GUR,,V,['𒄥'],𒄥,GUR,['complete'],0.0,utâr,târu,return,P517180,18,6,penalties for litigation: penalty
+2655,P517180.19.1,ina[in]PRP,[ina,,PRP,,,,,1.0,ina,ina,in,P517180,19,1,penalties for litigation: penalty
+2656,P517180.19.2,X,(la),,X,,,,,1.0,la,,,P517180,19,2,penalties for litigation: penalty
+2657,P517180.19.3,X,dēni-šu,,X,,,,,1.0,dēni-šu,,,P517180,19,3,penalties for litigation: penalty
+2658,P517180.19.4,X,idabbub-ma],,X,,,,,1.0,idabbub-ma,,,P517180,19,4,penalties for litigation: penalty
+2659,P517180.19.5,lā[not]MOD,⸢la⸣,,MOD,['𒆷'],𒆷,⸢la⸣,['damaged'],0.5,lā,lā,not,P517180,19,5,penalties for litigation: penalty
+2660,P517180.19.6,ilaqqi[succeed]V,TI,,V,['𒋾'],𒋾,TI,['complete'],0.0,ilaqqi,leqû,succeed,P517180,19,6,penalties for litigation: penalty

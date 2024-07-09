@@ -1,0 +1,70 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+31069,P335238.4.1,{1}[x,u,u,"['𒁹', 'x']",𒁹x,{1}[x],"['complete', 'missing']",0.5,,,,,,P335238,4,1,object sold
+31070,P335238.4.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,4,2,object sold
+31071,P335238.4.3,x]-a.a,u,u,"['x', '𒀀', '𒀀']",x𒀀𒀀,[x]-a.a,"['missing', 'complete', 'complete']",0.33,,,,,,P335238,4,3,object sold
+31072,P335238.4.4,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,4,4,object sold
+31073,P335238.4.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,4,5,object sold
+31074,P335238.4.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,4,6,object sold
+31075,P335238.4.7,(x)],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,4,7,object sold
+31076,P335238.5.1,{mi₂}HAL-⸢a⸣-ni—{d}[x,u,u,"['𒊩', '𒄬', '𒀀', '𒉌', '𒀭', 'x']",𒊩𒄬𒀀𒉌𒀭x,{MI₂}HAL-⸢a⸣-ni-{d}[x],"['complete', 'complete', 'damaged', 'complete', 'complete', 'missing']",0.25,,,,,,P335238,5,1,object sold
+31077,P335238.5.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,5,2,object sold
+31078,P335238.5.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,5,3,object sold
+31079,P335238.5.4,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,5,4,object sold
+31080,P335238.6.1,ARAD-MEŠ-ni,urdāni[servant]N,N,"['𒀴', '𒈨𒌍', '𒉌']",𒀴𒈨𒌍𒉌,ARAD-MEŠ-ni,"['complete', 'complete', 'complete']",0.0,urdāni,ardu,servant,,,P335238,6,1,object sold
+31081,P335238.6.2,ša₂,ša[of]DET,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,ša,ša,of,,,P335238,6,2,object sold
+31082,P335238.6.3,{1}[x,u,u,"['𒁹', 'x']",𒁹x,{1}[x],"['complete', 'missing']",0.5,,,,,,P335238,6,3,object sold
+31083,P335238.6.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,6,4,object sold
+31084,P335238.6.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,6,5,object sold
+31085,P335238.6.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,6,6,object sold
+31086,P335238.6.7,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,6,7,object sold
+31087,P335238.7.1,u₂-piš-ma,uppišma[contract]V,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,u₂-piš-ma,"['complete', 'complete', 'complete']",0.0,uppišma,epēšu,contract,,,P335238,7,1,initiation of transaction
+31088,P335238.7.2,{1}⸢x⸣+[x,u,u,"['𒁹', 'x', 'x']",𒁹xx,{1}⸢x⸣+[x],"['complete', 'damaged', 'missing']",0.5,,,,,,P335238,7,2,initiation of transaction
+31089,P335238.7.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,7,3,initiation of transaction
+31090,P335238.7.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,7,4,initiation of transaction
+31091,P335238.7.5,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,7,5,initiation of transaction
+31092,P335238.8.1,{lu₂v}EN.NAM,pāhutu[governor]N,N,"['𒇽', '𒂗', '𒉆']",𒇽𒂗𒉆,{LU₂~v}EN.NAM,"['complete', 'complete', 'complete']",0.0,pāhutu,pīhātu,governor,,,P335238,8,1,initiation of transaction
+31093,P335238.8.2,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,8,2,initiation of transaction
+31094,P335238.8.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,8,3,initiation of transaction
+31095,P335238.8.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,8,4,initiation of transaction
+31096,P335238.8.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,8,5,initiation of transaction
+31097,P335238.8.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,8,6,initiation of transaction
+31098,P335238.9.1,ina,ina[in]PRP,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,,P335238,9,1,completion of transaction
+31099,P335238.9.2,TA@v,issu[from+=from]PRP,PRP,['𒋬'],𒋬,TA@v,['complete'],0.0,issu,ištu,from,,,P335238,9,2,completion of transaction
+31100,P335238.9.3,pa-an,pān[front]N,N,"['𒉺', '𒀭']",𒉺𒀭,pa-an,"['complete', 'complete']",0.0,pān,pānu,front,,,P335238,9,3,completion of transaction
+31101,P335238.9.4,LU₂-⸢MEŠ⸣,amēlē[man]N,N,"['𒇽', '𒈨𒌍']",𒇽𒈨𒌍,LU₂-⸢MEŠ⸣,"['complete', 'damaged']",0.25,amēlē,awīlu,man,,,P335238,9,4,completion of transaction
+31102,P335238.9.5,[an-nu-te],annūte[this]DP,DP,"['𒀭', '𒉡', '𒋼']",𒀭𒉡𒋼,[an-nu-te],"['missing', 'missing', 'missing']",1.0,annūte,annû,this,,,P335238,9,5,completion of transaction
+31103,P335238.10.1,ina,ina[in+=for]PRP,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,,P335238,10,1,price
+31104,P335238.10.2,ŠA₃,libbi[interior]N,N,['𒊮'],𒊮,ŠA₃,['complete'],0.0,libbi,libbu,interior,,,P335238,10,2,price
+31105,P335238.10.3,02,n,n,['𒈫'],𒈫,02,['complete'],0.0,,,,NUMBER,,P335238,10,3,price
+31106,P335238.10.4,MA.NA,manê[a unit of weight]N,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manê,manû,a unit of weight,,,P335238,10,4,price
+31107,P335238.10.5,KUG.UD,ṣarpu[silver]N,N,"['𒆬', '𒌓']",𒆬𒌓,KUG.UD,"['complete', 'complete']",0.0,ṣarpu,ṣarpu,silver,,,P335238,10,5,price
+31108,P335238.10.6,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,10,6,none
+31109,P335238.10.7,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,10,7,none
+31110,P335238.11.1,i-zi-rip,izzirip[purchase]V,V,"['𒄿', '𒍣', '𒆗']",𒄿𒍣𒆗,i-zi-rip,"['complete', 'complete', 'complete']",0.0,izzirip,zarāpu,purchase,,,P335238,11,1,completion of transaction
+31111,P335238.11.2,i-TI-qi₂,leqû[take//acquire]V$issiqi,V,"['𒄿', '𒋾', '𒆠']",𒄿𒋾𒆠,i-TI-qi₂,"['complete', 'complete', 'complete']",0.0,issiqi,leqû,acquire,,,P335238,11,2,completion of transaction
+31112,P335238.11.3,ma-[x,u,u,"['𒈠', 'x']",𒈠x,ma-[x],"['complete', 'missing']",0.5,,,,,,P335238,11,3,other clauses
+31113,P335238.11.4,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,11,4,other clauses
+31114,P335238.12.1,ina,ina[in+=at the disposal of]PRP,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,,P335238,12,1,other clauses
+31115,P335238.12.2,IGI,pān[front]N,N,['𒅆'],𒅆,IGI,['complete'],0.0,pān,pānu,front,,,P335238,12,2,other clauses
+31116,P335238.12.3,ša,ša[of]DET,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,,P335238,12,3,other clauses
+31117,P335238.12.4,ARAD,urdu[servant]N,N,['𒀴'],𒀴,ARAD,['complete'],0.0,urdu,ardu,servant,,,P335238,12,4,other clauses
+31118,P335238.12.5,ša,ša[of]DET,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,,P335238,12,5,other clauses
+31119,P335238.12.6,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,12,6,other clauses
+31120,P335238.12.7,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,12,7,other clauses
+31121,P335238.13.1,ša,ša[of]DET,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,,P335238,13,1,other clauses
+31122,P335238.13.2,SIMUG.⸢KUG⸣.[GI],ṣarrāpu[goldsmith]N,N,"['𒌣', '𒆬', '𒄀']",𒌣𒆬𒄀,SIMUG.⸢KUG⸣.[GI],"['complete', 'damaged', 'missing']",0.5,ṣarrāpu,ṣarrāpu,goldsmith,,,P335238,13,2,other clauses
+31123,P335238.17.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,17,1,none
+31124,P335238.17.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,17,2,none
+31125,P335238.17.3,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,17,3,none
+31126,P335238.17.4,šu-a-⸢tu₂,šuātu[that]'DP,IP,"['𒋗', '𒀀', '𒌓']",𒋗𒀀𒌓,šu-a-⸢tu₂⸣,"['complete', 'complete', 'damaged']",0.17,šuātu,šuāti,that,,,P335238,17,4,confirmation of transfer 2
+31127,P335238.17.5,za⸣-[ar-pu,zarpu[purchased]AJ,AJ,"['𒍝', '𒅈', '𒁍']",𒍝𒅈𒁍,⸢za⸣-[ar-pu],"['damaged', 'missing', 'missing']",0.83,zarpu,zarpu,purchased,,,P335238,17,5,confirmation of transfer 2
+31128,P335238.17.6,la-qi-u],laqiu[acquired]AJ,AJ,"['𒆷', '𒆥', '𒌋']",𒆷𒆥𒌋,[la-qi-u],"['missing', 'missing', 'missing']",1.0,laqiu,leqû,acquired,,,P335238,17,6,confirmation of transfer 2
+31129,P335238.18.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,18,1,none
+31130,P335238.18.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,18,2,none
+31131,P335238.18.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,18,3,none
+31132,P335238.18.4,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,18,4,none
+31133,P335238.18.5,la-[aš₂-šu₂,laššu[(there) is not]V,V,"['𒆷', '𒀾', '𒋙']",𒆷𒀾𒋙,la-[aš₂-šu₂],"['complete', 'missing', 'missing']",0.67,laššu,laššu,(there) is not,,,P335238,18,5,exclusion of litigation
+31134,P335238.18.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,18,6,none
+31135,P335238.18.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,18,7,none
+31136,P335238.18.8,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,18,8,none
+31137,P335238.18.9,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335238,18,9,none

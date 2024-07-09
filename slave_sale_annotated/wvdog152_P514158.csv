@@ -1,0 +1,20 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+3215,P514158.3.1,x-nia[1]PN,{[f}x-x]-ni-ia,PN,PN,"['𒊩', 'X', 'X', '𒉌', '𒅀']",𒊩XX𒉌𒅀,{[f]}[x-x]-ni-ia,"['missing', 'missing', 'missing', 'complete', 'complete']",0.6,x-nia,x-nia,1,P514158,3,1,object sold
+3216,P514158.3.2,amatšu[maid]N,GEME₂-šu₂,,N,"['𒊩𒆳', '𒋙']",𒊩𒆳𒋙,GEME₂-šu₂,"['complete', 'complete']",0.0,amatšu,amtu,maid,P514158,3,2,object sold
+3217,P514158.4.1,ša[of]DET,[ša,,DET,['𒊭'],𒊭,[ša],['missing'],1.0,ša,ša,of,P514158,4,1,object sold
+3218,P514158.4.2,Mušezib-Aššur[1]PN,{m}mu]-še-zib-aš-šur,PN,PN,"['𒁹', '𒈬', '𒊺', '𒍦', '𒀸', '𒋩']",𒁹𒈬𒊺𒍦𒀸𒋩,{[m]}[mu]-še-zib-aš-šur,"['missing', 'missing', 'complete', 'complete', 'complete', 'complete']",0.33,Mušezib-Aššur,Mušezib-Aššur,1,P514158,4,2,object sold
+3219,P514158.5.1,uppišma[contract]V,[u₂-piš-ma],,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,[u₂-piš-ma],"['missing', 'missing', 'missing']",1.0,uppišma,epēšu,contract,P514158,5,1,initiation of transaction
+3220,P514158.5.2,Nabu-šumu-iddina[1]PN,{m}{d}PA-MU-AŠ,PN,PN,"['𒁹', '𒀭', '𒉺', '𒈬', '𒀸']",𒁹𒀭𒉺𒈬𒀸,{m}{d}PA-MU-AŠ,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Nabu-šumu-iddina,Nabu-šumu-iddina,1,P514158,5,2,initiation of transaction
+3221,P514158.6.1,ina[in]PRP,[ina,,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,P514158,6,1,price
+3222,P514158.6.2,libbi[interior]N,ŠA₃,,N,['𒊮'],𒊮,[ŠA₃],['missing'],1.0,libbi,libbu,interior,P514158,6,2,price
+3223,P514158.6.3,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P514158,6,3,price
+3224,P514158.6.4,šiqlī[a unit of weight]N,GIN₂.MEŠ,,N,"['𒂆', '𒈨𒌍']",𒂆𒈨𒌍,GIN₂.MEŠ,"['complete', 'complete']",0.0,šiqlī,šiqlu,a unit of weight,P514158,6,4,price
+3225,P514158.6.5,ṣarpi[silver]N,KUG.UD,,N,"['𒆬', '𒌓']",𒆬𒌓,KUG.UD,"['complete', 'complete']",0.0,ṣarpi,ṣarpu,silver,P514158,6,5,price
+3226,P514158.6.6,ilqe[purchase]V,[il-qe],,V,"['𒅋', '𒆥']",𒅋𒆥,[il-qe],"['missing', 'missing']",1.0,ilqe,leqû,purchase,P514158,6,6,completion of transaction
+3227,P514158.7.1,kaspu[money]N,⸢kas⸣-pu,,N,"['𒆜', '𒁍']",𒆜𒁍,⸢kas⸣-pu,"['damaged', 'complete']",0.25,kaspu,kaspu,money,P514158,7,1,confirmation of transfer 1
+3228,P514158.7.2,gammur[completed]AJ,gam-mur,,AJ,"['𒃵', '𒄯']",𒃵𒄯,gam-mur,"['complete', 'complete']",0.0,gammur,gammuru,completed,P514158,7,2,confirmation of transfer 1
+3229,P514158.7.3,tadin[paid]AJ,[ta-din],,AJ,"['𒋫', '𒁷']",𒋫𒁷,[ta-din],"['missing', 'missing']",1.0,tadin,tadnu,paid,P514158,7,3,confirmation of transfer 1
+3230,P514158.8.1,amtu[maid]N,[GEME₂],,N,['𒊩𒆳'],𒊩𒆳,[GEME₂],['missing'],1.0,amti,amtu,maid,P514158,8,1,confirmation of transfer 2
+3231,P514158.8.2,šuātu[that]'DP,⸢šu-a-tu⸣,,IP,"['𒋗', '𒀀', '𒌅']",𒋗𒀀𒌅,⸢šu-a-tu⸣,"['damaged', 'damaged', 'damaged']",0.5,šuātu,šuāti,that,P514158,8,2,confirmation of transfer 2
+3232,P514158.8.3,zarpat[purchased]AJ,[zar-pat,,AJ,"['𒇡', '𒉻']",𒇡𒉻,[zar-pat],"['missing', 'missing']",1.0,zarpat,zarpu,purchased,P514158,8,3,confirmation of transfer 2
+3233,P514158.8.4,+leqû[taken//acquired]AJ'AJ$laqeat,la-qe-at],,AJ,"['𒆷', '𒆥', '𒀜']",𒆷𒆥𒀜,[la-qe-at],"['missing', 'missing', 'missing']",1.0,laqeat,leqû,acquired,P514158,8,4,confirmation of transfer 2

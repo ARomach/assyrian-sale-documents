@@ -1,0 +1,53 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+22797,P335492.3.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,3,1,none
+22798,P335492.3.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,3,2,none
+22799,P335492.3.3,x]+⸢x⸣,u,u,"['x', 'x']",xx,[x]+⸢x⸣,"['missing', 'damaged']",0.75,,,,,,P335492,3,3,none
+22800,P335492.3.4,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,3,4,none
+22801,P335492.3.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,3,5,none
+22802,P335492.3.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,3,6,none
+22803,P335492.3.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,3,7,none
+22804,P335492.3.8,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,3,8,none
+22805,P335492.3.9,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,3,9,none
+22806,P335492.4.1,la-a-šu₂,lāšu[(there) is not]V,V,"['𒆷', '𒀀', '𒋙']",𒆷𒀀𒋙,la-a-šu₂,"['complete', 'complete', 'complete']",0.0,lāšu,laššu,(there) is not,,,P335492,4,1,exclusion of litigation
+22807,P335492.4.2,[man-nu,mannu[whoever]'XP,QP,"['𒌋𒌋', '𒉡']",𒌋𒌋𒉡,[man-nu],"['missing', 'missing']",1.0,mannu,mannu,whoever,,,P335492,4,2,penalties for litigation: contravention
+22808,P335492.4.3,ša,ša[that]REL,REL,['𒊭'],𒊭,[ša],['missing'],1.0,ša,ša,that,,,P335492,4,3,penalties for litigation: contravention
+22809,P335492.4.4,ina,ina[in+=in the future]PRP,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,,P335492,4,4,penalties for litigation: contravention
+22810,P335492.4.5,ur-kiš],urkiš[later]AV,AV,"['𒌨', '𒆧']",𒌨𒆧,[ur-kiš],"['missing', 'missing']",1.0,urkiš,urkiš,later,,,P335492,4,5,penalties for litigation: contravention
+22811,P335492.5.1,ina,ina[in+=whenever]PRP,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,,P335492,5,1,penalties for litigation: contravention
+22812,P335492.5.2,ma-te-⸢me⸣,matēme[ever]AV,AV,"['𒈠', '𒋼', '𒈨']",𒈠𒋼𒈨,ma-te-⸢me⸣,"['complete', 'complete', 'damaged']",0.17,matēme,matīma,ever,,,P335492,5,2,penalties for litigation: contravention
+22813,P335492.5.3,[i-za-qup-an-ni,izaqqupanni[complain]V,V,"['𒄿', '𒍝', '𒁺', '𒀭', '𒉌']",𒄿𒍝𒁺𒀭𒉌,[i-za-qup-an-ni],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,izaqqupanni,zaqāpu,complain,,,P335492,5,3,penalties for litigation: contravention
+22814,P335492.5.4,lu-u,lū[may]MOD,MOD,"['𒇻', '𒌋']",𒇻𒌋,[lu-u],"['missing', 'missing']",1.0,lū,lū,may,,,P335492,5,4,penalties for litigation: contravention
+22815,P335492.5.5,{1}x,u,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,,P335492,5,5,penalties for litigation: contravention
+22816,P335492.5.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,5,6,penalties for litigation: contravention
+22817,P335492.5.7,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,5,7,penalties for litigation: contravention
+22818,P335492.6.1,lu-u,lū[may]MOD,MOD,"['𒇻', '𒌋']",𒇻𒌋,lu-u,"['complete', 'complete']",0.0,lū,lū,may,,,P335492,6,1,penalties for litigation: contravention
+22819,P335492.6.2,DUMU-MEŠ-[šu₂,marʾēšu[son]N,N,"['𒌉', '𒈨𒌍', '𒋙']",𒌉𒈨𒌍𒋙,DUMU-MEŠ-[šu₂],"['complete', 'complete', 'missing']",0.33,marʾēšu,māru,son,,,P335492,6,2,penalties for litigation: contravention
+22820,P335492.6.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,6,3,penalties for litigation: contravention
+22821,P335492.6.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,6,4,penalties for litigation: contravention
+22822,P335492.6.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,6,5,penalties for litigation: contravention
+22823,P335492.6.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,6,6,penalties for litigation: contravention
+22824,P335492.6.7,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,6,7,penalties for litigation: contravention
+22825,P335492.8.1,ša,ša[that]REL,REL,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,that,,,P335492,8,1,penalties for litigation: contravention
+22826,P335492.8.2,DUL.DU-[an-ni,elû[go up//come forward]V$ellāni,V,"['𒌋𒌆', '𒁺', '𒀭', '𒉌']",𒌋𒌆𒁺𒀭𒉌,DUL.DU-[an-ni],"['complete', 'complete', 'missing', 'missing']",0.5,ellāni,elû,come forward,,,P335492,8,2,penalties for litigation: contravention
+22827,P335492.8.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,8,3,penalties for litigation: contravention
+22828,P335492.8.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,8,4,penalties for litigation: contravention
+22829,P335492.8.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,8,5,penalties for litigation: contravention
+22830,P335492.8.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,8,6,penalties for litigation: contravention
+22831,P335492.9.1,GIL-u-ni,iparrakūni[contravene]V,V,"['𒄃', '𒌋', '𒉌']",𒄃𒌋𒉌,GIL-u-ni,"['complete', 'complete', 'complete']",0.0,iparrakūni,parāku,contravene,,,P335492,9,1,penalties for litigation: contravention
+22832,P335492.9.2,05,n,n,['𒐊'],𒐊,05,['complete'],0.0,,,,NUMBER,,P335492,9,2,penalties for litigation: penalty
+22833,P335492.9.3,[MA.NA,manê[a unit of weight]N,N,"['𒈠', '𒈾']",𒈠𒈾,[MA].[NA],"['missing', 'missing']",1.0,manê,manû,a unit of weight,,,P335492,9,3,penalties for litigation: penalty
+22834,P335492.9.4,KUG.UD,ṣarpu[silver]N,N,"['𒆬', '𒌓']",𒆬𒌓,[KUG].[UD],"['missing', 'missing']",1.0,ṣarpu,ṣarpu,silver,,,P335492,9,4,penalties for litigation: penalty
+22835,P335492.9.5,SUM-an],iddan[pay]V,V,"['𒋧', '𒀭']",𒋧𒀭,[SUM-an],"['missing', 'missing']",1.0,iddan,tadānu,pay,,,P335492,9,5,penalties for litigation: penalty
+22836,P335492.11.1,[IGI,šību[witness]N,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,,P335492,11,1,witness
+22837,P335492.11.2,{1}a-bi-[x,u,u,"['𒁹', '𒀀', '𒁉', 'x']",𒁹𒀀𒁉x,{[1]}a-bi-[x],"['missing', 'complete', 'complete', 'missing']",0.5,,,,,,P335492,11,2,witness
+22838,P335492.11.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,11,3,witness
+22839,P335492.11.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,11,4,witness
+22840,P335492.11.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,11,5,witness
+22841,P335492.11.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,11,6,witness
+22842,P335492.12.1,[IGI,šību[witness]N,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,,P335492,12,1,witness
+22843,P335492.12.2,{1}x,u,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,,P335492,12,2,witness
+22844,P335492.12.3,x]-nu-u,u,u,"['x', '𒉡', '𒌋']",x𒉡𒌋,[x]-nu-u,"['missing', 'complete', 'complete']",0.33,,,,,,P335492,12,3,witness
+22845,P335492.12.4,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,12,4,witness
+22846,P335492.12.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,12,5,witness
+22847,P335492.12.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,12,6,witness
+22848,P335492.12.7,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335492,12,7,witness

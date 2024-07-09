@@ -1,0 +1,71 @@
+Unnamed: 0,ref,frag,inst,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,lang,text,line,word,annotation
+7667,P335339.2.1,ku-um,kūm[instead of]PRP,,PRP,"['𒆪', '𒌝']",𒆪𒌝,ku-um,"['complete', 'complete']",0.0,kūm,kūm,instead of,,P335339,2,1,seal identification
+7668,P335339.2.2,{na₄}⸢KIŠIB⸣-[šu₂-nu,kunukkišunu[seal]N,,N,"['𒉌𒌓', '𒈩', '𒋙', '𒉡']",𒉌𒌓𒈩𒋙𒉡,{NA₄}⸢KIŠIB⸣-[šu₂-nu],"['complete', 'damaged', 'missing', 'missing']",0.62,kunukkišunu,kunukku,seal,,P335339,2,2,seal identification
+7669,P335339.2.3,ṣu-pur-šu₂-nu,ṣupuršunu[fingernail]N,,N,"['𒍮', '𒁓', '𒋙', '𒉡']",𒍮𒁓𒋙𒉡,[ṣu-pur-šu₂-nu],"['missing', 'missing', 'missing', 'missing']",1.0,ṣupuršunu,ṣupru,fingernail,,P335339,2,3,seal identification
+7670,P335339.2.4,iš-ku-nu],iškunu[place]V,,V,"['𒅖', '𒆪', '𒉡']",𒅖𒆪𒉡,[iš-ku-nu],"['missing', 'missing', 'missing']",1.0,iškunu,šakānu,place,,P335339,2,4,seal identification
+7671,P335339.3.1,ṣu-pur,ṣupur[fingernail]N,,N,"['𒍮', '𒁓']",𒍮𒁓,ṣu-pur,"['complete', 'complete']",0.0,ṣupur,ṣupru,fingernail,,P335339,3,1,seal identification
+7672,P335339.3.2,{1}AD—⸢x⸣+[x,u,,u,"['𒁹', '𒀜', 'x', 'x']",𒁹𒀜xx,{1}AD-⸢x⸣+[x],"['complete', 'complete', 'damaged', 'missing']",0.38,,,,,P335339,3,2,seal identification
+7673,P335339.3.3,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,3,3,seal identification
+7674,P335339.3.4,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,3,4,seal identification
+7675,P335339.4.1,ṣu-pur,ṣupur[fingernail]N,,N,"['𒍮', '𒁓']",𒍮𒁓,ṣu-pur,"['complete', 'complete']",0.0,ṣupur,ṣupru,fingernail,,P335339,4,1,seal identification
+7676,P335339.4.2,{1}AD—⸢SU⸣,Abu-eriba[1]PN$,PN,PN,"['𒁹', '𒀜', '𒋢']",𒁹𒀜𒋢,{1}AD-⸢SU⸣,"['complete', 'complete', 'damaged']",0.17,Abu-eriba,Abu-eriba,1,,P335339,4,2,seal identification
+7677,P335339.4.3,[EN,bēlu[lord///owner]N$bēl,,N,['𒂗'],𒂗,[EN],['missing'],1.0,bēl,bēlu,owner,,P335339,4,3,seal identification
+7678,P335339.4.4,A.ŠA₃,eqlu[field//land]N$eqli,,N,"['𒀀', '𒊮']",𒀀𒊮,[A].[ŠA₃],"['missing', 'missing']",1.0,eqli,eqlu,land,,P335339,4,4,seal identification
+7679,P335339.4.5,SUM-ni],tadānu[give//giving]'N$tadāni,,V,"['𒋧', '𒉌']",𒋧𒉌,[SUM-ni],"['missing', 'missing']",1.0,tadāni,tadānu,giving,,P335339,4,5,seal identification
+7680,P335339.8.1,[E₂],bētu[plot of land]N,,N,['𒂍'],𒂍,[E₂],['missing'],1.0,bētu,bītu,plot of land,,P335339,8,1,object sold
+7681,P335339.8.2,03,n,NUMBER,n,['𒐈'],𒐈,03,['complete'],0.0,,,,,P335339,8,2,object sold
+7682,P335339.8.3,ANŠE,imārī[a unit of area]N,,N,['𒀲'],𒀲,ANŠE,['complete'],0.0,imārī,imēru,a unit of area,,P335339,8,3,object sold
+7683,P335339.8.4,A.ŠA₃.GA,eqlu[field]N,,N,"['𒀀', '𒊮', '𒂵']",𒀀𒊮𒂵,A.ŠA₃.GA,"['complete', 'complete', 'complete']",0.0,eqlu,eqlu,field,,P335339,8,4,object sold
+7684,P335339.8.5,ina,ina[in]PRP,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,P335339,8,5,object sold
+7685,P335339.8.6,{uru}[x,u,,u,"['𒌷', 'x']",𒌷x,{URU}[x],"['complete', 'missing']",0.5,,,,,P335339,8,6,object sold
+7686,P335339.8.7,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,8,7,object sold
+7687,P335339.8.8,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,8,8,object sold
+7688,P335339.8.9,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,8,9,object sold
+7689,P335339.9.1,⸢SUHUR⸣,ṭēhi[adjacent to]PRP,,PRP,['𒋦'],𒋦,⸢SUHUR⸣,['damaged'],0.5,ṭēhi,ṭāhu,adjacent to,,P335339,9,1,object sold
+7690,P335339.9.2,um-me,ummu[mother//side road?]N$umme,,N,"['𒌝', '𒈨']",𒌝𒈨,um-me,"['complete', 'complete']",0.0,umme,ummu,side road?,,P335339,9,2,object sold
+7691,P335339.9.3,ša,ša[of]DET,,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,P335339,9,3,object sold
+7692,P335339.9.4,{uru}tu\t-⸢x⸣+[x,u,,u,"['𒌷', '𒌅', 'x', 'x']",𒌷𒌅xx,{URU}tu-⸢x⸣+[x],"['complete', 'complete', 'damaged', 'missing']",0.38,,,,,P335339,9,4,object sold
+7693,P335339.9.5,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,9,5,object sold
+7694,P335339.10.1,⸢SUHUR⸣,ṭēhi[adjacent to]PRP,,PRP,['𒋦'],𒋦,⸢SUHUR⸣,['damaged'],0.5,ṭēhi,ṭāhu,adjacent to,,P335339,10,1,object sold
+7695,P335339.10.2,A.ŠA₃,eqli[field]N,,N,"['𒀀', '𒊮']",𒀀𒊮,A.ŠA₃,"['complete', 'complete']",0.0,eqli,eqlu,field,,P335339,10,2,object sold
+7696,P335339.10.3,ša₂,ša[of]DET,,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,ša,ša,of,,P335339,10,3,object sold
+7697,P335339.10.4,{1}ARAD—{d}[x,u,,u,"['𒁹', '𒀴', '𒀭', 'x']",𒁹𒀴𒀭x,{1}ARAD-{d}[x],"['complete', 'complete', 'complete', 'missing']",0.25,,,,,P335339,10,4,object sold
+7698,P335339.10.5,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,10,5,object sold
+7699,P335339.10.6,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,10,6,object sold
+7700,P335339.11.1,⸢SUHUR⸣,ṭēhi[adjacent to]PRP,,PRP,['𒋦'],𒋦,⸢SUHUR⸣,['damaged'],0.5,ṭēhi,ṭāhu,adjacent to,,P335339,11,1,object sold
+7701,P335339.11.2,A.ŠA₃,eqli[field]N,,N,"['𒀀', '𒊮']",𒀀𒊮,A.ŠA₃,"['complete', 'complete']",0.0,eqli,eqlu,field,,P335339,11,2,object sold
+7702,P335339.11.3,ša,ša[of]DET,,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,P335339,11,3,object sold
+7703,P335339.11.4,{1}GIR₃.2—[x,u,,u,"['𒁹', '𒄊', '𒈫', 'x']",𒁹𒄊𒈫x,{1}GIR₃.2-[x],"['complete', 'complete', 'complete', 'missing']",0.25,,,,,P335339,11,4,object sold
+7704,P335339.11.5,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,11,5,object sold
+7705,P335339.11.6,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,11,6,object sold
+7706,P335339.12.1,[x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,12,1,none
+7707,P335339.12.2,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,12,2,none
+7708,P335339.12.3,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,12,3,none
+7709,P335339.12.4,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,12,4,none
+7710,P335339.12.5,{⸢lu₂v⸣}tur-[tan,turtān[commander-in-chief]N,,N,"['𒇽', '𒌉', '𒆗']",𒇽𒌉𒆗,{⸢LU₂~v⸣}tur-[tan],"['damaged', 'complete', 'missing']",0.5,turtān,tartānu,commander-in-chief,,P335339,12,5,none
+7711,P335339.12.6,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,12,6,none
+7712,P335339.12.7,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,12,7,none
+7713,P335339.12.8,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,12,8,none
+7714,P335339.12.9,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,12,9,none
+7715,P335339.16.1,[IGI,šību[old man//witness]N$,,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,P335339,16,1,witness
+7716,P335339.16.2,{1}x,u,,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,P335339,16,2,witness
+7717,P335339.16.3,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,16,3,witness
+7718,P335339.16.4,x]-šu₂,u,,u,"['x', '𒋙']",x𒋙,[x]-šu₂,"['missing', 'complete']",0.5,,,,,P335339,16,4,witness
+7719,P335339.16.5,IGI,šību[old man//witness]N$,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P335339,16,5,witness
+7720,P335339.16.6,{1}x,u,,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,P335339,16,6,witness
+7721,P335339.16.7,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,16,7,witness
+7722,P335339.16.8,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,16,8,witness
+7723,P335339.16.9,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,16,9,witness
+7724,P335339.16.10,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,16,10,witness
+7725,P335339.17.1,[IGI,šību[old man//witness]N$,,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,P335339,17,1,witness
+7726,P335339.17.2,{1}{d]}⸢PA⸣—MU—PAB,Nabu-šumu-uṣur[1]PN,PN,PN,"['𒁹', '𒀭', '𒉺', '𒈬', '𒉽']",𒁹𒀭𒉺𒈬𒉽,{[1]}{[d]}⸢PA⸣-MU-PAB,"['missing', 'missing', 'damaged', 'complete', 'complete']",0.5,Nabu-šumu-uṣur,Nabu-šumu-uṣur,1,,P335339,17,2,witness
+7727,P335339.17.3,[x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,17,3,witness
+7728,P335339.17.4,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,17,4,witness
+7729,P335339.17.5,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335339,17,5,witness
+7730,P335339.19.1,{[iti}x],u,,u,"['𒌗', 'x']",𒌗x,{[ITI]}[x],"['missing', 'missing']",1.0,,,,,P335339,19,1,date
+7731,P335339.19.2,UD,ūm[day]N,,N,['𒌓'],𒌓,UD,['complete'],0.0,ūm,ūmu,day,,P335339,19,2,date
+7732,P335339.19.3,22-KAM,n,NUMBER,n,"['𒌋𒌋𒈫', '𒄰']",𒌋𒌋𒈫𒄰,22-KAM,"['complete', 'complete']",0.0,,,,,P335339,19,3,date
+7733,P335339.19.4,lim-⸢mu⸣,limmu[eponym (of year)]N,,N,"['𒅆', '𒈬']",𒅆𒈬,lim-⸢mu⸣,"['complete', 'damaged']",0.25,limmu,līmu,eponym (of year),,P335339,19,4,date
+7734,P335339.20.1,{1}DI-ma-nu—MAŠ,+Salmanu-ašared[Shalmaneser V//Shalmaneser V]RN'RN$,RN,RN,"['𒁹', '𒁲', '𒈠', '𒉡', '𒈦']",𒁹𒁲𒈠𒉡𒈦,{[1]}DI-ma-nu-MAŠ,"['missing', 'complete', 'complete', 'complete', 'complete']",0.2,Salmanu-ašared,Salmanu-ašared,Shalmaneser V,,P335339,20,1,date
+7735,P335339.20.2,MAN,šarru[king]N$šar,,N,['𒌋𒌋'],𒌋𒌋,MAN,['complete'],0.0,šar,šarru,king,,P335339,20,2,date
+7736,P335339.20.3,[KUR—aš-šur{ki]},+Mat-Aššur[Assyria//Assyria]GN'GN$,GN,GN,"['𒆳', '𒀸', '𒋩', '𒆠']",𒆳𒀸𒋩𒆠,[KUR-aš-šur]{[KI]},"['missing', 'missing', 'missing', 'missing']",1.0,Mat-Aššur,Mat-Aššur,Assyria,,P335339,20,3,date

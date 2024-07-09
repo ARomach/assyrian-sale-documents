@@ -1,0 +1,44 @@
+Unnamed: 0,ref,inst,frag,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,text,line,word,annotation
+1771,P225212.1.1,ṣupur[fingernail]N,[ṣu]-pur,N,"['𒍮', '𒁓']",𒍮𒁓,[ṣu]-pur,"['missing', 'complete']",0.5,ṣupur,ṣupru,fingernail,,P225212,1,1,seal identification
+1772,P225212.1.2,+Nabu-reṣuwa[]PN$,{1}{d}[PA]-⸢re⸣-ṣu-u-[a],PN,"['𒁹', '𒀭', '𒉺', '𒊑', '𒍮', '𒌋', '𒀀']",𒁹𒀭𒉺𒊑𒍮𒌋𒀀,{1}{d}[PA]-⸢re⸣-ṣu-u-[a],"['complete', 'complete', 'missing', 'damaged', 'complete', 'complete', 'missing']",0.36,Nabu-reṣuwa,Nabu-reṣuwa,1,PN,P225212,1,2,seal identification
+1773,P225212.5.1,bētu[house]N,E₂,N,['𒂍'],𒂍,E₂,['complete'],0.0,bētu,bītu,house,,P225212,5,1,object sold
+1774,P225212.5.2,epšu[built]AJ,ep-šu₂,AJ,"['𒅁', '𒋙']",𒅁𒋙,ep-šu₂,"['complete', 'complete']",0.0,epšu,epšu,built,,P225212,5,2,object sold
+1775,P225212.5.3,adi[with]PRP,a-di,PRP,"['𒀀', '𒁲']",𒀀𒁲,a-di,"['complete', 'complete']",0.0,adi,adi,with,,P225212,5,3,object sold
+1776,P225212.5.4,gušūrīšu[log]N,{⸢giš⸣}UR₃-MEŠ-⸢šu₂⸣,N,"['𒄑', '𒃡', '𒈨𒌍', '𒋙']",𒄑𒃡𒈨𒌍𒋙,{⸢GIŠ⸣}UR₃-MEŠ-⸢šu₂⸣,"['damaged', 'complete', 'complete', 'damaged']",0.25,gušūrīšu,gušūru,log,,P225212,5,4,object sold
+1777,P225212.6.1,adi[with]PRP,[a]-di,PRP,"['𒀀', '𒁲']",𒀀𒁲,[a]-di,"['missing', 'complete']",0.5,adi,adi,with,,P225212,6,1,object sold
+1778,P225212.6.2,dalātīšu[door]N,{giš}⸢IG⸣-MEŠ-šu₂,N,"['𒄑', '𒅅', '𒈨𒌍', '𒋙']",𒄑𒅅𒈨𒌍𒋙,{GIŠ}⸢IG⸣-MEŠ-šu₂,"['complete', 'damaged', 'complete', 'complete']",0.12,dalātīšu,daltu,door,,P225212,6,2,object sold
+1779,P225212.6.3,uppišma[contract]V,u₂-piš-ma,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,u₂-piš-ma,"['complete', 'complete', 'complete']",0.0,uppišma,epēšu,contract,,P225212,6,3,confirmation of transfer 1
+1780,P225212.6.4,+Addi[]PN$,{1}10-[i],PN,"['𒁹', '𒌋', '𒄿']",𒁹𒌋𒄿,{1}10-[i],"['complete', 'complete', 'missing']",0.33,Addi,Addi,1,PN,P225212,6,4,confirmation of transfer 1
+1781,P225212.7.1,issu[from]PRP,[TA],PRP,['𒋫'],𒋫,[TA],['missing'],1.0,issu,ištu,from,,P225212,7,1,completion of transaction
+1782,P225212.7.2,pān[front]N,⸢IGI⸣,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,pān,pānu,front,,P225212,7,2,completion of transaction
+1783,P225212.7.3,Nabu-reṣuwa[1]PN,{1}{d}⸢PA-re⸣-ṣu-u-a,PN,"['𒁹', '𒀭', '𒉺', '𒊑', '𒍮', '𒌋', '𒀀']",𒁹𒀭𒉺𒊑𒍮𒌋𒀀,{1}{d}⸢PA-re⸣-ṣu-u-a,"['complete', 'complete', 'damaged', 'damaged', 'complete', 'complete', 'complete']",0.14,Nabu-reṣuwa,Nabu-reṣuwa,1,PN,P225212,7,3,completion of transaction
+1784,P225212.8.1,ina[in]PRP,[ina,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,P225212,8,1,price
+1785,P225212.8.2,libbi[interior]N,ŠA₃-bi,N,"['𒊮', '𒁉']",𒊮𒁉,[ŠA₃-bi],"['missing', 'missing']",1.0,libbi,libbu,interior,,P225212,8,2,price
+1786,P225212.8.3,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P225212,8,3,price
+1787,P225212.8.4,manā[a unit of weight]N,⸢MA⸣.NA,N,"['𒈠', '𒈾']",𒈠𒈾,⸢MA⸣.NA,"['damaged', 'complete']",0.25,manā,manû,a unit of weight,,P225212,8,4,price
+1788,P225212.8.5,erî[copper]N,URUDU-MEŠ,N,"['𒍏', '𒈨𒌍']",𒍏𒈨𒌍,URUDU-MEŠ,"['complete', 'complete']",0.0,erî,erû,copper,,P225212,8,5,price
+1789,P225212.9.1,ilqi[purchase]V,[il-qi,V,"['𒅋', '𒆥']",𒅋𒆥,[il-qi],"['missing', 'missing']",1.0,ilqi,leqû,purchase,,P225212,9,1,completion of transaction
+1790,P225212.9.2,kaspu[money]N,kas-pu,N,"['𒆜', '𒁍']",𒆜𒁍,[kas-pu],"['missing', 'missing']",1.0,kaspu,kaspu,money,,P225212,9,2,confirmation of transfer 1
+1791,P225212.9.3,gammur[completed]AJ,gam]-mur,AJ,"['𒃵', '𒄯']",𒃵𒄯,[gam]-mur,"['missing', 'complete']",0.5,gammur,gammuru,completed,,P225212,9,3,confirmation of transfer 1
+1792,P225212.9.4,tadin[paid]AJ,⸢ta⸣-din,AJ,"['𒋫', '𒁷']",𒋫𒁷,⸢ta⸣-din,"['damaged', 'complete']",0.25,tadin,tadnu,paid,,P225212,9,4,confirmation of transfer 1
+1793,P225212.10.1,bētu[house]N,[E₂,N,['𒂍'],𒂍,[E₂],['missing'],1.0,bētu,bītu,house,,P225212,10,1,confirmation of transfer 2
+1794,P225212.10.2,šuātu[that]'DP,šu-a-tu₂],IP,"['𒋗', '𒀀', '𒌓']",𒋗𒀀𒌓,[šu-a-tu₂],"['missing', 'missing', 'missing']",1.0,šuātu,šuāti,that,,P225212,10,2,confirmation of transfer 2
+1795,P225212.10.3,zarip[purchased]AJ,⸢za-rip⸣,AJ,"['𒍝', '𒆗']",𒍝𒆗,⸢za-rip⸣,"['damaged', 'damaged']",0.5,zarip,zarpu,purchased,,P225212,10,3,confirmation of transfer 2
+1796,P225212.10.4,laqqi[acquired]AJ,laq-⸢qi⸣,AJ,"['𒋃', '𒆥']",𒋃𒆥,laq-⸢qi⸣,"['complete', 'damaged']",0.25,laqqi,leqû,acquired,,P225212,10,4,confirmation of transfer 2
+1797,P225212.11.1,tuāru[revocation]'N,[tu-a-ru],V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,[tu-a-ru],"['missing', 'missing', 'missing']",1.0,tuāru,târu,revocation,,P225212,11,1,exclusion of litigation
+1798,P225212.11.2,dēnu[lawsuit]N,de-nu,N,"['𒁲', '𒉡']",𒁲𒉡,de-nu,"['complete', 'complete']",0.0,dēnu,dīnu,lawsuit,,P225212,11,2,exclusion of litigation
+1799,P225212.11.3,dabābu[litigation]'N,DUG₄.DUG₄,V,"['𒅗', '𒅗']",𒅗𒅗,DUG₄.DUG₄,"['complete', 'complete']",0.0,dabābu,dabābu,litigation,,P225212,11,3,exclusion of litigation
+1800,P225212.11.4,laššu[(there) is not]V,⸢la⸣-[aš₂-šu],V,"['𒆷', '𒀾', '𒋗']",𒆷𒀾𒋗,⸢la⸣-[aš₂-šu],"['damaged', 'missing', 'missing']",0.83,laššu,laššu,(there) is not,,P225212,11,4,exclusion of litigation
+1801,P225212.12.1,u,[(x),u,['X'],X,[x],['missing'],1.0,,,,,P225212,12,1,penalties for litigation: contravention
+1802,P225212.12.2,u,x]+x,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,,P225212,12,2,penalties for litigation: contravention
+1803,P225212.12.3,u,x,u,['X'],X,x,['complete'],0.0,,,,,P225212,12,3,penalties for litigation: contravention
+1804,P225212.12.4,u,[(x),u,['X'],X,[x],['missing'],1.0,,,,,P225212,12,4,penalties for litigation: contravention
+1805,P225212.12.5,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P225212,12,5,penalties for litigation: contravention
+1806,P225212.12.6,ina[in]PRP,ina,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,P225212,12,6,penalties for litigation: contravention
+1807,P225212.12.7,+matīma[ever//ever]AV'AV$,{kur}ma-⸢ti⸣-[ma],AV,"['𒆳', '𒈠', '𒋾', '𒈠']",𒆳𒈠𒋾𒈠,{KUR}ma-⸢ti⸣-[ma],"['complete', 'complete', 'damaged', 'missing']",0.38,matīma,matīma,ever,,P225212,12,7,penalties for litigation: contravention
+1808,P225212.13.1,u,[x,u,['X'],X,[x],['missing'],1.0,,,,,P225212,13,1,penalties for litigation: contravention
+1809,P225212.13.2,u,x]-u-ni,u,"['X', '𒌋', '𒉌']",X𒌋𒉌,[x]-u-ni,"['missing', 'complete', 'complete']",0.33,,,,,P225212,13,2,penalties for litigation: contravention
+1810,P225212.13.3,u,a,u,['𒀀'],𒀀,a,['complete'],0.0,,,,,P225212,13,3,penalties for litigation: contravention
+1811,P225212.13.4,u,x+[x,u,"['X', 'X']",XX,x+[x],"['complete', 'missing']",0.5,,,,,P225212,13,4,penalties for litigation: contravention
+1812,P225212.13.5,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P225212,13,5,penalties for litigation: contravention
+1813,P225212.13.6,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P225212,13,6,penalties for litigation: contravention

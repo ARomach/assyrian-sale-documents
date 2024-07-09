@@ -1,0 +1,80 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+9485,P527203.2.1,kunuk[seal]N,{[na₄}KIŠIB,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}[KIŠIB],"['missing', 'missing']",1.0,,,P527203,2,1,seal identification
+9486,P527203.2.2,Ubru-Harranu[1]PN,{m}SUHUŠ-KASKAL],Ubru-Harranu,Ubru-Harranu,1,PN,"['𒁹', '𒁼', '𒆜']",𒁹𒁼𒆜,{[m]}[SUHUŠ-KASKAL],"['missing', 'missing', 'missing']",1.0,PN,,P527203,2,2,seal identification
+9487,P527203.3.1,mār[son]N,[A,mār,māru,son,N,['𒀀'],𒀀,[A],['missing'],1.0,,,P527203,3,1,seal identification
+9488,P527203.3.2,+x[]PN$,{m}(x)-x]-{⸢d⸣}[x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', '𒀭', 'X', 'X']",𒁹XX𒀭XX,{[m]}[x-x]-{⸢d⸣}[x-x],"['missing', 'missing', 'missing', 'damaged', 'missing', 'missing']",0.92,PN,,P527203,3,2,seal identification
+9489,P527203.4.1,bēl[owner]N,[EN],bēl,bēlu,owner,N,['𒂗'],𒂗,[EN],['missing'],1.0,,,P527203,4,1,seal identification
+9490,P527203.4.2,amti[maid]N,GEME₂,amti,amtu,maid,N,['𒊩𒆳'],𒊩𒆳,GEME₂,['complete'],0.0,,,P527203,4,2,seal identification
+9491,P527203.4.3,iddan[pay]V,⸢SUM⸣-[an],iddan,tadānu,pay,V,"['𒋧', '𒀭']",𒋧𒀭,⸢SUM⸣-[an],"['damaged', 'missing']",0.75,,,P527203,4,3,seal identification
+9492,P527203.8.1,+Abrasini[]PN$,{f}ab-ra-si-ni,Abrasini,Abrasini,1,PN,"['𒊩', '𒀊', '𒊏', '𒋛', '𒉌']",𒊩𒀊𒊏𒋛𒉌,{f}ab-ra-si-ni,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,,P527203,8,1,object sold
+9493,P527203.8.2,amtišu[female slave]N,GEME₂-šu₂,amtišu,amtu,female slave,N,"['𒊩𒆳', '𒋙']",𒊩𒆳𒋙,GEME₂-šu₂,"['complete', 'complete']",0.0,,,P527203,8,2,object sold
+9494,P527203.9.1,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,,P527203,9,1,object sold
+9495,P527203.9.2,Ubru-Harranu[1]PN,{m}SUHUŠ-KASKAL,Ubru-Harranu,Ubru-Harranu,1,PN,"['𒁹', '𒁼', '𒆜']",𒁹𒁼𒆜,{m}SUHUŠ-KASKAL,"['complete', 'complete', 'complete']",0.0,PN,,P527203,9,2,object sold
+9496,P527203.10.1,uppišma[contract]V,u₂-piš-ma,uppišma,epēšu,contract,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,u₂-piš-ma,"['complete', 'complete', 'complete']",0.0,,,P527203,10,1,initiation of transaction
+9497,P527203.10.2,Šulmu-šarri[1]PN,{m}DI-mu-MAN,Šulmu-šarri,Šulmu-šarri,1,PN,"['𒁹', '𒁲', '𒈬', '𒌋𒌋']",𒁹𒁲𒈬𒌋𒌋,{m}DI-mu-MAN,"['complete', 'complete', 'complete', 'complete']",0.0,PN,,P527203,10,2,initiation of transaction
+9498,P527203.11.1,ina[at]PRP,ina,ina,ina,at,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,,P527203,11,1,price
+9499,P527203.11.2,libbi[interior]N,ŠA₃-bi,libbi,libbu,interior,N,"['𒊮', '𒁉']",𒊮𒁉,ŠA₃-bi,"['complete', 'complete']",0.0,,,P527203,11,2,price
+9500,P527203.11.3,n,30,,,,n,['𒌍'],𒌍,30,['complete'],0.0,NUMBER,,P527203,11,3,price
+9501,P527203.11.4,šiqlī[a unit of weight]N,GIN₂.MEŠ,šiqlī,šiqlu,a unit of weight,N,"['𒂆', '𒈨𒌍']",𒂆𒈨𒌍,GIN₂.MEŠ,"['complete', 'complete']",0.0,,,P527203,11,4,price
+9502,P527203.11.5,ṣarpi[silver]N,KU₃.BABBAR,ṣarpi,ṣarpu,silver,N,"['𒆬', '𒌓']",𒆬𒌓,KU₃.BABBAR,"['complete', 'complete']",0.0,,,P527203,11,5,price
+9503,P527203.12.1,ilqe[purchase]V,il-qe,ilqe,leqû,purchase,V,"['𒅋', '𒆥']",𒅋𒆥,il-qe,"['complete', 'complete']",0.0,,,P527203,12,1,completion of transaction
+9504,P527203.12.2,kaspu[money]N,kas-pu,kaspu,kaspu,money,N,"['𒆜', '𒁍']",𒆜𒁍,kas-pu,"['complete', 'complete']",0.0,,,P527203,12,2,confirmation of transfer 1
+9505,P527203.12.3,gammur[completed]AJ,gam-mur,gammur,gammuru,completed,AJ,"['𒃵', '𒄯']",𒃵𒄯,gam-mur,"['complete', 'complete']",0.0,,,P527203,12,3,confirmation of transfer 1
+9506,P527203.13.1,tadin[paid]AJ,⸢ta-din⸣,tadin,tadnu,paid,AJ,"['𒋫', '𒁷']",𒋫𒁷,⸢ta-din⸣,"['damaged', 'damaged']",0.5,,,P527203,13,1,confirmation of transfer 1
+9507,P527203.13.2,amti[maid]N,GEME₂,amti,amtu,maid,N,['𒊩𒆳'],𒊩𒆳,GEME₂,['complete'],0.0,,,P527203,13,2,confirmation of transfer 2
+9508,P527203.13.3,šuāte[that]'DP,šu₂-a-te,šuāte,šuāti,that,IP,"['𒋙', '𒀀', '𒋼']",𒋙𒀀𒋼,šu₂-a-te,"['complete', 'complete', 'complete']",0.0,,,P527203,13,3,confirmation of transfer 2
+9509,P527203.15.1,zarpat[purchased]AJ,[zar-pat],zarpat,zarpu,purchased,AJ,"['𒇡', '𒉻']",𒇡𒉻,[zar-pat],"['missing', 'missing']",1.0,,,P527203,15,1,confirmation of transfer 2
+9510,P527203.15.2,X,laq-⸢qe⸣-[at],,,,X,"['𒋃', '𒆥', '𒀜']",𒋃𒆥𒀜,laq-⸢qe⸣-[at],"['complete', 'damaged', 'missing']",0.5,,,P527203,15,2,confirmation of transfer 2
+9511,P527203.16.1,tuāru[revocation]'N,[tu-a]-ru,tuāru,târu,revocation,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,[tu-a]-ru,"['missing', 'missing', 'complete']",0.67,,,P527203,16,1,exclusion of litigation
+9512,P527203.16.2,dēnu[lawsuit]N,de-⸢e-nu⸣,dēnu,dīnu,lawsuit,N,"['𒁲', '𒂊', '𒉡']",𒁲𒂊𒉡,de-⸢e-nu⸣,"['complete', 'damaged', 'damaged']",0.33,,,P527203,16,2,exclusion of litigation
+9513,P527203.17.1,dabābu[litigation]'N,[DUG₄].⸢DUG₄⸣,dabābu,dabābu,litigation,V,"['𒅗', '𒅗']",𒅗𒅗,[DUG₄].⸢DUG₄⸣,"['missing', 'damaged']",0.75,,,P527203,17,1,exclusion of litigation
+9514,P527203.17.2,lāšu[(there) is not]V,la-⸢a-šu₂⸣,lāšu,laššu,(there) is not,V,"['𒆷', '𒀀', '𒋙']",𒆷𒀀𒋙,la-⸢a-šu₂⸣,"['complete', 'damaged', 'damaged']",0.33,,,P527203,17,2,exclusion of litigation
+9515,P527203.19.1,mannu[whoever]'XP,[man-nu,mannu,mannu,whoever,QP,"['𒌋𒌋', '𒉡']",𒌋𒌋𒉡,[man-nu],"['missing', 'missing']",1.0,,,P527203,19,1,penalties for litigation: contravention
+9516,P527203.19.2,ša[of]DET,ša₂],ša,ša,of,DET,['𒃻'],𒃻,[ša₂],['missing'],1.0,,,P527203,19,2,penalties for litigation: contravention
+9517,P527203.19.3,iparrakūni[contravene]V,⸢GIL⸣-[u-ni],iparrakūni,parāku,contravene,V,"['𒄃', '𒌋', '𒉌']",𒄃𒌋𒉌,⸢GIL⸣-[u-ni],"['damaged', 'missing', 'missing']",0.83,,,P527203,19,3,penalties for litigation: contravention
+9518,P527203.20.1,X,[i-za]-⸢qu₂-pa⸣-[a-ni],,,,X,"['𒄿', '𒍝', '𒆪', '𒉺', '𒀀', '𒉌']",𒄿𒍝𒆪𒉺𒀀𒉌,[i-za]-⸢qu₂-pa⸣-[a-ni],"['missing', 'missing', 'damaged', 'damaged', 'missing', 'missing']",0.83,,,P527203,20,1,penalties for litigation: contravention
+9519,P527203.21.1,issi[with]PRP,[TA,issi,išti,with,PRP,['𒋫'],𒋫,[TA],['missing'],1.0,,,P527203,21,1,penalties for litigation: contravention
+9520,P527203.21.2,Šulmu-šarri[1]PN,{m}DI]-mu-MAN,Šulmu-šarri,Šulmu-šarri,1,PN,"['𒁹', '𒁲', '𒈬', '𒌋𒌋']",𒁹𒁲𒈬𒌋𒌋,{[m]}[DI]-mu-MAN,"['missing', 'missing', 'complete', 'complete']",0.5,PN,,P527203,21,2,penalties for litigation: contravention
+9521,P527203.21.3,u[and]CNJ,⸢u₃⸣,u,u,and,CNJ,['𒅇'],𒅇,⸢u₃⸣,['damaged'],0.5,,,P527203,21,3,penalties for litigation: contravention
+9522,P527203.21.4,marʾēšu[son]N,[DUMU.MEŠ-šu₂],marʾēšu,māru,son,N,"['𒌉', '𒈨𒌍', '𒋙']",𒌉𒈨𒌍𒋙,[DUMU].[MEŠ-šu₂],"['missing', 'missing', 'missing']",1.0,,,P527203,21,4,penalties for litigation: contravention
+9523,P527203.22.1,dēnu[lawsuit]N,[de]-nu,dēnu,dīnu,lawsuit,N,"['𒁲', '𒉡']",𒁲𒉡,[de]-nu,"['missing', 'complete']",0.5,,,P527203,22,1,penalties for litigation: contravention
+9524,P527203.22.2,dabābu[litigation]'N,DUG₄.DUG₄,dabābu,dabābu,litigation,V,"['𒅗', '𒅗']",𒅗𒅗,DUG₄.DUG₄,"['complete', 'complete']",0.0,,,P527203,22,2,penalties for litigation: contravention
+9525,P527203.22.3,ubtaʾʾūni[seek]V,ub-ta-u-⸢ni⸣,ubtaʾʾūni,buʾʾû,seek,V,"['𒌒', '𒋫', '𒌋', '𒉌']",𒌒𒋫𒌋𒉌,ub-ta-u-⸢ni⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,,,P527203,22,3,penalties for litigation: contravention
+9526,P527203.23.1,n,[x],,,,n,['X'],X,[x],['missing'],1.0,NUMBER,,P527203,23,1,penalties for litigation: penalty
+9527,P527203.23.2,manā[a unit of weight]N,MA.NA,manā,manû,a unit of weight,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,,,P527203,23,2,penalties for litigation: penalty
+9528,P527203.23.3,ṣarpi[silver]N,KU₃.BABBAR,ṣarpi,ṣarpu,silver,N,"['𒆬', '𒌓']",𒆬𒌓,KU₃.BABBAR,"['complete', 'complete']",0.0,,,P527203,23,3,penalties for litigation: penalty
+9529,P527203.23.4,iddan[pay]V,SUM-an,iddan,tadānu,pay,V,"['𒋧', '𒀭']",𒋧𒀭,SUM-an,"['complete', 'complete']",0.0,,,P527203,23,4,penalties for litigation: penalty
+9530,P527203.25.1,šību[witness]N,[IGI],šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527203,25,1,witness
+9531,P527203.25.2,+Adad-zeru-iddina[]PN$,{⸢m⸣}10-NUMUN-AŠ,Adad-zeru-iddina,Adad-zeru-iddina,1,PN,"['𒁹', '𒌋', '𒆰', '𒀸']",𒁹𒌋𒆰𒀸,{⸢m⸣}10-NUMUN-AŠ,"['damaged', 'complete', 'complete', 'complete']",0.12,PN,,P527203,25,2,witness
+9532,P527203.25.3,X,GAL-LU₂.MEŠ-[UŠ]-⸢kib⸣-si,,,,X,"['𒃲', '𒇽', '𒈨𒌍', '𒍑', '𒄒', '𒋛']",𒃲𒇽𒈨𒌍𒍑𒄒𒋛,GAL-LU₂.MEŠ-[UŠ]-⸢kib⸣-si,"['complete', 'complete', 'complete', 'missing', 'damaged', 'complete']",0.25,,,P527203,25,3,witness
+9533,P527203.26.1,šību[witness]N,[IGI],šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527203,26,1,witness
+9534,P527203.26.2,Inurta-ahu-iddina[1]PN,{m}{d}MAŠ-PAB-AŠ,Inurta-ahu-iddina,Inurta-ahu-iddina,1,PN,"['𒁹', '𒀭', '𒈦', '𒉽', '𒀸']",𒁹𒀭𒈦𒉽𒀸,{m}{d}MAŠ-PAB-AŠ,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,,P527203,26,2,witness
+9535,P527203.26.3,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,,P527203,26,3,witness
+9536,P527203.26.4,+Adad-mar-šarri-uṣur[]PN$,{m}10-A-MAN-PAB,Adad-mar-šarri-uṣur,Adad-mar-šarri-uṣur,1,PN,"['𒁹', '𒌋', '𒀀', '𒌋𒌋', '𒉽']",𒁹𒌋𒀀𒌋𒌋𒉽,{m}10-A-MAN-PAB,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,,P527203,26,4,witness
+9537,P527203.27.1,šību[witness]N,[IGI],šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527203,27,1,witness
+9538,P527203.27.2,+Buru-uṣur[]PN$,{m}AMAR-PAB,Buru-uṣur,Buru-uṣur,1,PN,"['𒁹', '𒀫', '𒉽']",𒁹𒀫𒉽,{m}AMAR-PAB,"['complete', 'complete', 'complete']",0.0,PN,,P527203,27,2,witness
+9539,P527203.27.3,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,,P527203,27,3,witness
+9540,P527203.27.4,+Seʾ-x[]PN$,{m}se-[x-x],Seʾ-x,Seʾ-x,1,PN,"['𒁹', '𒋛', 'X', 'X']",𒁹𒋛XX,{m}se-[x-x],"['complete', 'complete', 'missing', 'missing']",0.5,PN,,P527203,27,4,witness
+9541,P527203.28.1,šību[witness]N,[IGI],šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527203,28,1,witness
+9542,P527203.28.2,+Buru-lamur[]PN$,{m}AMAR-IGI.LAL,Buru-lamur,Buru-lamur,1,PN,"['𒁹', '𒀫', '𒅆', '𒇲']",𒁹𒀫𒅆𒇲,{m}AMAR-IGI.LAL,"['complete', 'complete', 'complete', 'complete']",0.0,PN,,P527203,28,2,witness
+9543,P527203.28.3,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,,P527203,28,3,witness
+9544,P527203.28.4,+Adad-hari[]PN$,{m}10-⸢ha⸣-ri,Adad-hari,Adad-hari,1,PN,"['𒁹', '𒌋', '𒄩', '𒊑']",𒁹𒌋𒄩𒊑,{m}10-⸢ha⸣-ri,"['complete', 'complete', 'damaged', 'complete']",0.12,PN,,P527203,28,4,witness
+9545,P527203.29.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527203,29,1,witness
+9546,P527203.29.2,+Naʾdi-Adad[]PN$,{m]}na-di-10,Naʾdi-Adad,Naʾdi-Adad,1,PN,"['𒁹', '𒈾', '𒁲', '𒌋']",𒁹𒈾𒁲𒌋,{[m]}na-di-10,"['missing', 'complete', 'complete', 'complete']",0.25,PN,,P527203,29,2,witness
+9547,P527203.29.3,u,{⸢lu₂⸣}[x-x],,,,u,"['𒇽', 'X', 'X']",𒇽XX,{⸢LU₂⸣}[x-x],"['damaged', 'missing', 'missing']",0.83,,,P527203,29,3,witness
+9548,P527203.30.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527203,30,1,witness
+9549,P527203.30.2,+Ahhe-eriba[]PN$,{m]}PAB.MEŠ-SU,Ahhe-eriba,Ahhe-eriba,1,PN,"['𒁹', '𒉽', '𒈨𒌍', '𒋢']",𒁹𒉽𒈨𒌍𒋢,{[m]}PAB.MEŠ-SU,"['missing', 'complete', 'complete', 'complete']",0.25,PN,,P527203,30,2,witness
+9550,P527203.30.3,mār[son]N,[A,mār,māru,son,N,['𒀀'],𒀀,[A],['missing'],1.0,,,P527203,30,3,witness
+9551,P527203.30.4,x[1]PN,{m}x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X']",𒁹XXX,{[m]}[x-x-x],"['missing', 'missing', 'missing', 'missing']",1.0,PN,,P527203,30,4,witness
+9552,P527203.31.1,šību[witness]N,⸢IGI⸣,šību,šību,witness,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,,,P527203,31,1,witness
+9553,P527203.31.2,Daddi-ereš[1]PN,{m}U.U-APIN-eš,Daddi-ereš,Daddi-ereš,1,PN,"['𒁹', '𒌋', '𒌋', '𒀳', '𒌍']",𒁹𒌋𒌋𒀳𒌍,{m}U.U-APIN-eš,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,,P527203,31,2,witness
+9554,P527203.31.3,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,,P527203,31,3,witness
+9555,P527203.31.4,x[1]PN,{[m}x-x-x],x,x,1,PN,"['𒁹', 'X', 'X', 'X']",𒁹XXX,{[m]}[x-x-x],"['missing', 'missing', 'missing', 'missing']",1.0,PN,,P527203,31,4,witness
+9556,P527203.32.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527203,32,1,witness
+9557,P527203.32.2,+Akibbi[]PN$,{m}a-kib-bi,Akibbi,Akibbi,1,PN,"['𒁹', '𒀀', '𒄒', '𒁉']",𒁹𒀀𒄒𒁉,{m}a-kib-bi,"['complete', 'complete', 'complete', 'complete']",0.0,PN,,P527203,32,2,witness
+9558,P527203.32.3,mār[son]N,[A,mār,māru,son,N,['𒀀'],𒀀,[A],['missing'],1.0,,,P527203,32,3,witness
+9559,P527203.32.4,x[1]PN,{m}x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X']",𒁹XXX,{[m]}[x-x-x],"['missing', 'missing', 'missing', 'missing']",1.0,PN,,P527203,32,4,witness
+9560,P527203.33.1,šību[witness]N,[IGI],šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527203,33,1,witness
+9561,P527203.33.2,+Adad-šumu-iddina[]PN$,{⸢m}10-MU-AŠ,Adad-šumu-iddina,Adad-šumu-iddina,1,PN,"['𒁹', '𒌋', '𒈬', '𒀸']",𒁹𒌋𒈬𒀸,{⸢m⸣}⸢10⸣-MU-AŠ,"['damaged', 'damaged', 'complete', 'complete']",0.25,PN,,P527203,33,2,witness
+9562,P527203.33.3,mār[son]N,⸢A⸣,mār,māru,son,N,['𒀀'],𒀀,⸢A⸣,['damaged'],0.5,,,P527203,33,3,witness
+9563,P527203.33.4,x[1]PN,{[m}x-x-x],x,x,1,PN,"['𒁹', 'X', 'X', 'X']",𒁹XXX,{[m]}[x-x-x],"['missing', 'missing', 'missing', 'missing']",1.0,PN,,P527203,33,4,witness

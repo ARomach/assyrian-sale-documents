@@ -1,0 +1,49 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+7570,P224519.2.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224519,2,1,none
+7571,P224519.2.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224519,2,2,none
+7572,P224519.2.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224519,2,3,none
+7573,P224519.2.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224519,2,4,none
+7574,P224519.2.5,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224519,2,5,none
+7575,P224519.2.6,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224519,2,6,none
+7576,P224519.2.7,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224519,2,7,none
+7577,P224519.2.8,u,x]-⸢ni⸣,,u,"['X', '𒉌']",X𒉌,[x]-⸢ni⸣,"['missing', 'damaged']",0.75,,,,P224519,2,8,none
+7578,P224519.6.1,+Lamarianu[]PN$,{1}la]-⸢mar-ia-a⸣-[nu,PN,PN,"['𒁹', '𒆷', '𒈥', '𒅀', '𒀀', '𒉡']",𒁹𒆷𒈥𒅀𒀀𒉡,{[1]}[la]-⸢mar-ia-a⸣-[nu],"['missing', 'missing', 'damaged', 'damaged', 'damaged', 'missing']",0.75,Lamarianu,Lamarianu,1,P224519,6,1,object sold
+7579,P224519.6.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224519,6,2,object sold
+7580,P224519.6.3,u,x]+x-šu₂,,u,"['X', 'X', '𒋙']",XX𒋙,[x]+x-šu₂,"['missing', 'complete', 'complete']",0.33,,,,P224519,6,3,object sold
+7581,P224519.6.4,n,0,NUMBER,n,['0'],0,[0],['missing'],1.0,,,,P224519,6,4,object sold
+7582,P224519.7.1,uppišma[contract]V,[up]-⸢piš⸣-ma,,V,"['𒌒', '𒄫', '𒈠']",𒌒𒄫𒈠,[up]-⸢piš⸣-ma,"['missing', 'damaged', 'complete']",0.5,uppišma,epēšu,contract,P224519,7,1,initiation of transaction
+7583,P224519.7.2,u,{1}{d}⸢x,,u,"['𒁹', '𒀭', 'X']",𒁹𒀭X,{1}{d}⸢x⸣,"['complete', 'complete', 'damaged']",0.17,,,,P224519,7,2,initiation of transaction
+7584,P224519.7.3,u,x,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,P224519,7,3,initiation of transaction
+7585,P224519.7.4,u,x,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,P224519,7,4,initiation of transaction
+7586,P224519.7.5,u,x⸣,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,P224519,7,5,initiation of transaction
+7587,P224519.8.1,ina[in]PRP,⸢ina,,PRP,['𒀸'],𒀸,⸢ina⸣,['damaged'],0.5,ina,ina,in,P224519,8,1,price
+7588,P224519.8.2,libbi[interior]N,ŠA₃⸣-bi,,N,"['𒊮', '𒁉']",𒊮𒁉,⸢ŠA₃⸣-bi,"['damaged', 'complete']",0.25,libbi,libbu,interior,P224519,8,2,price
+7589,P224519.8.3,n,01,NUMBER,n,['01'],01,01,['complete'],0.0,,,,P224519,8,3,price
+7590,P224519.8.4,bilat[a unit of weight]N,⸢GU₂⸣.UN,,N,"['𒄘', '𒌦']",𒄘𒌦,⸢GU₂⸣.UN,"['damaged', 'complete']",0.25,bilat,biltu,a unit of weight,P224519,8,4,price
+7591,P224519.8.5,manā[a unit of weight]N,⸢MA.NA,,N,"['𒈠', '𒈾']",𒈠𒈾,⸢MA⸣.⸢NA⸣,"['damaged', 'damaged']",0.5,manā,manû,a unit of weight,P224519,8,5,price
+7592,P224519.8.6,erî[copper]N,URUDU⸣-MEŠ,,N,"['𒍏', '𒈨𒌍']",𒍏𒈨𒌍,⸢URUDU⸣-MEŠ,"['damaged', 'complete']",0.25,erî,erû,copper,P224519,8,6,price
+7593,P224519.9.1,issu[from]PRP,TA,,PRP,['𒋫'],𒋫,TA,['complete'],0.0,issu,ištu,from,P224519,9,1,completion of transaction
+7594,P224519.9.2,pān[front]N,pa-an,,N,"['𒉺', '𒀭']",𒉺𒀭,pa-an,"['complete', 'complete']",0.0,pān,pānu,front,P224519,9,2,completion of transaction
+7595,P224519.9.3,+Mudadi[]PN$,{1}mu-U.U,PN,PN,"['𒁹', '𒈬', '𒌋', '𒌋']",𒁹𒈬𒌋𒌋,{1}mu-U.U,"['complete', 'complete', 'complete', 'complete']",0.0,Mudadi,Mudadi,1,P224519,9,3,completion of transaction
+7596,P224519.9.4,ilqi[purchase]V,il-⸢qi⸣,,V,"['𒅋', '𒆥']",𒅋𒆥,il-⸢qi⸣,"['complete', 'damaged']",0.25,ilqi,leqû,purchase,P224519,9,4,completion of transaction
+7597,P224519.10.1,kaspu[money]N,⸢kas⸣-pu,,N,"['𒆜', '𒁍']",𒆜𒁍,⸢kas⸣-pu,"['damaged', 'complete']",0.25,kaspu,kaspu,money,P224519,10,1,confirmation of transfer 1
+7598,P224519.10.2,gammur[completed]AJ,ga-mur,,AJ,"['𒂵', '𒄯']",𒂵𒄯,ga-mur,"['complete', 'complete']",0.0,gammur,gammuru,completed,P224519,10,2,confirmation of transfer 1
+7599,P224519.10.3,taddin[paid]AJ,ta-ad-din,,AJ,"['𒋫', '𒀜', '𒁷']",𒋫𒀜𒁷,ta-ad-din,"['complete', 'complete', 'complete']",0.0,taddin,tadnu,paid,P224519,10,3,confirmation of transfer 1
+7600,P224519.11.1,amēlu[man]N,⸢LU₂⸣,,N,['𒇽'],𒇽,⸢LU₂⸣,['damaged'],0.5,amēlu,awīlu,man,P224519,11,1,confirmation of transfer 2
+7601,P224519.11.2,šuātu[that]'DP,šu-a-tu,,IP,"['𒋗', '𒀀', '𒌅']",𒋗𒀀𒌅,šu-a-tu,"['complete', 'complete', 'complete']",0.0,šuātu,šuāti,that,P224519,11,2,confirmation of transfer 2
+7602,P224519.11.3,zarip[purchased]AJ,za-rip,,AJ,"['𒍝', '𒆗']",𒍝𒆗,za-rip,"['complete', 'complete']",0.0,zarip,zarpu,purchased,P224519,11,3,confirmation of transfer 2
+7603,P224519.11.4,laqqi[acquired]AJ,laq-qi,,AJ,"['𒋃', '𒆥']",𒋃𒆥,laq-qi,"['complete', 'complete']",0.0,laqqi,leqû,acquired,P224519,11,4,confirmation of transfer 2
+7604,P224519.12.1,šummu[if]MOD,[šum₂]-⸢mu⸣,,MOD,"['𒋧', '𒈬']",𒋧𒈬,[šum₂]-⸢mu⸣,"['missing', 'damaged']",0.75,šummu,šumma,if,P224519,12,1,other clauses
+7605,P224519.12.2,šarru[king]N,LUGAL,,N,['𒈗'],𒈗,LUGAL,['complete'],0.0,šarri,šarru,king,P224519,12,2,other clauses
+7606,P224519.12.3,+andurāru[freedom//debt-remission]N'N$,an-du-ra-ru,,N,"['𒀭', '𒁺', '𒊏', '𒊒']",𒀭𒁺𒊏𒊒,an-du-ra-ru,"['complete', 'complete', 'complete', 'complete']",0.0,andurāru,andurāru,debt-remission,P224519,12,3,other clauses
+7607,P224519.13.1,išakkan[place]V,[i]-⸢ša-kan⸣,,V,"['𒄿', '𒊭', '𒃶']",𒄿𒊭𒃶,[i]-⸢ša-kan⸣,"['missing', 'damaged', 'damaged']",0.67,išakkan,šakānu,place,P224519,13,1,other clauses
+7608,P224519.13.2,Lamarianu[1]PN,{1}la-mar-ia-a-nu,PN,PN,"['𒁹', '𒆷', '𒈥', '𒅀', '𒀀', '𒉡']",𒁹𒆷𒈥𒅀𒀀𒉡,{1}la-mar-ia-a-nu,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,Lamarianu,Lamarianu,1,P224519,13,2,other clauses
+7609,P224519.14.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224519,14,1,none
+7610,P224519.14.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224519,14,2,none
+7611,P224519.14.3,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224519,14,3,none
+7612,P224519.14.4,u,⸢x,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,P224519,14,4,none
+7613,P224519.14.5,u,x,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,P224519,14,5,none
+7614,P224519.14.6,urdu[servant]N,{lu₂⸣}ARAD,,N,"['𒇽', '𒀴']",𒇽𒀴,{⸢LU₂⸣}ARAD,"['damaged', 'complete']",0.25,urdu,ardu,servant,P224519,14,6,none
+7615,P224519.14.7,ša[of]DET,⸢ša,,DET,['𒊭'],𒊭,⸢ša⸣,['damaged'],0.5,ša,ša,of,P224519,14,7,none
+7616,P224519.14.8,u,{lu₂⸣}[x,,u,"['𒇽', 'X']",𒇽X,{⸢LU₂⸣}[x],"['damaged', 'missing']",0.75,,,,P224519,14,8,none
+7617,P224519.14.9,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224519,14,9,none

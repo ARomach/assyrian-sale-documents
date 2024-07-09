@@ -1,0 +1,36 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+20933,P527259.6.1,ana[to]PRP,[a-na],ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a-na],"['missing', 'missing']",1.0,,,P527259,6,1,penalties for litigation: penalty
+20934,P527259.6.2,X,EN-šu₂,,,,X,"['𒂗', '𒋙']",𒂗𒋙,EN-šu₂,"['complete', 'complete']",0.0,,,P527259,6,2,penalties for litigation: penalty
+20935,P527259.6.3,X,⸢GUR⸣-[ra],,,,X,"['𒄥', '𒊏']",𒄥𒊏,⸢GUR⸣-[ra],"['damaged', 'missing']",0.75,,,P527259,6,3,penalties for litigation: penalty
+20936,P527259.7.1,ina[at]PRP,ina,ina,ina,at,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,,P527259,7,1,penalties for litigation: penalty
+20937,P527259.7.2,X,⸢de-ni-šu₂⸣,,,,X,"['𒁲', '𒉌', '𒋙']",𒁲𒉌𒋙,⸢de-ni-šu₂⸣,"['damaged', 'damaged', 'damaged']",0.5,,,P527259,7,2,penalties for litigation: penalty
+20938,P527259.7.3,X,[DUG₄].⸢DUG₄⸣-ma,,,,X,"['𒅗', '𒅗', '𒈠']",𒅗𒅗𒈠,[DUG₄].⸢DUG₄⸣-ma,"['missing', 'damaged', 'complete']",0.5,,,P527259,7,3,penalties for litigation: penalty
+20939,P527259.8.1,X,la,,,,X,['𒆷'],𒆷,la,['complete'],0.0,,,P527259,8,1,penalties for litigation: penalty
+20940,P527259.8.2,ilaqqe[purchase]V,⸢i⸣-[laq]-qe,ilaqqe,leqû,purchase,V,"['𒄿', '𒋃', '𒆥']",𒄿𒋃𒆥,⸢i⸣-[laq]-qe,"['damaged', 'missing', 'complete']",0.5,,,P527259,8,2,penalties for litigation: penalty
+20941,P527259.10.1,šību[witness]N,⸢IGI,šību,šību,witness,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,,,P527259,10,1,witness
+20942,P527259.10.2,x[1]PN,{m⸣}[x-x-x,x,x,1,PN,"['𒁹', 'X', 'X', 'X']",𒁹XXX,{⸢m⸣}[x-x-x],"['damaged', 'missing', 'missing', 'missing']",0.88,PN,,P527259,10,2,witness
+20943,P527259.10.3,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,[A],['missing'],1.0,,,P527259,10,3,witness
+20944,P527259.10.4,+Buru-iababa[]PN$,{m]}⸢AMAR⸣-ia₂-ba-⸢ba⸣,Buru-iababa,Buru-iababa,1,PN,"['𒁹', '𒀫', '𒐊', '𒁀', '𒁀']",𒁹𒀫𒐊𒁀𒁀,{[m]}⸢AMAR⸣-ia₂-ba-⸢ba⸣,"['missing', 'damaged', 'complete', 'complete', 'damaged']",0.4,PN,,P527259,10,4,witness
+20945,P527259.11.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527259,11,1,witness
+20946,P527259.11.2,+x-ilaʾi[]PN$,{m}{d}x]-⸢DINGIR⸣-a-a,x-ilaʾi,x-ilaʾi,1,PN,"['𒁹', '𒀭', 'X', '𒀭', '𒀀', '𒀀']",𒁹𒀭X𒀭𒀀𒀀,{[m]}{[d]}[x]-⸢DINGIR⸣-a-a,"['missing', 'missing', 'missing', 'damaged', 'complete', 'complete']",0.58,PN,,P527259,11,2,witness
+20947,P527259.11.3,ahūšu[brother]N,PAB-šu₂,ahūšu,ahu,brother,N,"['𒉽', '𒋙']",𒉽𒋙,PAB-šu₂,"['complete', 'complete']",0.0,,,P527259,11,3,witness
+20948,P527259.12.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527259,12,1,witness
+20949,P527259.12.2,+Hunayaza[]PN$,{m}hu-un-a-a-za,Hunayaza,Hunayaza,1,PN,"['𒁹', '𒄷', '𒌦', '𒀀', '𒀀', '𒍝']",𒁹𒄷𒌦𒀀𒀀𒍝,{m}hu-un-a-a-za,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,,P527259,12,2,witness
+20950,P527259.12.3,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,,P527259,12,3,witness
+20951,P527259.12.4,+Apladad-iababa[]PN$,{m}{d}A.10-ia₂-⸢ba⸣-[ba],Apladad-iababa,Apladad-iababa,1,PN,"['𒁹', '𒀭', '𒀀', '𒌋', '𒐊', '𒁀', '𒁀']",𒁹𒀭𒀀𒌋𒐊𒁀𒁀,{m}{d}A.10-ia₂-⸢ba⸣-[ba],"['complete', 'complete', 'complete', 'complete', 'complete', 'damaged', 'missing']",0.21,PN,,P527259,12,4,witness
+20952,P527259.13.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527259,13,1,witness
+20953,P527259.13.2,Hanunu[1]PN,{m}ha-nu-nu,Hanunu,Hanunu,1,PN,"['𒁹', '𒄩', '𒉡', '𒉡']",𒁹𒄩𒉡𒉡,{m}ha-nu-nu,"['complete', 'complete', 'complete', 'complete']",0.0,PN,,P527259,13,2,witness
+20954,P527259.13.3,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,,P527259,13,3,witness
+20955,P527259.13.4,Adda-idri[1]PN,{m}10-id-ri,Adda-idri,Adda-idri,1,PN,"['𒁹', '𒌋', '𒀉', '𒊑']",𒁹𒌋𒀉𒊑,{m}10-id-ri,"['complete', 'complete', 'complete', 'complete']",0.0,PN,,P527259,13,4,witness
+20956,P527259.14.1,šību[witness]N,⸢IGI⸣,šību,šību,witness,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,,,P527259,14,1,witness
+20957,P527259.14.2,Šamšia[1]PN,{m}{d}UTU-ia,Šamšia,Šamšia,1,PN,"['𒁹', '𒀭', '𒌓', '𒅀']",𒁹𒀭𒌓𒅀,{m}{d}UTU-ia,"['complete', 'complete', 'complete', 'complete']",0.0,PN,,P527259,14,2,witness
+20958,P527259.14.3,X,{lu₂}za-ma-ri,,,,X,"['𒇽', '𒍝', '𒈠', '𒊑']",𒇽𒍝𒈠𒊑,{LU₂}za-ma-ri,"['complete', 'complete', 'complete', 'complete']",0.0,,,P527259,14,3,witness
+20959,P527259.15.1,šību[witness]N,⸢IGI⸣,šību,šību,witness,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,,,P527259,15,1,witness
+20960,P527259.15.2,+Puhru-uṣur[]PN$,{m}UKKIN-PAB,Puhru-uṣur,Puhru-uṣur,1,PN,"['𒁹', '𒌺', '𒉽']",𒁹𒌺𒉽,{m}UKKIN-PAB,"['complete', 'complete', 'complete']",0.0,PN,,P527259,15,2,witness
+20961,P527259.15.3,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,,P527259,15,3,witness
+20962,P527259.15.4,+Adda-iababa[]PN$,{m}10-ia₂-⸢ba-ba⸣,Adda-iababa,Adda-iababa,1,PN,"['𒁹', '𒌋', '𒐊', '𒁀', '𒁀']",𒁹𒌋𒐊𒁀𒁀,{m}10-ia₂-⸢ba-ba⸣,"['complete', 'complete', 'complete', 'damaged', 'damaged']",0.2,PN,,P527259,15,4,witness
+20968,P527259.18.1,Nisannu[Nisan]MN,{iti}BARAG,Nisanni,Nisannu,Nisan,MN,"['𒌗', '𒁈']",𒌗𒁈,{ITI}BARAG,"['complete', 'complete']",0.0,MN,,P527259,18,1,date
+20969,P527259.18.2,n,UD-15-KAM,,,,n,"['𒌓', '𒌋𒐊', '𒄰']",𒌓𒌋𒐊𒄰,UD-15-KAM,"['complete', 'complete', 'complete']",0.0,NUMBER,,P527259,18,2,date
+20970,P527259.18.3,limmu[eponym (of year)]N,lim-⸢mu⸣,limmu,līmu,eponym (of year),N,"['𒅆', '𒈬']",𒅆𒈬,lim-⸢mu⸣,"['complete', 'damaged']",0.25,,,P527259,18,3,date
+20971,P527259.19.1,X,⸢EGIR⸣,,,,X,['𒂕'],𒂕,⸢EGIR⸣,['damaged'],0.5,,,P527259,19,1,date
+20972,P527259.19.2,+Šamaš-kašid-ayyabi[]PN$,{m}{d}UTU-KUR-a-a-⸢bi⸣,Šamaš-kašid-ayyabi,Šamaš-kašid-ayyabi,1,PN,"['𒁹', '𒀭', '𒌓', '𒆳', '𒀀', '𒀀', '𒁉']",𒁹𒀭𒌓𒆳𒀀𒀀𒁉,{m}{d}UTU-KUR-a-a-⸢bi⸣,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'damaged']",0.07,PN,,P527259,19,2,date

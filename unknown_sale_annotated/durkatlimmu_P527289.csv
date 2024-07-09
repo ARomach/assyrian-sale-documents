@@ -1,0 +1,14 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+11207,P527289.3.1,X,[tu-a-ru,,,,X,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,[tu-a-ru],"['missing', 'missing', 'missing']",1.0,,,P527289,3,1,exclusion of litigation
+11208,P527289.3.2,X,de]-e-[nu],,,,X,"['𒁲', '𒂊', '𒉡']",𒁲𒂊𒉡,[de]-e-[nu],"['missing', 'complete', 'missing']",0.67,,,P527289,3,2,exclusion of litigation
+11209,P527289.4.1,X,[DUG₄.DUG₄],,,,X,"['𒅗', '𒅗']",𒅗𒅗,[DUG₄].[DUG₄],"['missing', 'missing']",1.0,,,P527289,4,1,exclusion of litigation
+11210,P527289.4.2,X,⸢la⸣-aš₂-šu₂,,,,X,"['𒆷', '𒀾', '𒋙']",𒆷𒀾𒋙,⸢la⸣-aš₂-šu₂,"['damaged', 'complete', 'complete']",0.17,,,P527289,4,2,exclusion of litigation
+11211,P527289.5.1,X,[man-nu,,,,X,"['𒌋𒌋', '𒉡']",𒌋𒌋𒉡,[man-nu],"['missing', 'missing']",1.0,,,P527289,5,1,penalties for litigation: contravention
+11212,P527289.5.2,ša[of]DET,ša],ša,ša,of,DET,['𒊭'],𒊭,[ša],['missing'],1.0,,,P527289,5,2,penalties for litigation: contravention
+11213,P527289.5.3,ina[at]PRP,⸢ina⸣,ina,ina,at,PRP,['𒀸'],𒀸,⸢ina⸣,['damaged'],0.5,,,P527289,5,3,penalties for litigation: contravention
+11214,P527289.5.4,X,ma-te-[ma,,,,X,"['𒈠', '𒋼', '𒈠']",𒈠𒋼𒈠,ma-te-[ma],"['complete', 'complete', 'missing']",0.33,,,P527289,5,4,penalties for litigation: contravention
+11215,P527289.5.5,ina[at]PRP,ina,ina,ina,at,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,,P527289,5,5,penalties for litigation: contravention
+11216,P527289.5.6,X,ur-keš],,,,X,"['𒌨', '𒆧']",𒌨𒆧,[ur-keš],"['missing', 'missing']",1.0,,,P527289,5,6,penalties for litigation: contravention
+11217,P527289.6.1,X,[GIL-u-ni],,,,X,"['𒄃', '𒌋', '𒉌']",𒄃𒌋𒉌,[GIL-u-ni],"['missing', 'missing', 'missing']",1.0,,,P527289,6,1,penalties for litigation: contravention
+11218,P527289.6.2,X,lu-u,,,,X,"['𒇻', '𒌋']",𒇻𒌋,lu-u,"['complete', 'complete']",0.0,,,P527289,6,2,penalties for litigation: contravention
+11219,P527289.6.3,A-x[1]PN,{m}a-[x-x-(x)],A-x,A-x,1,PN,"['𒁹', '𒀀', 'X', 'X', 'X']",𒁹𒀀XXX,{m}a-[x-x-x],"['complete', 'complete', 'missing', 'missing', 'missing']",0.6,PN,,P527289,6,3,penalties for litigation: contravention

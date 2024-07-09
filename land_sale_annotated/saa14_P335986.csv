@@ -1,0 +1,69 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+9397,P335986.3.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,3,1,none
+9398,P335986.3.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,3,2,none
+9399,P335986.3.3,x]+⸢x,u,u,"['x', 'x']",xx,[x]+⸢x⸣,"['missing', 'damaged']",0.75,,,,,,P335986,3,3,none
+9400,P335986.3.4,x,u,u,['x'],x,⸢x⸣,['damaged'],0.5,,,,,,P335986,3,4,none
+9401,P335986.3.5,x,u,u,['x'],x,⸢x⸣,['damaged'],0.5,,,,,,P335986,3,5,none
+9402,P335986.3.6,x⸣,u,u,['x'],x,⸢x⸣,['damaged'],0.5,,,,,,P335986,3,6,none
+9403,P335986.3.7,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,3,7,none
+9404,P335986.3.8,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,3,8,none
+9405,P335986.3.9,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,3,9,none
+9406,P335986.3.10,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,3,10,none
+9407,P335986.3.11,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,3,11,none
+9408,P335986.4.1,[A].⸢ŠA₃⸣,eqlu[field]N,N,"['𒀀', '𒊮']",𒀀𒊮,[A].⸢ŠA₃⸣,"['missing', 'damaged']",0.75,eqlu,eqlu,field,,,P335986,4,1,object sold
+9409,P335986.4.2,ina,ina[in]PRP,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,,P335986,4,2,object sold
+9410,P335986.4.3,na-hal,nahal[wadi]N,N,"['𒈾', '𒄬']",𒈾𒄬,na-hal,"['complete', 'complete']",0.0,nahal,nahallu,wadi,,,P335986,4,3,object sold
+9411,P335986.4.4,{1}kur-⸢ri⸣-[x,u,u,"['𒁹', '𒆳', '𒊑', 'x']",𒁹𒆳𒊑x,{1}kur-⸢ri⸣-[x],"['complete', 'complete', 'damaged', 'missing']",0.38,,,,,,P335986,4,4,object sold
+9412,P335986.4.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,4,5,object sold
+9413,P335986.4.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,4,6,object sold
+9414,P335986.5.1,⸢SUHUR⸣,ṭēhi[adjacent to]PRP,PRP,['𒋦'],𒋦,⸢SUHUR⸣,['damaged'],0.5,ṭēhi,ṭāhu,adjacent to,,,P335986,5,1,object sold
+9415,P335986.5.2,A.ŠA₃,eqli[field]N,N,"['𒀀', '𒊮']",𒀀𒊮,A.ŠA₃,"['complete', 'complete']",0.0,eqli,eqlu,field,,,P335986,5,2,object sold
+9416,P335986.5.3,ina,ina[in]PRP,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,,P335986,5,3,object sold
+9417,P335986.5.4,KASKAL,hūli[road]N,N,['𒆜'],𒆜,KASKAL,['complete'],0.0,hūli,hūlu,road,,,P335986,5,4,object sold
+9418,P335986.5.5,⸢x⸣+[x,u,u,"['x', 'x']",xx,⸢x⸣+[x],"['damaged', 'missing']",0.75,,,,,,P335986,5,5,none
+9419,P335986.5.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,5,6,none
+9420,P335986.5.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,5,7,none
+9421,P335986.5.8,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,5,8,none
+9422,P335986.5.9,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,5,9,none
+9423,P335986.6.1,[ina],ina[in+=for]PRP,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,,P335986,6,1,price
+9424,P335986.6.2,⸢ŠA₃⸣,libbi[interior]N,N,['𒊮'],𒊮,⸢ŠA₃⸣,['damaged'],0.5,libbi,libbu,interior,,,P335986,6,2,price
+9425,P335986.6.3,o,u,u,['o'],o,o,['complete'],0.0,,,,,,P335986,6,3,price
+9426,P335986.6.4,MA.NA,manû[a unit of weight]N,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manû,manû,a unit of weight,,,P335986,6,4,price
+9427,P335986.6.5,1/2,n,n,['𒈦'],𒈦,1/2,['complete'],0.0,,,,NUMBER,,P335986,6,5,price
+9428,P335986.6.6,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,6,6,none
+9429,P335986.6.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,6,7,none
+9430,P335986.6.8,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,6,8,none
+9431,P335986.6.9,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,6,9,none
+9432,P335986.6.10,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,6,10,none
+9433,P335986.7.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,7,1,none
+9434,P335986.7.2,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,7,2,none
+9435,P335986.7.3,⸢x⸣,u,u,['x'],x,⸢x⸣,['damaged'],0.5,,,,,,P335986,7,3,none
+9436,P335986.7.4,TA,issu[from+=from]PRP,PRP,['𒋫'],𒋫,TA,['complete'],0.0,issu,ištu,from,,,P335986,7,4,none
+9437,P335986.7.5,IGI,pān[front]N,N,['𒅆'],𒅆,IGI,['complete'],0.0,pān,pānu,front,,,P335986,7,5,none
+9438,P335986.7.6,{1}x,u,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,,P335986,7,6,none
+9439,P335986.7.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,7,7,none
+9440,P335986.7.8,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,7,8,none
+9441,P335986.7.9,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,7,9,none
+9442,P335986.7.10,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,7,10,none
+9443,P335986.8.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,8,1,none
+9444,P335986.8.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,8,2,none
+9445,P335986.8.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,8,3,none
+9446,P335986.8.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,8,4,none
+9447,P335986.8.5,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,8,5,none
+9448,P335986.8.6,u,u,u,['𒌋'],𒌋,u,['complete'],0.0,,,,,,P335986,8,6,none
+9449,P335986.8.7,TI,u,u,['𒋾'],𒋾,TI,['complete'],0.0,,,,,,P335986,8,7,none
+9450,P335986.8.8,⸢x⸣+[x,u,u,"['x', 'x']",xx,⸢x⸣+[x],"['damaged', 'missing']",0.75,,,,,,P335986,8,8,none
+9451,P335986.8.9,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,8,9,none
+9452,P335986.8.10,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,8,10,none
+9453,P335986.8.11,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,8,11,none
+9454,P335986.8.12,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,8,12,none
+9455,P335986.9.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,9,1,none
+9456,P335986.9.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,9,2,none
+9457,P335986.9.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,9,3,none
+9458,P335986.9.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,9,4,none
+9459,P335986.9.5,x]+⸢x⸣,u,u,"['x', 'x']",xx,[x]+⸢x⸣,"['missing', 'damaged']",0.75,,,,,,P335986,9,5,none
+9460,P335986.9.6,A.⸢ŠA₃⸣,eqlu[field]N,N,"['𒀀', '𒊮']",𒀀𒊮,A.⸢ŠA₃⸣,"['complete', 'damaged']",0.25,eqlu,eqlu,field,,,P335986,9,6,none
+9461,P335986.9.7,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,9,7,none
+9462,P335986.9.8,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,9,8,none
+9463,P335986.9.9,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,9,9,none
+9464,P335986.9.10,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335986,9,10,none

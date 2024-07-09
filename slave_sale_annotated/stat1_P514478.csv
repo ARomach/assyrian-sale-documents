@@ -1,0 +1,45 @@
+Unnamed: 0,ref,inst,frag,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,text,line,word,annotation
+1585,P514478.3.1,ina[in]PRP,[ina,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,P514478,3,1,price
+1586,P514478.3.2,libbi[interior]N,ŠA₃-bi,N,"['𒊮', '𒁉']",𒊮𒁉,[ŠA₃-bi],"['missing', 'missing']",1.0,libbi,libbu,interior,,P514478,3,2,price
+1587,P514478.3.3,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P514478,3,3,price
+1588,P514478.3.4,šiqlī[a unit of weight]N,GIN₂].MEŠ,N,"['𒂆', '𒈨𒌍']",𒂆𒈨𒌍,[GIN₂].MEŠ,"['missing', 'complete']",0.5,šiqlī,šiqlu,a unit of weight,,P514478,3,4,price
+1589,P514478.3.5,ṣarpi[silver]N,⸢KUG.UD,N,"['𒆬', '𒌓']",𒆬𒌓,⸢KUG⸣.⸢UD⸣,"['damaged', 'damaged']",0.5,ṣarpi,ṣarpu,silver,,P514478,3,5,price
+1590,P514478.3.6,ilqi[purchase]V,il-qi₂⸣,V,"['𒅋', '𒆠']",𒅋𒆠,⸢il-qi₂⸣,"['damaged', 'damaged']",0.5,ilqi,leqû,purchase,,P514478,3,6,completion of transaction
+1591,P514478.4.1,kaspu[money]N,[kas-pu,N,"['𒆜', '𒁍']",𒆜𒁍,[kas-pu],"['missing', 'missing']",1.0,kaspu,kaspu,money,,P514478,4,1,confirmation of transfer 1
+1592,P514478.4.2,gammur[completed]AJ,gam]-⸢mur⸣,AJ,"['𒃵', '𒄯']",𒃵𒄯,[gam]-⸢mur⸣,"['missing', 'damaged']",0.75,gammur,gammuru,completed,,P514478,4,2,confirmation of transfer 1
+1593,P514478.4.3,tadin[paid]AJ,ta-din,AJ,"['𒋫', '𒁷']",𒋫𒁷,ta-din,"['complete', 'complete']",0.0,tadin,tadnu,paid,,P514478,4,3,confirmation of transfer 1
+1594,P514478.5.1,amtu[maid]N,[GEME₂,N,['𒊩𒆳'],𒊩𒆳,[GEME₂],['missing'],1.0,amti,amtu,maid,,P514478,5,1,confirmation of transfer 2
+1595,P514478.5.2,šuātu[that]'DP,šu]-a-tu,IP,"['𒋗', '𒀀', '𒌅']",𒋗𒀀𒌅,[šu]-a-tu,"['missing', 'complete', 'complete']",0.33,šuātu,šuāti,that,,P514478,5,2,confirmation of transfer 2
+1596,P514478.5.3,zarpat[purchased]AJ,zar₄-pat,AJ,"['𒆰', '𒉻']",𒆰𒉻,zar₄-pat,"['complete', 'complete']",0.0,zarpat,zarpu,purchased,,P514478,5,3,confirmation of transfer 2
+1597,P514478.6.1,+leqû[taken//acquired]AJ'AJ$laqiat,[la]-qi-ia-at,AJ,"['𒆷', '𒆥', '𒅀', '𒀜']",𒆷𒆥𒅀𒀜,[la]-qi-ia-at,"['missing', 'complete', 'complete', 'complete']",0.25,laqiat,leqû,acquired,,P514478,6,1,confirmation of transfer 2
+1598,P514478.7.1,tuāru[revocation]'N,[tu]-a-ru,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,[tu]-a-ru,"['missing', 'complete', 'complete']",0.33,tuāru,târu,revocation,,P514478,7,1,exclusion of litigation
+1599,P514478.7.2,dēnu[lawsuit]N,de-e-nu,N,"['𒁲', '𒂊', '𒉡']",𒁲𒂊𒉡,de-e-nu,"['complete', 'complete', 'complete']",0.0,dēnu,dīnu,lawsuit,,P514478,7,2,exclusion of litigation
+1600,P514478.8.1,dabābu[litigation]'N,[DUG₄].⸢DUG₄⸣,V,"['𒅗', '𒅗']",𒅗𒅗,[DUG₄].⸢DUG₄⸣,"['missing', 'damaged']",0.75,dabābu,dabābu,litigation,,P514478,8,1,exclusion of litigation
+1601,P514478.8.2,laššu[(there) is not]V,la-aš₂-šu₂,V,"['𒆷', '𒀾', '𒋙']",𒆷𒀾𒋙,la-aš₂-šu₂,"['complete', 'complete', 'complete']",0.0,laššu,laššu,(there) is not,,P514478,8,2,exclusion of litigation
+1602,P514478.9.1,mannu[whoever]'XP,[man-nu,QP,"['𒌋𒌋', '𒉡']",𒌋𒌋𒉡,[man-nu],"['missing', 'missing']",1.0,mannu,mannu,whoever,,P514478,9,1,penalties for litigation: contravention
+1603,P514478.9.2,ša[whoever]REL,ša],REL,['𒊭'],𒊭,[ša],['missing'],1.0,ša,ša,whoever,,P514478,9,2,penalties for litigation: contravention
+1604,P514478.9.3,ina[in]PRP,⸢ina⸣,PRP,['𒀸'],𒀸,⸢ina⸣,['damaged'],0.5,ina,ina,in,,P514478,9,3,penalties for litigation: contravention
+1605,P514478.9.4,urkiš[later]AV,ur-kiš,AV,"['𒌨', '𒆧']",𒌨𒆧,ur-kiš,"['complete', 'complete']",0.0,urkiš,urkiš,later,,P514478,9,4,penalties for litigation: contravention
+1606,P514478.9.5,ina[in]PRP,ina,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,P514478,9,5,penalties for litigation: contravention
+1607,P514478.9.6,matēma[ever]AV,ma-te-[ma],AV,"['𒈠', '𒋼', '𒈠']",𒈠𒋼𒈠,ma-te-[ma],"['complete', 'complete', 'missing']",0.33,matēma,matīma,ever,,P514478,9,6,penalties for litigation: contravention
+1608,P514478.10.1,+zaqāpu[fix upright]V'V$izaqqupūnu,[i-za]-qu-pu-nu,V,"['𒄿', '𒍝', '𒄣', '𒁍', '𒉡']",𒄿𒍝𒄣𒁍𒉡,[i-za]-qu-pu-nu,"['missing', 'missing', 'complete', 'complete', 'complete']",0.4,izaqqupūnu,zaqāpu,fix upright,,P514478,10,1,penalties for litigation: contravention
+1609,P514478.10.2,lū[or]CNJ,lu-u,CNJ,"['𒇻', '𒌋']",𒇻𒌋,lu-u,"['complete', 'complete']",0.0,lū,lū,or,,P514478,10,2,penalties for litigation: contravention
+1610,P514478.10.3,+awīlu[man]N$amēlē,⸢LU₂⸣-[MEŠ,N,"['𒇽', '𒈨𒌍']",𒇽𒈨𒌍,⸢LU₂⸣-[MEŠ],"['damaged', 'missing']",0.75,amēlē,awīlu,man,,P514478,10,3,penalties for litigation: contravention
+1611,P514478.10.4,annūte[this]DP,an-nu-te],DP,"['𒀭', '𒉡', '𒋼']",𒀭𒉡𒋼,[an-nu-te],"['missing', 'missing', 'missing']",1.0,annūte,annû,this,,P514478,10,4,penalties for litigation: contravention
+1612,P514478.12.1,lū[or]CNJ,[lu-u,CNJ,"['𒇻', '𒌋']",𒇻𒌋,[lu-u],"['missing', 'missing']",1.0,lū,lū,or,,P514478,12,1,penalties for litigation: contravention
+1613,P514478.12.2,marʾēšunu[son]N,DUMU.MEŠ-šu]-nu,N,"['𒌉', '𒈨𒌍', '𒋗', '𒉡']",𒌉𒈨𒌍𒋗𒉡,[DUMU].[MEŠ-šu]-nu,"['missing', 'missing', 'missing', 'complete']",0.75,marʾēšunu,māru,son,,P514478,12,2,penalties for litigation: contravention
+1614,P514478.12.3,lū[may]MOD,lu-u,MOD,"['𒇻', '𒌋']",𒇻𒌋,lu-u,"['complete', 'complete']",0.0,lū,lū,may,,P514478,12,3,penalties for litigation: contravention
+1615,P514478.12.4,bēl[owner]N&ilkišunu[state service]N,EN-⸢il⸣-[ki-šu-nu],N,"['𒂗', '𒅋', '𒆠', '𒋗', '𒉡']",𒂗𒅋𒆠𒋗𒉡,EN-⸢il⸣-[ki-šu-nu],"['complete', 'damaged', 'missing', 'missing', 'missing']",0.7,bēl,bēlu,owner,,P514478,12,4,penalties for litigation: contravention
+1617,P514478.13.1,lū[or]CNJ,[lu-u,CNJ,"['𒇻', '𒌋']",𒇻𒌋,[lu-u],"['missing', 'missing']",1.0,lū,lū,or,,P514478,13,1,penalties for litigation: contravention
+1618,P514478.13.2,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P514478,13,2,penalties for litigation: contravention
+1619,P514478.13.3,u,x-šu]-nu,u,"['X', '𒋗', '𒉡']",X𒋗𒉡,[x-šu]-nu,"['missing', 'missing', 'complete']",0.67,,,,,P514478,13,3,penalties for litigation: contravention
+1620,P514478.13.4,lū[or]CNJ,⸢lu⸣-[u,CNJ,"['𒇻', '𒌋']",𒇻𒌋,⸢lu⸣-[u],"['damaged', 'missing']",0.75,lū,lū,or,,P514478,13,4,penalties for litigation: contravention
+1621,P514478.13.5,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P514478,13,5,penalties for litigation: contravention
+1622,P514478.13.6,u,x-šu-nu],u,"['X', '𒋗', '𒉡']",X𒋗𒉡,[x-šu-nu],"['missing', 'missing', 'missing']",1.0,,,,,P514478,13,6,penalties for litigation: contravention
+1623,P514478.17.1,šību[witness]N,[IGI,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,P514478,17,1,witness
+1624,P514478.17.2,u,{m}x,u,"['𒁹', 'X']",𒁹X,{[m]}[x],"['missing', 'missing']",1.0,,,,,P514478,17,2,witness
+1625,P514478.17.3,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P514478,17,3,witness
+1626,P514478.17.4,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P514478,17,4,witness
+1627,P514478.17.5,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P514478,17,5,witness
+1628,P514478.17.6,mār[son]N,DUMU/A,N,"['𒌉', '𒀀']",𒌉𒀀,[DUMU]/[A],"['missing', 'missing']",1.0,mār,māru,son,,P514478,17,6,witness
+1629,P514478.17.7,x-tu-Aššur[1]PN,{m}x-x]-tu₂-aš-šur,PN,"['𒁹', 'X', 'X', '𒌓', '𒀸', '𒋩']",𒁹XX𒌓𒀸𒋩,{[m]}[x-x]-tu₂-aš-šur,"['missing', 'missing', 'missing', 'complete', 'complete', 'complete']",0.5,x-tu-Aššur,x-tu-Aššur,1,PN,P514478,17,7,witness

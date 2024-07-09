@@ -1,0 +1,92 @@
+Unnamed: 0,ref,inst,frag,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,text,line,word,annotation
+9997,P528347.2.1,X,{[na₄}KIŠIB],X,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}[KIŠIB],"['missing', 'missing']",1.0,,,,,P528347,2,1,seal identification
+9998,P528347.2.2,X,{m}še-ri-⸢ZALAG₂⸣,X,"['𒁹', '𒊺', '𒊑', '𒂟']",𒁹𒊺𒊑𒂟,{m}še-ri-⸢ZALAG₂⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,,,,,P528347,2,2,seal identification
+9999,P528347.3.1,X,[DUMU,X,['𒌉'],𒌉,[DUMU],['missing'],1.0,,,,,P528347,3,1,seal identification
+10000,P528347.3.2,X,{m]}a-di-KUR-DINGIR.MEŠ,X,"['𒁹', '𒀀', '𒁲', '𒆳', '𒀭', '𒈨𒌍']",𒁹𒀀𒁲𒆳𒀭𒈨𒌍,{[m]}a-di-KUR-DINGIR.MEŠ,"['missing', 'complete', 'complete', 'complete', 'complete', 'complete']",0.17,,,,,P528347,3,2,seal identification
+10001,P528347.4.1,Bel[1]DN,[EN],DN,['𒂗'],𒂗,[EN],['missing'],1.0,Bel,Bel,1,DN,P528347,4,1,seal identification
+10002,P528347.4.2,X,⸢GEME₂⸣,X,['𒊩𒆳'],𒊩𒆳,⸢GEME₂⸣,['damaged'],0.5,,,,,P528347,4,2,seal identification
+10003,P528347.4.3,X,SUM-an,X,"['𒋧', '𒀭']",𒋧𒀭,SUM-an,"['complete', 'complete']",0.0,,,,,P528347,4,3,seal identification
+10004,P528347.6.1,X,{[mi₂]}gad-ia-ta-a,X,"['𒊩', '𒃰', '𒅀', '𒋫', '𒀀']",𒊩𒃰𒅀𒋫𒀀,{[MI₂]}gad-ia-ta-a,"['missing', 'complete', 'complete', 'complete', 'complete']",0.2,,,,,P528347,6,1,object sold
+10005,P528347.6.2,X,GEME₂-šu₂,X,"['𒊩𒆳', '𒋙']",𒊩𒆳𒋙,GEME₂-šu₂,"['complete', 'complete']",0.0,,,,,P528347,6,2,object sold
+10006,P528347.7.1,X,⸢u₂⸣-piš-ma,X,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,⸢u₂⸣-piš-ma,"['damaged', 'complete', 'complete']",0.17,,,,,P528347,7,1,initiation of transaction
+10007,P528347.7.2,Sakip-Aššur[1]PN,{m}sa-kip-⸢aš-šur⸣,PN,"['𒁹', '𒊓', '𒄒', '𒀸', '𒋩']",𒁹𒊓𒄒𒀸𒋩,{m}sa-kip-⸢aš-šur⸣,"['complete', 'complete', 'complete', 'damaged', 'damaged']",0.2,Sakip-Aššur,Sakip-Aššur,1,PN,P528347,7,2,initiation of transaction
+10008,P528347.8.1,X,{m}ša₂-aš-šur-du-bu,X,"['𒁹', '𒃻', '𒀸', '𒋩', '𒁺', '𒁍']",𒁹𒃻𒀸𒋩𒁺𒁍,{m}ša₂-aš-šur-du-bu,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,,,P528347,8,1,initiation of transaction
+10009,P528347.8.2,Nabu-šar-ahhešu[1]PN,{m}{d}PA-MAN-PAB.MEŠ-šu₂,PN,"['𒁹', '𒀭', '𒉺', '𒌋𒌋', '𒉽', '𒈨𒌍', '𒋙']",𒁹𒀭𒉺𒌋𒌋𒉽𒈨𒌍𒋙,{m}{d}PA-MAN-PAB.MEŠ-šu₂,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,Nabu-šar-ahhešu,Nabu-šar-ahhešu,1,PN,P528347,8,2,initiation of transaction
+10010,P528347.9.1,X,ina,X,['𒀸'],𒀸,ina,['complete'],0.0,,,,,P528347,9,1,price
+10011,P528347.9.2,X,ŠA₃,X,['𒊮'],𒊮,ŠA₃,['complete'],0.0,,,,,P528347,9,2,price
+10012,P528347.9.3,n,1/2,n,['𒈦'],𒈦,1/2,['complete'],0.0,,,,NUMBER,P528347,9,3,price
+10013,P528347.9.4,X,MA.NA,X,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,,,,,P528347,9,4,price
+10014,P528347.9.5,n,08,n,['0₈'],0₈,08,['complete'],0.0,,,,NUMBER,P528347,9,5,price
+10015,P528347.9.6,X,GIN₂,X,['𒂆'],𒂆,GIN₂,['complete'],0.0,,,,,P528347,9,6,price
+10016,P528347.9.7,X,KU₃.UD,X,"['𒆬', '𒌓']",𒆬𒌓,KU₃.UD,"['complete', 'complete']",0.0,,,,,P528347,9,7,price
+10017,P528347.9.8,X,TI,X,['𒋾'],𒋾,TI,['complete'],0.0,,,,,P528347,9,8,completion of transaction
+10018,P528347.10.1,X,kas-pu,X,"['𒆜', '𒁍']",𒆜𒁍,kas-pu,"['complete', 'complete']",0.0,,,,,P528347,10,1,confirmation of transfer 1
+10019,P528347.10.2,X,gam-mur,X,"['𒃵', '𒄯']",𒃵𒄯,gam-mur,"['complete', 'complete']",0.0,,,,,P528347,10,2,confirmation of transfer 1
+10020,P528347.10.3,X,ta-ad-din,X,"['𒋫', '𒀜', '𒁷']",𒋫𒀜𒁷,ta-ad-din,"['complete', 'complete', 'complete']",0.0,,,,,P528347,10,3,confirmation of transfer 1
+10021,P528347.12.1,X,GEME₂,X,['𒊩𒆳'],𒊩𒆳,GEME₂,['complete'],0.0,,,,,P528347,12,1,confirmation of transfer 2
+10022,P528347.12.2,X,šu₂-a-te,X,"['𒋙', '𒀀', '𒋼']",𒋙𒀀𒋼,šu₂-a-te,"['complete', 'complete', 'complete']",0.0,,,,,P528347,12,2,confirmation of transfer 2
+10023,P528347.12.3,X,zar₄-pat,X,"['𒆰', '𒉻']",𒆰𒉻,zar₄-pat,"['complete', 'complete']",0.0,,,,,P528347,12,3,confirmation of transfer 2
+10024,P528347.13.1,X,TI-at,X,"['𒋾', '𒀜']",𒋾𒀜,TI-at,"['complete', 'complete']",0.0,,,,,P528347,13,1,confirmation of transfer 2
+10025,P528347.13.2,X,tu-a-ru,X,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,tu-a-ru,"['complete', 'complete', 'complete']",0.0,,,,,P528347,13,2,exclusion of litigation
+10026,P528347.14.1,X,de-ni,X,"['𒁲', '𒉌']",𒁲𒉌,de-ni,"['complete', 'complete']",0.0,,,,,P528347,14,1,exclusion of litigation
+10027,P528347.14.2,X,DUG₄.DUG₄,X,"['𒅗', '𒅗']",𒅗𒅗,DUG₄.DUG₄,"['complete', 'complete']",0.0,,,,,P528347,14,2,exclusion of litigation
+10028,P528347.16.1,X,la-šu,X,"['𒆷', '𒋗']",𒆷𒋗,la-šu,"['complete', 'complete']",0.0,,,,,P528347,16,1,exclusion of litigation
+10029,P528347.16.2,X,ša,X,['𒊭'],𒊭,ša,['complete'],0.0,,,,,P528347,16,2,penalties for litigation: penalty
+10030,P528347.16.3,X,⸢BAL⸣-u-ni,X,"['𒁄', '𒌋', '𒉌']",𒁄𒌋𒉌,⸢BAL⸣-u-ni,"['damaged', 'complete', 'complete']",0.17,,,,,P528347,16,3,penalties for litigation: penalty
+10031,P528347.17.1,Adad[1]DN,10,DN,['𒌋'],𒌋,10,['complete'],0.0,Adad,Adad,1,DN,P528347,17,1,penalties for litigation: penalty
+10032,P528347.17.2,X,MA.NA,X,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,,,,,P528347,17,2,penalties for litigation: penalty
+10033,P528347.17.3,X,KU₃.UD,X,"['𒆬', '𒌓']",𒆬𒌓,KU₃.UD,"['complete', 'complete']",0.0,,,,,P528347,17,3,penalties for litigation: penalty
+10034,P528347.17.4,X,LUH-i,X,"['𒈛', '𒄿']",𒈛𒄿,LUH-i,"['complete', 'complete']",0.0,,,,,P528347,17,4,penalties for litigation: penalty
+10035,P528347.18.1,n,05,n,['0₅'],0₅,05,['complete'],0.0,,,,NUMBER,P528347,18,1,penalties for litigation: penalty
+10036,P528347.18.2,X,MA.NA,X,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,,,,,P528347,18,2,penalties for litigation: penalty
+10037,P528347.18.3,X,KU₃.GI,X,"['𒆬', '𒄀']",𒆬𒄀,KU₃.GI,"['complete', 'complete']",0.0,,,,,P528347,18,3,penalties for litigation: penalty
+10038,P528347.18.4,X,⸢sak⸣-rum,X,"['𒊕', '𒀸']",𒊕𒀸,⸢sak⸣-rum,"['damaged', 'complete']",0.25,,,,,P528347,18,4,penalties for litigation: penalty
+10039,P528347.19.1,X,a-na,X,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,,,,P528347,19,1,penalties for litigation: penalty
+10040,P528347.19.2,Sin[1]DN,{d}30,DN,"['𒀭', '𒌍']",𒀭𒌍,{d}30,"['complete', 'complete']",0.0,Sin,Sin,1,DN,P528347,19,2,penalties for litigation: penalty
+10041,P528347.19.3,X,a-šib,X,"['𒀀', '𒈨']",𒀀𒈨,a-šib,"['complete', 'complete']",0.0,,,,,P528347,19,3,penalties for litigation: penalty
+10042,P528347.19.4,Harrani[Harran]GN,{uru}KASKAL,GN,"['𒌷', '𒆜']",𒌷𒆜,{URU}KASKAL,"['complete', 'complete']",0.0,Harrani,Harranu,Harran,GN,P528347,19,4,penalties for litigation: penalty
+10043,P528347.20.1,X,SUM-an,X,"['𒋧', '𒀭']",𒋧𒀭,SUM-an,"['complete', 'complete']",0.0,,,,,P528347,20,1,penalties for litigation: penalty
+10044,P528347.20.2,X,ina,X,['𒀸'],𒀸,ina,['complete'],0.0,,,,,P528347,20,2,penalties for litigation: penalty
+10045,P528347.20.3,X,de-⸢ni⸣-šu₂,X,"['𒁲', '𒉌', '𒋙']",𒁲𒉌𒋙,de-⸢ni⸣-šu₂,"['complete', 'damaged', 'complete']",0.17,,,,,P528347,20,3,penalties for litigation: penalty
+10046,P528347.20.4,X,DUG₄.DUG₄-ma,X,"['𒅗', '𒅗', '𒈠']",𒅗𒅗𒈠,DUG₄.DUG₄-ma,"['complete', 'complete', 'complete']",0.0,,,,,P528347,20,4,penalties for litigation: penalty
+10047,P528347.21.1,X,la,X,['𒆷'],𒆷,la,['complete'],0.0,,,,,P528347,21,1,penalties for litigation: penalty
+10048,P528347.21.2,X,TI,X,['𒋾'],𒋾,TI,['complete'],0.0,,,,,P528347,21,2,penalties for litigation: penalty
+10049,P528347.21.3,X,ṣib-tu,X,"['𒍦', '𒌅']",𒍦𒌅,ṣib-tu,"['complete', 'complete']",0.0,,,,,P528347,21,3,guarantee clauses for slaves
+10050,P528347.21.4,X,be-e-nu,X,"['𒁁', '𒂊', '𒉡']",𒁁𒂊𒉡,be-e-nu,"['complete', 'complete', 'complete']",0.0,,,,,P528347,21,4,guarantee clauses for slaves
+10051,P528347.22.1,X,a-na,X,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,,,,P528347,22,1,guarantee clauses for slaves
+10052,P528347.22.2,n,01-me,n,"['01', '𒈨']",01𒈨,01-me,"['complete', 'complete']",0.0,,,,NUMBER,P528347,22,2,guarantee clauses for slaves
+10053,P528347.22.3,X,UD-mu,X,"['𒌓', '𒈬']",𒌓𒈬,UD-mu,"['complete', 'complete']",0.0,,,,,P528347,22,3,guarantee clauses for slaves
+10054,P528347.22.4,X,sa-ar₂-te,X,"['𒊓', '𒌒', '𒋼']",𒊓𒌒𒋼,sa-ar₂-te,"['complete', 'complete', 'complete']",0.0,,,,,P528347,22,4,guarantee clauses for slaves
+10055,P528347.23.1,X,a-na,X,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,,,,P528347,23,1,guarantee clauses for slaves
+10056,P528347.23.2,X,kal₃,X,['𒆕'],𒆕,kal₃,['complete'],0.0,,,,,P528347,23,2,guarantee clauses for slaves
+10057,P528347.23.3,X,⸢MU⸣.AN.NA.MEŠ-te,X,"['𒈬', '𒀭', '𒈾', '𒈨𒌍', '𒋼']",𒈬𒀭𒈾𒈨𒌍𒋼,⸢MU⸣.AN.NA.MEŠ-te,"['damaged', 'complete', 'complete', 'complete', 'complete']",0.1,,,,,P528347,23,3,guarantee clauses for slaves
+10058,P528347.25.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528347,25,1,witness
+10059,P528347.25.2,X,{m}mu-⸢li⸣-i,X,"['𒁹', '𒈬', '𒇷', '𒄿']",𒁹𒈬𒇷𒄿,{m}mu-⸢li⸣-i,"['complete', 'complete', 'damaged', 'complete']",0.12,,,,,P528347,25,2,witness
+10060,P528347.26.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528347,26,1,witness
+10061,P528347.26.2,Aššur-iqbi[1]PN,{m}aš-šur-iq-bi,PN,"['𒁹', '𒀸', '𒋩', '𒅅', '𒁉']",𒁹𒀸𒋩𒅅𒁉,{m}aš-šur-iq-bi,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Aššur-iqbi,Aššur-iqbi,1,PN,P528347,26,2,witness
+10062,P528347.27.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528347,27,1,witness
+10063,P528347.27.2,X,{m}aš-šur-KI-ia,X,"['𒁹', '𒀸', '𒋩', '𒆠', '𒅀']",𒁹𒀸𒋩𒆠𒅀,{m}aš-šur-KI-ia,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,,,P528347,27,2,witness
+10064,P528347.28.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528347,28,1,witness
+10065,P528347.28.2,X,{m}hal-za-a.a,X,"['𒁹', '𒄬', '𒍝', '𒀀', '𒀀']",𒁹𒄬𒍝𒀀𒀀,{m}hal-za-a.a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,,,P528347,28,2,witness
+10066,P528347.29.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528347,29,1,witness
+10067,P528347.29.2,Sakip-Aššur[1]PN,{m}sa-kip-aš-šur,PN,"['𒁹', '𒊓', '𒄒', '𒀸', '𒋩']",𒁹𒊓𒄒𒀸𒋩,{m}sa-kip-aš-šur,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Sakip-Aššur,Sakip-Aššur,1,PN,P528347,29,2,witness
+10068,P528347.30.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528347,30,1,witness
+10069,P528347.30.2,Keni[1]PN,{m}GIN-i,PN,"['𒁹', '𒁺', '𒄿']",𒁹𒁺𒄿,{m}GIN-i,"['complete', 'complete', 'complete']",0.0,Keni,Keni,1,PN,P528347,30,2,witness
+10070,P528347.32.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528347,32,1,witness
+10071,P528347.32.2,X,{m}ka-ku-u-a,X,"['𒁹', '𒅗', '𒆪', '𒌋', '𒀀']",𒁹𒅗𒆪𒌋𒀀,{m}ka-ku-u-a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,,,P528347,32,2,witness
+10072,P528347.33.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528347,33,1,witness
+10073,P528347.33.2,Urdu-Aššur[1]PN,{m}ARAD-aš-šur,PN,"['𒁹', '𒀴', '𒀸', '𒋩']",𒁹𒀴𒀸𒋩,{m}ARAD-aš-šur,"['complete', 'complete', 'complete', 'complete']",0.0,Urdu-Aššur,Urdu-Aššur,1,PN,P528347,33,2,witness
+10074,P528347.33.3,X,{lu₂}NAGAR,X,"['𒇽', '𒉄']",𒇽𒉄,{LU₂}NAGAR,"['complete', 'complete']",0.0,,,,,P528347,33,3,witness
+10075,P528347.34.1,X,[IGI,X,['𒅆'],𒅆,[IGI],['missing'],1.0,,,,,P528347,34,1,witness
+10076,P528347.34.2,Urdu-Aššur[1]PN,{m]}ARAD-aš-šur,PN,"['𒁹', '𒀴', '𒀸', '𒋩']",𒁹𒀴𒀸𒋩,{[m]}ARAD-aš-šur,"['missing', 'complete', 'complete', 'complete']",0.25,Urdu-Aššur,Urdu-Aššur,1,PN,P528347,34,2,witness
+10077,P528347.34.3,X,{lu₂}SIMUG,X,"['𒇽', '𒌣']",𒇽𒌣,{LU₂}SIMUG,"['complete', 'complete']",0.0,,,,,P528347,34,3,witness
+10078,P528347.36.1,Arahsamni[Marchesvan]MN,{iti}APIN,MN,"['𒌗', '𒀳']",𒌗𒀳,{ITI}APIN,"['complete', 'complete']",0.0,Arahsamni,Arahsamnu,Marchesvan,MN,P528347,36,1,date
+10079,P528347.36.2,X,UD-25-KAM,X,"['𒌓', '𒌋𒌋𒐊', '𒄰']",𒌓𒌋𒌋𒐊𒄰,UD-25-KAM,"['complete', 'complete', 'complete']",0.0,,,,,P528347,36,2,date
+10080,P528347.37.1,X,lim-me,X,"['𒅆', '𒈨']",𒅆𒈨,lim-me,"['complete', 'complete']",0.0,,,,,P528347,37,1,date
+10081,P528347.37.2,Sin-šarru-uṣur[1]PN,{m}{d}30-MAN-PAB,PN,"['𒁹', '𒀭', '𒌍', '𒌋𒌋', '𒉽']",𒁹𒀭𒌍𒌋𒌋𒉽,{m}{d}30-MAN-PAB,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Sin-šarru-uṣur,Sin-šarru-uṣur,1,PN,P528347,37,2,date
+10082,P528347.37.3,X,{lu₂}GAR.⸢KUR,X,"['𒇽', '𒃻', '𒆳']",𒇽𒃻𒆳,{LU₂}GAR.⸢KUR⸣,"['complete', 'complete', 'damaged']",0.17,,,,,P528347,37,3,date
+10083,P528347.37.4,Hindan[1]GN,hi-in-dan⸣,GN,"['𒄭', '𒅔', '𒆗']",𒄭𒅔𒆗,⸢hi-in-dan⸣,"['damaged', 'damaged', 'damaged']",0.5,Hindan,Hindanu,1,GN,P528347,37,4,date
+10084,P528347.38.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528347,38,1,witness
+10085,P528347.38.2,x[1]PN,{m}[x,PN,"['𒁹', 'X']",𒁹X,{m}[x],"['complete', 'missing']",0.5,x,x,1,PN,P528347,38,2,witness
+10086,P528347.38.3,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528347,38,3,witness
+10087,P528347.38.4,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P528347,38,4,witness

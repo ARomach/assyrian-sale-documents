@@ -1,0 +1,19 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+2348,X001001.2.1,kūm[instead of]PRP,ku-[um,,PRP,"['𒆪', '𒌝']",𒆪𒌝,ku-[um],"['complete', 'missing']",0.5,kūm,kūm,instead of,X001001,2,1,seal identification
+2349,X001001.2.2,kunukkīšu[seal]N,{na₄}KIŠIB-šu₂,,N,"['𒉌𒌓', '𒈩', '𒋙']",𒉌𒌓𒈩𒋙,{[NA₄]}[KIŠIB-šu₂],"['missing', 'missing', 'missing']",1.0,kunukkīšu,kunukku,seal,X001001,2,2,seal identification
+2350,X001001.2.3,u,(x,,u,['X'],X,[x],['missing'],1.0,,,,X001001,2,3,seal identification
+2351,X001001.2.4,u,x)],,u,['X'],X,[x],['missing'],1.0,,,,X001001,2,4,seal identification
+2352,X001001.3.1,ṣupuršu[fingernail]N,ṣu-⸢pur⸣-[šu₂,,N,"['𒍮', '𒁓', '𒋙']",𒍮𒁓𒋙,ṣu-⸢pur⸣-[šu₂],"['complete', 'damaged', 'missing']",0.5,ṣupuršu,ṣupru,fingernail,X001001,3,1,seal identification
+2353,X001001.3.2,iškun[place]V,iš-kun],,V,"['𒅖', '𒆲']",𒅖𒆲,[iš-kun],"['missing', 'missing']",1.0,iškun,šakānu,place,X001001,3,2,seal identification
+2354,X001001.7.1,bētu[estate]N,⸢E₂⸣,,N,['𒂍'],𒂍,⸢E₂⸣,['damaged'],0.5,bētu,bītu,estate,X001001,7,1,object sold
+2355,X001001.7.2,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,X001001,7,2,object sold
+2356,X001001.7.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,X001001,7,3,object sold
+2357,X001001.7.4,u,x],,u,['X'],X,[x],['missing'],1.0,,,,X001001,7,4,object sold
+2358,X001001.11.1,šību[witness]N,⸢IGI⸣,,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,X001001,11,1,witness
+2359,X001001.11.2,u,{1}⸢x⸣-[x,,u,"['𒁹', 'X', 'X']",𒁹XX,{[1]}⸢x⸣-[x],"['missing', 'damaged', 'missing']",0.83,,,,X001001,11,2,witness
+2360,X001001.11.3,u,x],,u,['X'],X,[x],['missing'],1.0,,,,X001001,11,3,witness
+2361,X001001.12.1,Tašritu[Tishri]MN,{iti}DUL,MN,MN,"['𒌗', '𒌋𒌆']",𒌗𒌋𒌆,{ITI}DUL,"['complete', 'complete']",0.0,Tašriti,Tašritu,Tishri,X001001,12,1,date
+2362,X001001.12.2,ūm[day]N,[UD,,N,['𒌓'],𒌓,[UD],['missing'],1.0,ūm,ūmu,day,X001001,12,2,date
+2363,X001001.12.3,u,x-KAM₂,,u,"['X', '𒆚']",X𒆚,[x-KAM₂],"['missing', 'missing']",1.0,,,,X001001,12,3,date
+2364,X001001.12.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,X001001,12,4,date
+2365,X001001.12.5,u,x],,u,['X'],X,[x],['missing'],1.0,,,,X001001,12,5,date

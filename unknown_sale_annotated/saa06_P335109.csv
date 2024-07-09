@@ -1,0 +1,55 @@
+Unnamed: 0,ref,frag,inst,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,lang,text,line,word,annotation
+678,P335109.2.1,{[na₄}KIŠIB,kunuk[seal]N,,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}[KIŠIB],"['missing', 'missing']",1.0,kunuk,kunukku,seal,,P335109,2,1,seal identification
+679,P335109.2.2,{1}x,u,,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,P335109,2,2,seal identification
+680,P335109.2.3,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,2,3,seal identification
+681,P335109.2.4,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,2,4,seal identification
+682,P335109.2.5,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,2,5,seal identification
+683,P335109.3.1,⸢EN⸣,bēl[owner]N,,N,['𒂗'],𒂗,⸢EN⸣,['damaged'],0.5,bēl,bēlu,owner,,P335109,3,1,seal identification
+684,P335109.3.2,[x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,3,2,seal identification
+685,P335109.3.3,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,3,3,seal identification
+686,P335109.3.4,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,3,4,seal identification
+687,P335109.3.5,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,3,5,seal identification
+688,P335109.3.6,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,3,6,seal identification
+689,P335109.8.1,a-⸢na⸣,ana[to]PRP,,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-⸢na⸣,"['complete', 'damaged']",0.25,ana,ana,to,,P335109,8,1,penalties for litigation: penalty
+690,P335109.8.2,[EN-šu₂,bēlīšu[owner]N,,N,"['𒂗', '𒋙']",𒂗𒋙,[EN-šu₂],"['missing', 'missing']",1.0,bēlīšu,bēlu,owner,,P335109,8,2,penalties for litigation: penalty
+691,P335109.8.3,GUR-ra],+târu[turn//return]V'V$utâra,,V,"['𒄥', '𒊏']",𒄥𒊏,[GUR-ra],"['missing', 'missing']",1.0,utâra,târu,return,,P335109,8,3,penalties for litigation: penalty
+692,P335109.9.1,ina,ina[in]PRP,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,P335109,9,1,penalties for litigation: penalty
+693,P335109.9.2,de-[ni-šu₂,dēnīšu[lawsuit]N,,N,"['𒁲', '𒉌', '𒋙']",𒁲𒉌𒋙,de-[ni-šu₂],"['complete', 'missing', 'missing']",0.67,dēnīšu,dīnu,lawsuit,,P335109,9,2,penalties for litigation: penalty
+694,P335109.9.3,DUG₄.DUG₄-ma],idabbubma[contest]V,,V,"['𒅗', '𒅗', '𒈠']",𒅗𒅗𒈠,[DUG₄].[DUG₄-ma],"['missing', 'missing', 'missing']",1.0,idabbubma,dabābu,contest,,P335109,9,3,penalties for litigation: penalty
+695,P335109.10.1,la,lā[not]MOD,,MOD,['𒆷'],𒆷,la,['complete'],0.0,lā,lā,not,,P335109,10,1,penalties for litigation: penalty
+696,P335109.10.2,[i-la-qi₂],leqû[take//succeed]V$ilaqqi,,V,"['𒄿', '𒆷', '𒆠']",𒄿𒆷𒆠,[i-la-qi₂],"['missing', 'missing', 'missing']",1.0,ilaqqi,leqû,succeed,,P335109,10,2,penalties for litigation: penalty
+697,P335109.12.1,IGI,šību[witness]N,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P335109,12,1,witness
+698,P335109.12.2,{1}⸢x⸣+[x,u,,u,"['𒁹', 'x', 'x']",𒁹xx,{1}⸢x⸣+[x],"['complete', 'damaged', 'missing']",0.5,,,,,P335109,12,2,witness
+699,P335109.12.3,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,12,3,witness
+700,P335109.12.4,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,12,4,witness
+701,P335109.13.1,IGI,šību[witness]N,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P335109,13,1,witness
+702,P335109.13.2,{1}15—[x,u,,u,"['𒁹', '15', 'x']",𒁹15x,{1}15-[x],"['complete', 'complete', 'missing']",0.33,,,,,P335109,13,2,witness
+703,P335109.13.3,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,13,3,witness
+704,P335109.13.4,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,13,4,witness
+705,P335109.14.1,IGI,šību[witness]N,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P335109,14,1,witness
+706,P335109.14.2,{1}EN—[x,u,,u,"['𒁹', '𒂗', 'x']",𒁹𒂗x,{1}EN-[x],"['complete', 'complete', 'missing']",0.33,,,,,P335109,14,2,witness
+707,P335109.14.3,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,14,3,witness
+708,P335109.14.4,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,14,4,witness
+709,P335109.15.1,IGI,šību[witness]N,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P335109,15,1,witness
+710,P335109.15.2,{1}ba-[x,u,,u,"['𒁹', '𒁀', 'x']",𒁹𒁀x,{1}ba-[x],"['complete', 'complete', 'missing']",0.33,,,,,P335109,15,2,witness
+711,P335109.15.3,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,15,3,witness
+712,P335109.15.4,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,15,4,witness
+713,P335109.16.1,IGI,šību[witness]N,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P335109,16,1,witness
+714,P335109.16.2,{1}⸢tab⸣-[x,u,,u,"['𒁹', '𒋰', 'x']",𒁹𒋰x,{1}⸢tab⸣-[x],"['complete', 'damaged', 'missing']",0.5,,,,,P335109,16,2,witness
+715,P335109.16.3,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,16,3,witness
+716,P335109.16.4,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,16,4,witness
+717,P335109.18.1,IGI,šību[witness]N,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P335109,18,1,witness
+718,P335109.18.2,{1}[x,u,,u,"['𒁹', 'x']",𒁹x,{1}[x],"['complete', 'missing']",0.5,,,,,P335109,18,2,witness
+719,P335109.18.3,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,18,3,witness
+720,P335109.18.4,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,18,4,witness
+721,P335109.18.5,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,18,5,witness
+722,P335109.20.1,{1}x,u,,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,P335109,20,1,witness
+723,P335109.20.2,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,20,2,witness
+724,P335109.20.3,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335109,20,3,witness
+725,P335109.20.4,{lu₂v}A.BA,ṭupšarru[scribe]N,,N,"['𒇽', '𒀀', '𒁀']",𒇽𒀀𒁀,{LU₂~v}A.BA,"['complete', 'complete', 'complete']",0.0,ṭupšarru,ṭupšarru,scribe,,P335109,20,4,witness
+726,P335109.20.5,{iti}BARAG,Nisannu[Nisan]MN,MN,MN,"['𒌗', '𒁈']",𒌗𒁈,{ITI}BARAG,"['complete', 'complete']",0.0,Nisannu,Nisannu,Nisan,,P335109,20,5,date
+727,P335109.20.6,o,u,,u,['o'],o,o,['complete'],0.0,,,,,P335109,20,6,date
+728,P335109.21.1,[UD,ūm[day]N,,N,['𒌓'],𒌓,[UD],['missing'],1.0,ūm,ūmu,day,,P335109,21,1,date
+729,P335109.21.2,x-KAM,n,NUMBER,n,"['x', '𒄰']",x𒄰,[x-KAM],"['missing', 'missing']",1.0,,,,,P335109,21,2,date
+730,P335109.21.3,lim]-⸢mu⸣,limmu[eponym (of year)]N,,N,"['𒅆', '𒈬']",𒅆𒈬,[lim]-⸢mu⸣,"['missing', 'damaged']",0.75,limmu,līmu,eponym (of year),,P335109,21,3,date
+731,P335109.21.4,{1}za-ze-e,Zazi[1]PN$Zaze,PN,PN,"['𒁹', '𒍝', '𒍣', '𒂊']",𒁹𒍝𒍣𒂊,{1}za-ze-e,"['complete', 'complete', 'complete', 'complete']",0.0,Zaze,Zazi,1,,P335109,21,4,date

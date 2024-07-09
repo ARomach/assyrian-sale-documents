@@ -1,0 +1,35 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word,annotation
+7827,P514319.2.1,kunuk[seal]N,{[na₄]}⸢KIŠIB⸣,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}⸢KIŠIB⸣,"['missing', 'damaged']",0.75,,P514319,2,1,seal identification
+7828,P514319.2.2,x-šar-Aššur[1]PN,{[m}x]-⸢x-IM-aš+šur⸣,x-šar-Aššur,x-šar-Aššur,1,PN,"['𒁹', 'X', 'X', '𒅎', '𒀸', '𒋩']",𒁹XX𒅎𒀸𒋩,{[m]}[x]-⸢x-IM-aš⸣+⸢šur⸣,"['missing', 'missing', 'damaged', 'damaged', 'damaged', 'damaged']",0.67,PN,P514319,2,2,seal identification
+7829,P514319.3.1,mār[son]N,[DUMU],mār,māru,son,N,['𒌉'],𒌉,[DUMU],['missing'],1.0,,P514319,3,1,seal identification
+7830,P514319.3.2,Addi[1]PN,{[m]}⸢a⸣-di-iʾ,Addi,Addi,1,PN,"['𒁹', '𒀀', '𒁲', '𒀪']",𒁹𒀀𒁲𒀪,{[m]}⸢a⸣-di-iʾ,"['missing', 'damaged', 'complete', 'complete']",0.38,PN,P514319,3,2,seal identification
+7831,P514319.3.3,bēl[lord]N,EN,bēl,bēlu,lord,N,['𒂗'],𒂗,EN,['complete'],0.0,,P514319,3,3,seal identification
+7832,P514319.3.4,issi[woman]N,MUNUS,issi,sinništu,woman,N,['𒊩'],𒊩,MUNUS,['complete'],0.0,,P514319,3,4,seal identification
+7833,P514319.4.1,tadāni[giving]'N,⸢ta⸣-da-ni,tadāni,tadānu,giving,V,"['𒋫', '𒁕', '𒉌']",𒋫𒁕𒉌,⸢ta⸣-da-ni,"['damaged', 'complete', 'complete']",0.17,,P514319,4,1,seal identification
+7834,P514319.10.1,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,P514319,10,1,none
+7835,P514319.10.2,u,x,,,,u,['X'],X,[x],['missing'],1.0,,P514319,10,2,none
+7836,P514319.10.3,u,x,,,,u,['X'],X,[x],['missing'],1.0,,P514319,10,3,none
+7837,P514319.10.4,u,x,,,,u,['X'],X,[x],['missing'],1.0,,P514319,10,4,none
+7838,P514319.10.5,u,x],,,,u,['X'],X,[x],['missing'],1.0,,P514319,10,5,none
+7839,P514319.10.6,u,⸢x⸣,,,,u,['X'],X,⸢x⸣,['damaged'],0.5,,P514319,10,6,none
+7840,P514319.11.1,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,P514319,11,1,none
+7841,P514319.11.2,u,x,,,,u,['X'],X,[x],['missing'],1.0,,P514319,11,2,none
+7842,P514319.11.3,u,x,,,,u,['X'],X,[x],['missing'],1.0,,P514319,11,3,none
+7843,P514319.11.4,u,x,,,,u,['X'],X,[x],['missing'],1.0,,P514319,11,4,none
+7844,P514319.11.5,u,x],,,,u,['X'],X,[x],['missing'],1.0,,P514319,11,5,none
+7845,P514319.12.1,šību[witness]N,[IGI],šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,P514319,12,1,witness
+7846,P514319.12.2,Ba-x[1]PN,{[m]}⸢ba⸣-[x-x],Ba-x,Ba-x,1,PN,"['𒁹', '𒁀', 'X', 'X']",𒁹𒁀XX,{[m]}⸢ba⸣-[x-x],"['missing', 'damaged', 'missing', 'missing']",0.88,PN,P514319,12,2,witness
+7847,P514319.13.1,šību[witness]N,[IGI],šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,P514319,13,1,witness
+7848,P514319.13.2,Issar-ilaʾi[1]PN,{⸢m}15-DINGIR⸣-[a]-⸢a⸣,Issar-ilaʾi,Issar-ilaʾi,1,PN,"['𒁹', '𒌋𒐊', '𒀭', '𒀀', '𒀀']",𒁹𒌋𒐊𒀭𒀀𒀀,{⸢m⸣}⸢15-DINGIR⸣-[a]-⸢a⸣,"['damaged', 'damaged', 'damaged', 'missing', 'damaged']",0.6,PN,P514319,13,2,witness
+7849,P514319.14.1,Šabaṭu[Shebat]MN$,{⸢iti⸣}ZIZ₂,Šabaṭu,Šabaṭu,Shebat,MN,"['𒌗', '𒍩']",𒌗𒍩,{⸢ITI⸣}ZIZ₂,"['damaged', 'complete']",0.25,MN,P514319,14,1,date
+7850,P514319.14.2,X,UD.5.KAM₂⸣,,,,X,"['𒌓', '𒐊', '𒆚']",𒌓𒐊𒆚,UD.⸢5⸣.⸢KAM₂⸣,"['complete', 'damaged', 'damaged']",0.33,,P514319,14,2,date
+7851,P514319.16.1,limmu[eponym (of year)]N,⸢lim⸣-mu,limmu,līmu,eponym (of year),N,"['𒅆', '𒈬']",𒅆𒈬,⸢lim⸣-mu,"['damaged', 'complete']",0.25,,P514319,16,1,date
+7852,P514319.16.2,Aššur-gimillu-tere[1]PN,{m}aš+⸢šur-ŠU⸣-GUR,Aššur-gimillu-tere,Aššur-gimillu-tere,1,PN,"['𒁹', '𒀸', '𒋩', '𒋗', '𒄥']",𒁹𒀸𒋩𒋗𒄥,{m}aš+⸢šur-ŠU⸣-GUR,"['complete', 'complete', 'damaged', 'damaged', 'complete']",0.2,PN,P514319,16,2,date
+7853,P514319.17.1,ṣarpu[silver]N,KU₃.⸢BABBAR⸣,ṣarpu,ṣarpu,silver,N,"['𒆬', '𒌓']",𒆬𒌓,KU₃.⸢BABBAR⸣,"['complete', 'damaged']",0.25,,P514319,17,1,other clauses
+7854,P514319.17.2,u,[x]-⸢x⸣-ša₂,,,,u,"['X', 'X', '𒃻']",XX𒃻,[x]-⸢x⸣-ša₂,"['missing', 'damaged', 'complete']",0.5,,P514319,17,2,other clauses
+7855,P514319.17.3,u,i-⸢x-x⸣,,,,u,"['𒄿', 'X', 'X']",𒄿XX,i-⸢x-x⸣,"['complete', 'damaged', 'damaged']",0.33,,P514319,17,3,other clauses
+7856,P514319.18.1,šību[witness]N,[IGI],šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,P514319,18,1,witness
+7857,P514319.18.2,Pi-x[1]PN,{⸢m⸣}pi-⸢x-x-x⸣,Pi-x,Pi-x,1,PN,"['𒁹', '𒉿', 'X', 'X', 'X']",𒁹𒉿XXX,{⸢m⸣}pi-⸢x-x-x⸣,"['damaged', 'complete', 'damaged', 'damaged', 'damaged']",0.4,PN,P514319,18,2,witness
+7858,P514319.18.3,u,[(x,,,,u,['X'],X,[x],['missing'],1.0,,P514319,18,3,witness
+7859,P514319.18.4,u,x,,,,u,['X'],X,[x],['missing'],1.0,,P514319,18,4,witness
+7860,P514319.18.5,u,x)],,,,u,['X'],X,[x],['missing'],1.0,,P514319,18,5,witness

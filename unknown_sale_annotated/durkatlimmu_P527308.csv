@@ -1,0 +1,30 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+20993,P527308.3.1,mār[son]N,[DUMU,mār,māru,son,N,['𒌉'],𒌉,[DUMU],['missing'],1.0,,,P527308,3,1,none
+20994,P527308.3.2,+Apladad-isseʾa[]PN$,{m]}A.10-KI-a,Apladad-isseʾa,Apladad-isseʾa,1,PN,"['𒁹', '𒀀', '𒌋', '𒆠', '𒀀']",𒁹𒀀𒌋𒆠𒀀,{[m]}A.10-KI-a,"['missing', 'complete', 'complete', 'complete', 'complete']",0.2,PN,,P527308,3,2,none
+20995,P527308.4.1,ina[at]PRP,[ina,ina,ina,at,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,,P527308,4,1,price
+20996,P527308.4.2,X,ŠA₃,,,,X,['𒊮'],𒊮,[ŠA₃],['missing'],1.0,,,P527308,4,2,price
+20997,P527308.4.3,n,x],,,,n,['X'],X,[x],['missing'],1.0,NUMBER,,P527308,4,3,price
+20998,P527308.4.4,manā[a unit of weight]N,MA.NA,manā,manû,a unit of weight,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,,,P527308,4,4,price
+20999,P527308.4.5,n,3/4.MEŠ,,,,n,"['3/₄', '𒈨𒌍']",3/₄𒈨𒌍,3/4.MEŠ,"['complete', 'complete']",0.0,NUMBER,,P527308,4,5,price
+21000,P527308.4.6,X,⸢KU₃⸣.[BABBAR],,,,X,"['𒆬', '𒌓']",𒆬𒌓,⸢KU₃⸣.[BABBAR],"['damaged', 'missing']",0.75,,,P527308,4,6,price
+21001,P527308.5.1,X,⸢LUH⸣-i,,,,X,"['𒈛', '𒄿']",𒈛𒄿,⸢LUH⸣-i,"['damaged', 'complete']",0.25,,,P527308,5,1,price
+21002,P527308.5.2,X,TA,,,,X,['𒋫'],𒋫,TA,['complete'],0.0,,,P527308,5,2,initiation of transaction
+21003,P527308.5.3,X,IGI,,,,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527308,5,3,initiation of transaction
+21004,P527308.6.1,+x-itannu[]PN$,{[m}x-x]-i-ta-nu,x-itannu,x-itannu,1,PN,"['𒁹', 'X', 'X', '𒄿', '𒋫', '𒉡']",𒁹XX𒄿𒋫𒉡,{[m]}[x-x]-i-ta-nu,"['missing', 'missing', 'missing', 'complete', 'complete', 'complete']",0.5,PN,,P527308,6,1,initiation of transaction
+21005,P527308.7.1,X,[u₂]-⸢piš⸣-ma,,,,X,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,[u₂]-⸢piš⸣-ma,"['missing', 'damaged', 'complete']",0.5,,,P527308,7,1,initiation of transaction
+21006,P527308.7.2,ilqe[purchase]V,il-⸢qe⸣,ilqe,leqû,purchase,V,"['𒅋', '𒆥']",𒅋𒆥,il-⸢qe⸣,"['complete', 'damaged']",0.25,,,P527308,7,2,completion of transaction
+21007,P527308.11.1,X,[kas-pu,,,,X,"['𒆜', '𒁍']",𒆜𒁍,[kas-pu],"['missing', 'missing']",1.0,,,P527308,11,1,confirmation of transfer 1
+21008,P527308.11.2,X,gam]-⸢mur⸣,,,,X,"['𒃵', '𒄯']",𒃵𒄯,[gam]-⸢mur⸣,"['missing', 'damaged']",0.75,,,P527308,11,2,confirmation of transfer 1
+21009,P527308.11.3,X,[ta]-din,,,,X,"['𒋫', '𒁷']",𒋫𒁷,[ta]-din,"['missing', 'complete']",0.5,,,P527308,11,3,confirmation of transfer 1
+21010,P527308.12.1,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527308,12,1,confirmation of transfer 2
+21011,P527308.12.2,X,šu₂-a-tu,,,,X,"['𒋙', '𒀀', '𒌅']",𒋙𒀀𒌅,[šu₂-a-tu],"['missing', 'missing', 'missing']",1.0,,,P527308,12,2,confirmation of transfer 2
+21012,P527308.12.3,X,za-rip],,,,X,"['𒍝', '𒆗']",𒍝𒆗,[za-rip],"['missing', 'missing']",1.0,,,P527308,12,3,confirmation of transfer 2
+21013,P527308.12.4,X,laq-qe,,,,X,"['𒋃', '𒆥']",𒋃𒆥,laq-qe,"['complete', 'complete']",0.0,,,P527308,12,4,confirmation of transfer 2
+21014,P527308.13.1,X,[tu-a-ru,,,,X,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,[tu-a-ru],"['missing', 'missing', 'missing']",1.0,,,P527308,13,1,exclusion of litigation
+21015,P527308.13.2,X,de-nu],,,,X,"['𒁲', '𒉡']",𒁲𒉡,[de-nu],"['missing', 'missing']",1.0,,,P527308,13,2,exclusion of litigation
+21016,P527308.13.3,X,DUG₄.⸢DUG₄⸣,,,,X,"['𒅗', '𒅗']",𒅗𒅗,DUG₄.⸢DUG₄⸣,"['complete', 'damaged']",0.25,,,P527308,13,3,exclusion of litigation
+21017,P527308.14.1,X,[la-a-šu₂,,,,X,"['𒆷', '𒀀', '𒋙']",𒆷𒀀𒋙,[la-a-šu₂],"['missing', 'missing', 'missing']",1.0,,,P527308,14,1,exclusion of litigation
+21018,P527308.14.2,X,man-nu,,,,X,"['𒌋𒌋', '𒉡']",𒌋𒌋𒉡,[man-nu],"['missing', 'missing']",1.0,,,P527308,14,2,penalties for litigation: contravention
+21019,P527308.14.3,ša[who]REL,ša,ša,ša,who,REL,['𒊭'],𒊭,[ša],['missing'],1.0,,,P527308,14,3,penalties for litigation: contravention
+21020,P527308.14.4,ina[in]PRP,ina],ina,ina,in,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,,P527308,14,4,penalties for litigation: contravention
+21021,P527308.14.5,X,UD.[UL].LI₂.[A],,,,X,"['𒌓', '𒌌', '𒉌', '𒀀']",𒌓𒌌𒉌𒀀,UD.[UL].LI₂.[A],"['complete', 'missing', 'complete', 'missing']",0.5,,,P527308,14,5,penalties for litigation: contravention

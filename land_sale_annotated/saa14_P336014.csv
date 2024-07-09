@@ -1,0 +1,46 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+27296,P336014.3.1,ina,u,u,['𒀸'],𒀸,ina,['complete'],0.0,,,,,,P336014,3,1,none
+27297,P336014.3.2,⸢x⸣+[x,u,u,"['x', 'x']",xx,⸢x⸣+[x],"['damaged', 'missing']",0.75,,,,,,P336014,3,2,none
+27298,P336014.3.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,3,3,none
+27299,P336014.3.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,3,4,none
+27300,P336014.3.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,3,5,none
+27301,P336014.3.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,3,6,none
+27302,P336014.4.1,{1}ad-[x,u,u,"['𒁹', '𒀜', 'x']",𒁹𒀜x,{1}ad-[x],"['complete', 'complete', 'missing']",0.33,,,,,,P336014,4,1,none
+27303,P336014.4.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,4,2,none
+27304,P336014.4.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,4,3,none
+27305,P336014.4.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,4,4,none
+27306,P336014.4.5,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,4,5,none
+27307,P336014.6.1,u₂-piš-ma,uppišma[contract]V,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,u₂-piš-ma,"['complete', 'complete', 'complete']",0.0,uppišma,epēšu,contract,,,P336014,6,1,initiation of transaction
+27308,P336014.6.2,{1}{⸢d⸣}[x,u,u,"['𒁹', '𒀭', 'x']",𒁹𒀭x,{1}{⸢d⸣}[x],"['complete', 'damaged', 'missing']",0.5,,,,,,P336014,6,2,initiation of transaction
+27309,P336014.6.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,6,3,initiation of transaction
+27310,P336014.6.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,6,4,initiation of transaction
+27311,P336014.6.5,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,6,5,initiation of transaction
+27312,P336014.7.1,E₂,bētu[plot of land]N,N,['𒂍'],𒂍,E₂,['complete'],0.0,bētu,bītu,plot of land,,,P336014,7,1,other clauses
+27313,P336014.7.2,04,n,n,['𒐉'],𒐉,04,['complete'],0.0,,,,NUMBER,,P336014,7,2,other clauses
+27314,P336014.7.3,ANŠE,imārī[a unit of capacity]N,N,['𒀲'],𒀲,ANŠE,['complete'],0.0,imārī,imēru,a unit of capacity,,,P336014,7,3,other clauses
+27315,P336014.7.4,A.ŠA₃,eqlu[field]N,N,"['𒀀', '𒊮']",𒀀𒊮,A.ŠA₃,"['complete', 'complete']",0.0,eqlu,eqlu,field,,,P336014,7,4,other clauses
+27316,P336014.7.5,ina,ina[in]PRP,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,,P336014,7,5,other clauses
+27317,P336014.7.6,ma-⸢az⸣-[ru-te],mazrūte[(area or state of) cultivation]N,N,"['𒈠', '𒊍', '𒊒', '𒋼']",𒈠𒊍𒊒𒋼,ma-⸢az⸣-[ru-te],"['complete', 'damaged', 'missing', 'missing']",0.62,mazrūte,mazrūtu,(area or state of) cultivation,,,P336014,7,6,other clauses
+27318,P336014.8.1,[ana,ana[for]PRP,PRP,['𒁹'],𒁹,[ana],['missing'],1.0,ana,ana,for,,,P336014,8,1,other clauses
+27319,P336014.8.2,x]+⸢x⸣,u,u,"['x', 'x']",xx,[x]+⸢x⸣,"['missing', 'damaged']",0.75,,,,,,P336014,8,2,other clauses
+27320,P336014.8.3,MU.AN.NA-MEŠ,šanāti[year]N,N,"['𒈬', '𒀭', '𒈾', '𒈨𒌍']",𒈬𒀭𒈾𒈨𒌍,MU.AN.NA-MEŠ,"['complete', 'complete', 'complete', 'complete']",0.0,šanāti,šattu,year,,,P336014,8,3,other clauses
+27321,P336014.8.4,ina,ina[in+=for]PRP,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,,P336014,8,4,price
+27322,P336014.8.5,ŠA₃,libbi[interior]N,N,['𒊮'],𒊮,ŠA₃,['complete'],0.0,libbi,libbu,interior,,,P336014,8,5,price
+27323,P336014.8.6,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,8,6,price
+27324,P336014.8.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,8,7,price
+27325,P336014.8.8,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,8,8,price
+27326,P336014.9.1,[il]-qi,ilqi[purchase]V,V,"['𒅋', '𒆥']",𒅋𒆥,[il]-qi,"['missing', 'complete']",0.5,ilqi,leqû,purchase,,,P336014,9,1,completion of transaction
+27327,P336014.9.2,man-nu,mannu[whoever]'XP,QP,"['𒌋𒌋', '𒉡']",𒌋𒌋𒉡,man-nu,"['complete', 'complete']",0.0,mannu,mannu,whoever,,,P336014,9,2,none
+27328,P336014.9.3,ša,ša[that]REL,REL,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,that,,,P336014,9,3,none
+27329,P336014.9.4,kas-pu,kaspu[money]N,N,"['𒆜', '𒁍']",𒆜𒁍,kas-pu,"['complete', 'complete']",0.0,kaspu,kaspu,money,,,P336014,9,4,none
+27330,P336014.9.5,⸢x⸣+[x,u,u,"['x', 'x']",xx,⸢x⸣+[x],"['damaged', 'missing']",0.75,,,,,,P336014,9,5,none
+27331,P336014.9.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,9,6,none
+27332,P336014.9.7,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,9,7,none
+27333,P336014.10.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,10,1,none
+27334,P336014.10.2,x]+⸢x,u,u,"['x', 'x']",xx,[x]+⸢x⸣,"['missing', 'damaged']",0.75,,,,,,P336014,10,2,none
+27335,P336014.10.3,A.ŠA₃⸣,eqlu[field]N,N,"['𒀀', '𒊮']",𒀀𒊮,⸢A⸣.⸢ŠA₃⸣,"['damaged', 'damaged']",0.5,eqlu,eqlu,field,,,P336014,10,3,none
+27336,P336014.10.4,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,10,4,none
+27337,P336014.10.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,10,5,none
+27338,P336014.10.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,10,6,none
+27339,P336014.10.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,10,7,none
+27340,P336014.10.8,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P336014,10,8,none

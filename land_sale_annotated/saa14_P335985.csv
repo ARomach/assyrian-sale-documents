@@ -1,0 +1,121 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+6714,P335985.2.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,2,1,object sold
+6715,P335985.2.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,2,2,object sold
+6716,P335985.2.3,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,2,3,object sold
+6717,P335985.2.4,{mi₂}ga-[x,u,u,"['𒊩', '𒂵', 'x']",𒊩𒂵x,{MI₂}ga-[x],"['complete', 'complete', 'missing']",0.33,,,,,,P335985,2,4,object sold
+6718,P335985.2.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,2,5,object sold
+6719,P335985.2.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,2,6,object sold
+6720,P335985.2.7,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,2,7,object sold
+6721,P335985.3.1,[x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,3,1,object sold
+6722,P335985.3.2,ina,ina[in+=in]PRP,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,,P335985,3,2,object sold
+6723,P335985.3.3,ŠA₃,libbi[interior]N,N,['𒊮'],𒊮,ŠA₃,['complete'],0.0,libbi,libbu,interior,,,P335985,3,3,object sold
+6724,P335985.3.4,01,n,n,['𒁹'],𒁹,01,['complete'],0.0,,,,NUMBER,,P335985,3,4,object sold
+6725,P335985.3.5,ANŠE,imārī[a unit of capacity]N,N,['𒀲'],𒀲,ANŠE,['complete'],0.0,imārī,imēru,a unit of capacity,,,P335985,3,5,object sold
+6726,P335985.3.6,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,3,6,object sold
+6727,P335985.3.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,3,7,object sold
+6728,P335985.3.8,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,3,8,object sold
+6729,P335985.4.1,[SUHUR],ṭēhi[adjacent to]PRP,PRP,['𒋦'],𒋦,[SUHUR],['missing'],1.0,ṭēhi,ṭāhu,adjacent to,,,P335985,4,1,object sold
+6730,P335985.4.2,{giš}SAR,kirie[garden]N,N,"['𒄑', '𒊬']",𒄑𒊬,{GIŠ}SAR,"['complete', 'complete']",0.0,kirie,kirû,garden,,,P335985,4,2,object sold
+6731,P335985.4.3,ša,ša[of]DET,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,,P335985,4,3,object sold
+6732,P335985.4.4,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,4,4,object sold
+6733,P335985.4.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,4,5,object sold
+6734,P335985.4.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,4,6,object sold
+6735,P335985.4.7,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,4,7,object sold
+6736,P335985.5.1,⸢SUHUR⸣,ṭēhi[adjacent to]PRP,PRP,['𒋦'],𒋦,⸢SUHUR⸣,['damaged'],0.5,ṭēhi,ṭāhu,adjacent to,,,P335985,5,1,object sold
+6737,P335985.5.2,{giš}SAR,kirie[garden]N,N,"['𒄑', '𒊬']",𒄑𒊬,{GIŠ}SAR,"['complete', 'complete']",0.0,kirie,kirû,garden,,,P335985,5,2,object sold
+6738,P335985.5.3,ša,ša[of]DET,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,,P335985,5,3,object sold
+6739,P335985.5.4,{1}[x,u,u,"['𒁹', 'x']",𒁹x,{1}[x],"['complete', 'missing']",0.5,,,,,,P335985,5,4,object sold
+6740,P335985.5.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,5,5,object sold
+6741,P335985.5.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,5,6,object sold
+6742,P335985.6.1,SUHUR,ṭēhi[adjacent to]PRP,PRP,['𒋦'],𒋦,SUHUR,['complete'],0.0,ṭēhi,ṭāhu,adjacent to,,,P335985,6,1,object sold
+6743,P335985.6.2,A.ŠA₃,eqli[field]N,N,"['𒀀', '𒊮']",𒀀𒊮,A.ŠA₃,"['complete', 'complete']",0.0,eqli,eqlu,field,,,P335985,6,2,object sold
+6744,P335985.6.3,ša,ša[of]DET,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,,P335985,6,3,object sold
+6745,P335985.6.4,{1}ha-⸢an⸣-[x],u,u,"['𒁹', '𒄩', '𒀭', 'x']",𒁹𒄩𒀭x,{1}ha-⸢an⸣-[x],"['complete', 'complete', 'damaged', 'missing']",0.38,,,,,,P335985,6,4,object sold
+6746,P335985.7.1,SUHUR,ṭēhi[adjacent to]PRP,PRP,['𒋦'],𒋦,SUHUR,['complete'],0.0,ṭēhi,ṭāhu,adjacent to,,,P335985,7,1,object sold
+6747,P335985.7.2,A.ŠA₃,eqli[field]N,N,"['𒀀', '𒊮']",𒀀𒊮,A.ŠA₃,"['complete', 'complete']",0.0,eqli,eqlu,field,,,P335985,7,2,object sold
+6748,P335985.7.3,ša,ša[of]DET,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,,P335985,7,3,object sold
+6749,P335985.7.4,{1}ad-[x,u,u,"['𒁹', '𒀜', 'x']",𒁹𒀜x,{1}ad-[x],"['complete', 'complete', 'missing']",0.33,,,,,,P335985,7,4,object sold
+6750,P335985.7.5,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,7,5,object sold
+6751,P335985.8.1,PAB,gimru[total]N,N,['𒉽'],𒉽,PAB,['complete'],0.0,gimru,gimru,total,,,P335985,8,1,object sold
+6752,P335985.8.2,03,n,n,['𒐈'],𒐈,03,['complete'],0.0,,,,NUMBER,,P335985,8,2,object sold
+6753,P335985.8.3,ZI-MEŠ,nupšāti[person]N,N,"['𒍣', '𒈨𒌍']",𒍣𒈨𒌍,ZI-MEŠ,"['complete', 'complete']",0.0,nupšāti,napištu,person,,,P335985,8,3,object sold
+6754,P335985.8.4,⸢x⸣+[x,u,u,"['x', 'x']",xx,⸢x⸣+[x],"['damaged', 'missing']",0.75,,,,,,P335985,8,4,object sold
+6755,P335985.8.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,8,5,object sold
+6756,P335985.8.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,8,6,object sold
+6757,P335985.8.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,8,7,object sold
+6758,P335985.8.8,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,8,8,object sold
+6759,P335985.9.1,ša,ša[of]DET,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,,P335985,9,1,object sold
+6760,P335985.9.2,{giš}til-lit,tillit[vine]N,N,"['𒄑', '𒌀', '𒀖']",𒄑𒌀𒀖,{GIŠ}til-lit,"['complete', 'complete', 'complete']",0.0,tillit,tillatu,vine,,,P335985,9,2,object sold
+6761,P335985.9.3,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,9,3,object sold
+6762,P335985.9.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,9,4,object sold
+6763,P335985.9.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,9,5,object sold
+6764,P335985.9.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,9,6,object sold
+6765,P335985.9.7,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,9,7,object sold
+6766,P335985.10.1,u₂-[piš]-ma,uppišma[contract]V,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,u₂-[piš]-ma,"['complete', 'missing', 'complete']",0.33,uppišma,epēšu,contract,,,P335985,10,1,initiation of transaction
+6767,P335985.10.2,{1}⸢x,u,u,"['𒁹', 'x']",𒁹x,{1}⸢x⸣,"['complete', 'damaged']",0.25,,,,,,P335985,10,2,initiation of transaction
+6768,P335985.10.3,x⸣,u,u,['x'],x,⸢x⸣,['damaged'],0.5,,,,,,P335985,10,3,initiation of transaction
+6769,P335985.10.4,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,10,4,initiation of transaction
+6770,P335985.10.5,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,10,5,initiation of transaction
+6771,P335985.11.1,⸢TA@v⸣,issu[from+=from]PRP,PRP,['𒋬'],𒋬,⸢TA@v⸣,['damaged'],0.5,issu,ištu,from,,,P335985,11,1,price
+6772,P335985.11.2,[pa]-an,pān[front]N,N,"['𒉺', '𒀭']",𒉺𒀭,[pa]-an,"['missing', 'complete']",0.5,pān,pānu,front,,,P335985,11,2,price
+6773,P335985.11.3,{1}DINGIR—šal-⸢x⸣+[x,u,u,"['𒁹', '𒀭', '𒊩', 'x', 'x']",𒁹𒀭𒊩xx,{1}DINGIR-šal-⸢x⸣+[x],"['complete', 'complete', 'complete', 'damaged', 'missing']",0.3,,,,,,P335985,11,3,price
+6774,P335985.11.4,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,11,4,price
+6775,P335985.12.1,[ina,ina[in+=for]PRP,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,,P335985,12,1,price
+6776,P335985.12.2,ŠA₃]-⸢bi⸣,libbi[interior]N,N,"['𒊮', '𒁉']",𒊮𒁉,[ŠA₃]-⸢bi⸣,"['missing', 'damaged']",0.75,libbi,libbu,interior,,,P335985,12,2,price
+6777,P335985.12.3,01,n,n,['𒁹'],𒁹,01,['complete'],0.0,,,,NUMBER,,P335985,12,3,price
+6778,P335985.12.4,MA.NA,manû[a unit of weight]N,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manû,manû,a unit of weight,,,P335985,12,4,price
+6779,P335985.12.5,KUG.UD,ṣarpu[silver]N,N,"['𒆬', '𒌓']",𒆬𒌓,KUG.UD,"['complete', 'complete']",0.0,ṣarpu,ṣarpu,silver,,,P335985,12,5,price
+6780,P335985.13.1,[ina,ina[by]PRP,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,by,,,P335985,13,1,price
+6781,P335985.13.2,MA.NA,manê[a unit of weight]N,N,"['𒈠', '𒈾']",𒈠𒈾,[MA].[NA],"['missing', 'missing']",1.0,manê,manû,a unit of weight,,,P335985,13,2,price
+6782,P335985.13.3,ša],ša[of]DET,DET,['𒊭'],𒊭,[ša],['missing'],1.0,ša,ša,of,,,P335985,13,3,price
+6783,P335985.13.4,{uru}gar-gar-ga-[mis,Gargamis[Carchemish]GN$Gargargamis,GN,"['𒌷', '𒃻', '𒃻', '𒂵', '𒈩']",𒌷𒃻𒃻𒂵𒈩,{URU}gar-gar-ga-[mis],"['complete', 'complete', 'complete', 'complete', 'missing']",0.2,Gargargamis,Gargamis,Carchemish,GN,,P335985,13,4,price
+6784,P335985.13.5,il-qi],ilqi[purchase]V,V,"['𒅋', '𒆥']",𒅋𒆥,[il-qi],"['missing', 'missing']",1.0,ilqi,leqû,purchase,,,P335985,13,5,completion of transaction
+6785,P335985.14.1,[kas]-⸢pu⸣,kaspu[money]N,N,"['𒆜', '𒁍']",𒆜𒁍,[kas]-⸢pu⸣,"['missing', 'damaged']",0.75,kaspu,kaspu,money,,,P335985,14,1,confirmation of transfer 1
+6786,P335985.14.2,ga-mur,gammur[completed]AJ,AJ,"['𒂵', '𒄯']",𒂵𒄯,ga-mur,"['complete', 'complete']",0.0,gammur,gammuru,completed,,,P335985,14,2,confirmation of transfer 1
+6787,P335985.14.3,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,14,3,none
+6788,P335985.14.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,14,4,none
+6789,P335985.14.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,14,5,none
+6790,P335985.14.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,14,6,none
+6791,P335985.18.1,[tu-a]-ru,tuāru[revocation]'N,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,[tu-a]-ru,"['missing', 'missing', 'complete']",0.67,tuāru,târu,revocation,,,P335985,18,1,exclusion of litigation
+6792,P335985.18.2,de-nu,dēnu[lawsuit]N,N,"['𒁲', '𒉡']",𒁲𒉡,de-nu,"['complete', 'complete']",0.0,dēnu,dīnu,lawsuit,,,P335985,18,2,exclusion of litigation
+6793,P335985.18.3,[DUG₄.DUG₄,dabābu[litigation]'N,V,"['𒅗', '𒅗']",𒅗𒅗,[DUG₄].[DUG₄],"['missing', 'missing']",1.0,dabābu,dabābu,litigation,,,P335985,18,3,exclusion of litigation
+6794,P335985.18.4,la-aš₂-šu₂],laššu[(there) is not]V,V,"['𒆷', '𒀾', '𒋙']",𒆷𒀾𒋙,[la-aš₂-šu₂],"['missing', 'missing', 'missing']",1.0,laššu,laššu,(there) is not,,,P335985,18,4,exclusion of litigation
+6795,P335985.19.1,[man-nu],mannu[whoever]'XP,QP,"['𒌋𒌋', '𒉡']",𒌋𒌋𒉡,[man-nu],"['missing', 'missing']",1.0,mannu,mannu,whoever,,,P335985,19,1,penalties for litigation: contravention
+6796,P335985.19.2,⸢ša⸣,ša[that]REL,REL,['𒊭'],𒊭,⸢ša⸣,['damaged'],0.5,ša,ša,that,,,P335985,19,2,penalties for litigation: contravention
+6797,P335985.19.3,ina,ina[in+=whenever]PRP,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,,P335985,19,3,penalties for litigation: contravention
+6798,P335985.19.4,ma-[ti-ma,matīma[ever]AV,AV,"['𒈠', '𒋾', '𒈠']",𒈠𒋾𒈠,ma-[ti-ma],"['complete', 'missing', 'missing']",0.67,matīma,matīma,ever,,,P335985,19,4,penalties for litigation: contravention
+6799,P335985.19.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,19,5,penalties for litigation: contravention
+6800,P335985.19.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,19,6,penalties for litigation: contravention
+6801,P335985.19.7,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,19,7,penalties for litigation: contravention
+6802,P335985.20.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,20,1,penalties for litigation: contravention
+6803,P335985.20.2,x]+⸢x,u,u,"['x', 'x']",xx,[x]+⸢x⸣,"['missing', 'damaged']",0.75,,,,,,P335985,20,2,penalties for litigation: contravention
+6804,P335985.20.3,x⸣+[x,u,u,"['x', 'x']",xx,⸢x⸣+[x],"['damaged', 'missing']",0.75,,,,,,P335985,20,3,penalties for litigation: contravention
+6805,P335985.20.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,20,4,penalties for litigation: contravention
+6806,P335985.20.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,20,5,penalties for litigation: contravention
+6807,P335985.20.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,20,6,penalties for litigation: contravention
+6808,P335985.20.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,20,7,penalties for litigation: contravention
+6809,P335985.20.8,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,20,8,penalties for litigation: contravention
+6810,P335985.20.9,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,20,9,penalties for litigation: contravention
+6811,P335985.21.1,lu-u,lū[may]MOD,MOD,"['𒇻', '𒌋']",𒇻𒌋,lu-u,"['complete', 'complete']",0.0,lū,lū,may,,,P335985,21,1,penalties for litigation: contravention
+6812,P335985.21.2,{1}x]+⸢x⸣+[x,u,u,"['𒁹', 'x', 'x', 'x']",𒁹xxx,{[1]}[x]+⸢x⸣+[x],"['missing', 'missing', 'damaged', 'missing']",0.88,,,,,,P335985,21,2,penalties for litigation: contravention
+6813,P335985.21.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,21,3,penalties for litigation: contravention
+6814,P335985.21.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,21,4,penalties for litigation: contravention
+6815,P335985.21.5,DUMU-MEŠ-šu₂],marʾēšu[son]N,N,"['𒌉', '𒈨𒌍', '𒋙']",𒌉𒈨𒌍𒋙,[DUMU-MEŠ-šu₂],"['missing', 'missing', 'missing']",1.0,marʾēšu,māru,son,,,P335985,21,5,penalties for litigation: contravention
+6816,P335985.22.1,⸢u₃⸣,u[and]CNJ,CNJ,['𒅇'],𒅇,⸢u₃⸣,['damaged'],0.5,u,u,and,,,P335985,22,1,penalties for litigation: contravention
+6817,P335985.22.2,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,22,2,penalties for litigation: contravention
+6818,P335985.22.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,22,3,penalties for litigation: contravention
+6819,P335985.22.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,22,4,penalties for litigation: contravention
+6820,P335985.22.5,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,22,5,penalties for litigation: contravention
+6821,P335985.23.1,de-⸢nu⸣,dēnu[lawsuit]N,N,"['𒁲', '𒉡']",𒁲𒉡,de-⸢nu⸣,"['complete', 'damaged']",0.25,dēnu,dīnu,lawsuit,,,P335985,23,1,penalties for litigation: contravention
+6822,P335985.23.2,[DUG₄.DUG₄,dabābu[litigation]'N,V,"['𒅗', '𒅗']",𒅗𒅗,[DUG₄].[DUG₄],"['missing', 'missing']",1.0,dabābu,dabābu,litigation,,,P335985,23,2,penalties for litigation: contravention
+6823,P335985.23.3,TA@v,issi[with]PRP,PRP,['𒋬'],𒋬,[TA@v],['missing'],1.0,issi,išti,with,,,P335985,23,3,penalties for litigation: contravention
+6824,P335985.23.4,{1}x,u,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,,P335985,23,4,penalties for litigation: contravention
+6825,P335985.23.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,23,5,penalties for litigation: contravention
+6826,P335985.23.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,23,6,penalties for litigation: contravention
+6827,P335985.23.7,ub-ta-u-ni],ubtaʾʾūni[seek]V,V,"['𒌒', '𒋫', '𒌋', '𒉌']",𒌒𒋫𒌋𒉌,[ub-ta-u-ni],"['missing', 'missing', 'missing', 'missing']",1.0,ubtaʾʾūni,buʾʾû,seek,,,P335985,23,7,penalties for litigation: contravention
+6828,P335985.24.1,10,n,n,['𒌋'],𒌋,10,['complete'],0.0,,,,NUMBER,,P335985,24,1,penalties for litigation: penalty
+6829,P335985.24.2,MA.⸢NA⸣,manê[a unit of weight]N,N,"['𒈠', '𒈾']",𒈠𒈾,MA.⸢NA⸣,"['complete', 'damaged']",0.25,manê,manû,a unit of weight,,,P335985,24,2,penalties for litigation: penalty
+6830,P335985.24.3,[KUG.UD,ṣarpu[silver]N,N,"['𒆬', '𒌓']",𒆬𒌓,[KUG].[UD],"['missing', 'missing']",1.0,ṣarpu,ṣarpu,silver,,,P335985,24,3,penalties for litigation: penalty
+6831,P335985.24.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,24,4,penalties for litigation: penalty
+6832,P335985.24.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,24,5,penalties for litigation: penalty
+6833,P335985.24.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335985,24,6,penalties for litigation: penalty

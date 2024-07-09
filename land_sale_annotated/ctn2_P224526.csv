@@ -1,0 +1,65 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+1438,P224526.2.1,kūmu[instead of]PRP,GIM,,PRP,['𒁶'],𒁶,GIM,['complete'],0.0,kūmu,kūm,instead of,P224526,2,1,seal identification
+1439,P224526.2.2,kunukkīšu[seal]N,{na₄}KIŠIB-šu₂,,N,"['𒉌𒌓', '𒈩', '𒋙']",𒉌𒌓𒈩𒋙,{NA₄}KIŠIB-šu₂,"['complete', 'complete', 'complete']",0.0,kunukkīšu,kunukku,seal,P224526,2,2,seal identification
+1440,P224526.2.3,ṣubaršu[fingernail]N,ṣu-bar-šu₂,,N,"['𒍮', '𒁇', '𒋙']",𒍮𒁇𒋙,ṣu-bar-šu₂,"['complete', 'complete', 'complete']",0.0,ṣubaršu,ṣupru,fingernail,P224526,2,3,seal identification
+1441,P224526.2.4,+šakānu[put//place]V'V$iškun,iš-ku-un,,V,"['𒅖', '𒆪', '𒌦']",𒅖𒆪𒌦,iš-ku-un,"['complete', 'complete', 'complete']",0.0,iškun,šakānu,place,P224526,2,4,seal identification
+1442,P224526.6.1,ṣupur[fingernail]N,ṣu-pur,,N,"['𒍮', '𒁓']",𒍮𒁓,ṣu-pur,"['complete', 'complete']",0.0,ṣupur,ṣupru,fingernail,P224526,6,1,seal identification
+1443,P224526.6.2,+Bateya[]PN$,{1}ba-te-ia,PN,PN,"['𒁹', '𒁀', '𒋼', '𒅀']",𒁹𒁀𒋼𒅀,{1}ba-te-ia,"['complete', 'complete', 'complete', 'complete']",0.0,Bateya,Bateya,1,P224526,6,2,seal identification
+1444,P224526.6.3,bēl[owner]N,EN,,N,['𒂗'],𒂗,EN,['complete'],0.0,bēl,bēlu,owner,P224526,6,3,seal identification
+1445,P224526.6.4,eqli[land]N,A.ŠA₃,,N,"['𒀀', '𒊮']",𒀀𒊮,A.ŠA₃,"['complete', 'complete']",0.0,eqli,eqlu,land,P224526,6,4,seal identification
+1446,P224526.7.1,bētu[estate]N,E₂,,N,['𒂍'],𒂍,E₂,['complete'],0.0,bētu,bītu,estate,P224526,7,1,object sold
+1447,P224526.7.2,n,02,NUMBER,n,['0₂'],0₂,02,['complete'],0.0,,,,P224526,7,2,object sold
+1448,P224526.7.3,imār[a unit of capacity]N,ANŠE,,N,['𒀲'],𒀲,ANŠE,['complete'],0.0,imār,imēru,a unit of capacity,P224526,7,3,object sold
+1449,P224526.7.4,eqli[land]N,A.ŠA₃,,N,"['𒀀', '𒊮']",𒀀𒊮,A.ŠA₃,"['complete', 'complete']",0.0,eqli,eqlu,land,P224526,7,4,object sold
+1450,P224526.7.5,ina[in]PRP,ina,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,P224526,7,5,object sold
+1451,P224526.7.6,mazarūti[(area or state of) cultivation]N,ma-za-ru-ti,,N,"['𒈠', '𒍝', '𒊒', '𒋾']",𒈠𒍝𒊒𒋾,ma-za-ru-ti,"['complete', 'complete', 'complete', 'complete']",0.0,mazarūti,mazrūtu,(area or state of) cultivation,P224526,7,6,object sold
+1452,P224526.8.1,ina[by]PRP,ina,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,by,P224526,8,1,object sold
+1453,P224526.8.2,sūti[a unit of capacity]N,{giš}BAN₂,,N,"['𒄑', '𒑏']",𒄑𒑏,{GIŠ}BAN₂,"['complete', 'complete']",0.0,sūti,sūtu,a unit of capacity,P224526,8,2,object sold
+1454,P224526.8.3,ša[of]DET,ša,,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,P224526,8,3,object sold
+1455,P224526.8.4,n,10,NUMBER,n,['𒌋'],𒌋,10,['complete'],0.0,,,,P224526,8,4,object sold
+1456,P224526.8.5,qa[a unit of capacity]N,qa,,N,['𒋡'],𒋡,qa,['complete'],0.0,qa,qû,a unit of capacity,P224526,8,5,object sold
+1457,P224526.8.6,Kupruna[1]GN,{uru}ku-up-ru-na,GN,GN,"['𒌷', '𒆪', '𒌒', '𒊒', '𒈾']",𒌷𒆪𒌒𒊒𒈾,{URU}ku-up-ru-na,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Kupruna,Kupruna,1,P224526,8,6,object sold
+1458,P224526.9.1,ina[in]PRP,ina,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,P224526,9,1,price
+1459,P224526.9.2,libbi[interior]N,ŠA₃-bi,,N,"['𒊮', '𒁉']",𒊮𒁉,ŠA₃-bi,"['complete', 'complete']",0.0,libbi,libbu,interior,P224526,9,2,price
+1460,P224526.9.3,n,02,NUMBER,n,['0₂'],0₂,02,['complete'],0.0,,,,P224526,9,3,price
+1461,P224526.9.4,manā[a unit of weight]N,MA.NA,,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manā,manû,a unit of weight,P224526,9,4,price
+1462,P224526.9.5,erî[copper]N,URUDU-MEŠ,,N,"['𒍏', '𒈨𒌍']",𒍏𒈨𒌍,URUDU-MEŠ,"['complete', 'complete']",0.0,erî,erû,copper,P224526,9,5,price
+1463,P224526.10.1,Bel-isseʾa[1]PN,{1}EN-KI-a,PN,PN,"['𒁹', '𒂗', '𒆠', '𒀀']",𒁹𒂗𒆠𒀀,{1}EN-KI-a,"['complete', 'complete', 'complete', 'complete']",0.0,Bel-isseʾa,Bel-isseʾa,1,P224526,10,1,initiation of transaction
+1464,P224526.10.2,ša-rēši[eunuch]N,{lu₂}SAG,,N,"['𒇽', '𒊕']",𒇽𒊕,{LU₂}SAG,"['complete', 'complete']",0.0,ša-rēši,ša-rēši,eunuch,P224526,10,2,initiation of transaction
+1465,P224526.10.3,ša[of]DET,ša,,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,P224526,10,3,initiation of transaction
+1466,P224526.10.4,Bel-tarṣi-ilumma[1]PN,{1}EN-tar-⸢ṣi⸣-[DINGIR-ma],PN,PN,"['𒁹', '𒂗', '𒋻', '𒍢', '𒀭', '𒈠']",𒁹𒂗𒋻𒍢𒀭𒈠,{1}EN-tar-⸢ṣi⸣-[DINGIR-ma],"['complete', 'complete', 'complete', 'damaged', 'missing', 'missing']",0.42,Bel-tarṣi-ilumma,Bel-tarṣi-ilumma,1,P224526,10,4,initiation of transaction
+1467,P224526.11.1,šakin[appointee]N&māt[land]N,{lu₂}GAR.KUR,,N,"['𒇽', '𒃻', '𒆳']",𒇽𒃻𒆳,{LU₂}GAR.KUR,"['complete', 'complete', 'complete']",0.0,šakin,šaknu,appointee,P224526,11,1,initiation of transaction
+1469,P224526.11.2,Kalhi[1]GN,{uru}kal-hi,GN,GN,"['𒌷', '𒆗', '𒄭']",𒌷𒆗𒄭,{URU}kal-hi,"['complete', 'complete', 'complete']",0.0,Kalhi,Kalhu,1,P224526,11,2,initiation of transaction
+1470,P224526.12.1,ūtappiš[contract]V,u₂-tap-piš,,V,"['𒌑', '𒋰', '𒄫']",𒌑𒋰𒄫,u₂-tap-piš,"['complete', 'complete', 'complete']",0.0,ūtappiš,epēšu,contract,P224526,12,1,initiation of transaction
+1471,P224526.12.2,issu[from]PRP,TA,,PRP,['𒋫'],𒋫,TA,['complete'],0.0,issu,ištu,from,P224526,12,2,completion of transaction
+1472,P224526.12.3,pān[front]N,IGI,,N,['𒅆'],𒅆,IGI,['complete'],0.0,pān,pānu,front,P224526,12,3,completion of transaction
+1473,P224526.12.4,Bateya[1]PN,{1}ba-te-ia,PN,PN,"['𒁹', '𒁀', '𒋼', '𒅀']",𒁹𒁀𒋼𒅀,{1}ba-te-ia,"['complete', 'complete', 'complete', 'complete']",0.0,Bateya,Bateya,1,P224526,12,4,completion of transaction
+1474,P224526.13.1,issiqi[purchase]V,i-si-qi,,V,"['𒄿', '𒋛', '𒆥']",𒄿𒋛𒆥,i-si-qi,"['complete', 'complete', 'complete']",0.0,issiqi,leqû,purchase,P224526,13,1,completion of transaction
+1475,P224526.13.2,kaspu[money]N,kas₂-pu,,N,"['𒁉', '𒁍']",𒁉𒁍,kas₂-pu,"['complete', 'complete']",0.0,kaspu,kaspu,money,P224526,13,2,confirmation of transfer 1
+1476,P224526.13.3,gammur[completed]AJ,gam-mur,,AJ,"['𒃵', '𒄯']",𒃵𒄯,gam-mur,"['complete', 'complete']",0.0,gammur,gammuru,completed,P224526,13,3,confirmation of transfer 1
+1477,P224526.13.4,tadin[paid]AJ,ta-din,,AJ,"['𒋫', '𒁷']",𒋫𒁷,ta-din,"['complete', 'complete']",0.0,tadin,tadnu,paid,P224526,13,4,confirmation of transfer 1
+1478,P224526.14.1,eqlu[land]N,[A].ŠA₃,,N,"['𒀀', '𒊮']",𒀀𒊮,[A].ŠA₃,"['missing', 'complete']",0.5,eqlu,eqlu,land,P224526,14,1,confirmation of transfer 2
+1479,P224526.14.2,šuātu[that]'DP,šu₂-a-tu₂,,IP,"['𒋙', '𒀀', '𒌓']",𒋙𒀀𒌓,šu₂-a-tu₂,"['complete', 'complete', 'complete']",0.0,šuātu,šuāti,that,P224526,14,2,confirmation of transfer 2
+1480,P224526.14.3,zarip[purchased]AJ,za-rip,,AJ,"['𒍝', '𒆗']",𒍝𒆗,za-rip,"['complete', 'complete']",0.0,zarip,zarpu,purchased,P224526,14,3,confirmation of transfer 2
+1481,P224526.14.4,laqqi[acquired]AJ,laq-qi,,AJ,"['𒋃', '𒆥']",𒋃𒆥,laq-qi,"['complete', 'complete']",0.0,laqqi,leqû,acquired,P224526,14,4,confirmation of transfer 2
+1482,P224526.15.1,tuāru[revocation]'N,[tu]-a-ru,,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,[tu]-a-ru,"['missing', 'complete', 'complete']",0.33,tuāru,târu,revocation,P224526,15,1,exclusion of litigation
+1483,P224526.15.2,dabābu[litigation]'N,da-ba-bu,,V,"['𒁕', '𒁀', '𒁍']",𒁕𒁀𒁍,da-ba-bu,"['complete', 'complete', 'complete']",0.0,dabābu,dabābu,litigation,P224526,15,2,exclusion of litigation
+1484,P224526.15.3,laššu[(there) is not]V,la-aš₂-šu₂,,V,"['𒆷', '𒀾', '𒋙']",𒆷𒀾𒋙,la-aš₂-šu₂,"['complete', 'complete', 'complete']",0.0,laššu,laššu,(there) is not,P224526,15,3,exclusion of litigation
+1485,P224526.16.1,mannu[whoever]'XP,[man-nu],,QP,"['𒌋𒌋', '𒉡']",𒌋𒌋𒉡,[man-nu],"['missing', 'missing']",1.0,mannu,mannu,whoever,P224526,16,1,penalties for litigation: contravention
+1486,P224526.16.2,ša[who]REL,ša,,REL,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,who,P224526,16,2,penalties for litigation: contravention
+1487,P224526.16.3,ina[in]PRP,ina,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,P224526,16,3,penalties for litigation: contravention
+1488,P224526.16.4,urkiš[later]AV,ur-kiš,,AV,"['𒌨', '𒆧']",𒌨𒆧,ur-kiš,"['complete', 'complete']",0.0,urkiš,urkiš,later,P224526,16,4,penalties for litigation: contravention
+1489,P224526.16.5,ina[in]PRP,ina,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,P224526,16,5,penalties for litigation: contravention
+1490,P224526.16.6,matēma[ever]AV,ma-te-ma,,AV,"['𒈠', '𒋼', '𒈠']",𒈠𒋼𒈠,ma-te-ma,"['complete', 'complete', 'complete']",0.0,matēma,matīma,ever,P224526,16,6,penalties for litigation: contravention
+1491,P224526.17.1,lū[may]MOD,[lu,,MOD,['𒇻'],𒇻,[lu],['missing'],1.0,lū,lū,may,P224526,17,1,penalties for litigation: contravention
+1492,P224526.17.2,Bateya[1]PN,{1}ba]-⸢te-ia⸣,PN,PN,"['𒁹', '𒁀', '𒋼', '𒅀']",𒁹𒁀𒋼𒅀,{[1]}[ba]-⸢te-ia⸣,"['missing', 'missing', 'damaged', 'damaged']",0.75,Bateya,Bateya,1,P224526,17,2,penalties for litigation: contravention
+1493,P224526.17.3,lū[or]CNJ,lu,,CNJ,['𒇻'],𒇻,lu,['complete'],0.0,lū,lū,or,P224526,17,3,penalties for litigation: contravention
+1494,P224526.17.4,ahhēšu[brother]N,ŠEŠ-MEŠ-šu₂,,N,"['𒋀', '𒈨𒌍', '𒋙']",𒋀𒈨𒌍𒋙,ŠEŠ-MEŠ-šu₂,"['complete', 'complete', 'complete']",0.0,ahhēšu,ahu,brother,P224526,17,4,penalties for litigation: contravention
+1495,P224526.18.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224526,18,1,penalties for litigation: contravention
+1496,P224526.18.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224526,18,2,penalties for litigation: contravention
+1497,P224526.18.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224526,18,3,penalties for litigation: contravention
+1498,P224526.18.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224526,18,4,penalties for litigation: contravention
+1499,P224526.18.5,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224526,18,5,penalties for litigation: contravention
+1500,P224526.18.6,amēlu[man]N,⸢LU₂⸣,,N,['𒇽'],𒇽,⸢LU₂⸣,['damaged'],0.5,amēlu,awīlu,man,P224526,18,6,penalties for litigation: contravention
+1501,P224526.18.7,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224526,18,7,penalties for litigation: contravention
+1502,P224526.18.8,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224526,18,8,penalties for litigation: contravention

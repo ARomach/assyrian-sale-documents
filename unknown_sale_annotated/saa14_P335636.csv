@@ -1,0 +1,31 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+32040,P335636.2.1,[a]-⸢na⸣,ana[to+=tenfold]PRP,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a]-⸢na⸣,"['missing', 'damaged']",0.75,ana,ana,to,,,P335636,2,1,penalties for litigation: penalty
+32041,P335636.2.2,10-⸢MEŠ⸣-[te],ešrāte[tenfold]AV,AV,"['𒌋', '𒈨𒌍', '𒋼']",𒌋𒈨𒌍𒋼,10-⸢MEŠ⸣-[te],"['complete', 'damaged', 'missing']",0.5,ešrāte,ešriātu,tenfold,,,P335636,2,2,penalties for litigation: penalty
+32042,P335636.3.1,[a-na],ana[to]PRP,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a-na],"['missing', 'missing']",1.0,ana,ana,to,,,P335636,3,1,penalties for litigation: penalty
+32043,P335636.3.2,EN-šu,bēlīšu[owner]N,N,"['𒂗', '𒋗']",𒂗𒋗,EN-šu,"['complete', 'complete']",0.0,bēlīšu,bēlu,owner,,,P335636,3,2,penalties for litigation: penalty
+32044,P335636.3.3,[GUR-ra],+târu[turn//return]V'V$utâra,V,"['𒄥', '𒊏']",𒄥𒊏,[GUR-ra],"['missing', 'missing']",1.0,utâra,târu,return,,,P335636,3,3,penalties for litigation: penalty
+32045,P335636.4.1,[ina],ina[in]PRP,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,,P335636,4,1,penalties for litigation: penalty
+32046,P335636.4.2,de-ni-šu₂,dēnīšu[lawsuit]N,N,"['𒁲', '𒉌', '𒋙']",𒁲𒉌𒋙,de-ni-šu₂,"['complete', 'complete', 'complete']",0.0,dēnīšu,dīnu,lawsuit,,,P335636,4,2,penalties for litigation: penalty
+32047,P335636.4.3,[DUG₄.DUG₄,idabbub[contest]V,V,"['𒅗', '𒅗']",𒅗𒅗,[DUG₄].[DUG₄],"['missing', 'missing']",1.0,idabbub,dabābu,contest,,,P335636,4,3,penalties for litigation: penalty
+32048,P335636.4.4,la₃,lā[not]MOD,MOD,['𒉡'],𒉡,[la₃],['missing'],1.0,lā,lā,not,,,P335636,4,4,penalties for litigation: penalty
+32049,P335636.4.5,TI],ilaqqi[succeed]V,V,['𒋾'],𒋾,[TI],['missing'],1.0,ilaqqi,leqû,succeed,,,P335636,4,5,penalties for litigation: penalty
+32050,P335636.6.1,[ṣib]-⸢tu₂⸣,ṣibtu[seizure]N,N,"['𒍦', '𒌓']",𒍦𒌓,[ṣib]-⸢tu₂⸣,"['missing', 'damaged']",0.75,ṣibtu,ṣibtu,seizure,,,P335636,6,1,guarantee clauses for slaves
+32051,P335636.6.2,be-ni,benni[epilepsy]N,N,"['𒁁', '𒉌']",𒁁𒉌,be-ni,"['complete', 'complete']",0.0,benni,bennu,epilepsy,,,P335636,6,2,guarantee clauses for slaves
+32052,P335636.6.3,a-⸢na⸣,ana[for]PRP,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-⸢na⸣,"['complete', 'damaged']",0.25,ana,ana,for,,,P335636,6,3,guarantee clauses for slaves
+32053,P335636.6.4,01,n,n,['𒁹'],𒁹,[01],['missing'],1.0,,,,NUMBER,,P335636,6,4,guarantee clauses for slaves
+32054,P335636.6.5,me],mē[(one) hundred]NU,NU,['𒈨'],𒈨,[me],['missing'],1.0,mē,meʾatu,(one) hundred,,,P335636,6,5,guarantee clauses for slaves
+32055,P335636.7.1,[UD-me],ūme[day]N,N,"['𒌓', '𒈨']",𒌓𒈨,[UD-me],"['missing', 'missing']",1.0,ūme,ūmu,day,,,P335636,7,1,guarantee clauses for slaves
+32056,P335636.7.2,sa-ar₂-ti,sartu[falsehood//fraud]N$sarti,N,"['𒊓', '𒌒', '𒋾']",𒊓𒌒𒋾,sa-ar₂-ti,"['complete', 'complete', 'complete']",0.0,sarti,sartu,fraud,,,P335636,7,2,guarantee clauses for slaves
+32057,P335636.7.3,[a-na,ana[for]PRP,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a-na],"['missing', 'missing']",1.0,ana,ana,for,,,P335636,7,3,guarantee clauses for slaves
+32058,P335636.7.4,kal₃,kal[all]'AJ,N,['𒆕'],𒆕,[kal₃],['missing'],1.0,kal,kalû,all,,,P335636,7,4,guarantee clauses for slaves
+32059,P335636.7.5,UD-MEŠ],ūmāti[day]N,N,"['𒌓', '𒈨𒌍']",𒌓𒈨𒌍,[UD-MEŠ],"['missing', 'missing']",1.0,ūmāti,ūmu,day,,,P335636,7,5,guarantee clauses for slaves
+32060,P335636.9.1,[IGI,šību[witness]N,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,,P335636,9,1,witness
+32061,P335636.9.2,{1}x,u,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,,P335636,9,2,witness
+32062,P335636.9.3,x]-ri-[x,u,u,"['x', '𒊑', 'x']",x𒊑x,[x]-ri-[x],"['missing', 'complete', 'missing']",0.67,,,,,,P335636,9,3,witness
+32063,P335636.9.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335636,9,4,witness
+32064,P335636.9.5,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335636,9,5,witness
+32065,P335636.10.1,[IGI,šību[witness]N,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,,P335636,10,1,witness
+32066,P335636.10.2,{1}x,u,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,,P335636,10,2,witness
+32067,P335636.10.3,x]-ku-[x,u,u,"['x', '𒆪', 'x']",x𒆪x,[x]-ku-[x],"['missing', 'complete', 'missing']",0.67,,,,,,P335636,10,3,witness
+32068,P335636.10.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335636,10,4,witness
+32069,P335636.10.5,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335636,10,5,witness

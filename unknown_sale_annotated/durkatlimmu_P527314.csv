@@ -1,0 +1,8 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+1619,P527314.2.1,kunuk[seal]N,{na₄}KIŠIB,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{NA₄}KIŠIB,"['complete', 'complete']",0.0,,,P527314,2,1,seal identification
+1620,P527314.2.2,+Ruqahayu[]PN$,{m}ru-⸢qa⸣-[ha-a-a],Ruqahayu,Ruqahayu,1,PN,"['𒁹', '𒊒', '𒋡', '𒄩', '𒀀', '𒀀']",𒁹𒊒𒋡𒄩𒀀𒀀,{m}ru-⸢qa⸣-[ha-a-a],"['complete', 'complete', 'damaged', 'missing', 'missing', 'missing']",0.58,PN,,P527314,2,2,seal identification
+1621,P527314.6.1,Tašritu[Tishri]MN,{iti}DUL,Tašritu,Tašritu,Tishri,MN,"['𒌗', '𒌋𒌆']",𒌗𒌋𒌆,{ITI}DUL,"['complete', 'complete']",0.0,MN,,P527314,6,1,date
+1622,P527314.6.2,limme[eponym (of year)],lim-⸢me,limme,līmu,eponym (of year),N,"['𒅆', '𒈨']",𒅆𒈨,lim-⸢me⸣,"['complete', 'damaged']",0.25,,,P527314,6,2,date
+1623,P527314.6.3,+Iddin-ahhe[]PN$,{m⸣}[SUM-PAB.MEŠ],Iddin-ahhe,Iddin-ahhe,1,PN,"['𒁹', '𒋧', '𒉽', '𒈨𒌍']",𒁹𒋧𒉽𒈨𒌍,{⸢m⸣}[SUM-PAB].[MEŠ],"['damaged', 'missing', 'missing', 'missing']",0.88,PN,,P527314,6,3,date
+1624,P527314.7.1,X,{lu₂}GAR,,,,X,"['𒇽', '𒃻']",𒇽𒃻,{LU₂}GAR,"['complete', 'complete']",0.0,,,P527314,7,1,date
+1625,P527314.7.2,+Ṣimirra[]GN$Ṣimerra,{kur}ṣi-me-ra,Ṣimerra,Ṣimirra,1,GN,"['𒆳', '𒍢', '𒈨', '𒊏']",𒆳𒍢𒈨𒊏,{KUR}ṣi-me-ra,"['complete', 'complete', 'complete', 'complete']",0.0,GN,,P527314,7,2,date

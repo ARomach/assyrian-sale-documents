@@ -1,0 +1,65 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+12097,P527202.3.1,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,3,1,none
+12098,P527202.3.2,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,3,2,none
+12099,P527202.3.3,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,3,3,none
+12100,P527202.3.4,u,x],,,,u,['X'],X,[x],['missing'],1.0,,,P527202,3,4,none
+12101,P527202.3.5,u,⸢x⸣,,,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,P527202,3,5,none
+12102,P527202.3.6,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,3,6,none
+12103,P527202.3.7,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,3,7,none
+12104,P527202.3.8,u,x],,,,u,['X'],X,[x],['missing'],1.0,,,P527202,3,8,none
+12105,P527202.4.1,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,4,1,none
+12106,P527202.4.2,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,4,2,none
+12107,P527202.4.3,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,4,3,none
+12108,P527202.4.4,u,x],,,,u,['X'],X,[x],['missing'],1.0,,,P527202,4,4,none
+12109,P527202.4.5,u,A,,,,u,['𒀀'],𒀀,A,['complete'],0.0,,,P527202,4,5,none
+12110,P527202.4.6,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,4,6,none
+12111,P527202.4.7,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,4,7,none
+12112,P527202.4.8,u,x],,,,u,['X'],X,[x],['missing'],1.0,,,P527202,4,8,none
+12113,P527202.5.1,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,5,1,none
+12114,P527202.5.2,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,5,2,none
+12115,P527202.5.3,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,5,3,none
+12116,P527202.5.4,u,x],,,,u,['X'],X,[x],['missing'],1.0,,,P527202,5,4,none
+12117,P527202.5.5,u,SU,,,,u,['𒋢'],𒋢,SU,['complete'],0.0,,,P527202,5,5,none
+12118,P527202.5.6,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,5,6,none
+12119,P527202.5.7,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,5,7,none
+12120,P527202.5.8,u,x],,,,u,['X'],X,[x],['missing'],1.0,,,P527202,5,8,none
+12121,P527202.6.1,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,6,1,none
+12122,P527202.6.2,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,6,2,none
+12123,P527202.6.3,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,6,3,none
+12124,P527202.6.4,u,x],,,,u,['X'],X,[x],['missing'],1.0,,,P527202,6,4,none
+12125,P527202.6.5,u,⸢x⸣,,,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,P527202,6,5,none
+12126,P527202.6.6,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,6,6,none
+12127,P527202.6.7,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527202,6,7,none
+12128,P527202.6.8,u,x],,,,u,['X'],X,[x],['missing'],1.0,,,P527202,6,8,none
+12129,P527202.7.1,uppišma[contract]V,[u₂-piš-ma,uppišma,epēšu,contract,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,[u₂-piš-ma],"['missing', 'missing', 'missing']",1.0,,,P527202,7,1,initiation of transaction
+12130,P527202.7.2,Šulmu-šarri[1]PN,{m}DI]-⸢mu-LUGAL⸣,Šulmu-šarri,Šulmu-šarri,1,PN,"['𒁹', '𒁲', '𒈬', '𒈗']",𒁹𒁲𒈬𒈗,{[m]}[DI]-⸢mu-LUGAL⸣,"['missing', 'missing', 'damaged', 'damaged']",0.75,PN,,P527202,7,2,initiation of transaction
+12131,P527202.8.1,issi[with]PRP,[TA,issi,išti,with,PRP,['𒋫'],𒋫,[TA],['missing'],1.0,,,P527202,8,1,completion of transaction
+12132,P527202.8.2,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527202,8,2,completion of transaction
+12133,P527202.8.3,+Salmanu-šarru-uṣur[]PN$,{m]}{⸢d⸣}DI-man-⸢LUGAL⸣-[PAB],Salmanu-šarru-uṣur,Salmanu-šarru-uṣur,1,PN,"['𒁹', '𒀭', '𒁲', '𒌋𒌋', '𒈗', '𒉽']",𒁹𒀭𒁲𒌋𒌋𒈗𒉽,{[m]}{⸢d⸣}DI-man-⸢LUGAL⸣-[PAB],"['missing', 'damaged', 'complete', 'complete', 'damaged', 'missing']",0.5,PN,,P527202,8,3,completion of transaction
+12134,P527202.9.1,ina[at]PRP,[ina,ina,ina,at,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,,P527202,9,1,price
+12135,P527202.9.2,libbi[interior]N,ŠA₃-bi,libbi,libbu,interior,N,"['𒊮', '𒁉']",𒊮𒁉,[ŠA₃-bi],"['missing', 'missing']",1.0,,,P527202,9,2,price
+12136,P527202.9.3,n,x],,,,n,['X'],X,[x],['missing'],1.0,NUMBER,,P527202,9,3,price
+12137,P527202.9.4,šiqlī[a unit of weight]N,GIN₂.MEŠ,šiqlī,šiqlu,a unit of weight,N,"['𒂆', '𒈨𒌍']",𒂆𒈨𒌍,GIN₂.MEŠ,"['complete', 'complete']",0.0,,,P527202,9,4,price
+12138,P527202.9.5,ṣarpi[silver]N,KU₃.BABBAR,ṣarpi,ṣarpu,silver,N,"['𒆬', '𒌓']",𒆬𒌓,KU₃.BABBAR,"['complete', 'complete']",0.0,,,P527202,9,5,price
+12139,P527202.9.6,ilqe[purchase]V,[il-qe],ilqe,leqû,purchase,V,"['𒅋', '𒆥']",𒅋𒆥,[il-qe],"['missing', 'missing']",1.0,,,P527202,9,6,completion of transaction
+12140,P527202.10.1,kaspu[money]N,[kas-pu,kaspu,kaspu,money,N,"['𒆜', '𒁍']",𒆜𒁍,[kas-pu],"['missing', 'missing']",1.0,,,P527202,10,1,confirmation of transfer 1
+12141,P527202.10.2,gammur[completed]AJ,gam-mur,gammur,gammuru,completed,AJ,"['𒃵', '𒄯']",𒃵𒄯,[gam-mur],"['missing', 'missing']",1.0,,,P527202,10,2,confirmation of transfer 1
+12142,P527202.10.3,taddin[paid]AJ,ta]-⸢ad-din⸣,taddin,tadnu,paid,AJ,"['𒋫', '𒀜', '𒁷']",𒋫𒀜𒁷,[ta]-⸢ad-din⸣,"['missing', 'damaged', 'damaged']",0.67,,,P527202,10,3,confirmation of transfer 1
+12143,P527202.14.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527202,14,1,witness
+12144,P527202.14.2,x[1]PN,{m}x-(x)-x]-x-[x],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X', 'X']",𒁹XXXXX,{[m]}[x-x-x]-x-[x],"['missing', 'missing', 'missing', 'missing', 'complete', 'missing']",0.83,PN,,P527202,14,2,witness
+12145,P527202.15.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527202,15,1,witness
+12146,P527202.15.2,x-Bel[1]PN,{m}x-(x)-x]-x-EN,x-Bel,x-Bel,1,PN,"['𒁹', 'X', 'X', 'X', 'X', '𒂗']",𒁹XXXX𒂗,{[m]}[x-x-x]-x-EN,"['missing', 'missing', 'missing', 'missing', 'complete', 'complete']",0.67,PN,,P527202,15,2,witness
+12147,P527202.16.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527202,16,1,witness
+12148,P527202.16.2,+x-bu[]PN$,{m}x-(x)-x]-x-bu,x-bu,x-bu,1,PN,"['𒁹', 'X', 'X', 'X', 'X', '𒁍']",𒁹XXXX𒁍,{[m]}[x-x-x]-x-bu,"['missing', 'missing', 'missing', 'missing', 'complete', 'complete']",0.67,PN,,P527202,16,2,witness
+12149,P527202.17.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527202,17,1,witness
+12150,P527202.17.2,x-ti[1]PN,{m}x-x-(x)]-ti,x-ti,x-ti,1,PN,"['𒁹', 'X', 'X', 'X', '𒋾']",𒁹XXX𒋾,{[m]}[x-x-x]-ti,"['missing', 'missing', 'missing', 'missing', 'complete']",0.8,PN,,P527202,17,2,witness
+12151,P527202.18.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527202,18,1,witness
+12152,P527202.18.2,+x-nadin[]PN$,{m}x-x-(x)]-na-din,x-nadin,x-nadin,1,PN,"['𒁹', 'X', 'X', 'X', '𒈾', '𒁷']",𒁹XXX𒈾𒁷,{[m]}[x-x-x]-na-din,"['missing', 'missing', 'missing', 'missing', 'complete', 'complete']",0.67,PN,,P527202,18,2,witness
+12153,P527202.19.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527202,19,1,witness
+12154,P527202.19.2,+x-eriba[]PN$,{m}x-x-(x)]-SU,x-eriba,x-eriba,1,PN,"['𒁹', 'X', 'X', 'X', '𒋢']",𒁹XXX𒋢,{[m]}[x-x-x]-SU,"['missing', 'missing', 'missing', 'missing', 'complete']",0.8,PN,,P527202,19,2,witness
+12155,P527202.20.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527202,20,1,witness
+12156,P527202.20.2,+x-Nergal[]PN$,{m}x-x-{d]}⸢U⸣.GUR,x-Nergal,x-Nergal,1,PN,"['𒁹', 'X', 'X', '𒀭', '𒌋', '𒄥']",𒁹XX𒀭𒌋𒄥,{[m]}[x-x]-{[d]}⸢U⸣.GUR,"['missing', 'missing', 'missing', 'missing', 'damaged', 'complete']",0.75,PN,,P527202,20,2,witness
+12157,P527202.21.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527202,21,1,witness
+12158,P527202.21.2,+x-Bel[]PN$,{m}x-x-(x)]-EN,x-Bel,x-Bel,1,PN,"['𒁹', 'X', 'X', 'X', '𒂗']",𒁹XXX𒂗,{[m]}[x-x-x]-EN,"['missing', 'missing', 'missing', 'missing', 'complete']",0.8,PN,,P527202,21,2,witness
+12159,P527202.22.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527202,22,1,witness
+12160,P527202.22.2,x-a[1]PN,{m}x-x-(x)]-⸢a⸣,x-a,x-a,1,PN,"['𒁹', 'X', 'X', 'X', '𒀀']",𒁹XXX𒀀,{[m]}[x-x-x]-⸢a⸣,"['missing', 'missing', 'missing', 'missing', 'damaged']",0.9,PN,,P527202,22,2,witness

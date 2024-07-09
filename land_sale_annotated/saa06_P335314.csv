@@ -1,0 +1,38 @@
+Unnamed: 0,ref,frag,inst,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,lang,text,line,word,annotation
+3979,P335314.2.1,{⸢na₄}KIŠIB⸣,kunuk[seal]N,,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{⸢NA₄⸣}⸢KIŠIB⸣,"['damaged', 'damaged']",0.5,kunuk,kunukku,seal,,P335314,2,1,seal identification
+3980,P335314.2.2,{1}qur-⸢di⸣—15—la-mur,Qurdi-Issar-lamur[1]PN$,PN,PN,"['𒁹', '𒄥', '𒁲', '15', '𒆷', '𒄯']",𒁹𒄥𒁲15𒆷𒄯,{1}qur-⸢di⸣-15-la-mur,"['complete', 'complete', 'damaged', 'complete', 'complete', 'complete']",0.08,Qurdi-Issar-lamur,Qurdi-Issar-lamur,1,,P335314,2,2,seal identification
+3981,P335314.3.1,{na₄}KIŠIB,kunuk[seal]N,,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{NA₄}KIŠIB,"['complete', 'complete']",0.0,kunuk,kunukku,seal,,P335314,3,1,seal identification
+3982,P335314.3.2,{1}I—aš-šur,+Naʾdi-Aššur[]PN$,PN,PN,"['𒁹', '𒄿', '𒀸', '𒋩']",𒁹𒄿𒀸𒋩,{1}I-aš-šur,"['complete', 'complete', 'complete', 'complete']",0.0,Naʾdi-Aššur,Naʾdi-Aššur,1,,P335314,3,2,seal identification
+3983,P335314.4.1,⸢PAB⸣,gimru[total]N,,N,['𒉽'],𒉽,⸢PAB⸣,['damaged'],0.5,gimru,gimru,total,,P335314,4,1,seal identification
+3984,P335314.4.2,02,n,NUMBER,n,['𒈫'],𒈫,02,['complete'],0.0,,,,,P335314,4,2,seal identification
+3985,P335314.4.3,LU₂-MEŠ-e,amēlē[man]N,,N,"['𒇽', '𒈨𒌍', '𒂊']",𒇽𒈨𒌍𒂊,LU₂-MEŠ-e,"['complete', 'complete', 'complete']",0.0,amēlē,awīlu,man,,P335314,4,3,seal identification
+3986,P335314.4.4,EN,bēl[owner]N,,N,['𒂗'],𒂗,EN,['complete'],0.0,bēl,bēlu,owner,,P335314,4,4,seal identification
+3987,P335314.4.5,{giš}SAR,kirie[garden]N,,N,"['𒄑', '𒊬']",𒄑𒊬,{GIŠ}SAR,"['complete', 'complete']",0.0,kirie,kirû,garden,,P335314,4,5,seal identification
+3988,P335314.4.6,SUM-ni,tadāni[giving]'N,,V,"['𒋧', '𒉌']",𒋧𒉌,SUM-ni,"['complete', 'complete']",0.0,tadāni,tadānu,giving,,P335314,4,6,seal identification
+3989,P335314.10.1,[x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335314,10,1,none
+3990,P335314.10.2,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335314,10,2,none
+3991,P335314.10.3,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335314,10,3,none
+3992,P335314.10.4,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335314,10,4,none
+3993,P335314.10.5,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335314,10,5,none
+3994,P335314.10.6,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335314,10,6,none
+3995,P335314.10.7,{lu₂v}ARAD,urdu[servant]N,,N,"['𒇽', '𒀴']",𒇽𒀴,{LU₂~v}ARAD,"['complete', 'complete']",0.0,urdu,ardu,servant,,P335314,10,7,none
+3996,P335314.10.8,ša,ša[of]DET,,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,P335314,10,8,none
+3997,P335314.10.9,{⸢lu₂v}EN⸣.[NAM],pāhiti[governor]N,,N,"['𒇽', '𒂗', '𒉆']",𒇽𒂗𒉆,{⸢LU₂~v⸣}⸢EN⸣.[NAM],"['damaged', 'damaged', 'missing']",0.67,pāhiti,pīhātu,governor,,P335314,10,9,none
+3998,P335314.11.1,{[iti}x],u,,u,"['𒌗', 'x']",𒌗x,{[ITI]}[x],"['missing', 'missing']",1.0,,,,,P335314,11,1,date
+3999,P335314.11.2,UD,ūm[day]N,,N,['𒌓'],𒌓,UD,['complete'],0.0,ūm,ūmu,day,,P335314,11,2,date
+4000,P335314.11.3,11-KAM,n,NUMBER,n,"['𒌋𒁹', '𒄰']",𒌋𒁹𒄰,11-KAM,"['complete', 'complete']",0.0,,,,,P335314,11,3,date
+4001,P335314.12.1,[lim-mu,limmu[eponym (of year)]N,,N,"['𒅆', '𒈬']",𒅆𒈬,[lim-mu],"['missing', 'missing']",1.0,limmu,līmu,eponym (of year),,P335314,12,1,date
+4002,P335314.12.2,{1}{d}PA]—⸢MAN⸣—PAB,Nabu-šarru-uṣur[1]PN,PN,PN,"['𒁹', '𒀭', '𒉺', '𒌋𒌋', '𒉽']",𒁹𒀭𒉺𒌋𒌋𒉽,{[1]}{[d]}[PA]-⸢MAN⸣-PAB,"['missing', 'missing', 'missing', 'damaged', 'complete']",0.7,Nabu-šarru-uṣur,Nabu-šarru-uṣur,1,,P335314,12,2,date
+4003,P335314.12.3,{lu₂v}GAR.KUR,+šaknu[appointee]N$šakin&+mātu[land]N$māt,,N,"['𒇽', '𒃻', '𒆳']",𒇽𒃻𒆳,{LU₂~v}GAR.KUR,"['complete', 'complete', 'complete']",0.0,šakin,šaknu,appointee,,P335314,12,3,date
+4005,P335314.12.4,{uru}mar-qa-si,Marqasi[1]GN,GN,GN,"['𒌷', '𒈥', '𒋡', '𒋛']",𒌷𒈥𒋡𒋛,{URU}mar-qa-si,"['complete', 'complete', 'complete', 'complete']",0.0,Marqasi,Marqasa,1,,P335314,12,4,date
+4006,P335314.14.1,[ša₂],ša[of]DET,,DET,['𒃻'],𒃻,[ša₂],['missing'],1.0,ša,ša,of,,P335314,14,1,other clauses
+4007,P335314.14.2,{giš}SAR,kirie[garden]N,,N,"['𒄑', '𒊬']",𒄑𒊬,{GIŠ}SAR,"['complete', 'complete']",0.0,kirie,kirû,garden,,P335314,14,2,other clauses
+4008,P335314.14.3,šu₂-a-tu₂,šuātu[that]'DP,,IP,"['𒋙', '𒀀', '𒌓']",𒋙𒀀𒌓,šu₂-a-tu₂,"['complete', 'complete', 'complete']",0.0,šuātu,šuāti,that,,P335314,14,3,other clauses
+4009,P335314.14.4,{še}nu-sa-hi-šu₂,nusāhu[(a grain tax)//grain tax]N$nusāhīšu,,N,"['𒊺', '𒉡', '𒊓', '𒄭', '𒋙']",𒊺𒉡𒊓𒄭𒋙,{ŠE}nu-sa-hi-šu₂,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,nusāhīšu,nusāhu,grain tax,,P335314,14,4,other clauses
+4010,P335314.15.1,⸢la⸣,lā[not]MOD,,MOD,['𒆷'],𒆷,⸢la⸣,['damaged'],0.5,lā,lā,not,,P335314,15,1,other clauses
+4011,P335314.15.2,i-na-su-hu,nasāhu[tear out//exact]V$inassuhu,,V,"['𒄿', '𒈾', '𒋢', '𒄷']",𒄿𒈾𒋢𒄷,i-na-su-hu,"['complete', 'complete', 'complete', 'complete']",0.0,inassuhu,nasāhu,exact,,P335314,15,2,other clauses
+4012,P335314.15.3,il-ku,ilku[state service]N$,,N,"['𒅋', '𒆪']",𒅋𒆪,il-ku,"['complete', 'complete']",0.0,ilku,ilku,state service,,P335314,15,3,other clauses
+4013,P335314.16.1,TA@v,issi[with]PRP,,PRP,['𒋬'],𒋬,TA@v,['complete'],0.0,issi,išti,with,,P335314,16,1,other clauses
+4014,P335314.16.2,URU-šu₂,ālīšu[town]N,,N,"['𒌷', '𒋙']",𒌷𒋙,URU-šu₂,"['complete', 'complete']",0.0,ālīšu,ālu,town,,P335314,16,2,other clauses
+4015,P335314.16.3,la,lā[not]MOD,,MOD,['𒆷'],𒆷,la,['complete'],0.0,lā,lā,not,,P335314,16,3,other clauses
+4016,P335314.16.4,il-lak,alāku[go//perform]V$illak,,V,"['𒅋', '𒋃']",𒅋𒋃,il-lak,"['complete', 'complete']",0.0,illak,alāku,perform,,P335314,16,4,other clauses

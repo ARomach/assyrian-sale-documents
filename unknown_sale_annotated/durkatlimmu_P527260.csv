@@ -1,0 +1,15 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+3938,P527260.2.1,kunuk[seal]N,{[na₄}KIŠIB,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}[KIŠIB],"['missing', 'missing']",1.0,,,P527260,2,1,seal identification
+3939,P527260.2.2,+x-abi[]PN$,{m}x-(x)]-⸢a-bi⸣,x-abi,x-abi,1,PN,"['𒁹', 'X', 'X', '𒀀', '𒁉']",𒁹XX𒀀𒁉,{[m]}[x-x]-⸢a-bi⸣,"['missing', 'missing', 'missing', 'damaged', 'damaged']",0.8,PN,,P527260,2,2,seal identification
+3940,P527260.6.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527260,6,1,witness
+3941,P527260.6.2,x-Salmanu[1]PN,{m}x-(x)]-{⸢d}DI⸣-[man],x-Salmanu,x-Salmanu,1,PN,"['𒁹', 'X', 'X', '𒀭', '𒁲', '𒌋𒌋']",𒁹XX𒀭𒁲𒌋𒌋,{[m]}[x-x]-{⸢d⸣}⸢DI⸣-[man],"['missing', 'missing', 'missing', 'damaged', 'damaged', 'missing']",0.83,PN,,P527260,6,2,witness
+3942,P527260.7.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527260,7,1,witness
+3943,P527260.7.2,+x-ahu-uṣur[]PN$,{m}x-(x)]-⸢PAB⸣-PAB,x-ahu-uṣur,x-ahu-uṣur,1,PN,"['𒁹', 'X', 'X', '𒉽', '𒉽']",𒁹XX𒉽𒉽,{[m]}[x-x]-⸢PAB⸣-PAB,"['missing', 'missing', 'missing', 'damaged', 'complete']",0.7,PN,,P527260,7,2,witness
+3944,P527260.7.3,X,{lu₂}{giš}GIGIR,,,,X,"['𒇽', '𒄑', '𒇀']",𒇽𒄑𒇀,{LU₂}{GIŠ}GIGIR,"['complete', 'complete', 'complete']",0.0,,,P527260,7,3,witness
+3945,P527260.8.1,x[1]MN,{[iti}x],x,x,1,MN,"['𒌗', 'X']",𒌗X,{[ITI]}[x],"['missing', 'missing']",1.0,MN,,P527260,8,1,date
+3946,P527260.8.2,n,UD-23-KAM,,,,n,"['𒌓', '𒌋𒌋𒐈', '𒄰']",𒌓𒌋𒌋𒐈𒄰,UD-23-KAM,"['complete', 'complete', 'complete']",0.0,NUMBER,,P527260,8,2,date
+3947,P527260.10.1,limmu[eponym (of year)]N,[lim-mu,limmu,līmu,eponym (of year),N,"['𒅆', '𒈬']",𒅆𒈬,[lim-mu],"['missing', 'missing']",1.0,,,P527260,10,1,date
+3948,P527260.10.2,Kanunaiu[1]PN,{m]}⸢ka⸣-nun-a-a,Kanunaiu,Kanunaiu,1,PN,"['𒁹', '𒅗', '𒉣', '𒀀', '𒀀']",𒁹𒅗𒉣𒀀𒀀,{[m]}⸢ka⸣-nun-a-a,"['missing', 'damaged', 'complete', 'complete', 'complete']",0.3,PN,,P527260,10,2,date
+3949,P527260.11.1,X,{[lu₂]}ša₂-kin₃,,,,X,"['𒇽', '𒃻', '𒆳']",𒇽𒃻𒆳,{[LU₂]}ša₂-kin₃,"['missing', 'complete', 'complete']",0.33,,,P527260,11,1,date
+3950,P527260.11.2,X,E₂,,,,X,['𒂍'],𒂍,E₂,['complete'],0.0,,,P527260,11,2,date
+3951,P527260.11.3,X,GIBIL,,,,X,['𒉋'],𒉋,GIBIL,['complete'],0.0,,,P527260,11,3,date

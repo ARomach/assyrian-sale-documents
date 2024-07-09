@@ -1,0 +1,21 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+6900,P335250.2.1,{na₄}KIŠIB,kunukku[seal]N,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{NA₄}KIŠIB,"['complete', 'complete']",0.0,kunukku,kunukku,seal,,,P335250,2,1,seal identification
+6901,P335250.2.2,{1}EN—APIN-eš,Bel-ereš[1]PN,PN,"['𒁹', '𒂗', '𒀳', '𒌍']",𒁹𒂗𒀳𒌍,{1}EN-APIN-eš,"['complete', 'complete', 'complete', 'complete']",0.0,Bel-ereš,Bel-ereš,1,PN,,P335250,2,2,seal identification
+6902,P335250.2.3,EN,bēl[owner]N,N,['𒂗'],𒂗,EN,['complete'],0.0,bēl,bēlu,owner,,,P335250,2,3,seal identification
+6903,P335250.2.4,UN-MEŠ,nišē[people]N,N,"['𒌦', '𒈨𒌍']",𒌦𒈨𒌍,UN-MEŠ,"['complete', 'complete']",0.0,nišē,nišu,people,,,P335250,2,4,seal identification
+6904,P335250.2.5,SUM-ni,tadāni[giving]'N,V,"['𒋧', '𒉌']",𒋧𒉌,SUM-ni,"['complete', 'complete']",0.0,tadāni,tadānu,giving,,,P335250,2,5,seal identification
+6905,P335250.6.1,{1}x,u,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,,P335250,6,1,object sold
+6906,P335250.6.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335250,6,2,object sold
+6907,P335250.6.3,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335250,6,3,object sold
+6908,P335250.6.4,MI₂-šu₂,issušu[woman]N,N,"['𒊩', '𒋙']",𒊩𒋙,MI₂-šu₂,"['complete', 'complete']",0.0,issušu,sinništu,woman,,,P335250,6,4,object sold
+6909,P335250.6.5,02,n,n,['𒈫'],𒈫,02,['complete'],0.0,,,,NUMBER,,P335250,6,5,object sold
+6910,P335250.6.6,DUMU-MEŠ-šu₂,marʾēšu[son]N,N,"['𒌉', '𒈨𒌍', '𒋙']",𒌉𒈨𒌍𒋙,DUMU-MEŠ-šu₂,"['complete', 'complete', 'complete']",0.0,marʾēšu,māru,son,,,P335250,6,6,object sold
+6911,P335250.6.7,DUMU.MI₂-[su,marʾussu[daughter]N,N,"['𒌉', '𒊩', '𒋢']",𒌉𒊩𒋢,DUMU.MI₂-[su],"['complete', 'complete', 'missing']",0.33,marʾussu,mārtu,daughter,,,P335250,6,7,object sold
+6912,P335250.6.8,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335250,6,8,object sold
+6913,P335250.6.9,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335250,6,9,object sold
+6914,P335250.6.10,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335250,6,10,object sold
+6915,P335250.6.11,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335250,6,11,object sold
+6916,P335250.7.1,[PAB,gimru[total]N,N,['𒉽'],𒉽,[PAB],['missing'],1.0,gimru,gimru,total,,,P335250,7,1,object sold
+6917,P335250.7.2,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335250,7,2,object sold
+6918,P335250.7.3,⸢ZI⸣-MEŠ,nupšāti[person]N,N,"['𒍣', '𒈨𒌍']",𒍣𒈨𒌍,⸢ZI⸣-MEŠ,"['damaged', 'complete']",0.25,nupšāti,napištu,person,,,P335250,7,3,object sold
+6919,P335250.7.4,⸢ARAD⸣-[MEŠ],urdāni[servant]N,N,"['𒀴', '𒈨𒌍']",𒀴𒈨𒌍,⸢ARAD⸣-[MEŠ],"['damaged', 'missing']",0.75,urdāni,ardu,servant,,,P335250,7,4,object sold

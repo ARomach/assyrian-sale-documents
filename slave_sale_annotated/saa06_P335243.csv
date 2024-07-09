@@ -1,0 +1,18 @@
+Unnamed: 0,ref,frag,inst,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,lang,text,line,word,annotation
+6804,P335243.2.1,{[na₄]}KIŠIB,kunuk[seal]N,,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}KIŠIB,"['missing', 'complete']",0.5,kunuk,kunukku,seal,,P335243,2,1,seal identification
+6805,P335243.2.2,{1}{d}ra-man—⸢dal-a⸣,Ramman-dala[1]PN$,PN,PN,"['𒁹', '𒀭', '𒊏', '𒌋𒌋', '𒊑', '𒀀']",𒁹𒀭𒊏𒌋𒌋𒊑𒀀,{1}{d}ra-man-⸢dal-a⸣,"['complete', 'complete', 'complete', 'complete', 'damaged', 'damaged']",0.17,Ramman-dala,Ramman-dala,1,,P335243,2,2,seal identification
+6806,P335243.3.1,⸢EN⸣,bēl[owner]N,,N,['𒂗'],𒂗,⸢EN⸣,['damaged'],0.5,bēl,bēlu,owner,,P335243,3,1,seal identification
+6807,P335243.3.2,UN-MEŠ,nišē[people]N,,N,"['𒌦', '𒈨𒌍']",𒌦𒈨𒌍,UN-MEŠ,"['complete', 'complete']",0.0,nišē,nišu,people,,P335243,3,2,seal identification
+6808,P335243.3.3,SUM-a-ni,tadāni[giving]'N,,V,"['𒋧', '𒀀', '𒉌']",𒋧𒀀𒉌,SUM-a-ni,"['complete', 'complete', 'complete']",0.0,tadāni,tadānu,giving,,P335243,3,3,seal identification
+6809,P335243.10.1,[IGI,šību[witness]N,,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,P335243,10,1,witness
+6810,P335243.10.2,{1}x,u,,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,P335243,10,2,witness
+6811,P335243.10.3,x]-u-ni,u,,u,"['x', '𒌋', '𒉌']",x𒌋𒉌,[x]-u-ni,"['missing', 'complete', 'complete']",0.33,,,,,P335243,10,3,witness
+6812,P335243.11.1,[IGI,šību[witness]N,,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,P335243,11,1,witness
+6813,P335243.11.2,{1}⸢PAB⸣—BAD₃,Ahu-duri[1]PN,PN,PN,"['𒁹', '𒉽', '𒂦']",𒁹𒉽𒂦,{[1]}⸢PAB⸣-BAD₃,"['missing', 'damaged', 'complete']",0.5,Ahu-duri,Ahu-duri,1,,P335243,11,2,witness
+6814,P335243.12.1,[IGI,šību[witness]N,,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,P335243,12,1,witness
+6815,P335243.12.2,{1}x]+⸢x⸣-zi-iz,u,,u,"['𒁹', 'x', 'x', '𒍣', '𒄑']",𒁹xx𒍣𒄑,{[1]}[x]+⸢x⸣-zi-iz,"['missing', 'missing', 'damaged', 'complete', 'complete']",0.5,,,,,P335243,12,2,witness
+6816,P335243.14.1,{⸢iti⸣}SIG₄,Simanu[Sivan]MN,MN,MN,"['𒌗', '𒋞']",𒌗𒋞,{⸢ITI⸣}SIG₄,"['damaged', 'complete']",0.25,Simanu,Simanu,Sivan,,P335243,14,1,date
+6817,P335243.14.2,UD,ūm[day]N,,N,['𒌓'],𒌓,UD,['complete'],0.0,ūm,ūmu,day,,P335243,14,2,date
+6818,P335243.14.3,22-KAM₂,n,NUMBER,n,"['𒌋𒌋𒈫', '𒆚']",𒌋𒌋𒈫𒆚,22-KAM₂,"['complete', 'complete']",0.0,,,,,P335243,14,3,date
+6819,P335243.15.1,⸢lim⸣-mu,limmu[eponym (of year)]N,,N,"['𒅆', '𒈬']",𒅆𒈬,⸢lim⸣-mu,"['damaged', 'complete']",0.25,limmu,līmu,eponym (of year),,P335243,15,1,date
+6820,P335243.15.2,{1}da-na-nu,Dananu[1]PN,PN,PN,"['𒁹', '𒁕', '𒈾', '𒉡']",𒁹𒁕𒈾𒉡,{1}da-na-nu,"['complete', 'complete', 'complete', 'complete']",0.0,Dananu,Dananu,1,,P335243,15,2,date

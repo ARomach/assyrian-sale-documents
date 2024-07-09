@@ -1,0 +1,69 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+10254,P428868.2.1,ṣupur[fingernail]N,ṣu-pur,,N,"['𒍮', '𒁓']",𒍮𒁓,ṣu-pur,"['complete', 'complete']",0.0,ṣupur,ṣupru,fingernail,P428868,2,1,seal identification
+10255,P428868.2.2,Qurdi-ilani[1]PN,{1}qur-di-⸢DINGIR-MEŠ⸣-ni,PN,PN,"['𒁹', '𒄥', '𒁲', '𒀭', '𒈨𒌍', '𒉌']",𒁹𒄥𒁲𒀭𒈨𒌍𒉌,{1}qur-di-⸢DINGIR-MEŠ⸣-ni,"['complete', 'complete', 'complete', 'damaged', 'damaged', 'complete']",0.17,Qurdi-ilani,Qurdi-ilani,1,P428868,2,2,seal identification
+10256,P428868.3.1,ṣupur[fingernail]N,⸢ṣu-pur⸣,,N,"['𒍮', '𒁓']",𒍮𒁓,⸢ṣu-pur⸣,"['damaged', 'damaged']",0.5,ṣupur,ṣupru,fingernail,P428868,3,1,seal identification
+10257,P428868.3.2,La-qepu[1]PN,{1}⸢la-qe-pu⸣,PN,PN,"['𒁹', '𒆷', '𒆥', '𒁍']",𒁹𒆷𒆥𒁍,{[1]}⸢la-qe-pu⸣,"['missing', 'damaged', 'damaged', 'damaged']",0.62,La-qepu,La-qepu,1,P428868,3,2,seal identification
+10258,P428868.4.1,gimru[total]N,[PAB],,N,['𒉽'],𒉽,[PAB],['missing'],1.0,gimru,gimru,total,P428868,4,1,seal identification
+10259,P428868.4.2,n,02,NUMBER,n,['0₂'],0₂,02,['complete'],0.0,,,,P428868,4,2,seal identification
+10260,P428868.4.3,amēlē[man]N,LU₂-⸢MEŠ⸣,,N,"['𒇽', '𒈨𒌍']",𒇽𒈨𒌍,LU₂-⸢MEŠ⸣,"['complete', 'damaged']",0.25,amēlē,awīlu,man,P428868,4,3,seal identification
+10261,P428868.4.4,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428868,4,4,seal identification
+10262,P428868.4.5,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428868,4,5,seal identification
+10263,P428868.4.6,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428868,4,6,seal identification
+10264,P428868.8.1,bētu[estate]N,E₂,,N,['𒂍'],𒂍,E₂,['complete'],0.0,bētu,bītu,estate,P428868,8,1,object sold
+10265,P428868.8.2,n,1,NUMBER,n,['𒁹'],𒁹,1,['complete'],0.0,,,,P428868,8,2,object sold
+10266,P428868.8.3,sūtu[a unit of capacity]N,BAN₂,,N,['𒑏'],𒑏,BAN₂,['complete'],0.0,sūtu,sūtu,a unit of capacity,P428868,8,3,object sold
+10267,P428868.8.4,tabriu[(a type of real estate)]N,tab-ri-⸢u₂⸣,,N,"['𒋰', '𒊑', '𒌑']",𒋰𒊑𒌑,tab-ri-⸢u₂⸣,"['complete', 'complete', 'damaged']",0.17,tabriu,tabriu,(a type of real estate),P428868,8,4,object sold
+10268,P428868.8.5,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428868,8,5,object sold
+10269,P428868.8.6,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428868,8,6,object sold
+10270,P428868.8.7,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428868,8,7,object sold
+10271,P428868.9.1,uppišma[contract]V,u₂-piš-ma,,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,u₂-piš-ma,"['complete', 'complete', 'complete']",0.0,uppišma,epēšu,contract,P428868,9,1,initiation of transaction
+10272,P428868.9.2,+Qibit-Aššur[]PN$,{1}qi]-⸢bit⸣-aš-⸢šur⸣,PN,PN,"['𒁹', '𒆥', '𒂍', '𒀸', '𒋩']",𒁹𒆥𒂍𒀸𒋩,{[1]}[qi]-⸢bit⸣-aš-⸢šur⸣,"['missing', 'missing', 'damaged', 'complete', 'damaged']",0.6,Qibit-Aššur,Qibit-Aššur,1,P428868,9,2,initiation of transaction
+10273,P428868.10.1,issu[from]PRP,TA,,PRP,['𒋫'],𒋫,TA,['complete'],0.0,issu,ištu,from,P428868,10,1,completion of transaction
+10274,P428868.10.2,pān[front]N,IGI,,N,['𒅆'],𒅆,IGI,['complete'],0.0,pān,pānu,front,P428868,10,2,completion of transaction
+10275,P428868.10.3,amēlē[man]N,⸢LU₂⸣-MEŠ-e,,N,"['𒇽', '𒈨𒌍', '𒂊']",𒇽𒈨𒌍𒂊,⸢LU₂⸣-MEŠ-e,"['damaged', 'complete', 'complete']",0.17,amēlē,awīlu,man,P428868,10,3,completion of transaction
+10276,P428868.10.4,annūte[this]DP,[an-nu-te],,DP,"['𒀭', '𒉡', '𒋼']",𒀭𒉡𒋼,[an-nu-te],"['missing', 'missing', 'missing']",1.0,annūte,annû,this,P428868,10,4,completion of transaction
+10277,P428868.11.1,tabriu[(a type of real estate)]N,⸢tab⸣-ri-u₂,,N,"['𒋰', '𒊑', '𒌑']",𒋰𒊑𒌑,⸢tab⸣-ri-u₂,"['damaged', 'complete', 'complete']",0.17,tabriu,tabriu,(a type of real estate),P428868,11,1,completion of transaction
+10278,P428868.11.2,ina[in]PRP,ina,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,P428868,11,2,price
+10279,P428868.11.3,libbi[interior]N,⸢ŠA₃⸣-[bi],,N,"['𒊮', '𒁉']",𒊮𒁉,⸢ŠA₃⸣-[bi],"['damaged', 'missing']",0.75,libbi,libbu,interior,P428868,11,3,price
+10280,P428868.12.1,u,[x],,u,['X'],X,[x],['missing'],1.0,,,,P428868,12,1,price
+10281,P428868.12.2,manā[a unit of weight]N,MA.NA,,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manā,manû,a unit of weight,P428868,12,2,price
+10282,P428868.12.3,siparrī[bronze]N,UD.⸢KA⸣.[BAR-MEŠ,,N,"['𒌓', '𒅗', '𒁇', '𒈨𒌍']",𒌓𒅗𒁇𒈨𒌍,UD.⸢KA⸣.[BAR-MEŠ],"['complete', 'damaged', 'missing', 'missing']",0.62,siparrī,siparru,bronze,P428868,12,3,price
+10283,P428868.12.4,ilqi[purchase]V,il-qi],,V,"['𒅋', '𒆥']",𒅋𒆥,[il-qi],"['missing', 'missing']",1.0,ilqi,leqû,purchase,P428868,12,4,completion of transaction
+10284,P428868.13.1,kaspu[money]N,⸢kas₂⸣-pu,,N,"['𒁉', '𒁍']",𒁉𒁍,⸢kas₂⸣-pu,"['damaged', 'complete']",0.25,kaspu,kaspu,money,P428868,13,1,confirmation of transfer 1
+10285,P428868.13.2,gammur[completed]AJ,ga-mur,,AJ,"['𒂵', '𒄯']",𒂵𒄯,ga-mur,"['complete', 'complete']",0.0,gammur,gammuru,completed,P428868,13,2,confirmation of transfer 1
+10286,P428868.13.3,tadin[paid]AJ,[ta-din],,AJ,"['𒋫', '𒁷']",𒋫𒁷,[ta-din],"['missing', 'missing']",1.0,tadin,tadnu,paid,P428868,13,3,confirmation of transfer 1
+10287,P428868.14.1,tabriu[(a type of real estate)]N,[tab]-⸢ri⸣-u₂,,N,"['𒋰', '𒊑', '𒌑']",𒋰𒊑𒌑,[tab]-⸢ri⸣-u₂,"['missing', 'damaged', 'complete']",0.5,tabriu,tabriu,(a type of real estate),P428868,14,1,confirmation of transfer 2
+10288,P428868.14.2,zarip[purchased]AJ,za-rip,,AJ,"['𒍝', '𒆗']",𒍝𒆗,za-rip,"['complete', 'complete']",0.0,zarip,zarpu,purchased,P428868,14,2,confirmation of transfer 2
+10289,P428868.14.3,laqi[acquired]AJ,la-[qi],,AJ,"['𒆷', '𒆥']",𒆷𒆥,la-[qi],"['complete', 'missing']",0.5,laqi,leqû,acquired,P428868,14,3,confirmation of transfer 2
+10290,P428868.15.1,mannu[whoever]'XP,⸢man⸣-nu,,QP,"['𒌋𒌋', '𒉡']",𒌋𒌋𒉡,⸢man⸣-nu,"['damaged', 'complete']",0.25,mannu,mannu,whoever,P428868,15,1,penalties for litigation: contravention
+10291,P428868.15.2,ša[who]REL,ša₂,,REL,['𒃻'],𒃻,ša₂,['complete'],0.0,ša,ša,who,P428868,15,2,penalties for litigation: contravention
+10292,P428868.15.3,ina[in]PRP,ina,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,P428868,15,3,penalties for litigation: contravention
+10293,P428868.15.4,urkiš[later]AV,ur-[kiš],,AV,"['𒌨', '𒆧']",𒌨𒆧,ur-[kiš],"['complete', 'missing']",0.5,urkiš,urkiš,later,P428868,15,4,penalties for litigation: contravention
+10294,P428868.15.5,ina[in]PRP,ina,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,P428868,15,5,penalties for litigation: contravention
+10295,P428868.15.6,matēma[ever]AV,ma-te-⸢ma⸣,,AV,"['𒈠', '𒋼', '𒈠']",𒈠𒋼𒈠,ma-te-⸢ma⸣,"['complete', 'complete', 'damaged']",0.17,matēma,matīma,ever,P428868,15,6,penalties for litigation: contravention
+10296,P428868.16.1,lū[may]MOD,⸢lu⸣-u,,MOD,"['𒇻', '𒌋']",𒇻𒌋,⸢lu⸣-u,"['damaged', 'complete']",0.25,lū,lū,may,P428868,16,1,penalties for litigation: contravention
+10297,P428868.16.2,+Qurdi-ilani[]PN$,{1}⸢qur-di⸣-DINGIR-MEŠ,PN,PN,"['𒁹', '𒄥', '𒁲', '𒀭', '𒈨𒌍']",𒁹𒄥𒁲𒀭𒈨𒌍,{1}⸢qur-di⸣-DINGIR-MEŠ,"['complete', 'damaged', 'damaged', 'complete', 'complete']",0.2,Qurdi-ilani,Qurdi-ilani,1,P428868,16,2,penalties for litigation: contravention
+10298,P428868.17.1,lū[or]CNJ,⸢lu⸣-u,,CNJ,"['𒇻', '𒌋']",𒇻𒌋,⸢lu⸣-u,"['damaged', 'complete']",0.25,lū,lū,or,P428868,17,1,penalties for litigation: contravention
+10299,P428868.17.2,La-qepu[1]PN,{1}la-⸢qe⸣-pu,PN,PN,"['𒁹', '𒆷', '𒆥', '𒁍']",𒁹𒆷𒆥𒁍,{1}la-⸢qe⸣-pu,"['complete', 'complete', 'damaged', 'complete']",0.12,La-qepu,La-qepu,1,P428868,17,2,penalties for litigation: contravention
+10300,P428868.18.1,lū[or]CNJ,⸢lu⸣-u,,CNJ,"['𒇻', '𒌋']",𒇻𒌋,⸢lu⸣-u,"['damaged', 'complete']",0.25,lū,lū,or,P428868,18,1,penalties for litigation: contravention
+10301,P428868.18.2,ahhēšunu[brother]N,ŠEŠ-MEŠ-šu₂-[nu],,N,"['𒋀', '𒈨𒌍', '𒋙', '𒉡']",𒋀𒈨𒌍𒋙𒉡,ŠEŠ-MEŠ-šu₂-[nu],"['complete', 'complete', 'complete', 'missing']",0.25,ahhēšunu,ahu,brother,P428868,18,2,penalties for litigation: contravention
+10302,P428868.19.1,lū[or]CNJ,⸢lu⸣-u,,CNJ,"['𒇻', '𒌋']",𒇻𒌋,⸢lu⸣-u,"['damaged', 'complete']",0.25,lū,lū,or,P428868,19,1,penalties for litigation: contravention
+10303,P428868.19.2,marʾēšunu[son]N,⸢DUMU⸣-[MEŠ]-šu₂-nu,,N,"['𒌉', '𒈨𒌍', '𒋙', '𒉡']",𒌉𒈨𒌍𒋙𒉡,⸢DUMU⸣-[MEŠ]-šu₂-nu,"['damaged', 'missing', 'complete', 'complete']",0.38,marʾēšunu,māru,son,P428868,19,2,penalties for litigation: contravention
+10304,P428868.20.1,lū[or]CNJ,⸢lu⸣-u,,CNJ,"['𒇻', '𒌋']",𒇻𒌋,⸢lu⸣-u,"['damaged', 'complete']",0.25,lū,lū,or,P428868,20,1,penalties for litigation: contravention
+10305,P428868.20.2,bēl[lord]N&ilkišunu[state service]N,EN-il-ki-šu₂-nu,,N,"['𒂗', '𒅋', '𒆠', '𒋙', '𒉡']",𒂗𒅋𒆠𒋙𒉡,EN-il-ki-šu₂-nu,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,bēl,bēlu,lord,P428868,20,2,penalties for litigation: contravention
+10307,P428868.21.1,lū[or]CNJ,⸢lu⸣-u,,CNJ,"['𒇻', '𒌋']",𒇻𒌋,⸢lu⸣-u,"['damaged', 'complete']",0.25,lū,lū,or,P428868,21,1,penalties for litigation: contravention
+10308,P428868.21.2,mammannušunu[relative]'N,mam₂-ma-nu-šu₂-nu,,XP,"['𒊩', '𒈠', '𒉡', '𒋙', '𒉡']",𒊩𒈠𒉡𒋙𒉡,mam₂-ma-nu-šu₂-nu,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,mammannušunu,mammanu-,relative,P428868,21,2,penalties for litigation: contravention
+10309,P428868.22.1,ša[who]REL,ša,,REL,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,who,P428868,22,1,penalties for litigation: contravention
+10310,P428868.22.2,issi[with]PRP,TA,,PRP,['𒋫'],𒋫,TA,['complete'],0.0,issi,išti,with,P428868,22,2,penalties for litigation: contravention
+10311,P428868.22.3,Qibit-Aššur[1]PN,{1}⸢qi⸣-bit-aš-šur,PN,PN,"['𒁹', '𒆥', '𒂍', '𒀸', '𒋩']",𒁹𒆥𒂍𒀸𒋩,{1}⸢qi⸣-bit-aš-šur,"['complete', 'damaged', 'complete', 'complete', 'complete']",0.1,Qibit-Aššur,Qibit-Aššur,1,P428868,22,3,penalties for litigation: contravention
+10312,P428868.23.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428868,23,1,penalties for litigation: contravention
+10313,P428868.23.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428868,23,2,penalties for litigation: contravention
+10314,P428868.23.3,marʾēšu[son]N,DUMU]-MEŠ-šu₂,,N,"['𒌉', '𒈨𒌍', '𒋙']",𒌉𒈨𒌍𒋙,[DUMU]-MEŠ-šu₂,"['missing', 'complete', 'complete']",0.33,marʾēšu,māru,son,P428868,23,3,penalties for litigation: contravention
+10315,P428868.25.1,dēnu[lawsuit]N,⸢de⸣-nu,,N,"['𒁲', '𒉡']",𒁲𒉡,⸢de⸣-nu,"['damaged', 'complete']",0.25,dēnu,dīnu,lawsuit,P428868,25,1,penalties for litigation: contravention
+10316,P428868.25.2,dabābu[litigation]'N,DUG₄.DUG₄,,V,"['𒅗', '𒅗']",𒅗𒅗,DUG₄.DUG₄,"['complete', 'complete']",0.0,dabābu,dabābu,litigation,P428868,25,2,penalties for litigation: contravention
+10317,P428868.25.3,ubtaʾʾūni[seek]V,[ub]-⸢ta⸣-ʾu-u-ni,,V,"['𒌒', '𒋫', '𒀪', '𒌋', '𒉌']",𒌒𒋫𒀪𒌋𒉌,[ub]-⸢ta⸣-ʾu-u-ni,"['missing', 'damaged', 'complete', 'complete', 'complete']",0.3,ubtaʾʾūni,buʾʾû,seek,P428868,25,3,penalties for litigation: contravention
+10318,P428868.26.1,n,01,NUMBER,n,['01'],01,01,['complete'],0.0,,,,P428868,26,1,penalties for litigation: penalty
+10319,P428868.26.2,manā[a unit of weight]N,MA.NA,,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manā,manû,a unit of weight,P428868,26,2,penalties for litigation: penalty
+10320,P428868.26.3,gerdu[plucked wool]N,{sig₂}⸢ger⸣-du,,N,"['𒋠', '𒄫', '𒁺']",𒋠𒄫𒁺,{SIG₂}⸢ger⸣-du,"['complete', 'damaged', 'complete']",0.17,gerdu,gerdu,plucked wool,P428868,26,3,penalties for litigation: penalty
+10321,P428868.26.4,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428868,26,4,penalties for litigation: penalty
+10322,P428868.26.5,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428868,26,5,penalties for litigation: penalty

@@ -1,0 +1,20 @@
+Unnamed: 0,ref,frag,inst,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,lang,text,line,word,annotation
+7285,P240189.2.1,ṣu-pur,ṣupur[fingernail]N,,N,"['𒍮', '𒁓']",𒍮𒁓,ṣu-pur,"['complete', 'complete']",0.0,ṣupur,ṣupru,fingernail,,P240189,2,1,seal identification
+7286,P240189.2.2,{1}30—I,Sin-naʾdi[1]PN$,PN,PN,"['𒁹', '𒌍', '𒄿']",𒁹𒌍𒄿,{1}30-I,"['complete', 'complete', 'complete']",0.0,Sin-naʾdi,Sin-naʾdi,1,,P240189,2,2,seal identification
+7287,P240189.2.3,EN,bēlu[owner]N$bēl,,N,['𒂗'],𒂗,EN,['complete'],0.0,bēl,bēlu,owner,,P240189,2,3,seal identification
+7288,P240189.2.4,LU₂,amēli[man]N,,N,['𒇽'],𒇽,LU₂,['complete'],0.0,amēli,awīlu,man,,P240189,2,4,seal identification
+7289,P240189.4.1,{1}PAB—u₂-qur,Ahu-uqur[1]PN$,PN,PN,"['𒁹', '𒉽', '𒌑', '𒄥']",𒁹𒉽𒌑𒄥,{1}PAB-u₂-qur,"['complete', 'complete', 'complete', 'complete']",0.0,Ahu-uqur,Ahu-uqur,1,,P240189,4,1,object sold
+7290,P240189.4.2,{⸢lu₂v⸣}ARAD-šu₂,urdīšu[servant]N,,N,"['𒇽', '𒀴', '𒋙']",𒇽𒀴𒋙,{⸢LU₂~v⸣}ARAD-šu₂,"['damaged', 'complete', 'complete']",0.17,urdīšu,ardu,servant,,P240189,4,2,object sold
+7291,P240189.5.1,⸢u₂⸣-piš-ma,epēšu[do//contract]V$uppišma,,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,⸢u₂⸣-piš-ma,"['damaged', 'complete', 'complete']",0.17,uppišma,epēšu,contract,,P240189,5,1,initiation of transaction
+7292,P240189.5.2,{1}mu-DI—15,Mušallim-Issar[1]PN$,PN,PN,"['𒁹', '𒈬', '𒁲', '15']",𒁹𒈬𒁲15,{1}mu-DI-⸢15⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,Mušallim-Issar,Mušallim-Issar,1,,P240189,5,2,initiation of transaction
+7293,P240189.9.1,IGI,šību[old man//witness]N$,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P240189,9,1,witness
+7294,P240189.9.2,{1}{d}PA—[x,u,,u,"['𒁹', '𒀭', '𒉺', 'x']",𒁹𒀭𒉺x,{1}{d}PA-[x],"['complete', 'complete', 'complete', 'missing']",0.25,,,,,P240189,9,2,witness
+7295,P240189.9.3,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P240189,9,3,witness
+7296,P240189.9.4,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P240189,9,4,witness
+7297,P240189.10.1,{iti}SIG₄,Simanu[Sivan]MN$,MN,MN,"['𒌗', '𒋞']",𒌗𒋞,{ITI}SIG₄,"['complete', 'complete']",0.0,Simanu,Simanu,Sivan,,P240189,10,1,date
+7298,P240189.10.2,UD,ūm[day]N,,N,['𒌓'],𒌓,UD,['complete'],0.0,ūm,ūmu,day,,P240189,10,2,date
+7299,P240189.10.3,03-[KAM₂],n,NUMBER,n,"['𒐈', '𒆚']",𒐈𒆚,03-[KAM₂],"['complete', 'missing']",0.5,,,,,P240189,10,3,date
+7300,P240189.11.1,lim-me,līmu[eponym (of year)]N$limme,,N,"['𒅆', '𒈨']",𒅆𒈨,lim-me,"['complete', 'complete']",0.0,limme,līmu,eponym (of year),,P240189,11,1,date
+7301,P240189.11.2,{1}lip-hur—DINGIR,Liphur-ilu[1]PN$,PN,PN,"['𒁹', '𒈜', '𒄯', '𒀭']",𒁹𒈜𒄯𒀭,{1}lip-hur-DINGIR,"['complete', 'complete', 'complete', 'complete']",0.0,Liphur-ilu,Liphur-ilu,1,,P240189,11,2,date
+7302,P240189.12.1,{lu₂v}GAR.KUR,+šaknu[appointee]N$šakin&+mātu[land]N$māt,,N,"['𒇽', '𒃻', '𒆳']",𒇽𒃻𒆳,{LU₂~v}GAR.KUR,"['complete', 'complete', 'complete']",0.0,šakin,šaknu,appointee,,P240189,12,1,date
+7304,P240189.12.2,{kur}hab-ru-ri,Habruri[1]GN,GN,GN,"['𒆳', '𒆸', '𒊒', '𒊑']",𒆳𒆸𒊒𒊑,{KUR}hab-ru-ri,"['complete', 'complete', 'complete', 'complete']",0.0,Habruri,Habruri,1,,P240189,12,2,date

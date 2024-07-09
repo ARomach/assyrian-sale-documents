@@ -1,0 +1,15 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+781,P522633.3.1,tuāru[revocation]'N,[tu-a-ru,tuāru,târu,revocation,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,[tu-a-ru],"['missing', 'missing', 'missing']",1.0,,,P522633,3,1,exclusion of litigation
+782,P522633.3.2,dēnu[lawsuit]N,de-e-nu],dēnu,dīnu,lawsuit,N,"['𒁲', '𒂊', '𒉡']",𒁲𒂊𒉡,[de-e-nu],"['missing', 'missing', 'missing']",1.0,,,P522633,3,2,exclusion of litigation
+783,P522633.3.3,dabābu[litigation]'N,DUG₄.DUG₄,dabābu,dabābu,litigation,V,"['𒅗', '𒅗']",𒅗𒅗,DUG₄.DUG₄,"['complete', 'complete']",0.0,,,P522633,3,3,exclusion of litigation
+784,P522633.3.4,laššu[(there) is not]V,la-⸢aš₂-šu₂⸣,laššu,laššu,(there) is not,V,"['𒆷', '𒀾', '𒋙']",𒆷𒀾𒋙,la-⸢aš₂-šu₂⸣,"['complete', 'damaged', 'damaged']",0.33,,,P522633,3,4,exclusion of litigation
+785,P522633.4.1,mannu[whoever]'XP,[man-nu,mannu,mannu,whoever,QP,"['𒌋𒌋', '𒉡']",𒌋𒌋𒉡,[man-nu],"['missing', 'missing']",1.0,,,P522633,4,1,penalties for litigation: contravention
+786,P522633.4.2,ša[whoever]REL,ša,ša,ša,whoever,REL,['𒊭'],𒊭,[ša],['missing'],1.0,,,P522633,4,2,penalties for litigation: contravention
+787,P522633.4.3,iparrakūni[contravene]V,GIL-u-ni],iparrakūni,parāku,contravene,V,"['𒄃', '𒌋', '𒉌']",𒄃𒌋𒉌,[GIL-u-ni],"['missing', 'missing', 'missing']",1.0,,,P522633,4,3,penalties for litigation: contravention
+788,P522633.4.4,n,10,,,,n,['𒌋'],𒌋,⸢10⸣,['damaged'],0.5,NUMBER,,P522633,4,4,penalties for litigation: penalty
+789,P522633.4.5,manā[a unit of weight]N,MA⸣.NA,manā,manû,a unit of weight,N,"['𒈠', '𒈾']",𒈠𒈾,⸢MA⸣.NA,"['damaged', 'complete']",0.25,,,P522633,4,5,penalties for litigation: penalty
+790,P522633.4.6,ṣarpu[silver]N,KUG.UD,ṣarpu,ṣarpu,silver,N,"['𒆬', '𒌓']",𒆬𒌓,KUG.UD,"['complete', 'complete']",0.0,,,P522633,4,6,penalties for litigation: penalty
+791,P522633.5.1,ina[in]PRP,[ina,ina,ina,in,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,,P522633,5,1,penalties for litigation: penalty
+792,P522633.5.2,burki[lap]N,bur-ki,burki,burku,lap,N,"['𒁓', '𒆠']",𒁓𒆠,[bur-ki],"['missing', 'missing']",1.0,,,P522633,5,2,penalties for litigation: penalty
+793,P522633.5.3,u,{d}x-(x),,,,u,"['𒀭', 'X', 'X']",𒀭XX,{[d]}[x-x],"['missing', 'missing', 'missing']",1.0,,,P522633,5,3,penalties for litigation: penalty
+794,P522633.5.4,išakkan[place]V,i]-⸢šak-kan⸣,išakkan,šakānu,place,V,"['𒄿', '𒊕', '𒃶']",𒄿𒊕𒃶,[i]-⸢šak-kan⸣,"['missing', 'damaged', 'damaged']",0.67,,,P522633,5,4,penalties for litigation: penalty

@@ -1,0 +1,10 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+20823,P527144.2.1,kunuk[seal]N,{[na₄}KIŠIB,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}[KIŠIB],"['missing', 'missing']",1.0,,,P527144,2,1,seal identification
+20824,P527144.2.2,+Buru-salim[]PN$,{m]}AMAR-sa-[lim],Buru-salim,Buru-salim,1,PN,"['𒁹', '𒀫', '𒊓', '𒅆']",𒁹𒀫𒊓𒅆,{[m]}AMAR-sa-[lim],"['missing', 'complete', 'complete', 'missing']",0.5,PN,,P527144,2,2,seal identification
+20825,P527144.4.1,bēl[owner]N,[EN],bēl,bēlu,owner,N,['𒂗'],𒂗,[EN],['missing'],1.0,,,P527144,4,1,seal identification
+20826,P527144.4.2,issi[woman]N,MI₂,issi,issu,woman,N,['𒊩'],𒊩,MI₂,['complete'],0.0,,,P527144,4,2,seal identification
+20827,P527144.4.3,+tadānu[give//giving]V'N$tadān,[SUM-an],tadān,tadānu,giving,V,"['𒋧', '𒀭']",𒋧𒀭,[SUM-an],"['missing', 'missing']",1.0,,,P527144,4,3,seal identification
+20828,P527144.8.1,x[1]MN,{[iti}x,x,x,1,MN,"['𒌗', 'X']",𒌗X,{[ITI]}[x],"['missing', 'missing']",1.0,MN,,P527144,8,1,date
+20829,P527144.8.2,n,UD-x]-⸢KAM⸣,,,,n,"['𒌓', 'X', '𒄰']",𒌓X𒄰,[UD-x]-⸢KAM⸣,"['missing', 'missing', 'damaged']",0.83,NUMBER,,P527144,8,2,date
+20830,P527144.9.1,limme[eponym (of year)]N,[lim-me,limme,līmu,eponym (of year),N,"['𒅆', '𒈨']",𒅆𒈨,[lim-me],"['missing', 'missing']",1.0,,,P527144,9,1,date
+20831,P527144.9.2,+Bel-šadduʾa[]PN$,{m}EN]-KUR-u-a($tablet: PAB$),Bel-šadduʾa,Bel-šadduʾa,1,PN,"['𒁹', '𒂗', '𒆳', '𒌋', '𒀀']",𒁹𒂗𒆳𒌋𒀀,{[m]}[EN]-KUR-u-a,"['missing', 'missing', 'complete', 'complete', 'complete']",0.4,PN,,P527144,9,2,date

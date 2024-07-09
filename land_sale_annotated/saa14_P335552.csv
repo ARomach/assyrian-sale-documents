@@ -1,0 +1,23 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+456,P335552.4.1,[u₂-piš]-ma,uppišma[contract]V,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,[u₂-piš]-ma,"['missing', 'missing', 'complete']",0.67,uppišma,epēšu,contract,,,P335552,4,1,initiation of transaction
+457,P335552.4.2,{1}MAN—lu—⸢da₃⸣-[ri],Šarru-lu-dari[1]PN,PN,"['𒁹', '𒌋𒌋', '𒇻', '𒆕', '𒊑']",𒁹𒌋𒌋𒇻𒆕𒊑,{1}MAN-lu-⸢da₃⸣-[ri],"['complete', 'complete', 'complete', 'damaged', 'missing']",0.3,Šarru-lu-dari,Šarru-lu-dari,1,PN,,P335552,4,2,initiation of transaction
+458,P335552.5.1,[ina,ina[in+=for]PRP,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,,P335552,5,1,price
+459,P335552.5.2,ŠA₃-bi],libbi[interior]N,N,"['𒊮', '𒁉']",𒊮𒁉,[ŠA₃-bi],"['missing', 'missing']",1.0,libbi,libbu,interior,,,P335552,5,2,price
+460,P335552.5.3,02,n,n,['𒈫'],𒈫,02,['complete'],0.0,,,,NUMBER,,P335552,5,3,price
+461,P335552.5.4,MA.NA,manê[a unit of weight]N,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manê,manû,a unit of weight,,,P335552,5,4,price
+462,P335552.5.5,KUG.UD,ṣarpu[silver]N,N,"['𒆬', '𒌓']",𒆬𒌓,KUG.UD,"['complete', 'complete']",0.0,ṣarpu,ṣarpu,silver,,,P335552,5,5,price
+463,P335552.5.6,[il-qi],ilqi[purchase]V,V,"['𒅋', '𒆥']",𒅋𒆥,[il-qi],"['missing', 'missing']",1.0,ilqi,leqû,purchase,,,P335552,5,6,completion of transaction
+464,P335552.6.1,[kas-pu],kaspu[money]N,N,"['𒆜', '𒁍']",𒆜𒁍,[kas-pu],"['missing', 'missing']",1.0,kaspu,kaspu,money,,,P335552,6,1,confirmation of transfer 1
+465,P335552.6.2,⸢ga⸣-mur,gammur[completed]AJ,AJ,"['𒂵', '𒄯']",𒂵𒄯,⸢ga⸣-mur,"['damaged', 'complete']",0.25,gammur,gammuru,completed,,,P335552,6,2,confirmation of transfer 1
+466,P335552.6.3,ta-din,tadin[paid]AJ,AJ,"['𒋫', '𒁷']",𒋫𒁷,ta-din,"['complete', 'complete']",0.0,tadin,tadnu,paid,,,P335552,6,3,confirmation of transfer 1
+467,P335552.6.4,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335552,6,4,confirmation of transfer 2
+468,P335552.6.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335552,6,5,confirmation of transfer 2
+469,P335552.6.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335552,6,6,confirmation of transfer 2
+470,P335552.7.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335552,7,1,confirmation of transfer 2
+471,P335552.7.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335552,7,2,confirmation of transfer 2
+472,P335552.7.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335552,7,3,confirmation of transfer 2
+473,P335552.7.4,a]-⸢na⸣,ana[to+=in its totality]PRP,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a]-⸢na⸣,"['missing', 'damaged']",0.75,ana,ana,to,,,P335552,7,4,confirmation of transfer 2
+474,P335552.7.5,gi-mir-te-šu₂,gimirtēšu[totality]N,N,"['𒄀', '𒂇', '𒋼', '𒋙']",𒄀𒂇𒋼𒋙,gi-mir-te-šu₂,"['complete', 'complete', 'complete', 'complete']",0.0,gimirtēšu,gimirtu,totality,,,P335552,7,5,confirmation of transfer 2
+475,P335552.7.6,⸢zar⸣-[x,u,u,"['𒇡', 'x']",𒇡x,⸢zar⸣-[x],"['damaged', 'missing']",0.75,,,,,,P335552,7,6,confirmation of transfer 2
+476,P335552.7.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335552,7,7,confirmation of transfer 2
+477,P335552.7.8,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335552,7,8,confirmation of transfer 2

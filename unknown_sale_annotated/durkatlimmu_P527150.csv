@@ -1,0 +1,9 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+9606,P527150.2.1,kunuk[seal]N,{na₄}[KIŠIB,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{NA₄}[KIŠIB],"['complete', 'missing']",0.5,,,P527150,2,1,seal identification
+9607,P527150.2.2,x[1]PN,{m}x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X']",𒁹XXXX,{[m]}[x-x-x-x],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,PN,,P527150,2,2,seal identification
+9608,P527150.7.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527150,7,1,witness
+9609,P527150.7.2,x[1]PN,{m}[x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X']",𒁹XXXX,{m}[x-x-x-x],"['complete', 'missing', 'missing', 'missing', 'missing']",0.8,PN,,P527150,7,2,witness
+9610,P527150.8.1,x[1]MN,{iti}[x,x,x,1,MN,"['𒌗', 'X']",𒌗X,{ITI}[x],"['complete', 'missing']",0.5,MN,,P527150,8,1,date
+9611,P527150.8.2,n,UD-x-KAM₂],,,,n,"['𒌓', 'X', '𒆚']",𒌓X𒆚,[UD-x-KAM₂],"['missing', 'missing', 'missing']",1.0,NUMBER,,P527150,8,2,date
+9612,P527150.9.1,limmu[eponym (of year)]N,lim-[mu,limmu,līmu,eponym (of year),N,"['𒅆', '𒈬']",𒅆𒈬,lim-[mu],"['complete', 'missing']",0.5,,,P527150,9,1,date
+9613,P527150.9.2,x[1]PN,{m}x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X']",𒁹XXXX,{[m]}[x-x-x-x],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,PN,,P527150,9,2,date

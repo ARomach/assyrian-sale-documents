@@ -1,0 +1,47 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+22132,P335236.3.1,kas-⸢pu⸣,kaspu[money]N,N,"['𒆜', '𒁍']",𒆜𒁍,kas-⸢pu⸣,"['complete', 'damaged']",0.25,kaspu,kaspu,money,,,P335236,3,1,confirmation of transfer 1
+22133,P335236.3.2,[gam-mur,gammur[completed]AJ,AJ,"['𒃵', '𒄯']",𒃵𒄯,[gam-mur],"['missing', 'missing']",1.0,gammur,gammuru,completed,,,P335236,3,2,confirmation of transfer 1
+22134,P335236.3.3,ta-din],tadin[paid]AJ,AJ,"['𒋫', '𒁷']",𒋫𒁷,[ta-din],"['missing', 'missing']",1.0,tadin,tadnu,paid,,,P335236,3,3,confirmation of transfer 1
+22135,P335236.4.1,UN-MEŠ,nišē[people]N,N,"['𒌦', '𒈨𒌍']",𒌦𒈨𒌍,UN-MEŠ,"['complete', 'complete']",0.0,nišē,nišu,people,,,P335236,4,1,confirmation of transfer 2
+22136,P335236.4.2,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,4,2,confirmation of transfer 2
+22137,P335236.4.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,4,3,confirmation of transfer 2
+22138,P335236.4.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,4,4,confirmation of transfer 2
+22139,P335236.4.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,4,5,confirmation of transfer 2
+22140,P335236.4.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,4,6,confirmation of transfer 2
+22141,P335236.4.7,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,4,7,confirmation of transfer 2
+22142,P335236.5.1,la-[qi-u,laqiu[acquired]AJ,AJ,"['𒆷', '𒆥', '𒌋']",𒆷𒆥𒌋,la-[qi-u],"['complete', 'missing', 'missing']",0.67,laqiu,leqû,acquired,,,P335236,5,1,confirmation of transfer 2
+22143,P335236.5.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,5,2,none
+22144,P335236.5.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,5,3,none
+22145,P335236.5.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,5,4,none
+22146,P335236.5.5,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,5,5,none
+22147,P335236.8.1,[ina,ina[in]PRP,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,,P335236,8,1,penalties for litigation: penalty
+22148,P335236.8.2,de]-ni-šu₂,dēnīšu[lawsuit]N,N,"['𒁲', '𒉌', '𒋙']",𒁲𒉌𒋙,[de]-ni-šu₂,"['missing', 'complete', 'complete']",0.33,dēnīšu,dīnu,lawsuit,,,P335236,8,2,penalties for litigation: penalty
+22149,P335236.8.3,[DUG₄.DUG₄-ma],idabbubma[contest]V,V,"['𒅗', '𒅗', '𒈠']",𒅗𒅗𒈠,[DUG₄].[DUG₄-ma],"['missing', 'missing', 'missing']",1.0,idabbubma,dabābu,contest,,,P335236,8,3,penalties for litigation: penalty
+22150,P335236.9.1,[la],lā[not]MOD,MOD,['𒆷'],𒆷,[la],['missing'],1.0,lā,lā,not,,,P335236,9,1,penalties for litigation: penalty
+22151,P335236.9.2,i-[laq-qi],ilaqqi[succeed]V,V,"['𒄿', '𒋃', '𒆥']",𒄿𒋃𒆥,i-[laq-qi],"['complete', 'missing', 'missing']",0.67,ilaqqi,leqû,succeed,,,P335236,9,2,penalties for litigation: penalty
+22152,P335236.11.1,[IGI],šību[witness]N,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,,P335236,11,1,witness
+22153,P335236.11.2,{1}na-bu-u-a,Nabuʾa[1]PN,PN,"['𒁹', '𒈾', '𒁍', '𒌋', '𒀀']",𒁹𒈾𒁍𒌋𒀀,{1}na-bu-u-a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Nabuʾa,Nabuʾa,1,PN,,P335236,11,2,witness
+22154,P335236.11.3,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,11,3,witness
+22155,P335236.11.4,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,11,4,witness
+22156,P335236.12.1,[IGI],šību[witness]N,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,,P335236,12,1,witness
+22157,P335236.12.2,{1}{d}PA—ZU,Nabu-leʾi[1]PN,PN,"['𒁹', '𒀭', '𒉺', '𒍪']",𒁹𒀭𒉺𒍪,{1}{d}PA-ZU,"['complete', 'complete', 'complete', 'complete']",0.0,Nabu-leʾi,Nabu-leʾi,1,PN,,P335236,12,2,witness
+22158,P335236.12.3,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,12,3,witness
+22159,P335236.12.4,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,12,4,witness
+22160,P335236.13.1,⸢IGI⸣,šību[witness]N,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,,,P335236,13,1,witness
+22161,P335236.13.2,{1}EN—A—AŠ,Bel-aplu-iddina[1]PN,PN,"['𒁹', '𒂗', '𒀀', '𒀸']",𒁹𒂗𒀀𒀸,{1}EN-A-AŠ,"['complete', 'complete', 'complete', 'complete']",0.0,Bel-aplu-iddina,Bel-aplu-iddina,1,PN,,P335236,13,2,witness
+22162,P335236.13.3,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,13,3,witness
+22163,P335236.13.4,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,13,4,witness
+22164,P335236.14.1,⸢IGI⸣,šību[witness]N,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,,,P335236,14,1,witness
+22165,P335236.14.2,{1}a-tar—su-li,Attar-suri[1]PN$,PN,"['𒁹', '𒀀', '𒋻', '𒋢', '𒇷']",𒁹𒀀𒋻𒋢𒇷,{1}a-tar-su-li,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Attar-suri,Attar-suri,1,PN,,P335236,14,2,witness
+22166,P335236.14.3,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,14,3,witness
+22167,P335236.14.4,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,14,4,witness
+22168,P335236.15.1,IGI,šību[witness]N,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,,P335236,15,1,witness
+22169,P335236.15.2,{1}{uru}arba-il₃-[a.a],Arbailaya[1]PN,PN,"['𒁹', '𒌷', '𒇹', '𒀭', '𒀀', '𒀀']",𒁹𒌷𒇹𒀭𒀀𒀀,{1}{URU}arba-il₃-[a].[a],"['complete', 'complete', 'complete', 'complete', 'missing', 'missing']",0.33,Arbailaya,Arbailayu,1,PN,,P335236,15,2,witness
+22170,P335236.16.1,IGI,šību[witness]N,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,,P335236,16,1,witness
+22171,P335236.16.2,{1}man-nu—ki-i—⸢PAB⸣-[MEŠ],Mannu-ki-ahi[1]PN,PN,"['𒁹', '𒌋𒌋', '𒉡', '𒆠', '𒄿', '𒉽', '𒈨𒌍']",𒁹𒌋𒌋𒉡𒆠𒄿𒉽𒈨𒌍,{1}man-nu-ki-i-⸢PAB⸣-[MEŠ],"['complete', 'complete', 'complete', 'complete', 'complete', 'damaged', 'missing']",0.21,Mannu-ki-ahi,Mannu-ki-ahi,1,PN,,P335236,16,2,witness
+22172,P335236.17.1,IGI,šību[witness]N,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,,P335236,17,1,witness
+22173,P335236.17.2,{1}ARAD—{d}MAŠ,Urda-Inurta[1]PN,PN,"['𒁹', '𒀴', '𒀭', '𒈦']",𒁹𒀴𒀭𒈦,{1}ARAD-{d}MAŠ,"['complete', 'complete', 'complete', 'complete']",0.0,Urda-Inurta,Urda-Inurta,1,PN,,P335236,17,2,witness
+22174,P335236.17.3,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,17,3,witness
+22175,P335236.17.4,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335236,17,4,witness
+22176,P335236.18.1,IGI,šību[witness]N,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,,P335236,18,1,witness
+22177,P335236.18.2,{1}ga-di-ia,Gaddiya[1]PN$,PN,"['𒁹', '𒂵', '𒁲', '𒅀']",𒁹𒂵𒁲𒅀,{1}ga-di-ia,"['complete', 'complete', 'complete', 'complete']",0.0,Gaddiya,Gaddiya,1,PN,,P335236,18,2,witness

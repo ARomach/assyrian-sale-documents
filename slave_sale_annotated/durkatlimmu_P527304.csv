@@ -1,0 +1,17 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+3916,P527304.3.1,ina[at]PRP,[ina,ina,ina,at,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,,P527304,3,1,price
+3917,P527304.3.2,X,ŠA₃,,,,X,['𒊮'],𒊮,[ŠA₃],['missing'],1.0,,,P527304,3,2,price
+3918,P527304.3.3,n,x,,,,n,['X'],X,[x],['missing'],1.0,NUMBER,,P527304,3,3,price
+3919,P527304.3.4,manā[a unit of weight]N,MA].⸢NA,manā,manû,a unit of weight,N,"['𒈠', '𒈾']",𒈠𒈾,[MA].⸢NA⸣,"['missing', 'damaged']",0.75,,,P527304,3,4,price
+3920,P527304.3.5,X,KU₃.BABBAR⸣,,,,X,"['𒆬', '𒌓']",𒆬𒌓,⸢KU₃⸣.⸢BABBAR⸣,"['damaged', 'damaged']",0.5,,,P527304,3,5,price
+3921,P527304.3.6,X,TA,,,,X,['𒋫'],𒋫,TA,['complete'],0.0,,,P527304,3,6,completion of transaction
+3922,P527304.3.7,X,[IGI],,,,X,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527304,3,7,completion of transaction
+3923,P527304.5.1,X,[LU₂.MEŠ],,,,X,"['𒇽', '𒈨𒌍']",𒇽𒈨𒌍,[LU₂].[MEŠ],"['missing', 'missing']",1.0,,,P527304,5,1,completion of transaction
+3924,P527304.5.2,X,an-nu-⸢ti⸣,,,,X,"['𒀭', '𒉡', '𒋾']",𒀭𒉡𒋾,an-nu-⸢ti⸣,"['complete', 'complete', 'damaged']",0.17,,,P527304,5,2,completion of transaction
+3925,P527304.6.1,ilqe[purchase]V,[il-qe,ilqe,leqû,purchase,V,"['𒅋', '𒆥']",𒅋𒆥,[il-qe],"['missing', 'missing']",1.0,,,P527304,6,1,completion of transaction
+3926,P527304.6.2,X,kas]-pu,,,,X,"['𒆜', '𒁍']",𒆜𒁍,[kas]-pu,"['missing', 'complete']",0.5,,,P527304,6,2,confirmation of transfer 1
+3927,P527304.6.3,X,gam-mur,,,,X,"['𒃵', '𒄯']",𒃵𒄯,gam-mur,"['complete', 'complete']",0.0,,,P527304,6,3,confirmation of transfer 1
+3928,P527304.6.4,X,ta-⸢din⸣,,,,X,"['𒋫', '𒁷']",𒋫𒁷,ta-⸢din⸣,"['complete', 'damaged']",0.25,,,P527304,6,4,confirmation of transfer 1
+3929,P527304.7.1,X,[UN].MEŠ,,,,X,"['𒌦', '𒈨𒌍']",𒌦𒈨𒌍,[UN].MEŠ,"['missing', 'complete']",0.5,,,P527304,7,1,confirmation of transfer 2
+3930,P527304.7.2,X,zar₄-[pu,,,,X,"['𒆰', '𒁍']",𒆰𒁍,zar₄-[pu],"['complete', 'missing']",0.5,,,P527304,7,2,confirmation of transfer 2
+3931,P527304.7.3,X,la-qe-u],,,,X,"['𒆷', '𒆥', '𒌋']",𒆷𒆥𒌋,[la-qe-u],"['missing', 'missing', 'missing']",1.0,,,P527304,7,3,confirmation of transfer 2

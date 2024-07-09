@@ -1,0 +1,49 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+225,P224607.5.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,5,1,none
+226,P224607.5.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,5,2,none
+227,P224607.5.3,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224607,5,3,none
+228,P224607.5.4,u,⸢x⸣,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,P224607,5,4,none
+229,P224607.5.5,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,5,5,none
+230,P224607.5.6,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,5,6,none
+231,P224607.5.7,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224607,5,7,none
+232,P224607.6.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,6,1,none
+233,P224607.6.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,6,2,none
+234,P224607.6.3,tuāru[revocation]'N,tu]-a-ru,,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,[tu]-a-ru,"['missing', 'complete', 'complete']",0.33,tuāru,târu,revocation,P224607,6,3,exclusion of litigation
+235,P224607.6.4,dēnu[lawsuit]N,de-[e-nu,,N,"['𒁲', '𒂊', '𒉡']",𒁲𒂊𒉡,de-[e-nu],"['complete', 'missing', 'missing']",0.67,dēnu,dīnu,lawsuit,P224607,6,4,exclusion of litigation
+236,P224607.6.5,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224607,6,5,none
+237,P224607.7.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,7,1,none
+238,P224607.7.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,7,2,none
+239,P224607.7.3,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224607,7,3,none
+240,P224607.7.4,ša[who]REL,ša,,REL,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,who,P224607,7,4,penalties for litigation: contravention
+241,P224607.7.5,ina[in]PRP,ina,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,P224607,7,5,penalties for litigation: contravention
+242,P224607.7.6,urkiš[later]AV,⸢ur⸣-[kiš,,AV,"['𒌨', '𒆧']",𒌨𒆧,⸢ur⸣-[kiš],"['damaged', 'missing']",0.75,urkiš,urkiš,later,P224607,7,6,penalties for litigation: contravention
+243,P224607.7.7,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224607,7,7,penalties for litigation: contravention
+244,P224607.8.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,8,1,penalties for litigation: contravention
+245,P224607.8.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,8,2,penalties for litigation: contravention
+246,P224607.8.3,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224607,8,3,penalties for litigation: contravention
+247,P224607.8.4,u[and]CNJ,u₃,,CNJ,['𒅇'],𒅇,u₃,['complete'],0.0,u,u,and,P224607,8,4,penalties for litigation: contravention
+248,P224607.8.5,marʾēšu[son]N,DUMU-MEŠ-šu₂,,N,"['𒌉', '𒈨𒌍', '𒋙']",𒌉𒈨𒌍𒋙,DUMU-MEŠ-šu₂,"['complete', 'complete', 'complete']",0.0,marʾēšu,māru,son,P224607,8,5,penalties for litigation: contravention
+249,P224607.8.6,u[and]CNJ,u₃,,CNJ,['𒅇'],𒅇,u₃,['complete'],0.0,u,u,and,P224607,8,6,penalties for litigation: contravention
+250,P224607.8.7,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,8,7,penalties for litigation: contravention
+251,P224607.8.8,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224607,8,8,penalties for litigation: contravention
+252,P224607.9.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,9,1,penalties for litigation: contravention
+253,P224607.9.2,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224607,9,2,penalties for litigation: contravention
+254,P224607.9.3,ubtaʾʾūni[seek]V,⸢ub⸣-ta-ʾu-ni,,V,"['𒌒', '𒋫', '𒀪', '𒉌']",𒌒𒋫𒀪𒉌,⸢ub⸣-ta-ʾu-ni,"['damaged', 'complete', 'complete', 'complete']",0.12,ubtaʾʾūni,buʾʾû,seek,P224607,9,3,penalties for litigation: contravention
+255,P224607.9.4,bilat[a unit of weight]N,⸢bi⸣-[lat,,N,"['𒁉', '𒆳']",𒁉𒆳,⸢bi⸣-[lat],"['damaged', 'missing']",0.75,bilat,biltu,a unit of weight,P224607,9,4,penalties for litigation: penalty
+256,P224607.9.5,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224607,9,5,penalties for litigation: penalty
+257,P224607.10.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,10,1,penalties for litigation: penalty
+258,P224607.10.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,10,2,penalties for litigation: penalty
+259,P224607.10.3,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224607,10,3,penalties for litigation: penalty
+260,P224607.10.4,ina[in]PRP,ina,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,P224607,10,4,penalties for litigation: penalty
+261,P224607.10.5,burki[lap]N,bur-ki,,N,"['𒁓', '𒆠']",𒁓𒆠,bur-ki,"['complete', 'complete']",0.0,burki,burku,lap,P224607,10,5,penalties for litigation: penalty
+262,P224607.10.6,Inurta[1]DN,{d}MAŠ,DN,DN,"['𒀭', '𒈦']",𒀭𒈦,{d}MAŠ,"['complete', 'complete']",0.0,Inurta,Ninurta,1,P224607,10,6,penalties for litigation: penalty
+263,P224607.10.7,āšib[residing]AJ,a-⸢šib⸣,,AJ,"['𒀀', '𒈨']",𒀀𒈨,a-⸢šib⸣,"['complete', 'damaged']",0.25,āšib,āšibu,residing,P224607,10,7,penalties for litigation: penalty
+264,P224607.10.8,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,10,8,penalties for litigation: penalty
+265,P224607.10.9,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224607,10,9,penalties for litigation: penalty
+266,P224607.11.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,11,1,penalties for litigation: penalty
+267,P224607.11.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,11,2,penalties for litigation: penalty
+268,P224607.11.3,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224607,11,3,penalties for litigation: penalty
+269,P224607.11.4,+dīnu[legal decision//lawsuit]N'N$dēnišunu,de-ni-šu₂-nu,,N,"['𒁲', '𒉌', '𒋙', '𒉡']",𒁲𒉌𒋙𒉡,de-ni-šu₂-nu,"['complete', 'complete', 'complete', 'complete']",0.0,dēnišunu,dīnu,lawsuit,P224607,11,4,penalties for litigation: penalty
+270,P224607.11.5,dabābu[litigation]'N,DUG₄.[DUG₄,,V,"['𒅗', '𒅗']",𒅗𒅗,DUG₄.[DUG₄],"['complete', 'missing']",0.5,dabābu,dabābu,litigation,P224607,11,5,penalties for litigation: penalty
+271,P224607.11.6,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224607,11,6,penalties for litigation: penalty
+272,P224607.11.7,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224607,11,7,penalties for litigation: penalty

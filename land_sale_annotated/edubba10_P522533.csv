@@ -1,0 +1,50 @@
+Unnamed: 0,ref,inst,frag,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,text,line,word,annotation
+4212,P522533.2.1,kunuk[seal]N,{na₄}KIŠIB,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{NA₄}KIŠIB,"['complete', 'complete']",0.0,kunuk,kunukku,seal,,P522533,2,1,seal identification
+4213,P522533.2.2,+Mannu-ki-Beliya[]PN$,{1}ma-nu-ki-EN-a,PN,"['𒁹', '𒈠', '𒉡', '𒆠', '𒂗', '𒀀']",𒁹𒈠𒉡𒆠𒂗𒀀,{1}ma-nu-ki-EN-a,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,Mannu-ki-Beliya,Mannu-ki-Beliya,1,PN,P522533,2,2,seal identification
+4214,P522533.4.1,masennu[treasurer]N,{lu₂}AGRIG,N,"['𒇽', '𒅆𒁾']",𒇽𒅆𒁾,{LU₂}AGRIG,"['complete', 'complete']",0.0,masennu,mašennu,treasurer,,P522533,4,1,seal identification
+4215,P522533.5.1,ša[of]DET,[ša],DET,['𒊭'],𒊭,[ša],['missing'],1.0,ša,ša,of,,P522533,5,1,seal identification
+4216,P522533.5.2,issi[woman]N&ēkalli[palace]N,MI₂-E₂.GAL,N,"['𒊩', '𒂍', '𒃲']",𒊩𒂍𒃲,MI₂-E₂.GAL,"['complete', 'complete', 'complete']",0.0,issi,sinništu,woman,,P522533,5,2,seal identification
+4218,P522533.7.1,kiriu[garden]N,{[giš]}SAR,N,"['𒄑', '𒊬']",𒄑𒊬,{[GIŠ]}SAR,"['missing', 'complete']",0.5,kiriu,kirû,garden,,P522533,7,1,object sold
+4219,P522533.8.1,ša[of]DET,⸢ša₂⸣,DET,['𒃻'],𒃻,⸢ša₂⸣,['damaged'],0.5,ša,ša,of,,P522533,8,1,object sold
+4220,P522533.8.2,+arqu[green//vegetable]AJ'N$urqi,ur-qi₂,AJ,"['𒌨', '𒆠']",𒌨𒆠,ur-qi₂,"['complete', 'complete']",0.0,urqi,arqu,vegetable,,P522533,8,2,object sold
+4221,P522533.10.1,bēt[estate]N,E₂,N,['𒂍'],𒂍,E₂,['complete'],0.0,bēt,bītu,estate,,P522533,10,1,object sold
+4222,P522533.10.2,eqli[land]N,A.ŠA₃.⸢GA⸣,N,"['𒀀', '𒊮', '𒂵']",𒀀𒊮𒂵,A.ŠA₃.⸢GA⸣,"['complete', 'complete', 'damaged']",0.17,eqli,eqlu,land,,P522533,10,2,object sold
+4223,P522533.10.3,u,[(x),u,['X'],X,[x],['missing'],1.0,,,,,P522533,10,3,object sold
+4224,P522533.10.4,u,x]+x,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,,P522533,10,4,object sold
+4225,P522533.11.1,kiriu[garden]N,{giš}SAR,N,"['𒄑', '𒊬']",𒄑𒊬,{GIŠ}SAR,"['complete', 'complete']",0.0,kiriu,kirû,garden,,P522533,11,1,object sold
+4226,P522533.11.2,ša[which]REL,ša,REL,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,which,,P522533,11,2,object sold
+4227,P522533.11.3,ana[to]PRP,a-na,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,ana,ana,to,,P522533,11,3,object sold
+4228,P522533.11.4,n,0,n,['0'],0,[0],['missing'],1.0,,,,NUMBER,P522533,11,4,object sold
+4229,P522533.11.5,u,⸢GAL⸣,u,['𒃲'],𒃲,⸢GAL⸣,['damaged'],0.5,,,,,P522533,11,5,object sold
+4230,P522533.12.1,ša[of]DET,ša,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,P522533,12,1,object sold
+4231,P522533.12.2,+Umbi...[]PN$,{uru}um-bi-⸢x⸣,PN,"['𒌷', '𒌝', '𒁉', 'X']",𒌷𒌝𒁉X,{URU}um-bi-⸢x⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,Umbi...,Umbi...,1,PN,P522533,12,2,object sold
+4232,P522533.13.1,ana[to]PRP,a-na,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,ana,ana,to,,P522533,13,1,completion of transaction
+4233,P522533.13.2,Abu-ṭaba[1]PN,{1}AD-DUG₃.GA,PN,"['𒁹', '𒀜', '𒄭', '𒂵']",𒁹𒀜𒄭𒂵,{1}AD-DUG₃.GA,"['complete', 'complete', 'complete', 'complete']",0.0,Abu-ṭaba,Abu-ṭaba,1,PN,P522533,13,2,completion of transaction
+4234,P522533.13.3,u,x,u,['X'],X,x,['complete'],0.0,,,,,P522533,13,3,completion of transaction
+4235,P522533.13.4,mār[son]N&damqi[good]AJ,{lu₂}A.SIG,N,"['𒇽', '𒀀', '𒋝']",𒇽𒀀𒋝,{LU₂}A.SIG,"['complete', 'complete', 'complete']",0.0,mār,māru,son,,P522533,13,4,completion of transaction
+4237,P522533.14.1,mār[son]N,A,N,['𒀀'],𒀀,A,['complete'],0.0,mār,māru,son,,P522533,14,1,completion of transaction
+4238,P522533.14.2,+Andiri[]PN$,{1}an-di-ri,PN,"['𒁹', '𒀭', '𒁲', '𒊑']",𒁹𒀭𒁲𒊑,{1}an-di-ri,"['complete', 'complete', 'complete', 'complete']",0.0,Andiri,Andiri,1,PN,P522533,14,2,completion of transaction
+4239,P522533.15.1,+Mannu-ki-Beliya[]PN$,{1}ma-nu-ki-EN-ia,PN,"['𒁹', '𒈠', '𒉡', '𒆠', '𒂗', '𒅀']",𒁹𒈠𒉡𒆠𒂗𒅀,{1}ma-nu-ki-EN-ia,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,Mannu-ki-Beliya,Mannu-ki-Beliya,1,PN,P522533,15,1,completion of transaction
+4240,P522533.16.1,masennu[treasurer]N,{[lu₂]}⸢AGRIG⸣,N,"['𒇽', '𒅆𒁾']",𒇽𒅆𒁾,{[LU₂]}⸢AGRIG⸣,"['missing', 'damaged']",0.75,masennu,mašennu,treasurer,,P522533,16,1,completion of transaction
+4241,P522533.16.2,ša[of]DET,ša,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,P522533,16,2,completion of transaction
+4242,P522533.16.3,issi[woman]N&ēkalli[palace]N,MI₂-E₂.GAL,N,"['𒊩', '𒂍', '𒃲']",𒊩𒂍𒃲,MI₂-E₂.GAL,"['complete', 'complete', 'complete']",0.0,issi,sinništu,woman,,P522533,16,3,completion of transaction
+4244,P522533.17.1,izzirip[purchase]V,[i]-zi-ri-ip,V,"['𒄿', '𒍣', '𒊑', '𒅁']",𒄿𒍣𒊑𒅁,[i]-zi-ri-ip,"['missing', 'complete', 'complete', 'complete']",0.25,izzirip,zarāpu,purchase,,P522533,17,1,completion of transaction
+4245,P522533.18.1,u,[x,u,['X'],X,[x],['missing'],1.0,,,,,P522533,18,1,none
+4246,P522533.18.2,u,(x)],u,['X'],X,[x],['missing'],1.0,,,,,P522533,18,2,none
+4247,P522533.18.3,ana[to]PRP,a-na,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,ana,ana,to,,P522533,18,3,none
+4248,P522533.18.4,u,x,u,['X'],X,x,['complete'],0.0,,,,,P522533,18,4,none
+4249,P522533.19.1,u,(x),u,['X'],X,x,['complete'],0.0,,,,,P522533,19,1,none
+4250,P522533.19.2,u,x,u,['X'],X,x,['complete'],0.0,,,,,P522533,19,2,none
+4251,P522533.19.3,u,za,u,['𒍝'],𒍝,za,['complete'],0.0,,,,,P522533,19,3,none
+4252,P522533.19.4,u,ma,u,['𒈠'],𒈠,ma,['complete'],0.0,,,,,P522533,19,4,none
+4253,P522533.19.5,u,ri,u,['𒊑'],𒊑,ri,['complete'],0.0,,,,,P522533,19,5,none
+4254,P522533.21.1,n,10,n,['𒌋'],𒌋,10,['complete'],0.0,,,,NUMBER,P522533,21,1,other clauses
+4255,P522533.21.2,manā[a unit of weight]N,MA.NA,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manā,manû,a unit of weight,,P522533,21,2,other clauses
+4256,P522533.21.3,erî[copper]N,URUDU-MEŠ,N,"['𒍏', '𒈨𒌍']",𒍏𒈨𒌍,URUDU-MEŠ,"['complete', 'complete']",0.0,erî,erû,copper,,P522533,21,3,other clauses
+4257,P522533.21.4,šībūti[witness]N,{lu₂}⸢IGI⸣-[MEŠ],N,"['𒇽', '𒅆', '𒈨𒌍']",𒇽𒅆𒈨𒌍,{LU₂}⸢IGI⸣-[MEŠ],"['complete', 'damaged', 'missing']",0.5,šībūti,šību,witness,,P522533,21,4,other clauses
+4258,P522533.22.1,n,05,n,['0₅'],0₅,05,['complete'],0.0,,,,NUMBER,P522533,22,1,other clauses
+4259,P522533.22.2,manā[a unit of weight]N,MA.NA,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manā,manû,a unit of weight,,P522533,22,2,other clauses
+4260,P522533.22.3,urdāni[servant]N,{lu₂}ARAD-MEŠ,N,"['𒇽', '𒀴', '𒈨𒌍']",𒇽𒀴𒈨𒌍,{LU₂}ARAD-MEŠ,"['complete', 'complete', 'complete']",0.0,urdāni,ardu,servant,,P522533,22,3,other clauses
+4261,P522533.23.1,n,05,n,['0₅'],0₅,05,['complete'],0.0,,,,NUMBER,P522533,23,1,other clauses
+4262,P522533.23.2,manā[a unit of weight]N,MA.NA,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manā,manû,a unit of weight,,P522533,23,2,other clauses
+4263,P522533.23.3,+Adad-naṣir[]PN$,{1}{d}IM-PAB,PN,"['𒁹', '𒀭', '𒅎', '𒉽']",𒁹𒀭𒅎𒉽,{1}{d}IM-PAB,"['complete', 'complete', 'complete', 'complete']",0.0,Adad-naṣir,Adad-naṣir,1,PN,P522533,23,3,other clauses

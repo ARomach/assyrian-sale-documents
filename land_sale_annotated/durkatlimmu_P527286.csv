@@ -1,0 +1,37 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+17256,P527286.2.1,kunuk[seal]N,{⸢na₄⸣}KIŠIB,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{⸢NA₄⸣}KIŠIB,"['damaged', 'complete']",0.25,,,P527286,2,1,seal identification
+17257,P527286.2.2,x[1]PN,{m}[x-x-x-x],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X']",𒁹XXXX,{m}[x-x-x-x],"['complete', 'missing', 'missing', 'missing', 'missing']",0.8,PN,,P527286,2,2,seal identification
+17258,P527286.4.1,mār[son]N,DUMU,mār,māru,son,N,['𒌉'],𒌉,DUMU,['complete'],0.0,,,P527286,4,1,seal identification
+17259,P527286.4.2,+Gula-reʾ[]PN$,{m}gu-la-re-i,Gula-reʾ,Gula-reʾ,1,PN,"['𒁹', '𒄖', '𒆷', '𒊑', '𒄿']",𒁹𒄖𒆷𒊑𒄿,{m}gu-la-re-i,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,,P527286,4,2,seal identification
+17260,P527286.5.1,bēl[owner]N,EN,bēl,bēlu,owner,N,['𒂗'],𒂗,EN,['complete'],0.0,,,P527286,5,1,seal identification
+17261,P527286.5.2,X,A.ŠA₃.GA,,,,X,"['𒀀', '𒊮', '𒂵']",𒀀𒊮𒂵,A.ŠA₃.GA,"['complete', 'complete', 'complete']",0.0,,,P527286,5,2,seal identification
+17262,P527286.5.3,X,SUM-an,,,,X,"['𒋧', '𒀭']",𒋧𒀭,SUM-an,"['complete', 'complete']",0.0,,,P527286,5,3,seal identification
+17263,P527286.6.1,X,E₂,,,,X,['𒂍'],𒂍,E₂,['complete'],0.0,,,P527286,6,1,object sold
+17264,P527286.6.2,n,04,,,,n,['0₄'],0₄,04,['complete'],0.0,NUMBER,,P527286,6,2,object sold
+17265,P527286.6.3,X,ANŠE,,,,X,['𒀲'],𒀲,ANŠE,['complete'],0.0,,,P527286,6,3,object sold
+17266,P527286.6.4,X,A.ŠA₃.GA,,,,X,"['𒀀', '𒊮', '𒂵']",𒀀𒊮𒂵,A.ŠA₃.GA,"['complete', 'complete', 'complete']",0.0,,,P527286,6,4,object sold
+17267,P527286.6.5,X,E₂-še-[qi],,,,X,"['𒂍', '𒊺', '𒆥']",𒂍𒊺𒆥,E₂-še-[qi],"['complete', 'complete', 'missing']",0.33,,,P527286,6,5,object sold
+17268,P527286.7.1,u,⸢x,,,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,P527286,7,1,object sold
+17269,P527286.7.2,u,x⸣,,,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,P527286,7,2,object sold
+17270,P527286.7.3,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527286,7,3,object sold
+17271,P527286.7.4,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527286,7,4,object sold
+17272,P527286.7.5,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527286,7,5,object sold
+17273,P527286.7.6,u,x],,,,u,['X'],X,[x],['missing'],1.0,,,P527286,7,6,object sold
+17274,P527286.8.1,X,E₂,,,,X,['𒂍'],𒂍,E₂,['complete'],0.0,,,P527286,8,1,object sold
+17275,P527286.8.2,n,[x],,,,n,['X'],X,[x],['missing'],1.0,NUMBER,,P527286,8,2,object sold
+17276,P527286.8.3,X,⸢ANŠE⸣,,,,X,['𒀲'],𒀲,⸢ANŠE⸣,['damaged'],0.5,,,P527286,8,3,object sold
+17277,P527286.8.4,X,A.ŠA₃.GA,,,,X,"['𒀀', '𒊮', '𒂵']",𒀀𒊮𒂵,A.ŠA₃.GA,"['complete', 'complete', 'complete']",0.0,,,P527286,8,4,object sold
+17278,P527286.8.5,X,KA₂,,,,X,['𒆍'],𒆍,KA₂,['complete'],0.0,,,P527286,8,5,object sold
+17279,P527286.8.6,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527286,8,6,object sold
+17280,P527286.8.7,u,x],,,,u,['X'],X,[x],['missing'],1.0,,,P527286,8,7,object sold
+17281,P527286.9.1,u,⸢x⸣,,,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,P527286,9,1,object sold
+17282,P527286.9.2,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527286,9,2,object sold
+17283,P527286.9.3,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527286,9,3,object sold
+17284,P527286.9.4,X,A.ŠA₃].GA,,,,X,"['𒀀', '𒊮', '𒂵']",𒀀𒊮𒂵,[A].[ŠA₃].GA,"['missing', 'missing', 'complete']",0.67,,,P527286,9,4,object sold
+17285,P527286.9.5,X,za-[ku],,,,X,"['𒍝', '𒆪']",𒍝𒆪,za-[ku],"['complete', 'missing']",0.5,,,P527286,9,5,object sold
+17286,P527286.10.1,u,[x],,,,u,['X'],X,[x],['missing'],1.0,,,P527286,10,1,none
+17287,P527286.10.2,u,⸢x⸣,,,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,P527286,10,2,none
+17288,P527286.10.3,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527286,10,3,none
+17289,P527286.10.4,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527286,10,4,none
+17290,P527286.10.5,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527286,10,5,none
+17291,P527286.10.6,u,x],,,,u,['X'],X,[x],['missing'],1.0,,,P527286,10,6,none

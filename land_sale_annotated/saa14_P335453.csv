@@ -1,0 +1,37 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+27260,P335453.5.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,5,1,object sold
+27261,P335453.5.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,5,2,object sold
+27262,P335453.5.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,5,3,object sold
+27263,P335453.5.4,x]-me,u,u,"['x', '𒈨']",x𒈨,[x]-me,"['missing', 'complete']",0.5,,,,,,P335453,5,4,object sold
+27264,P335453.5.5,A.ŠA₃.GA,eqlu[field]N,N,"['𒀀', '𒊮', '𒂵']",𒀀𒊮𒂵,A.ŠA₃.GA,"['complete', 'complete', 'complete']",0.0,eqlu,eqlu,field,,,P335453,5,5,object sold
+27265,P335453.6.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,6,1,object sold
+27266,P335453.6.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,6,2,object sold
+27267,P335453.6.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,6,3,object sold
+27268,P335453.6.4,{uru}DUG₃].⸢GA⸣-e-te,Ṭabete[1]GN$,GN,"['𒌷', '𒄭', '𒂵', '𒂊', '𒋼']",𒌷𒄭𒂵𒂊𒋼,{[URU]}[DUG₃].⸢GA⸣-e-te,"['missing', 'missing', 'damaged', 'complete', 'complete']",0.5,Ṭabete,Ṭabete,1,GN,,P335453,6,4,object sold
+27269,P335453.7.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,7,1,object sold
+27270,P335453.7.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,7,2,object sold
+27271,P335453.7.3,{1}aš]-⸢šur⸣—ga-⸢ru⸣-u₂-a—ni-ri,Aššur-garuʾa-nere[1]PN$,PN,"['𒁹', '𒀸', '𒋩', '𒂵', '𒊒', '𒌑', '𒀀', '𒉌', '𒊑']",𒁹𒀸𒋩𒂵𒊒𒌑𒀀𒉌𒊑,{[1]}[aš]-⸢šur⸣-ga-⸢ru⸣-u₂-a-ni-ri,"['missing', 'missing', 'damaged', 'complete', 'damaged', 'complete', 'complete', 'complete', 'complete']",0.33,Aššur-garuʾa-nere,Aššur-garuʾa-nere,1,PN,,P335453,7,3,object sold
+27272,P335453.8.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,8,1,object sold
+27273,P335453.8.2,(x)],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,8,2,object sold
+27274,P335453.8.3,{uru}kap-⸢ri⸣—{1}⸢bir⸣-ta-a.a,Kapar-Birtayu[1]GN$Kapar-Birtaya,GN,"['𒌷', '𒆏', '𒊑', '𒁹', '𒄵', '𒋫', '𒀀', '𒀀']",𒌷𒆏𒊑𒁹𒄵𒋫𒀀𒀀,{URU}kap-⸢ri⸣-{1}⸢bir⸣-ta-a.a,"['complete', 'complete', 'damaged', 'complete', 'damaged', 'complete', 'complete', 'complete']",0.12,Kapar-Birtaya,Kapar-Birtayu,1,GN,,P335453,8,3,object sold
+27275,P335453.9.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,9,1,object sold
+27276,P335453.9.2,{uru}kul]-⸢im⸣-me-er-ra,Kulimmeri[1]GN$Kulimmera,GN,"['𒌷', '𒆰', '𒅎', '𒈨', '𒅕', '𒊏']",𒌷𒆰𒅎𒈨𒅕𒊏,{[URU]}[kul]-⸢im⸣-me-er-ra,"['missing', 'missing', 'damaged', 'complete', 'complete', 'complete']",0.42,Kulimmera,Kulimmeri,1,GN,,P335453,9,2,object sold
+27277,P335453.10.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,10,1,object sold
+27278,P335453.10.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,10,2,object sold
+27279,P335453.10.3,(x)]+⸢x⸣-ti-iʾ-ti,u,u,"['x', 'x', '𒋾', '𒀪', '𒋾']",xx𒋾𒀪𒋾,[x]+⸢x⸣-ti-iʾ-ti,"['missing', 'damaged', 'complete', 'complete', 'complete']",0.3,,,,,,P335453,10,3,object sold
+27280,P335453.11.1,[SUHUR,ṭēhi[adjacent to]PRP,PRP,['𒋦'],𒋦,[SUHUR],['missing'],1.0,ṭēhi,ṭāhu,adjacent to,,,P335453,11,1,object sold
+27281,P335453.11.2,A].ŠA₃,eqli[field]N,N,"['𒀀', '𒊮']",𒀀𒊮,[A].ŠA₃,"['missing', 'complete']",0.5,eqli,eqlu,field,,,P335453,11,2,object sold
+27282,P335453.11.3,ša,ša[of]DET,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,,P335453,11,3,object sold
+27283,P335453.11.4,{1}aš-šur—⸢ga⸣-[ru-a—ni-ri],Aššur-garuʾa-nere[1]PN,PN,"['𒁹', '𒀸', '𒋩', '𒂵', '𒊒', '𒀀', '𒉌', '𒊑']",𒁹𒀸𒋩𒂵𒊒𒀀𒉌𒊑,{1}aš-šur-⸢ga⸣-[ru-a-ni-ri],"['complete', 'complete', 'complete', 'damaged', 'missing', 'missing', 'missing', 'missing']",0.56,Aššur-garuʾa-nere,Aššur-garuʾa-nere,1,PN,,P335453,11,4,object sold
+27284,P335453.13.1,[SUHUR,ṭēhi[adjacent to]PRP,PRP,['𒋦'],𒋦,[SUHUR],['missing'],1.0,ṭēhi,ṭāhu,adjacent to,,,P335453,13,1,object sold
+27285,P335453.13.2,A].ŠA₃,eqli[field]N,N,"['𒀀', '𒊮']",𒀀𒊮,[A].ŠA₃,"['missing', 'complete']",0.5,eqli,eqlu,field,,,P335453,13,2,object sold
+27286,P335453.13.3,ša,ša[of]DET,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,,P335453,13,3,object sold
+27287,P335453.13.4,{1}{d}IM-[x,u,u,"['𒁹', '𒀭', '𒅎', 'x']",𒁹𒀭𒅎x,{1}{d}IM-[x],"['complete', 'complete', 'complete', 'missing']",0.25,,,,,,P335453,13,4,object sold
+27288,P335453.13.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,13,5,object sold
+27289,P335453.13.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,13,6,object sold
+27290,P335453.14.1,[SUHUR,ṭēhi[adjacent to]PRP,PRP,['𒋦'],𒋦,[SUHUR],['missing'],1.0,ṭēhi,ṭāhu,adjacent to,,,P335453,14,1,object sold
+27291,P335453.14.2,E₂],bēti[house]N,N,['𒂍'],𒂍,[E₂],['missing'],1.0,bēti,bītu,house,,,P335453,14,2,object sold
+27292,P335453.14.3,{1}gi-[x,u,u,"['𒁹', '𒄀', 'x']",𒁹𒄀x,{1}gi-[x],"['complete', 'complete', 'missing']",0.33,,,,,,P335453,14,3,object sold
+27293,P335453.14.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,14,4,object sold
+27294,P335453.14.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,14,5,object sold
+27295,P335453.14.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335453,14,6,object sold

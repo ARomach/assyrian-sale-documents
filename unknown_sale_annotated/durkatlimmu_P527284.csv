@@ -1,0 +1,13 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+12408,P527284.2.1,kunuk[seal]N,{[na₄}KIŠIB,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}[KIŠIB],"['missing', 'missing']",1.0,,,P527284,2,1,seal identification
+12409,P527284.2.2,+x-anu[]PN$,{m}x-x-x]-a-nu,x-anu,x-anu,1,PN,"['𒁹', 'X', 'X', 'X', '𒀀', '𒉡']",𒁹XXX𒀀𒉡,{[m]}[x-x-x]-a-nu,"['missing', 'missing', 'missing', 'missing', 'complete', 'complete']",0.67,PN,,P527284,2,2,seal identification
+12410,P527284.3.1,u,{[lu₂}x-x,,,,u,"['𒇽', 'X', 'X']",𒇽XX,{[LU₂]}[x-x],"['missing', 'missing', 'missing']",1.0,,,P527284,3,1,seal identification
+12411,P527284.3.2,Laqe[1]'SN,{uru}la]-qe-e,Laqe,Laqe,1,GN,"['𒌷', '𒆷', '𒆥', '𒂊']",𒌷𒆷𒆥𒂊,{[URU]}[la]-qe-e,"['missing', 'missing', 'complete', 'complete']",0.5,SN,,P527284,3,2,seal identification
+12412,P527284.7.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527284,7,1,witness
+12413,P527284.7.2,x-Issar[1]PN,{m}x-x-(x)]-15,x-Issar,x-Issar,1,PN,"['𒁹', 'X', 'X', 'X', '𒌋𒐊']",𒁹XXX𒌋𒐊,{[m]}[x-x-x]-15,"['missing', 'missing', 'missing', 'missing', 'complete']",0.8,PN,,P527284,7,2,witness
+12414,P527284.8.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527284,8,1,witness
+12415,P527284.8.2,Sagibi[1]PN,{m}sa-gi]-⸢bi⸣,Sagibi,Sagibi,1,PN,"['𒁹', '𒊓', '𒄀', '𒁉']",𒁹𒊓𒄀𒁉,{[m]}[sa-gi]-⸢bi⸣,"['missing', 'missing', 'missing', 'damaged']",0.88,PN,,P527284,8,2,witness
+12416,P527284.8.3,X,{lu₂}03-šu₂,,,,X,"['𒇽', '0₃', '𒋙']",𒇽0₃𒋙,{LU₂}03-šu₂,"['complete', 'complete', 'complete']",0.0,,,P527284,8,3,witness
+12417,P527284.9.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527284,9,1,witness
+12418,P527284.9.2,x[1]PN,{m}x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X']",𒁹XXXX,{[m]}[x-x-x-x],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,PN,,P527284,9,2,witness
+12419,P527284.9.3,ṭupšarru[scribe]N,{lu₂}A.⸢BA⸣,ṭupšarru,ṭupšarru,scribe,N,"['𒇽', '𒀀', '𒁀']",𒇽𒀀𒁀,{LU₂}A.⸢BA⸣,"['complete', 'complete', 'damaged']",0.17,,,P527284,9,3,witness

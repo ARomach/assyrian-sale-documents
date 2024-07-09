@@ -1,0 +1,27 @@
+Unnamed: 0,ref,frag,inst,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,lang,text,line,word,annotation
+282,P336200.2.1,{na₄}KIŠIB,kunuk[seal]N,,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{NA₄}KIŠIB,"['complete', 'complete']",0.0,kunuk,kunukku,seal,,P336200,2,1,seal identification
+283,P336200.2.2,{1}DUG₄.DUG₄—TEŠ₂,Lidbubu-lipušu[1]PN$,PN,PN,"['𒁹', '𒅗', '𒅗', '𒌨']",𒁹𒅗𒅗𒌨,{1}DUG₄.DUG₄-TEŠ₂,"['complete', 'complete', 'complete', 'complete']",0.0,Lidbubu-lipušu,Lidbubu-lipušu,1,,P336200,2,2,seal identification
+284,P336200.2.3,[o],u,,u,['o'],o,[o],['missing'],1.0,,,,,P336200,2,3,seal identification
+285,P336200.3.1,{⸢na₄⸣}KIŠIB,kunuk[seal]N,,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{⸢NA₄⸣}KIŠIB,"['damaged', 'complete']",0.25,kunuk,kunukku,seal,,P336200,3,1,seal identification
+286,P336200.3.2,{1}PAB—ZALAG₂,Ahu-nuri[1]PN,PN,PN,"['𒁹', '𒉽', '𒂟']",𒁹𒉽𒂟,{1}PAB-ZALAG₂,"['complete', 'complete', 'complete']",0.0,Ahu-nuri,Ahu-nuri,1,,P336200,3,2,seal identification
+287,P336200.4.1,[PAB],gimru[total]N,,N,['𒉽'],𒉽,[PAB],['missing'],1.0,gimru,gimru,total,,P336200,4,1,seal identification
+288,P336200.4.2,02,n,NUMBER,n,['𒈫'],𒈫,⸢02⸣,['damaged'],0.5,,,,,P336200,4,2,seal identification
+289,P336200.4.3,LU₂⸣,amēlu[man]N,,N,['𒇽'],𒇽,⸢LU₂⸣,['damaged'],0.5,amēlu,awīlu,man,,P336200,4,3,seal identification
+290,P336200.4.4,EN,bēl[owner]N,,N,['𒂗'],𒂗,EN,['complete'],0.0,bēl,bēlu,owner,,P336200,4,4,seal identification
+291,P336200.4.5,LU₂,amēli[man]N,,N,['𒇽'],𒇽,LU₂,['complete'],0.0,amēli,awīlu,man,,P336200,4,5,seal identification
+292,P336200.4.6,SUM-ni,tadāni[giving]'N,,V,"['𒋧', '𒉌']",𒋧𒉌,SUM-ni,"['complete', 'complete']",0.0,tadāni,tadānu,giving,,P336200,4,6,seal identification
+293,P336200.8.1,[IGI,šību[witness]N,,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,P336200,8,1,witness
+294,P336200.8.2,{1}⸢ke⸣-ni-[i,Keni[1]PN$,PN,PN,"['𒁹', '𒆠', '𒉌', '𒄿']",𒁹𒆠𒉌𒄿,{[1]}⸢ke⸣-ni-[i],"['missing', 'damaged', 'complete', 'missing']",0.62,Keni,Keni,1,,P336200,8,2,witness
+295,P336200.8.3,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P336200,8,3,witness
+296,P336200.8.4,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P336200,8,4,witness
+297,P336200.8.5,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P336200,8,5,witness
+298,P336200.9.1,⸢IGI⸣,šību[witness]N,,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,,P336200,9,1,witness
+299,P336200.9.2,{1}si-in—ka-⸢šir,Sin-kašir[1]PN$,PN,PN,"['𒁹', '𒋛', '𒅔', '𒅗', '𒋓']",𒁹𒋛𒅔𒅗𒋓,{1}si-in-ka-⸢šir⸣,"['complete', 'complete', 'complete', 'complete', 'damaged']",0.1,Sin-kašir,Sin-kašir,1,,P336200,9,2,witness
+300,P336200.9.3,A.BA⸣,ṭupšarru[scribe]N,,N,"['𒀀', '𒁀']",𒀀𒁀,⸢A⸣.⸢BA⸣,"['damaged', 'damaged']",0.5,ṭupšarru,ṭupšarru,scribe,,P336200,9,3,witness
+301,P336200.10.1,{iti}SIG₄,Simanu[Sivan]MN,MN,MN,"['𒌗', '𒋞']",𒌗𒋞,{ITI}SIG₄,"['complete', 'complete']",0.0,Simanu,Simanu,Sivan,,P336200,10,1,date
+302,P336200.10.2,UD,ūm[day]N,,N,['𒌓'],𒌓,UD,['complete'],0.0,ūm,ūmu,day,,P336200,10,2,date
+303,P336200.10.3,02-KAM₂,n,NUMBER,n,"['𒈫', '𒆚']",𒈫𒆚,02-KAM₂,"['complete', 'complete']",0.0,,,,,P336200,10,3,date
+304,P336200.11.1,lim-me,limme[eponym (of year)]N,,N,"['𒅆', '𒈨']",𒅆𒈨,lim-me,"['complete', 'complete']",0.0,limme,līmu,eponym (of year),,P336200,11,1,date
+305,P336200.11.2,{1}{d}PA—GIN—PAB,Nabu-kenu-uṣur[1]PN,PN,PN,"['𒁹', '𒀭', '𒉺', '𒁺', '𒉽']",𒁹𒀭𒉺𒁺𒉽,{1}{d}PA-GIN-PAB,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Nabu-kenu-uṣur,Nabu-kenu-uṣur,1,,P336200,11,2,date
+306,P336200.12.1,{[lu₂v]}GAR.KUR,+šaknu[appointee]N$šakin&+mātu[land]N$māt,,N,"['𒇽', '𒃻', '𒆳']",𒇽𒃻𒆳,{[LU₂~v]}GAR.KUR,"['missing', 'complete', 'complete']",0.33,šakin,šaknu,appointee,,P336200,12,1,date
+308,P336200.12.2,{uru}sa-mir-⸢na⸣,Samirna[Samaria]GN,GN,GN,"['𒌷', '𒊓', '𒂇', '𒈾']",𒌷𒊓𒂇𒈾,{URU}sa-mir-⸢na⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,Samirna,Samerina,Samaria,,P336200,12,2,date

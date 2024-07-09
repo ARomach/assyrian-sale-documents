@@ -1,0 +1,16 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+662,P527272.5.1,šību[witness]N,[IGI],šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527272,5,1,witness
+663,P527272.5.2,+Marduk-ahu-x[]PN$,{⸢m}{d}ŠU₂-PAB⸣-[x],Marduk-ahu-x,Marduk-ahu-x,1,PN,"['𒁹', '𒀭', '𒋙', '𒉽', 'X']",𒁹𒀭𒋙𒉽X,{⸢m⸣}{⸢d⸣}⸢ŠU₂-PAB⸣-[x],"['damaged', 'damaged', 'damaged', 'damaged', 'missing']",0.6,PN,,P527272,5,2,witness
+664,P527272.6.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527272,6,1,witness
+665,P527272.6.2,Nabu-mar-šarri-uṣur[1]PN,{m}{d}PA-A-MAN-[PAB],Nabu-mar-šarri-uṣur,Nabu-mar-šarri-uṣur,1,PN,"['𒁹', '𒀭', '𒉺', '𒀀', '𒌋𒌋', '𒉽']",𒁹𒀭𒉺𒀀𒌋𒌋𒉽,{m}{d}PA-A-MAN-[PAB],"['complete', 'complete', 'complete', 'complete', 'complete', 'missing']",0.17,PN,,P527272,6,2,witness
+666,P527272.7.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527272,7,1,witness
+667,P527272.7.2,Šep-šarri[1]PN,{m}GIR₃.2-⸢LUGAL⸣,Šep-šarri,Šep-šarri,1,PN,"['𒁹', '𒄊', '𒈫', '𒈗']",𒁹𒄊𒈫𒈗,{m}GIR₃.2-⸢LUGAL⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,PN,,P527272,7,2,witness
+668,P527272.8.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527272,8,1,witness
+669,P527272.8.2,Ahu-tabši[1]PN,{m}PAB-tab-ši,Ahu-tabši,Ahu-tabši,1,PN,"['𒁹', '𒉽', '𒋰', '𒅆']",𒁹𒉽𒋰𒅆,{m}PAB-tab-ši,"['complete', 'complete', 'complete', 'complete']",0.0,PN,,P527272,8,2,witness
+670,P527272.9.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527272,9,1,witness
+671,P527272.9.2,+Nana-x[]PN$,{m}na-na-[x-(x)],Nana-x,Nana-x,1,PN,"['𒁹', '𒈾', '𒈾', 'X', 'X']",𒁹𒈾𒈾XX,{m}na-na-[x-x],"['complete', 'complete', 'complete', 'missing', 'missing']",0.4,PN,,P527272,9,2,witness
+672,P527272.10.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527272,10,1,witness
+673,P527272.10.2,Salmanu-ahu-uṣur[1]PN,{m}DI-man-PAB-[PAB],Salmanu-ahu-uṣur,Salmanu-ahu-uṣur,1,PN,"['𒁹', '𒁲', '𒌋𒌋', '𒉽', '𒉽']",𒁹𒁲𒌋𒌋𒉽𒉽,{m}DI-man-PAB-[PAB],"['complete', 'complete', 'complete', 'complete', 'missing']",0.2,PN,,P527272,10,2,witness
+674,P527272.12.1,Duʾuzu[Tammuz]MN,{⸢iti⸣}ŠU,Duʾuzu,Duʾuzu,Tammuz,MN,"['𒌗', '𒋗']",𒌗𒋗,{⸢ITI⸣}ŠU,"['damaged', 'complete']",0.25,MN,,P527272,12,1,date
+675,P527272.12.2,limmu[eponym (of year)]N,lim-[mu],limmu,līmu,eponym (of year),N,"['𒅆', '𒈬']",𒅆𒈬,lim-[mu],"['complete', 'missing']",0.5,,,P527272,12,2,date
+676,P527272.13.1,Iqbi-ilani[1]PN,{[m}E]-⸢DINGIR⸣.MEŠ,Iqbi-ilani,Iqbi-ilani,1,PN,"['𒁹', '𒂊', '𒀭', '𒈨𒌍']",𒁹𒂊𒀭𒈨𒌍,{[m]}[E]-⸢DINGIR⸣.MEŠ,"['missing', 'missing', 'damaged', 'complete']",0.62,PN,,P527272,13,1,date

@@ -1,0 +1,18 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+17651,P335977.2.1,{[na₄]}⸢KIŠIB⸣,kunukku[seal]N,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}⸢KIŠIB⸣,"['missing', 'damaged']",0.75,kunukku,kunukku,seal,,,P335977,2,1,seal identification
+17652,P335977.2.2,{1}{d}MAŠ—A—SUM-na,Inurta-aplu-iddina[1]PN$,PN,"['𒁹', '𒀭', '𒈦', '𒀀', '𒋧', '𒈾']",𒁹𒀭𒈦𒀀𒋧𒈾,{1}{d}MAŠ-A-SUM-na,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,Inurta-aplu-iddina,Inurta-aplu-iddina,1,PN,,P335977,2,2,seal identification
+17653,P335977.3.1,[EN,bēl[owner]N,N,['𒂗'],𒂗,[EN],['missing'],1.0,bēl,bēlu,owner,,,P335977,3,1,seal identification
+17654,P335977.3.2,(x),u,u,['x'],x,[x],['missing'],1.0,,,,,,P335977,3,2,seal identification
+17655,P335977.3.3,x]-⸢MEŠ⸣,u,u,"['x', '𒈨𒌍']",x𒈨𒌍,[x]-⸢MEŠ⸣,"['missing', 'damaged']",0.75,,,,,,P335977,3,3,seal identification
+17656,P335977.3.4,ta-⸢da⸣-ni,tadāni[giving]'N,V,"['𒋫', '𒁕', '𒉌']",𒋫𒁕𒉌,ta-⸢da⸣-ni,"['complete', 'damaged', 'complete']",0.17,tadāni,tadānu,giving,,,P335977,3,4,seal identification
+17657,P335977.7.1,[IGI,šību[witness]N,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,,P335977,7,1,witness
+17658,P335977.7.2,{1}x,u,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,,P335977,7,2,witness
+17659,P335977.7.3,x]—⸢ma-ʾa-di,u,u,"['x', '𒈠', '𒀪', '𒁲']",x𒈠𒀪𒁲,[x]-⸢ma-ʾa-di⸣,"['missing', 'damaged', 'damaged', 'damaged']",0.62,,,,,,P335977,7,3,witness
+17660,P335977.7.4,{lu₂v}A⸣.[BA],ṭupšarru[scribe]N,N,"['𒇽', '𒀀', '𒁀']",𒇽𒀀𒁀,{⸢LU₂~v⸣}⸢A⸣.[BA],"['damaged', 'damaged', 'missing']",0.67,ṭupšarru,ṭupšarru,scribe,,,P335977,7,4,witness
+17661,P335977.9.1,{[iti}x],urhi[month]N,N,"['𒌗', 'x']",𒌗x,{[ITI]}[x],"['missing', 'missing']",1.0,urhi,arhu,month,,,P335977,9,1,date
+17662,P335977.9.2,⸢UD⸣,ūm[day]N,N,['𒌓'],𒌓,⸢UD⸣,['damaged'],0.5,ūm,ūmu,day,,,P335977,9,2,date
+17663,P335977.9.3,15-KAM₂,n,n,"['15', '𒆚']",15𒆚,15-KAM₂,"['complete', 'complete']",0.0,,,,NUMBER,,P335977,9,3,date
+17664,P335977.10.1,[lim-mu],limmu[eponym (of year)]N,N,"['𒅆', '𒈬']",𒅆𒈬,[lim-mu],"['missing', 'missing']",1.0,limmu,līmu,eponym (of year),,,P335977,10,1,date
+17665,P335977.10.2,{1}ka-nun-a.⸢a⸣,Kanunaya[1]PN,PN,"['𒁹', '𒅗', '𒉣', '𒀀', '𒀀']",𒁹𒅗𒉣𒀀𒀀,{1}ka-nun-a.⸢a⸣,"['complete', 'complete', 'complete', 'complete', 'damaged']",0.1,Kanunaya,Kanunaya,1,PN,,P335977,10,2,date
+17666,P335977.11.1,{[lu₂}NAM],pāhutu[governor]N,N,"['𒇽', '𒉆']",𒇽𒉆,{[LU₂]}[NAM],"['missing', 'missing']",1.0,pāhutu,pīhātu,governor,,,P335977,11,1,date
+17667,P335977.11.2,E₂—GIBIL,bītu[house]N$bētu&eššu[new]AJ$eššu&eššu[new]AJ,N,"['𒂍', '𒉋']",𒂍𒉋,E₂-GIBIL,"['complete', 'complete']",0.0,bētu,bītu,house,,,P335977,11,2,date

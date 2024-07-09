@@ -1,0 +1,13 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+17327,P527271.5.1,X,la,,,,X,['𒆷'],𒆷,la,['complete'],0.0,,,P527271,5,1,penalties for litigation: contravention
+17328,P527271.5.2,ilaqqe[purchase]V,[i-laq-qe],ilaqqe,leqû,purchase,V,"['𒄿', '𒋃', '𒆥']",𒄿𒋃𒆥,[i-laq-qe],"['missing', 'missing', 'missing']",1.0,,,P527271,5,2,penalties for litigation: contravention
+17329,P527271.7.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527271,7,1,witness
+17330,P527271.7.2,x[1]PN,{m}x-[x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X', 'X']",𒁹XXXXX,{m}x-[x-x-x-x],"['complete', 'complete', 'missing', 'missing', 'missing', 'missing']",0.67,PN,,P527271,7,2,witness
+17331,P527271.8.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527271,8,1,witness
+17332,P527271.8.2,x[1]PN,{m}x-[x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X', 'X']",𒁹XXXXX,{m}x-[x-x-x-x],"['complete', 'complete', 'missing', 'missing', 'missing', 'missing']",0.67,PN,,P527271,8,2,witness
+17333,P527271.9.1,šību[witness]N,⸢IGI⸣,šību,šību,witness,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,,,P527271,9,1,witness
+17334,P527271.9.2,x[1]PN,{m}x-[x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X', 'X']",𒁹XXXXX,{m}x-[x-x-x-x],"['complete', 'complete', 'missing', 'missing', 'missing', 'missing']",0.67,PN,,P527271,9,2,witness
+17335,P527271.12.1,x[1]MN,{[iti}x,x,x,1,MN,"['𒌗', 'X']",𒌗X,{[ITI]}[x],"['missing', 'missing']",1.0,MN,,P527271,12,1,date
+17336,P527271.12.2,n,UD-x-KAM₂,,,,n,"['𒌓', 'X', '𒆚']",𒌓X𒆚,[UD-x-KAM₂],"['missing', 'missing', 'missing']",1.0,NUMBER,,P527271,12,2,date
+17337,P527271.12.3,limme[eponym (of year)]N,lim-me,limme,līmu,eponym (of year),N,"['𒅆', '𒈨']",𒅆𒈨,[lim-me],"['missing', 'missing']",1.0,,,P527271,12,3,date
+17338,P527271.12.4,+Ṣalmu-šarri-iqbi[]PN$Ṣalam-šarri-iqbi,{m}ṣa]-⸢lam⸣-LUGAL-iq-⸢bi⸣,Ṣalam-šarri-iqbi,Ṣalmu-šarri-iqbi,1,PN,"['𒁹', '𒍝', '𒇴', '𒈗', '𒅅', '𒁉']",𒁹𒍝𒇴𒈗𒅅𒁉,{[m]}[ṣa]-⸢lam⸣-LUGAL-iq-⸢bi⸣,"['missing', 'missing', 'damaged', 'complete', 'complete', 'damaged']",0.5,PN,,P527271,12,4,date

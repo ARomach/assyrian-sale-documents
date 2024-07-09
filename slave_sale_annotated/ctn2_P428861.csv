@@ -1,0 +1,37 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+9902,P428861.1.1,kūm[instead of]PRP,[ku-um,,PRP,"['𒆪', '𒌝']",𒆪𒌝,[ku-um],"['missing', 'missing']",1.0,kūm,kūm,instead of,P428861,1,1,seal identification
+9903,P428861.1.2,kunukkīšu[seal]N,{na₄]}⸢KIŠIB-šu₂,,N,"['𒉌𒌓', '𒈩', '𒋙']",𒉌𒌓𒈩𒋙,{[NA₄]}⸢KIŠIB-šu₂⸣,"['missing', 'damaged', 'damaged']",0.67,kunukkīšu,kunukku,seal,P428861,1,2,seal identification
+9904,P428861.1.3,ṣupuršu[fingernail]N,ṣu⸣-[pur-šu₂,,N,"['𒍮', '𒁓', '𒋙']",𒍮𒁓𒋙,⸢ṣu⸣-[pur-šu₂],"['damaged', 'missing', 'missing']",0.83,ṣupuršu,ṣupru,fingernail,P428861,1,3,seal identification
+9905,P428861.1.4,iškun[place]V,iš-kun],,V,"['𒅖', '𒆲']",𒅖𒆲,[iš-kun],"['missing', 'missing']",1.0,iškun,šakānu,place,P428861,1,4,seal identification
+9906,P428861.4.1,ṣupur[fingernail]N,[ṣu-pur],,N,"['𒍮', '𒁓']",𒍮𒁓,[ṣu-pur],"['missing', 'missing']",1.0,ṣupur,ṣupru,fingernail,P428861,4,1,seal identification
+9907,P428861.4.2,Ilu-eriba[1]PN,{1}DINGIR-SU,PN,PN,"['𒁹', '𒀭', '𒋢']",𒁹𒀭𒋢,{1}DINGIR-SU,"['complete', 'complete', 'complete']",0.0,Ilu-eriba,Ilu-eriba,1,P428861,4,2,seal identification
+9908,P428861.4.3,Hamataya[from Hamath]EN,{kur}ha-ma-⸢ta⸣-[a.a],,EN,"['𒆳', '𒄩', '𒈠', '𒋫', '𒀀', '𒀀']",𒆳𒄩𒈠𒋫𒀀𒀀,{KUR}ha-ma-⸢ta⸣-[a].[a],"['complete', 'complete', 'complete', 'damaged', 'missing', 'missing']",0.42,Hamataya,Hamataya,from Hamath,P428861,4,3,seal identification
+9909,P428861.5.1,u,{1}x]+x-du-lu,,u,"['𒁹', 'X', 'X', '𒁺', '𒇻']",𒁹XX𒁺𒇻,{[1]}[x]+x-du-lu,"['missing', 'missing', 'complete', 'complete', 'complete']",0.4,,,,P428861,5,1,object sold
+9910,P428861.5.2,urdušu[servant]N,{lu₂}ARAD-[šu₂],,N,"['𒇽', '𒀴', '𒋙']",𒇽𒀴𒋙,{LU₂}ARAD-[šu₂],"['complete', 'complete', 'missing']",0.33,urdušu,ardu,servant,P428861,5,2,object sold
+9911,P428861.6.1,ša[of]DET,[ša],,DET,['𒊭'],𒊭,[ša],['missing'],1.0,ša,ša,of,P428861,6,1,object sold
+9912,P428861.6.2,Ilu-eriba[1]PN,{1}DINGIR-SU,PN,PN,"['𒁹', '𒀭', '𒋢']",𒁹𒀭𒋢,{1}DINGIR-SU,"['complete', 'complete', 'complete']",0.0,Ilu-eriba,Ilu-eriba,1,P428861,6,2,object sold
+9913,P428861.6.3,n,0,NUMBER,n,['0'],0,[0],['missing'],1.0,,,,P428861,6,3,object sold
+9914,P428861.7.1,ūtappiš[contract]V,[u₂]-⸢tap⸣-piš,,V,"['𒌑', '𒋰', '𒄫']",𒌑𒋰𒄫,[u₂]-⸢tap⸣-piš,"['missing', 'damaged', 'complete']",0.5,ūtappiš,epēšu,contract,P428861,7,1,initiation of transaction
+9915,P428861.7.2,ina[in]PRP,ina,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,P428861,7,2,price
+9916,P428861.7.3,libbi[interior]N,ŠA₃,,N,['𒊮'],𒊮,ŠA₃,['complete'],0.0,libbi,libbu,interior,P428861,7,3,price
+9917,P428861.7.4,n,21,NUMBER,n,['𒌋𒌋𒁹'],𒌋𒌋𒁹,21,['complete'],0.0,,,,P428861,7,4,price
+9918,P428861.7.5,manā[a unit of weight]N,MA.⸢NA⸣,,N,"['𒈠', '𒈾']",𒈠𒈾,MA.⸢NA⸣,"['complete', 'damaged']",0.25,manā,manû,a unit of weight,P428861,7,5,price
+9919,P428861.8.1,ana[to]PRP,a-na,,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,ana,ana,to,P428861,8,1,completion of transaction
+9920,P428861.8.2,+Bel-isseʾa[]PN$,{1}EN-i-si-ia,PN,PN,"['𒁹', '𒂗', '𒄿', '𒋛', '𒅀']",𒁹𒂗𒄿𒋛𒅀,{1}EN-i-si-ia,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Bel-isseʾa,Bel-isseʾa,1,P428861,8,2,completion of transaction
+9921,P428861.8.3,ittidin[give]V,i-⸢ti⸣-[din],,V,"['𒄿', '𒋾', '𒁷']",𒄿𒋾𒁷,i-⸢ti⸣-[din],"['complete', 'damaged', 'missing']",0.5,ittidin,tadānu,give,P428861,8,3,completion of transaction
+9922,P428861.9.1,kaspu[money]N,kas₂-pu,,N,"['𒁉', '𒁍']",𒁉𒁍,kas₂-pu,"['complete', 'complete']",0.0,kaspu,kaspu,money,P428861,9,1,confirmation of transfer 1
+9923,P428861.9.2,gammur[completed]AJ,gam-mur,,AJ,"['𒃵', '𒄯']",𒃵𒄯,gam-mur,"['complete', 'complete']",0.0,gammur,gammuru,completed,P428861,9,2,confirmation of transfer 1
+9924,P428861.9.3,tadin[paid]AJ,ta-din,,AJ,"['𒋫', '𒁷']",𒋫𒁷,ta-din,"['complete', 'complete']",0.0,tadin,tadnu,paid,P428861,9,3,confirmation of transfer 1
+9925,P428861.10.1,amēlu[man]N,LU₂,,N,['𒇽'],𒇽,LU₂,['complete'],0.0,amēlu,awīlu,man,P428861,10,1,confirmation of transfer 2
+9926,P428861.10.2,zarip[purchased]AJ,za-rip,,AJ,"['𒍝', '𒆗']",𒍝𒆗,za-rip,"['complete', 'complete']",0.0,zarip,zarpu,purchased,P428861,10,2,confirmation of transfer 2
+9927,P428861.10.3,lāqi[acquired]AJ,la-a-⸢qi⸣,,AJ,"['𒆷', '𒀀', '𒆥']",𒆷𒀀𒆥,la-a-⸢qi⸣,"['complete', 'complete', 'damaged']",0.17,lāqi,leqû,acquired,P428861,10,3,confirmation of transfer 2
+9928,P428861.11.1,tuāru[revocation]'N,tu-a-ru,,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,tu-a-ru,"['complete', 'complete', 'complete']",0.0,tuāru,târu,revocation,P428861,11,1,exclusion of litigation
+9929,P428861.11.2,dabābu[litigation]'N,DUG₄.DUG₄,,V,"['𒅗', '𒅗']",𒅗𒅗,DUG₄.DUG₄,"['complete', 'complete']",0.0,dabābu,dabābu,litigation,P428861,11,2,exclusion of litigation
+9930,P428861.11.3,lāšu[(there) is not]V,⸢la⸣-[a-šu₂,,V,"['𒆷', '𒀀', '𒋙']",𒆷𒀀𒋙,⸢la⸣-[a-šu₂],"['damaged', 'missing', 'missing']",0.83,lāšu,laššu,(there) is not,P428861,11,3,exclusion of litigation
+9931,P428861.11.4,mannu[whoever]'XP,man-nu],,QP,"['𒌋𒌋', '𒉡']",𒌋𒌋𒉡,[man-nu],"['missing', 'missing']",1.0,mannu,mannu,whoever,P428861,11,4,penalties for litigation: contravention
+9932,P428861.12.1,ša[who]REL,ša,,REL,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,who,P428861,12,1,penalties for litigation: contravention
+9933,P428861.12.2,iparrikūni[obstruct]V,i-pa-⸢ri⸣-[ku-u-ni],,V,"['𒄿', '𒉺', '𒊑', '𒆪', '𒌋', '𒉌']",𒄿𒉺𒊑𒆪𒌋𒉌,i-pa-⸢ri⸣-[ku-u-ni],"['complete', 'complete', 'damaged', 'missing', 'missing', 'missing']",0.58,iparrikūni,parāku,obstruct,P428861,12,2,penalties for litigation: contravention
+9934,P428861.13.1,n,01,NUMBER,n,['01'],01,⸢01⸣,['damaged'],0.5,,,,P428861,13,1,penalties for litigation: penalty
+9935,P428861.13.2,bilat[a unit of weight]N,GU₂.UN,,N,"['𒄘', '𒌦']",𒄘𒌦,GU₂.UN,"['complete', 'complete']",0.0,bilat,biltu,a unit of weight,P428861,13,2,penalties for litigation: penalty
+9936,P428861.13.3,anniki[tin]N,AN.[NA,,N,"['𒀭', '𒈾']",𒀭𒈾,AN.[NA],"['complete', 'missing']",0.5,anniki,annaku,tin,P428861,13,3,penalties for litigation: penalty
+9937,P428861.13.4,n,0,NUMBER,n,['0'],0,[0],['missing'],1.0,,,,P428861,13,4,penalties for litigation: penalty

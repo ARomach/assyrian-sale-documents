@@ -1,0 +1,17 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+795,P522640.7.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P522640,7,1,witness
+796,P522640.7.2,+x[1]PN$,{m]}⸢x⸣-[...],x,x,1,PN,"['𒁹', 'X', 'x']",𒁹Xx,{[m]}⸢x⸣-[x],"['missing', 'damaged', 'missing']",0.83,PN,,P522640,7,2,witness
+797,P522640.8.1,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,,P522640,8,1,witness
+798,P522640.8.2,+Aširu[]PN$,{m}a-[ši]-⸢ru⸣,Aširu,Aširu,1,PN,"['𒁹', '𒀀', '𒅆', '𒊒']",𒁹𒀀𒅆𒊒,{m}a-[ši]-⸢ru⸣,"['complete', 'complete', 'missing', 'damaged']",0.38,PN,,P522640,8,2,witness
+799,P522640.9.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P522640,9,1,witness
+800,P522640.9.2,+Salmanu-x[]PN$,{m}{d}[DI]-ma-nu-[x-(x)],Salmanu-x,Salmanu-x,1,PN,"['𒁹', '𒀭', '𒁲', '𒈠', '𒉡', 'X', 'X']",𒁹𒀭𒁲𒈠𒉡XX,{m}{d}[DI]-ma-nu-[x-x],"['complete', 'complete', 'missing', 'complete', 'complete', 'missing', 'missing']",0.43,PN,,P522640,9,2,witness
+801,P522640.10.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P522640,10,1,witness
+802,P522640.10.2,+Salmanu-milki[]PN$,{m}{d}DI-⸢ma-nu⸣-mil-⸢ki⸣,Salmanu-milki,Salmanu-milki,1,PN,"['𒁹', '𒀭', '𒁲', '𒈠', '𒉡', '𒅖', '𒆠']",𒁹𒀭𒁲𒈠𒉡𒅖𒆠,{m}{d}DI-⸢ma-nu⸣-mil-⸢ki⸣,"['complete', 'complete', 'complete', 'damaged', 'damaged', 'complete', 'damaged']",0.21,PN,,P522640,10,2,witness
+803,P522640.11.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P522640,11,1,witness
+804,P522640.11.2,+Mannu-ki-x[1]PN$,{m}man-⸢nu⸣-[ki-x-(x)],Mannu-ki-x,Mannu-ki-x,1,PN,"['𒁹', '𒌋𒌋', '𒉡', '𒆠', 'X', 'X']",𒁹𒌋𒌋𒉡𒆠XX,{m}man-⸢nu⸣-[ki-x-x],"['complete', 'complete', 'damaged', 'missing', 'missing', 'missing']",0.58,PN,,P522640,11,2,witness
+805,P522640.12.1,šību[witness]N,[IGI],šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P522640,12,1,witness
+806,P522640.12.2,+Palih-x[]PN$,{m}pa-[lih-{d}x-(x)],Palih-x,Palih-x,1,PN,"['𒁹', '𒉺', '𒌓', '𒀭', 'X', 'X']",𒁹𒉺𒌓𒀭XX,{m}pa-[lih]-{[d]}[x-x],"['complete', 'complete', 'missing', 'missing', 'missing', 'missing']",0.67,PN,,P522640,12,2,witness
+807,P522640.15.1,u,{[iti}x,,,,u,"['𒌗', 'X']",𒌗X,{[ITI]}[x],"['missing', 'missing']",1.0,,,P522640,15,1,date
+808,P522640.15.2,u,UD-x-KAM/KAM₂,,,,u,"['𒌓', 'X', '𒄰', '𒆚']",𒌓X𒄰𒆚,[UD-x-KAM]/[KAM₂],"['missing', 'missing', 'missing', 'missing']",1.0,,,P522640,15,2,date
+809,P522640.15.3,limmu[eponym (of year)]N,lim-mu],limmu,līmu,eponym (of year),N,"['𒅆', '𒈬']",𒅆𒈬,[lim-mu],"['missing', 'missing']",1.0,,,P522640,15,3,date
+810,P522640.15.4,+Atar-ili[]PN$,{m}a-tar₂-[DINGIR],Atar-ili,Atar-ili,1,PN,"['𒁹', '𒀀', '𒁯', '𒀭']",𒁹𒀀𒁯𒀭,{m}a-tar₂-[DINGIR],"['complete', 'complete', 'complete', 'missing']",0.25,PN,,P522640,15,4,date

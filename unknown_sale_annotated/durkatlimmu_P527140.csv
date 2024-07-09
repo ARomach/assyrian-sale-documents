@@ -1,0 +1,7 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+1127,P527140.2.1,kunuk[seal]N,{[na₄]}⸢KIŠIB⸣,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}⸢KIŠIB⸣,"['missing', 'damaged']",0.75,,,P527140,2,1,seal identification
+1128,P527140.2.2,+Nabu-naʾid[]PN$,{m}{d}PA-I,Nabu-naʾid,Nabu-naʾid,1,PN,"['𒁹', '𒀭', '𒉺', '𒄿']",𒁹𒀭𒉺𒄿,{m}{d}PA-I,"['complete', 'complete', 'complete', 'complete']",0.0,PN,,P527140,2,2,seal identification
+1129,P527140.7.1,Nisannu[Nisan]MN,{[iti]}⸢BARAG⸣,Nisanni,Nisannu,Nisan,MN,"['𒌗', '𒁈']",𒌗𒁈,{[ITI]}⸢BARAG⸣,"['missing', 'damaged']",0.75,MN,,P527140,7,1,date
+1130,P527140.7.2,limmu[eponym (of year)]N,lim-mu,limmu,līmu,eponym (of year),N,"['𒅆', '𒈬']",𒅆𒈬,lim-mu,"['complete', 'complete']",0.0,,,P527140,7,2,date
+1131,P527140.9.1,arki[after]PRP,EGIR,arki,arki,after,PRP,['𒂕'],𒂕,EGIR,['complete'],0.0,,,P527140,9,1,date
+1132,P527140.9.2,Banba[1]PN,{m}ban-⸢ba⸣-[a],Banba,Banba,1,PN,"['𒁹', '𒉼', '𒁀', '𒀀']",𒁹𒉼𒁀𒀀,{m}ban-⸢ba⸣-[a],"['complete', 'complete', 'damaged', 'missing']",0.38,PN,,P527140,9,2,date

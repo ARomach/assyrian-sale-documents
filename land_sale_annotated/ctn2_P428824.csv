@@ -1,0 +1,48 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+1027,P428824.2.1,kūmu[instead of]PRP,ku-⸢mu⸣,,PRP,"['𒆪', '𒈬']",𒆪𒈬,ku-⸢mu⸣,"['complete', 'damaged']",0.25,kūmu,kūm,instead of,P428824,2,1,seal identification
+1028,P428824.2.2,kunukkīšu[seal]N,{[na₄}KIŠIB]-⸢šu₂⸣,,N,"['𒉌𒌓', '𒈩', '𒋙']",𒉌𒌓𒈩𒋙,{[NA₄]}[KIŠIB]-⸢šu₂⸣,"['missing', 'missing', 'damaged']",0.83,kunukkīšu,kunukku,seal,P428824,2,2,seal identification
+1029,P428824.2.3,ṣubaršu[fingernail]N,ṣu-bar-šu₂,,N,"['𒍮', '𒁇', '𒋙']",𒍮𒁇𒋙,ṣu-bar-šu₂,"['complete', 'complete', 'complete']",0.0,ṣubaršu,ṣupru,fingernail,P428824,2,3,seal identification
+1030,P428824.2.4,+šakānu[put//place]V'V$iškun,GAR,,V,['𒃻'],𒃻,GAR,['complete'],0.0,iškun,šakānu,place,P428824,2,4,seal identification
+1031,P428824.3.1,ṣupur[fingernail]N,ṣu-⸢pur,,N,"['𒍮', '𒁓']",𒍮𒁓,ṣu-⸢pur⸣,"['complete', 'damaged']",0.25,ṣupur,ṣupru,fingernail,P428824,3,1,seal identification
+1032,P428824.3.2,u,{1}[x,,u,"['𒁹', 'X']",𒁹X,{⸢1⸣}[x],"['damaged', 'missing']",0.75,,,,P428824,3,2,seal identification
+1033,P428824.3.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428824,3,3,seal identification
+1034,P428824.3.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428824,3,4,seal identification
+1035,P428824.3.5,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428824,3,5,seal identification
+1036,P428824.3.6,bēl[owner]N,EN,,N,['𒂗'],𒂗,EN,['complete'],0.0,bēl,bēlu,owner,P428824,3,6,seal identification
+1037,P428824.3.7,bēti[house]N,E₂,,N,['𒂍'],𒂍,E₂,['complete'],0.0,bēti,bītu,house,P428824,3,7,seal identification
+1038,P428824.7.1,bētu[house]N,E₂,,N,['𒂍'],𒂍,E₂,['complete'],0.0,bētu,bītu,house,P428824,7,1,object sold
+1039,P428824.7.2,epšu[built]AJ,ep-šu₂,,AJ,"['𒅁', '𒋙']",𒅁𒋙,ep-šu₂,"['complete', 'complete']",0.0,epšu,epšu,built,P428824,7,2,object sold
+1040,P428824.7.3,adi[with]PRP,a-di,,PRP,"['𒀀', '𒁲']",𒀀𒁲,a-di,"['complete', 'complete']",0.0,adi,adi,with,P428824,7,3,object sold
+1041,P428824.7.4,gušūrīšu[log]N,{giš}UR₃-MEŠ-šu₂,,N,"['𒄑', '𒃡', '𒈨𒌍', '𒋙']",𒄑𒃡𒈨𒌍𒋙,{GIŠ}UR₃-MEŠ-šu₂,"['complete', 'complete', 'complete', 'complete']",0.0,gušūrīšu,gušūru,log,P428824,7,4,object sold
+1042,P428824.8.1,n,0,NUMBER,n,['0'],0,[0],['missing'],1.0,,,,P428824,8,1,object sold
+1043,P428824.8.2,adi[with]PRP,a]-di,,PRP,"['𒀀', '𒁲']",𒀀𒁲,[a]-di,"['missing', 'complete']",0.5,adi,adi,with,P428824,8,2,object sold
+1044,P428824.8.3,dalātīšu[door]N,{giš}[IG-MEŠ]-šu₂,,N,"['𒄑', '𒅅', '𒈨𒌍', '𒋙']",𒄑𒅅𒈨𒌍𒋙,{GIŠ}[IG-MEŠ]-šu₂,"['complete', 'missing', 'missing', 'complete']",0.5,dalātīšu,daltu,door,P428824,8,3,object sold
+1045,P428824.9.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428824,9,1,none
+1046,P428824.9.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428824,9,2,none
+1047,P428824.9.3,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428824,9,3,none
+1048,P428824.9.4,u,na,,u,['𒈾'],𒈾,na,['complete'],0.0,,,,P428824,9,4,none
+1049,P428824.9.5,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428824,9,5,none
+1050,P428824.9.6,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428824,9,6,none
+1051,P428824.9.7,uppiš[contract]V,u₂-piš,,V,"['𒌑', '𒄫']",𒌑𒄫,u₂-piš,"['complete', 'complete']",0.0,uppiš,epēšu,contract,P428824,9,7,initiation of transaction
+1052,P428824.10.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428824,10,1,none
+1053,P428824.10.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428824,10,2,none
+1054,P428824.10.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428824,10,3,none
+1055,P428824.10.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428824,10,4,none
+1056,P428824.10.5,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428824,10,5,none
+1057,P428824.10.6,rab[big one]N&ālāni[city]N,{⸢lu₂⸣}GAL-URU-MEŠ,,N,"['𒇽', '𒃲', '𒌷', '𒈨𒌍']",𒇽𒃲𒌷𒈨𒌍,{⸢LU₂⸣}GAL-URU-MEŠ,"['damaged', 'complete', 'complete', 'complete']",0.12,rab,rabû,big one,P428824,10,6,none
+1059,P428824.11.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428824,11,1,none
+1060,P428824.11.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428824,11,2,none
+1061,P428824.11.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428824,11,3,none
+1062,P428824.11.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428824,11,4,none
+1063,P428824.11.5,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428824,11,5,none
+1064,P428824.11.6,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428824,11,6,none
+1065,P428824.11.7,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428824,11,7,none
+1066,P428824.11.8,u,x+[x,,u,"['X', 'X']",XX,x+[x],"['complete', 'missing']",0.5,,,,P428824,11,8,none
+1067,P428824.11.9,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428824,11,9,none
+1068,P428824.15.1,Ṭebeti[Tebet]MN,{iti}AB,MN,MN,"['𒌗', '𒀊']",𒌗𒀊,{ITI}AB,"['complete', 'complete']",0.0,Ṭebeti,Ṭebetu,Tebet,P428824,15,1,date
+1069,P428824.15.2,ūm[day]N,⸢UD⸣,,N,['𒌓'],𒌓,⸢UD⸣,['damaged'],0.5,ūm,ūmu,day,P428824,15,2,date
+1070,P428824.15.3,n,[x-KAM],NUMBER,n,"['X', '𒄰']",X𒄰,[x-KAM],"['missing', 'missing']",1.0,,,,P428824,15,3,date
+1071,P428824.16.1,limmu[eponym (of year)]N,lim-mu,,N,"['𒅆', '𒈬']",𒅆𒈬,lim-mu,"['complete', 'complete']",0.0,limmu,līmu,eponym (of year),P428824,16,1,date
+1072,P428824.16.2,Tukulti-apil-Ešarra[Tiglath-pileser III]RN,{1}⸢tukul⸣-[ti]-A-E₂.(ŠAR₂).⸢RA⸣,RN,RN,"['𒁹', '𒆪', '𒋾', '𒀀', '𒂍', '𒊹', '𒊏']",𒁹𒆪𒋾𒀀𒂍𒊹𒊏,{1}⸢tukul⸣-[ti]-A-E₂.ŠAR₂.⸢RA⸣,"['complete', 'damaged', 'missing', 'complete', 'complete', 'complete', 'damaged']",0.29,Tukulti-apil-Ešarra,Tukulti-apil-Ešarra,Tiglath-pileser III,P428824,16,2,date
+1073,P428824.17.1,šar[king]N,LUGAL,,N,['𒈗'],𒈗,LUGAL,['complete'],0.0,šar,šarru,king,P428824,17,1,date
+1074,P428824.17.2,Mat-Aššur[Assyria]GN,KUR-[aš-šur],GN,GN,"['𒆳', '𒀸', '𒋩']",𒆳𒀸𒋩,KUR-[aš-šur],"['complete', 'missing', 'missing']",0.67,Mat-Aššur,Mat-Aššur,Assyria,P428824,17,2,date

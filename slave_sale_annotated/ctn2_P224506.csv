@@ -1,0 +1,51 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+2107,P224506.2.1,ṣupur[fingernail]N,⸢ṣu⸣-pur,,N,"['𒍮', '𒁓']",𒍮𒁓,⸢ṣu⸣-pur,"['damaged', 'complete']",0.25,ṣupur,ṣupru,fingernail,P224506,2,1,seal identification
+2108,P224506.2.2,+Nagaha[]PN$Nagaya,{1}na-ga-[a.a],PN,PN,"['𒁹', '𒈾', '𒂵', '𒀀', '𒀀']",𒁹𒈾𒂵𒀀𒀀,{1}na-ga-[a].[a],"['complete', 'complete', 'complete', 'missing', 'missing']",0.4,Nagaya,Nagaha,1,P224506,2,2,seal identification
+2109,P224506.3.1,bēl[owner]N,EN,,N,['𒂗'],𒂗,EN,['complete'],0.0,bēl,bēlu,owner,P224506,3,1,seal identification
+2110,P224506.3.2,+sinništu[woman//woman]N'N$issi,MI₂,,N,['𒊩'],𒊩,MI₂,['complete'],0.0,issi,sinništu,woman,P224506,3,2,seal identification
+2111,P224506.6.1,u,{⸢mi₂}x⸣-na-ia,,u,"['𒊩', 'X', '𒈾', '𒅀']",𒊩X𒈾𒅀,{⸢MI₂⸣}⸢x⸣-na-ia,"['damaged', 'damaged', 'complete', 'complete']",0.25,,,,P224506,6,1,object sold
+2112,P224506.6.2,marʾussu[daughter]N,DUMU.⸢MI₂⸣-[su],,N,"['𒌉', '𒊩', '𒋢']",𒌉𒊩𒋢,DUMU.⸢MI₂⸣-[su],"['complete', 'damaged', 'missing']",0.5,marʾussu,mārtu,daughter,P224506,6,2,object sold
+2113,P224506.7.1,ina[in]PRP,ina,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,P224506,7,1,price
+2114,P224506.7.2,libbi[interior]N,ŠA₃,,N,['𒊮'],𒊮,ŠA₃,['complete'],0.0,libbi,libbu,interior,P224506,7,2,price
+2115,P224506.7.3,n,01,NUMBER,n,['01'],01,⸢01⸣,['damaged'],0.5,,,,P224506,7,3,price
+2116,P224506.7.4,bilat[a unit of weight]N,GU₂.UN,,N,"['𒄘', '𒌦']",𒄘𒌦,GU₂.UN,"['complete', 'complete']",0.0,bilat,biltu,a unit of weight,P224506,7,4,price
+2117,P224506.7.5,manā[a unit of weight]N,MA.⸢NA⸣,,N,"['𒈠', '𒈾']",𒈠𒈾,MA.⸢NA⸣,"['complete', 'damaged']",0.25,manā,manû,a unit of weight,P224506,7,5,price
+2118,P224506.7.6,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224506,7,6,price
+2119,P224506.7.7,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P224506,7,7,price
+2120,P224506.8.1,Nagaya[1]PN,{1}na-ga-a.a,PN,PN,"['𒁹', '𒈾', '𒂵', '𒀀', '𒀀']",𒁹𒈾𒂵𒀀𒀀,{1}na-ga-a.a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Nagaya,Nagaha,1,P224506,8,1,initiation of transaction
+2121,P224506.8.2,n,0,NUMBER,n,['0'],0,[0],['missing'],1.0,,,,P224506,8,2,initiation of transaction
+2122,P224506.9.1,ana[to]PRP,a-na,,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,ana,ana,to,P224506,9,1,initiation of transaction
+2123,P224506.9.2,+Bel-nurka-lamur[]PN$,{1}{d}EN-ZALAG₂-ka-⸢la-mur⸣,PN,PN,"['𒁹', '𒀭', '𒂗', '𒂟', '𒅗', '𒆷', '𒄯']",𒁹𒀭𒂗𒂟𒅗𒆷𒄯,{1}{d}EN-ZALAG₂-ka-⸢la-mur⸣,"['complete', 'complete', 'complete', 'complete', 'complete', 'damaged', 'damaged']",0.14,Bel-nurka-lamur,Bel-nurka-lamur,1,P224506,9,2,initiation of transaction
+2124,P224506.10.1,ūtappiš[contract]V,⸢u₂⸣-tap-piš,,V,"['𒌑', '𒋰', '𒄫']",𒌑𒋰𒄫,⸢u₂⸣-tap-piš,"['damaged', 'complete', 'complete']",0.17,ūtappiš,epēšu,contract,P224506,10,1,initiation of transaction
+2125,P224506.10.2,ittidin[give]V,i-ti-din,,V,"['𒄿', '𒋾', '𒁷']",𒄿𒋾𒁷,i-ti-din,"['complete', 'complete', 'complete']",0.0,ittidin,tadānu,give,P224506,10,2,completion of transaction
+2126,P224506.11.1,kaspu[money]N,⸢kas⸣-pu,,N,"['𒆜', '𒁍']",𒆜𒁍,⸢kas⸣-pu,"['damaged', 'complete']",0.25,kaspu,kaspu,money,P224506,11,1,confirmation of transfer 1
+2127,P224506.11.2,gammur[completed]AJ,ga-mur,,AJ,"['𒂵', '𒄯']",𒂵𒄯,ga-mur,"['complete', 'complete']",0.0,gammur,gammuru,completed,P224506,11,2,confirmation of transfer 1
+2128,P224506.11.3,tadin[paid]AJ,ta-din,,AJ,"['𒋫', '𒁷']",𒋫𒁷,ta-din,"['complete', 'complete']",0.0,tadin,tadnu,paid,P224506,11,3,confirmation of transfer 1
+2129,P224506.12.1,issu[woman]N,MI₂,,N,['𒊩'],𒊩,MI₂,['complete'],0.0,issu,sinništu,woman,P224506,12,1,confirmation of transfer 2
+2130,P224506.12.2,zarpat[purchased]AJ,za-ar₂-pat,,AJ,"['𒍝', '𒌒', '𒉻']",𒍝𒌒𒉻,za-ar₂-pat,"['complete', 'complete', 'complete']",0.0,zarpat,zarpu,purchased,P224506,12,2,confirmation of transfer 2
+2131,P224506.12.3,laqiat[acquired]AJ,la-qi-at,,AJ,"['𒆷', '𒆥', '𒀜']",𒆷𒆥𒀜,la-qi-at,"['complete', 'complete', 'complete']",0.0,laqiat,leqû,acquired,P224506,12,3,confirmation of transfer 2
+2132,P224506.13.1,tuāru[revocation]'N,tu-a-ru,,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,tu-a-ru,"['complete', 'complete', 'complete']",0.0,tuāru,târu,revocation,P224506,13,1,exclusion of litigation
+2133,P224506.13.2,dabābu[litigation]'N,da-ba-bu,,V,"['𒁕', '𒁀', '𒁍']",𒁕𒁀𒁍,da-ba-bu,"['complete', 'complete', 'complete']",0.0,dabābu,dabābu,litigation,P224506,13,2,exclusion of litigation
+2134,P224506.13.3,lāšu[(there) is not]V,la-a-šu₂,,V,"['𒆷', '𒀀', '𒋙']",𒆷𒀀𒋙,la-a-šu₂,"['complete', 'complete', 'complete']",0.0,lāšu,laššu,(there) is not,P224506,13,3,exclusion of litigation
+2135,P224506.14.1,ša[who]REL,ša,,REL,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,who,P224506,14,1,penalties for litigation: contravention
+2136,P224506.14.2,ibbalkatūni[transgress]V,BAL-u-ni,,V,"['𒁄', '𒌋', '𒉌']",𒁄𒌋𒉌,BAL-u-ni,"['complete', 'complete', 'complete']",0.0,ibbalkatūni,nabalkutu,transgress,P224506,14,2,penalties for litigation: contravention
+2137,P224506.16.1,kaspu[money]N,⸢kas⸣-pu,,N,"['𒆜', '𒁍']",𒆜𒁍,⸢kas⸣-pu,"['damaged', 'complete']",0.25,kaspu,kaspu,money,P224506,16,1,penalties for litigation: penalty
+2138,P224506.16.2,ana[for]PRP,a-na,,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,ana,ana,for,P224506,16,2,penalties for litigation: penalty
+2139,P224506.16.3,ešrāte[tenfold]AV,10-MEŠ-te,,AV,"['𒌋', '𒈨𒌍', '𒋼']",𒌋𒈨𒌍𒋼,10-MEŠ-te,"['complete', 'complete', 'complete']",0.0,ešrāte,ešriātu,tenfold,P224506,16,3,penalties for litigation: penalty
+2140,P224506.17.1,ana[to]PRP,a-na,,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,ana,ana,to,P224506,17,1,penalties for litigation: penalty
+2141,P224506.17.2,bēlēšu[owner]N,⸢EN⸣-MEŠ-šu₂,,N,"['𒂗', '𒈨𒌍', '𒋙']",𒂗𒈨𒌍𒋙,⸢EN⸣-MEŠ-šu₂,"['damaged', 'complete', 'complete']",0.17,bēlēšu,bēlu,owner,P224506,17,2,penalties for litigation: penalty
+2142,P224506.17.3,utâr[return]V,u₂-tar,,V,"['𒌑', '𒋻']",𒌑𒋻,u₂-tar,"['complete', 'complete']",0.0,utâr,târu,return,P224506,17,3,penalties for litigation: penalty
+2143,P224506.19.1,šību[witness]N,⸢IGI⸣,,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,P224506,19,1,witness
+2144,P224506.19.2,Bibi[1]PN,{1}⸢bi⸣-bi-i,PN,PN,"['𒁹', '𒁉', '𒁉', '𒄿']",𒁹𒁉𒁉𒄿,{1}⸢bi⸣-bi-i,"['complete', 'damaged', 'complete', 'complete']",0.12,Bibi,Bibi,1,P224506,19,2,witness
+2145,P224506.20.1,šību[witness]N,⸢IGI⸣,,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,P224506,20,1,witness
+2146,P224506.20.2,u,{1}⸢x⸣-qi-i,,u,"['𒁹', 'X', '𒆥', '𒄿']",𒁹X𒆥𒄿,{1}⸢x⸣-qi-i,"['complete', 'damaged', 'complete', 'complete']",0.12,,,,P224506,20,2,witness
+2147,P224506.21.1,šību[witness]N,IGI,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,P224506,21,1,witness
+2148,P224506.21.2,Pušhi[1]PN,{1}pu-uš-hi-i,PN,PN,"['𒁹', '𒁍', '𒍑', '𒄭', '𒄿']",𒁹𒁍𒍑𒄭𒄿,{1}pu-uš-hi-i,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Pušhi,Pušhi,1,P224506,21,2,witness
+2149,P224506.22.1,šību[witness]N,IGI,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,P224506,22,1,witness
+2150,P224506.22.2,Keni[1]PN,{1}GIN-i,PN,PN,"['𒁹', '𒁺', '𒄿']",𒁹𒁺𒄿,{1}GIN-i,"['complete', 'complete', 'complete']",0.0,Keni,Keni,1,P224506,22,2,witness
+2151,P224506.22.3,+ṭupšarru[scribe//scribe]N'N$tupšarru,{⸢lu₂}A.BA⸣,,N,"['𒇽', '𒀀', '𒁀']",𒇽𒀀𒁀,{⸢LU₂⸣}⸢A⸣.⸢BA⸣,"['damaged', 'damaged', 'damaged']",0.5,tupšarru,ṭupšarru,scribe,P224506,22,3,witness
+2152,P224506.23.1,Tašritu[Tishri]MN,{iti}DUL,MN,MN,"['𒌗', '𒌋𒌆']",𒌗𒌋𒌆,{ITI}DUL,"['complete', 'complete']",0.0,Tašriti,Tašritu,Tishri,P224506,23,1,date
+2153,P224506.23.2,ūm[day]N,UD,,N,['𒌓'],𒌓,UD,['complete'],0.0,ūm,ūmu,day,P224506,23,2,date
+2154,P224506.23.3,n,20-⸢KAM₂⸣,NUMBER,n,"['𒌋𒌋', '𒆚']",𒌋𒌋𒆚,20-⸢KAM₂⸣,"['complete', 'damaged']",0.25,,,,P224506,23,3,date
+2155,P224506.24.1,limme[eponym (of year)]N,lim-me,,N,"['𒅆', '𒈨']",𒅆𒈨,lim-me,"['complete', 'complete']",0.0,limme,līmu,eponym (of year),P224506,24,1,date
+2156,P224506.24.2,+Inurta-šezibanni[Governor of Talmusa and eponym of the year 754//Governor of Talmusa and eponym of the year 754]PN'PN$,{1}{d}MAŠ-še-zib-a-⸢ni⸣,PN,PN,"['𒁹', '𒀭', '𒈦', '𒊺', '𒍦', '𒀀', '𒉌']",𒁹𒀭𒈦𒊺𒍦𒀀𒉌,{1}{d}MAŠ-še-zib-a-⸢ni⸣,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'damaged']",0.07,Inurta-šezibanni,Inurta-šezibanni,Governor of Talmusa and eponym of the year 754,P224506,24,2,date

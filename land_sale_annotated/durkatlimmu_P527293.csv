@@ -1,0 +1,19 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+5442,P527293.3.1,ina[at]PRP,ina,ina,ina,at,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,,P527293,3,1,price
+5443,P527293.3.2,X,ŠA₃-bi,,,,X,"['𒊮', '𒁉']",𒊮𒁉,ŠA₃-bi,"['complete', 'complete']",0.0,,,P527293,3,2,price
+5444,P527293.3.3,n,[x,,,,n,['X'],X,[x],['missing'],1.0,NUMBER,,P527293,3,3,price
+5445,P527293.3.4,manā[a unit of weight]N,MA.NA,manā,manû,a unit of weight,N,"['𒈠', '𒈾']",𒈠𒈾,[MA].[NA],"['missing', 'missing']",1.0,,,P527293,3,4,price
+5446,P527293.3.5,X,KU₃.BABBAR],,,,X,"['𒆬', '𒌓']",𒆬𒌓,[KU₃].[BABBAR],"['missing', 'missing']",1.0,,,P527293,3,5,price
+5447,P527293.4.1,X,TA,,,,X,['𒋫'],𒋫,TA,['complete'],0.0,,,P527293,4,1,completion of transaction
+5448,P527293.4.2,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527293,4,2,completion of transaction
+5449,P527293.4.3,+x-šarru-x[]PN$,{m}{⸢d⸣}[x]-MAN-[x,x-šarru-x,x-šarru-x,1,PN,"['𒁹', '𒀭', 'X', '𒌋𒌋', 'X']",𒁹𒀭X𒌋𒌋X,{m}{⸢d⸣}[x]-MAN-[x],"['complete', 'damaged', 'missing', 'complete', 'missing']",0.5,PN,,P527293,4,3,completion of transaction
+5450,P527293.4.4,ilqe[purchase]V,il-qe],ilqe,leqû,purchase,V,"['𒅋', '𒆥']",𒅋𒆥,[il-qe],"['missing', 'missing']",1.0,,,P527293,4,4,completion of transaction
+5451,P527293.5.1,X,kas-pu,,,,X,"['𒆜', '𒁍']",𒆜𒁍,kas-pu,"['complete', 'complete']",0.0,,,P527293,5,1,confirmation of transfer 1
+5452,P527293.5.2,X,ga-mur,,,,X,"['𒂵', '𒄯']",𒂵𒄯,ga-mur,"['complete', 'complete']",0.0,,,P527293,5,2,confirmation of transfer 1
+5453,P527293.5.3,X,[ta-din],,,,X,"['𒋫', '𒁷']",𒋫𒁷,[ta-din],"['missing', 'missing']",1.0,,,P527293,5,3,confirmation of transfer 1
+5454,P527293.6.1,X,A.ŠA₃,,,,X,"['𒀀', '𒊮']",𒀀𒊮,A.ŠA₃,"['complete', 'complete']",0.0,,,P527293,6,1,confirmation of transfer 2
+5455,P527293.6.2,X,za-rip,,,,X,"['𒍝', '𒆗']",𒍝𒆗,za-rip,"['complete', 'complete']",0.0,,,P527293,6,2,confirmation of transfer 2
+5456,P527293.6.3,X,[la-qe],,,,X,"['𒆷', '𒆥']",𒆷𒆥,[la-qe],"['missing', 'missing']",1.0,,,P527293,6,3,confirmation of transfer 2
+5457,P527293.10.1,X,man-nu,,,,X,"['𒌋𒌋', '𒉡']",𒌋𒌋𒉡,man-nu,"['complete', 'complete']",0.0,,,P527293,10,1,penalties for litigation: contravention
+5458,P527293.10.2,ša[of]DET,[ša,ša,ša,of,DET,['𒊭'],𒊭,[ša],['missing'],1.0,,,P527293,10,2,penalties for litigation: contravention
+5459,P527293.10.3,X,GIL-u-ni],,,,X,"['𒄃', '𒌋', '𒉌']",𒄃𒌋𒉌,[GIL-u-ni],"['missing', 'missing', 'missing']",1.0,,,P527293,10,3,penalties for litigation: contravention

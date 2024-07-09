@@ -1,0 +1,78 @@
+Unnamed: 0,ref,inst,frag,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,text,line,word,annotation
+1958,P522507.2.1,issu[woman]N,MI₂,N,['𒊩'],𒊩,MI₂,['complete'],0.0,issu,sinništu,woman,,P522507,2,1,object sold
+1959,P522507.2.2,ša[of]DET,ša,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,P522507,2,2,object sold
+1960,P522507.2.3,u,{1}[x,u,"['𒁹', 'X']",𒁹X,{1}[x],"['complete', 'missing']",0.5,,,,,P522507,2,3,object sold
+1961,P522507.2.4,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P522507,2,4,object sold
+1962,P522507.2.5,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P522507,2,5,object sold
+1963,P522507.2.6,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P522507,2,6,object sold
+1964,P522507.2.7,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P522507,2,7,object sold
+1965,P522507.2.8,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P522507,2,8,object sold
+1966,P522507.3.1,ša[of]DET,ša,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,P522507,3,1,object sold
+1967,P522507.3.2,+Birtu[]GN$Birti,{uru}bir-ti,GN,"['𒌷', '𒄵', '𒋾']",𒌷𒄵𒋾,{URU}bir-ti,"['complete', 'complete', 'complete']",0.0,Birti,Birtu,1,GN,P522507,3,2,object sold
+1968,P522507.3.3,u,[x,u,['X'],X,[x],['missing'],1.0,,,,,P522507,3,3,object sold
+1969,P522507.3.4,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P522507,3,4,object sold
+1970,P522507.3.5,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P522507,3,5,object sold
+1971,P522507.3.6,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P522507,3,6,object sold
+1972,P522507.4.1,ša[who]REL,ša,REL,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,who,,P522507,4,1,object sold
+1973,P522507.4.2,qāt[in charge of]PRP,ŠU,N,['𒋗'],𒋗,ŠU,['complete'],0.0,qāt,qātu,in charge of,,P522507,4,2,object sold
+1974,P522507.4.3,pāhiti[governor]N,{lu₂}EN.NAM,N,"['𒇽', '𒂗', '𒉆']",𒇽𒂗𒉆,{LU₂}EN.NAM,"['complete', 'complete', 'complete']",0.0,pāhiti,pīhātu,governor,,P522507,4,3,object sold
+1975,P522507.4.4,ša[of]DET,⸢ša⸣,DET,['𒊭'],𒊭,⸢ša⸣,['damaged'],0.5,ša,ša,of,,P522507,4,4,object sold
+1976,P522507.4.5,u,[x,u,['X'],X,[x],['missing'],1.0,,,,,P522507,4,5,object sold
+1977,P522507.4.6,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P522507,4,6,object sold
+1978,P522507.4.7,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P522507,4,7,object sold
+1979,P522507.5.1,Nabu-šimanni[1]PN,{1}{d}PA-HAL-ni,PN,"['𒁹', '𒀭', '𒉺', '𒄬', '𒉌']",𒁹𒀭𒉺𒄬𒉌,{1}{d}PA-HAL-ni,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Nabu-šimanni,Nabu-šimanni,1,PN,P522507,5,1,completion of transaction
+1980,P522507.5.2,masennu[treasurer]N,{lu₂}AGRIG,N,"['𒇽', '𒅆𒁾']",𒇽𒅆𒁾,{LU₂}AGRIG,"['complete', 'complete']",0.0,masennu,mašennu,treasurer,,P522507,5,2,completion of transaction
+1981,P522507.5.3,ša[of]DET,⸢ša⸣,DET,['𒊭'],𒊭,⸢ša⸣,['damaged'],0.5,ša,ša,of,,P522507,5,3,completion of transaction
+1982,P522507.5.4,u,[x,u,['X'],X,[x],['missing'],1.0,,,,,P522507,5,4,completion of transaction
+1983,P522507.5.5,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P522507,5,5,completion of transaction
+1984,P522507.5.6,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P522507,5,6,completion of transaction
+1985,P522507.6.1,kūm[instead of]PRP,ku-um,PRP,"['𒆪', '𒌝']",𒆪𒌝,ku-um,"['complete', 'complete']",0.0,kūm,kūm,instead of,,P522507,6,1,object sold
+1986,P522507.6.2,+Šulmu-ahhe[]PN$,{1}šul₃-mu-PAP-⸢MEŠ⸣,PN,"['𒁹', '𒁲', '𒈬', '𒉽', '𒈨𒌍']",𒁹𒁲𒈬𒉽𒈨𒌍,{1}šul₃-mu-PAP-⸢MEŠ⸣,"['complete', 'complete', 'complete', 'complete', 'damaged']",0.1,Šulmu-ahhe,Šulmu-ahhe,1,PN,P522507,6,2,object sold
+1987,P522507.6.3,u,0,u,['0'],0,[0],['missing'],1.0,,,,,P522507,6,3,object sold
+1988,P522507.7.1,urdušu[servant]N,{lu₂}ARAD-šu₂,N,"['𒇽', '𒀴', '𒋙']",𒇽𒀴𒋙,{LU₂}ARAD-šu₂,"['complete', 'complete', 'complete']",0.0,urdušu,ardu,servant,,P522507,7,1,object sold
+1989,P522507.7.2,+Masihaya[]EN$,{uru}ma-si-⸢ha⸣-[a.a],EN,"['𒌷', '𒈠', '𒋛', '𒄩', '𒀀', '𒀀']",𒌷𒈠𒋛𒄩𒀀𒀀,{URU}ma-si-⸢ha⸣-[a].[a],"['complete', 'complete', 'complete', 'damaged', 'missing', 'missing']",0.42,Masihaya,Masihaya,1,,P522507,7,2,object sold
+1990,P522507.8.1,ina[in]PRP,⸢ina⸣,PRP,['𒀸'],𒀸,⸢ina⸣,['damaged'],0.5,ina,ina,in,,P522507,8,1,price
+1991,P522507.8.2,bilat[a unit of weight]N,GU₂.UN,N,"['𒄘', '𒌦']",𒄘𒌦,GU₂.UN,"['complete', 'complete']",0.0,bilat,biltu,a unit of weight,,P522507,8,2,price
+1992,P522507.8.3,+siparru[bronze//bronze]N'N$siparri,⸢ZABAR⸣,N,['𒌓𒅗𒁇'],𒌓𒅗𒁇,⸢ZABAR⸣,['damaged'],0.5,siparri,siparru,bronze,,P522507,8,3,price
+1993,P522507.10.1,ana[to]PRP,a-na,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,ana,ana,to,,P522507,10,1,completion of transaction
+1994,P522507.10.2,Ahu-damqu[1]PN,{1}PAB-SIG,PN,"['𒁹', '𒉽', '𒋝']",𒁹𒉽𒋝,{1}PAB-SIG,"['complete', 'complete', 'complete']",0.0,Ahu-damqu,Ahu-damqu,1,PN,P522507,10,2,completion of transaction
+1995,P522507.10.3,aškāpu[tanner]N,{lu₂}⸢AŠGAB⸣,N,"['𒇽', '𒀿']",𒇽𒀿,{LU₂}⸢AŠGAB⸣,"['complete', 'damaged']",0.25,aškāpu,aškāpu,tanner,,P522507,10,3,completion of transaction
+1996,P522507.11.1,ittidin[sell]V,i-ti-din,V,"['𒄿', '𒋾', '𒁷']",𒄿𒋾𒁷,i-ti-din,"['complete', 'complete', 'complete']",0.0,ittidin,tadānu,sell,,P522507,11,1,completion of transaction
+1997,P522507.11.2,issu[woman]N,MI₂,N,['𒊩'],𒊩,MI₂,['complete'],0.0,issu,sinništu,woman,,P522507,11,2,confirmation of transfer 1
+1998,P522507.11.3,zarpat[purchased]AJ,za-ar-[pat],AJ,"['𒍝', '𒅈', '𒉻']",𒍝𒅈𒉻,za-ar-[pat],"['complete', 'complete', 'missing']",0.33,zarpat,zarpu,purchased,,P522507,11,3,confirmation of transfer 1
+1999,P522507.13.1,laqiat[acquired]AJ,la-qi-at,AJ,"['𒆷', '𒆥', '𒀜']",𒆷𒆥𒀜,la-qi-at,"['complete', 'complete', 'complete']",0.0,laqiat,leqû,acquired,,P522507,13,1,confirmation of transfer 1
+2000,P522507.13.2,n,0,n,['0'],0,[0],['missing'],1.0,,,,NUMBER,P522507,13,2,confirmation of transfer 1
+2001,P522507.15.1,šību[witness]N,IGI,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P522507,15,1,witness
+2002,P522507.15.2,+Handusu[]PN$,{1}ha-an-du-su,PN,"['𒁹', '𒄩', '𒀭', '𒁺', '𒋢']",𒁹𒄩𒀭𒁺𒋢,{1}ha-an-du-su,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Handusu,Handusu,1,PN,P522507,15,2,witness
+2003,P522507.15.3,mār[son]N,A,N,['𒀀'],𒀀,A,['complete'],0.0,mār,māru,son,,P522507,15,3,witness
+2004,P522507.15.4,+Ṣil-...[]PN$,{1}GIŠ.MI-[x-x],PN,"['𒁹', '𒄑', '𒈪', 'X', 'X']",𒁹𒄑𒈪XX,{1}GIŠ.MI-[x-x],"['complete', 'complete', 'complete', 'missing', 'missing']",0.4,Ṣil-...,Ṣil-...,1,PN,P522507,15,4,witness
+2005,P522507.16.1,ša[of]DET,ša,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,P522507,16,1,witness
+2006,P522507.16.2,+Šutani...[]GN$,{uru}šu-ta-ni-[x-(x)],GN,"['𒌷', '𒋗', '𒋫', '𒉌', 'X', 'X']",𒌷𒋗𒋫𒉌XX,{URU}šu-ta-ni-[x-x],"['complete', 'complete', 'complete', 'complete', 'missing', 'missing']",0.33,Šutani...,Šutani...,1,GN,P522507,16,2,witness
+2007,P522507.17.1,šību[witness]N,IGI,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P522507,17,1,witness
+2008,P522507.17.2,+Kusane[]PN$,{1}ku-sa-ni-e,PN,"['𒁹', '𒆪', '𒊓', '𒉌', '𒂊']",𒁹𒆪𒊓𒉌𒂊,{1}ku-sa-ni-e,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Kusane,Kusane,1,PN,P522507,17,2,witness
+2009,P522507.17.3,ša[of]DET,ša,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,P522507,17,3,witness
+2010,P522507.17.4,u,{uru}[x,u,"['𒌷', 'X']",𒌷X,{URU}[x],"['complete', 'missing']",0.5,,,,,P522507,17,4,witness
+2011,P522507.17.5,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P522507,17,5,witness
+2012,P522507.17.6,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P522507,17,6,witness
+2013,P522507.18.1,gimru[total]N,PAB,N,['𒉽'],𒉽,PAB,['complete'],0.0,gimru,gimru,total,,P522507,18,1,witness
+2014,P522507.18.2,n,02,n,['0₂'],0₂,02,['complete'],0.0,,,,NUMBER,P522507,18,2,witness
+2015,P522507.18.3,ša[who]REL,ša,REL,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,who,,P522507,18,3,witness
+2016,P522507.18.4,qāt[in charge of]PRP,ŠU,N,['𒋗'],𒋗,ŠU,['complete'],0.0,qāt,qātu,in charge of,,P522507,18,4,witness
+2017,P522507.18.5,pāhiti[governor]N,{lu₂}EN.NAM,N,"['𒇽', '𒂗', '𒉆']",𒇽𒂗𒉆,{LU₂}EN.NAM,"['complete', 'complete', 'complete']",0.0,pāhiti,pīhātu,governor,,P522507,18,5,witness
+2018,P522507.18.6,u,{⸢uru⸣}[x,u,"['𒌷', 'X']",𒌷X,{⸢URU⸣}[x],"['damaged', 'missing']",0.75,,,,,P522507,18,6,witness
+2019,P522507.18.7,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P522507,18,7,witness
+2020,P522507.19.1,šību[witness]N,IGI,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P522507,19,1,witness
+2021,P522507.19.2,+Kenu-DN[]PN$,{1}ke-nu-{d}[x-x],PN,"['𒁹', '𒆠', '𒉡', '𒀭', 'X', 'X']",𒁹𒆠𒉡𒀭XX,{1}ke-nu-{d}[x-x],"['complete', 'complete', 'complete', 'complete', 'missing', 'missing']",0.33,Kenu-DN,Kenu-DN,1,DN,P522507,19,2,witness
+2022,P522507.20.1,+mukillu[holder]N$mukīl&+appatu[bridle]N$appāti,mu-kil-{kuš}PA-⸢MEŠ⸣,N,"['𒈬', '𒆸', '𒋢', '𒉺', '𒈨𒌍']",𒈬𒆸𒋢𒉺𒈨𒌍,mu-kil-{KUŠ}PA-⸢MEŠ⸣,"['complete', 'complete', 'complete', 'complete', 'damaged']",0.1,mukīl,mukillu,holder,,P522507,20,1,witness
+2024,P522507.20.2,u,[(x,u,['X'],X,[x],['missing'],1.0,,,,,P522507,20,2,witness
+2025,P522507.20.3,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P522507,20,3,witness
+2026,P522507.20.4,u,x)],u,['X'],X,[x],['missing'],1.0,,,,,P522507,20,4,witness
+2027,P522507.22.1,šību[witness]N,IGI,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P522507,22,1,witness
+2028,P522507.22.2,+Marduk-...[]PN$,{1}{d}AMAR.UTU-x+[x-x],PN,"['𒁹', '𒀭', '𒀫', '𒌓', 'X', 'X', 'X']",𒁹𒀭𒀫𒌓XXX,{1}{d}AMAR.UTU-x+[x-x],"['complete', 'complete', 'complete', 'complete', 'complete', 'missing', 'missing']",0.29,Marduk-...,Marduk-...,1,PN,P522507,22,2,witness
+2029,P522507.23.1,mār[son]N,DUMU,N,['𒌉'],𒌉,DUMU,['complete'],0.0,mār,māru,son,,P522507,23,1,witness
+2030,P522507.23.2,+Adad-...[]PN$,10-[x-x-x],PN,"['𒌋', 'X', 'X', 'X']",𒌋XXX,10-[x-x-x],"['complete', 'missing', 'missing', 'missing']",0.75,Adad-...,Adad-...,1,PN,P522507,23,2,witness
+2031,P522507.25.1,Nisannu[Nisan]MN,{iti}BARAG,MN,"['𒌗', '𒁈']",𒌗𒁈,{ITI}BARAG,"['complete', 'complete']",0.0,Nisannu,Nisannu,Nisan,MN,P522507,25,1,date
+2032,P522507.25.2,ūm[day]N,UD,N,['𒌓'],𒌓,UD,['complete'],0.0,ūm,ūmu,day,,P522507,25,2,date
+2033,P522507.25.3,n,14-KAM₂,n,"['𒌋𒐉', '𒆚']",𒌋𒐉𒆚,14-KAM₂,"['complete', 'complete']",0.0,,,,NUMBER,P522507,25,3,date
+2034,P522507.26.1,limme[eponym (of year)]N,li-me,N,"['𒇷', '𒈨']",𒇷𒈨,li-me,"['complete', 'complete']",0.0,limme,līmu,eponym (of year),,P522507,26,1,date
+2035,P522507.26.2,"+Kenu-abuʾa[governor of Tušhan, and eponym of the year 794//governor of Tušhan, and eponym of the year 794]PN'PN$",{1}GIN-AD-a,PN,"['𒁹', '𒁺', '𒀜', '𒀀']",𒁹𒁺𒀜𒀀,{1}GIN-AD-a,"['complete', 'complete', 'complete', 'complete']",0.0,Kenu-abuʾa,Kenu-abuʾa,"governor of Tušhan, and eponym of the year 794",PN,P522507,26,2,date

@@ -1,0 +1,34 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+1353,P527210.2.1,kunuk[seal]N,{⸢na₄⸣}KIŠIB,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{⸢NA₄⸣}KIŠIB,"['damaged', 'complete']",0.25,,,P527210,2,1,seal identification
+1354,P527210.2.2,Issar-naʾid[1]PN,{m}15-⸢na⸣-[id],Issar-naʾid,Issar-naʾid,1,PN,"['𒁹', '𒌋𒐊', '𒈾', '𒀉']",𒁹𒌋𒐊𒈾𒀉,{m}15-⸢na⸣-[id],"['complete', 'complete', 'damaged', 'missing']",0.38,PN,,P527210,2,2,seal identification
+1355,P527210.4.1,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,,P527210,4,1,seal identification
+1356,P527210.4.2,Salmanu-abu-uṣur[1]PN,{m}DI-man-AD-PAB,Salmanu-abu-uṣur,Salmanu-abu-uṣur,1,PN,"['𒁹', '𒁲', '𒌋𒌋', '𒀜', '𒉽']",𒁹𒁲𒌋𒌋𒀜𒉽,{m}DI-man-AD-PAB,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,,P527210,4,2,seal identification
+1357,P527210.5.1,bēl[owner]N,EN,bēl,bēlu,owner,N,['𒂗'],𒂗,EN,['complete'],0.0,,,P527210,5,1,seal identification
+1358,P527210.5.2,amti[maid]N,GEME₂,amti,amtu,maid,N,['𒊩𒆳'],𒊩𒆳,GEME₂,['complete'],0.0,,,P527210,5,2,seal identification
+1359,P527210.5.3,tadāni[giving]'N,SUM-ni,tadāni,tadānu,giving,V,"['𒋧', '𒉌']",𒋧𒉌,SUM-ni,"['complete', 'complete']",0.0,,,P527210,5,3,seal identification
+1360,P527210.5.4,n,03,,,,n,['0₃'],0₃,03,['complete'],0.0,NUMBER,,P527210,5,4,object sold
+1361,P527210.5.5,rūṭu[a unit of length]N,ru-⸢ṭu⸣,rūṭu,rūṭu,a unit of length,N,"['𒊒', '𒂅']",𒊒𒂅,ru-⸢ṭu⸣,"['complete', 'damaged']",0.25,,,P527210,5,5,object sold
+1362,P527210.6.1,+Urkitu-ilaʾi[]PN$,{f}ur-kit-tu₂-DINGIR-a-a,Urkitu-ilaʾi,Urkitu-ilaʾi,1,PN,"['𒊩', '𒌨', '𒆤', '𒌓', '𒀭', '𒀀', '𒀀']",𒊩𒌨𒆤𒌓𒀭𒀀𒀀,{f}ur-kit-tu₂-DINGIR-a-a,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,,P527210,6,1,object sold
+1363,P527210.6.2,amtišu[female slave]N,GEME₂-šu₂,amtišu,amtu,female slave,N,"['𒊩𒆳', '𒋙']",𒊩𒆳𒋙,GEME₂-šu₂,"['complete', 'complete']",0.0,,,P527210,6,2,object sold
+1364,P527210.7.1,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,,P527210,7,1,object sold
+1365,P527210.7.2,Issar-naʾid[1]PN,{m}15-na-id,Issar-naʾid,Issar-naʾid,1,PN,"['𒁹', '𒌋𒐊', '𒈾', '𒀉']",𒁹𒌋𒐊𒈾𒀉,{m}15-na-id,"['complete', 'complete', 'complete', 'complete']",0.0,PN,,P527210,7,2,object sold
+1366,P527210.8.1,uppišma[contract]V,u₂-piš-ma,uppišma,epēšu,contract,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,u₂-piš-ma,"['complete', 'complete', 'complete']",0.0,,,P527210,8,1,initiation of transaction
+1367,P527210.8.2,Šulmu-šarri[1]PN,{m}DI-mu-⸢LUGAL⸣,Šulmu-šarri,Šulmu-šarri,1,PN,"['𒁹', '𒁲', '𒈬', '𒈗']",𒁹𒁲𒈬𒈗,{m}DI-mu-⸢LUGAL⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,PN,,P527210,8,2,initiation of transaction
+1368,P527210.9.1,ina[at]PRP,ina,ina,ina,at,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,,P527210,9,1,price
+1369,P527210.9.2,libbi[interior]N,ŠA₃,libbi,libbu,interior,N,['𒊮'],𒊮,ŠA₃,['complete'],0.0,,,P527210,9,2,price
+1370,P527210.9.3,n,1/2,,,,n,['𒈦'],𒈦,1/2,['complete'],0.0,NUMBER,,P527210,9,3,price
+1371,P527210.9.4,manā[a unit of weight]N,MA.NA,manā,manû,a unit of weight,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,,,P527210,9,4,price
+1372,P527210.9.5,ṣarpi[silver]N,KU₃.BABBAR,ṣarpi,ṣarpu,silver,N,"['𒆬', '𒌓']",𒆬𒌓,KU₃.BABBAR,"['complete', 'complete']",0.0,,,P527210,9,5,price
+1373,P527210.10.1,issi[with]PRP,TA,issi,išti,with,PRP,['𒋫'],𒋫,TA,['complete'],0.0,,,P527210,10,1,completion of transaction
+1374,P527210.10.2,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527210,10,2,completion of transaction
+1375,P527210.10.3,Issar-naʾid[1]PN,{m}15-na-id,Issar-naʾid,Issar-naʾid,1,PN,"['𒁹', '𒌋𒐊', '𒈾', '𒀉']",𒁹𒌋𒐊𒈾𒀉,{m}15-na-id,"['complete', 'complete', 'complete', 'complete']",0.0,PN,,P527210,10,3,completion of transaction
+1376,P527210.10.4,ilqe[purchase]V,[il-qe],ilqe,leqû,purchase,V,"['𒅋', '𒆥']",𒅋𒆥,[il-qe],"['missing', 'missing']",1.0,,,P527210,10,4,completion of transaction
+1377,P527210.11.1,kaspu[money]N,kas-pu,kaspu,kaspu,money,N,"['𒆜', '𒁍']",𒆜𒁍,kas-pu,"['complete', 'complete']",0.0,,,P527210,11,1,confirmation of transfer 1
+1378,P527210.11.2,gammur[completed]AJ,gam-mur,gammur,gammuru,completed,AJ,"['𒃵', '𒄯']",𒃵𒄯,gam-mur,"['complete', 'complete']",0.0,,,P527210,11,2,confirmation of transfer 1
+1379,P527210.11.3,tadin[paid]AJ,[ta-din],tadin,tadnu,paid,AJ,"['𒋫', '𒁷']",𒋫𒁷,[ta-din],"['missing', 'missing']",1.0,,,P527210,11,3,confirmation of transfer 1
+1380,P527210.17.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527210,17,1,witness
+1381,P527210.17.2,+Qururdu[]PN$,{m}⸢qur⸣-ur-du,Qururdu,Qururdu,1,PN,"['𒁹', '𒄥', '𒌨', '𒁺']",𒁹𒄥𒌨𒁺,{m}⸢qur⸣-ur-du,"['complete', 'damaged', 'complete', 'complete']",0.12,PN,,P527210,17,2,witness
+1382,P527210.18.1,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,,P527210,18,1,witness
+1383,P527210.18.2,+Šem-x[]PN$,{m}še-em-⸢x⸣,Šem-x,Šem-x,1,PN,"['𒁹', '𒊺', '𒅎', 'X']",𒁹𒊺𒅎X,{m}še-em-⸢x⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,PN,,P527210,18,2,witness
+1384,P527210.19.1,šību[witness]N,⸢IGI,šību,šību,witness,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,,,P527210,19,1,witness
+1385,P527210.19.2,x[1]PN,{m}x-x-x⸣,x,x,1,PN,"['𒁹', 'X', 'X', 'X']",𒁹XXX,{⸢m⸣}⸢x-x-x⸣,"['damaged', 'damaged', 'damaged', 'damaged']",0.5,PN,,P527210,19,2,witness

@@ -1,0 +1,33 @@
+Unnamed: 0,ref,inst,frag,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,text,line,word,annotation
+4223,P528295.2.1,X,{[na₄}KIŠIB,X,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}[KIŠIB],"['missing', 'missing']",1.0,,,,,P528295,2,1,seal identification
+4224,P528295.2.2,u,{m}x]-⸢x⸣.MEŠ-ia,u,"['𒁹', 'X', 'X', '𒈨𒌍', '𒅀']",𒁹XX𒈨𒌍𒅀,{[m]}[x]-⸢x⸣.MEŠ-ia,"['missing', 'missing', 'damaged', 'complete', 'complete']",0.5,,,,,P528295,2,2,seal identification
+4225,P528295.3.1,X,[DUMU,X,['𒌉'],𒌉,[DUMU],['missing'],1.0,,,,,P528295,3,1,seal identification
+4226,P528295.3.2,X,{m}lib]-lu,X,"['𒁹', '𒈜', '𒇻']",𒁹𒈜𒇻,{[m]}[lib]-lu,"['missing', 'missing', 'complete']",0.67,,,,,P528295,3,2,seal identification
+4227,P528295.3.3,X,mu-kil-PA.MEŠ,X,"['𒈬', '𒆸', '𒉺', '𒈨𒌍']",𒈬𒆸𒉺𒈨𒌍,mu-kil-PA.MEŠ,"['complete', 'complete', 'complete', 'complete']",0.0,,,,,P528295,3,3,seal identification
+4228,P528295.3.4,X,ša₂,X,['𒃻'],𒃻,ša₂,['complete'],0.0,,,,,P528295,3,4,seal identification
+4229,P528295.3.5,X,GAL-TUG₂.UD,X,"['𒃲', '𒌆', '𒌓']",𒃲𒌆𒌓,GAL-TUG₂.UD,"['complete', 'complete', 'complete']",0.0,,,,,P528295,3,5,seal identification
+4230,P528295.4.1,Bel[1]DN,[EN],DN,['𒂗'],𒂗,[EN],['missing'],1.0,Bel,Bel,1.0,DN,P528295,4,1,seal identification
+4231,P528295.4.2,X,⸢GEME₂⸣,X,['𒊩𒆳'],𒊩𒆳,⸢GEME₂⸣,['damaged'],0.5,,,,,P528295,4,2,seal identification
+4232,P528295.4.3,X,SUM-a-ni,X,"['𒋧', '𒀀', '𒉌']",𒋧𒀀𒉌,SUM-a-ni,"['complete', 'complete', 'complete']",0.0,,,,,P528295,4,3,seal identification
+4233,P528295.10.1,X,[IGI,X,['𒅆'],𒅆,[IGI],['missing'],1.0,,,,,P528295,10,1,witness
+4234,P528295.10.2,x[1]PN,{m}x]-x,PN,"['𒁹', 'X', 'X']",𒁹XX,{[m]}[x]-x,"['missing', 'missing', 'complete']",0.67,x,x,1.0,PN,P528295,10,2,witness
+4235,P528295.11.1,X,[IGI,X,['𒅆'],𒅆,[IGI],['missing'],1.0,,,,,P528295,11,1,witness
+4236,P528295.11.2,u,{m}x]-sa-kip,u,"['𒁹', 'X', '𒊓', '𒄒']",𒁹X𒊓𒄒,{[m]}[x]-sa-kip,"['missing', 'missing', 'complete', 'complete']",0.5,,,,,P528295,11,2,witness
+4237,P528295.12.1,X,[IGI],X,['𒅆'],𒅆,[IGI],['missing'],1.0,,,,,P528295,12,1,witness
+4238,P528295.12.2,X,{m}da-da-a.a,X,"['𒁹', '𒁕', '𒁕', '𒀀', '𒀀']",𒁹𒁕𒁕𒀀𒀀,{m}da-da-a.a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,,,,,P528295,12,2,witness
+4239,P528295.13.1,X,[IGI,X,['𒅆'],𒅆,[IGI],['missing'],1.0,,,,,P528295,13,1,witness
+4240,P528295.13.2,x[1]PN,{m]}⸢x,PN,"['𒁹', 'X']",𒁹X,{[m]}⸢x⸣,"['missing', 'damaged']",0.75,x,x,1.0,PN,P528295,13,2,witness
+4241,P528295.13.3,u,x⸣-e-la₂-hi-i,u,"['X', '𒂊', '𒇲', '𒄭', '𒄿']",X𒂊𒇲𒄭𒄿,⸢x⸣-e-la₂-hi-i,"['damaged', 'complete', 'complete', 'complete', 'complete']",0.1,,,,,P528295,13,3,witness
+4242,P528295.14.1,X,[IGI,X,['𒅆'],𒅆,[IGI],['missing'],1.0,,,,,P528295,14,1,witness
+4243,P528295.14.2,u,{m}x]+x-pa,u,"['𒁹', 'X', 'X', '𒉺']",𒁹XX𒉺,{[m]}[x]+x-pa,"['missing', 'missing', 'complete', 'complete']",0.5,,,,,P528295,14,2,witness
+4244,P528295.14.3,X,{lu₂}A.BA,X,"['𒇽', '𒀀', '𒁀']",𒇽𒀀𒁀,{LU₂}A.BA,"['complete', 'complete', 'complete']",0.0,,,,,P528295,14,3,witness
+4245,P528295.15.1,X,[ṣa]-bit,X,"['𒍝', '𒂍']",𒍝𒂍,[ṣa]-bit,"['missing', 'complete']",0.5,,,,,P528295,15,1,witness
+4246,P528295.15.2,X,ṭup-pi,X,"['𒁾', '𒉿']",𒁾𒉿,ṭup-pi,"['complete', 'complete']",0.0,,,,,P528295,15,2,witness
+4247,P528295.17.1,X,[IGI,X,['𒅆'],𒅆,[IGI],['missing'],1.0,,,,,P528295,17,1,witness
+4248,P528295.17.2,X,{m}sa]-⸢gab⸣-{d}15,X,"['𒁹', '𒊓', '𒃮', '𒀭', '𒌋𒐊']",𒁹𒊓𒃮𒀭𒌋𒐊,{[m]}[sa]-⸢gab⸣-{d}15,"['missing', 'missing', 'damaged', 'complete', 'complete']",0.5,,,,,P528295,17,2,witness
+4249,P528295.18.1,X,[IGI,X,['𒅆'],𒅆,[IGI],['missing'],1.0,,,,,P528295,18,1,witness
+4250,P528295.18.2,x[1]PN,{m}x],PN,"['𒁹', 'X']",𒁹X,{[m]}[x],"['missing', 'missing']",1.0,x,x,1.0,PN,P528295,18,2,witness
+4251,P528295.18.3,u,⸢x⸣-{d}NIN.LIL₂,u,"['X', '𒀭', '𒊩𒌆', '𒆤']",X𒀭𒊩𒌆𒆤,⸢x⸣-{d}NIN.LIL₂,"['damaged', 'complete', 'complete', 'complete']",0.12,,,,,P528295,18,3,witness
+4252,P528295.19.1,X,[IGI,X,['𒅆'],𒅆,[IGI],['missing'],1.0,,,,,P528295,19,1,witness
+4253,P528295.19.2,x[1]PN,{m}x],PN,"['𒁹', 'X']",𒁹X,{[m]}[x],"['missing', 'missing']",1.0,x,x,1.0,PN,P528295,19,2,witness
+4254,P528295.19.3,u,⸢x⸣-{d}aš-šur,u,"['X', '𒀭', '𒀸', '𒋩']",X𒀭𒀸𒋩,⸢x⸣-{d}aš-šur,"['damaged', 'complete', 'complete', 'complete']",0.12,,,,,P528295,19,3,witness

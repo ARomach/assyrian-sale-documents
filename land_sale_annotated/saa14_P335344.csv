@@ -1,0 +1,42 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+31183,P335344.2.1,[x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335344,2,1,none
+31184,P335344.2.2,ki-[x],u,u,"['𒆠', 'x']",𒆠x,ki-[x],"['complete', 'missing']",0.5,,,,,,P335344,2,2,none
+31185,P335344.3.1,ina,ina[in+=for]PRP,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,,P335344,3,1,price
+31186,P335344.3.2,ŠA₃-bi,libbi[interior]N,N,"['𒊮', '𒁉']",𒊮𒁉,ŠA₃-bi,"['complete', 'complete']",0.0,libbi,libbu,interior,,,P335344,3,2,price
+31187,P335344.3.3,09,n,n,['𒑆'],𒑆,09,['complete'],0.0,,,,NUMBER,,P335344,3,3,price
+31188,P335344.3.4,MA.NA,manê[a unit of weight]N,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manê,manû,a unit of weight,,,P335344,3,4,price
+31189,P335344.3.5,URUDU-MEŠ,erî[copper]N,N,"['𒍏', '𒈨𒌍']",𒍏𒈨𒌍,URUDU-MEŠ,"['complete', 'complete']",0.0,erî,erû,copper,,,P335344,3,5,price
+31190,P335344.4.1,u₂-piš-ma,uppišma[contract]V,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,u₂-piš-ma,"['complete', 'complete', 'complete']",0.0,uppišma,epēšu,contract,,,P335344,4,1,initiation of transaction
+31191,P335344.4.2,a-na,ana[to]PRP,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,ana,ana,to,,,P335344,4,2,completion of transaction
+31192,P335344.4.3,{1}kak-[kul-la-ni],Kakkullani[1]PN,PN,"['𒁹', '𒆕', '𒆰', '𒆷', '𒉌']",𒁹𒆕𒆰𒆷𒉌,{1}kak-[kul-la-ni],"['complete', 'complete', 'missing', 'missing', 'missing']",0.6,Kakkullani,Kakkullanu,1,PN,,P335344,4,3,completion of transaction
+31193,P335344.5.1,i-ti-din,ittidin[give]V,V,"['𒄿', '𒋾', '𒁷']",𒄿𒋾𒁷,i-ti-din,"['complete', 'complete', 'complete']",0.0,ittidin,tadānu,give,,,P335344,5,1,completion of transaction
+31194,P335344.5.2,kas-pu,kaspu[money]N,N,"['𒆜', '𒁍']",𒆜𒁍,kas-pu,"['complete', 'complete']",0.0,kaspu,kaspu,money,,,P335344,5,2,confirmation of transfer 1
+31195,P335344.5.3,⸢ga⸣-[mur],gammur[completed]AJ,AJ,"['𒂵', '𒄯']",𒂵𒄯,⸢ga⸣-[mur],"['damaged', 'missing']",0.75,gammur,gammuru,completed,,,P335344,5,3,confirmation of transfer 1
+31196,P335344.6.1,ta-din,tadin[paid]AJ,AJ,"['𒋫', '𒁷']",𒋫𒁷,ta-din,"['complete', 'complete']",0.0,tadin,tadnu,paid,,,P335344,6,1,confirmation of transfer 1
+31197,P335344.6.2,A.ŠA₃,eqlu[field]N,N,"['𒀀', '𒊮']",𒀀𒊮,A.ŠA₃,"['complete', 'complete']",0.0,eqlu,eqlu,field,,,P335344,6,2,confirmation of transfer 2
+31198,P335344.6.3,za-rip,zarip[purchased]AJ,AJ,"['𒍝', '𒆗']",𒍝𒆗,za-rip,"['complete', 'complete']",0.0,zarip,zarpu,purchased,,,P335344,6,3,confirmation of transfer 2
+31199,P335344.7.1,laq-qi,laqqi[acquired]AJ,AJ,"['𒋃', '𒆥']",𒋃𒆥,laq-qi,"['complete', 'complete']",0.0,laqqi,leqû,acquired,,,P335344,7,1,confirmation of transfer 2
+31200,P335344.7.2,tu-a-ru,tuāru[revocation]'N,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,tu-a-ru,"['complete', 'complete', 'complete']",0.0,tuāru,târu,revocation,,,P335344,7,2,exclusion of litigation
+31201,P335344.7.3,⸢DUG₄⸣.[DUG₄],dabābu[litigation]'N,V,"['𒅗', '𒅗']",𒅗𒅗,⸢DUG₄⸣.[DUG₄],"['damaged', 'missing']",0.75,dabābu,dabābu,litigation,,,P335344,7,3,exclusion of litigation
+31202,P335344.8.1,la-aš₂-šu₂,laššu[(there) is not]V,V,"['𒆷', '𒀾', '𒋙']",𒆷𒀾𒋙,la-aš₂-šu₂,"['complete', 'complete', 'complete']",0.0,laššu,laššu,(there) is not,,,P335344,8,1,exclusion of litigation
+31203,P335344.14.1,IGI,šību[witness]N,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,,P335344,14,1,witness
+31204,P335344.14.2,{1}[x,u,u,"['𒁹', 'x']",𒁹x,{1}[x],"['complete', 'missing']",0.5,,,,,,P335344,14,2,witness
+31205,P335344.14.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335344,14,3,witness
+31206,P335344.14.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335344,14,4,witness
+31207,P335344.14.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335344,14,5,witness
+31208,P335344.14.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335344,14,6,witness
+31209,P335344.15.1,IGI,šību[witness]N,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,,P335344,15,1,witness
+31210,P335344.15.2,{1}[x,u,u,"['𒁹', 'x']",𒁹x,{1}[x],"['complete', 'missing']",0.5,,,,,,P335344,15,2,witness
+31211,P335344.15.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335344,15,3,witness
+31212,P335344.15.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335344,15,4,witness
+31213,P335344.15.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335344,15,5,witness
+31214,P335344.15.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335344,15,6,witness
+31215,P335344.17.1,{⸢iti}ŠU,Taʾuzi[Tammuz]MN,MN,"['𒌗', '𒋗']",𒌗𒋗,{⸢ITI⸣}⸢ŠU⸣,"['damaged', 'damaged']",0.5,Taʾuzi,Duʾuzu,Tammuz,MN,,P335344,17,1,date
+31216,P335344.17.2,UD,ūm[day]N,N,['𒌓'],𒌓,⸢UD⸣,['damaged'],0.5,ūm,ūmu,day,,,P335344,17,2,date
+31217,P335344.17.3,13-[KAM₂],n,n,"['𒌋𒐈', '𒆚']",𒌋𒐈𒆚,⸢13⸣-[KAM₂],"['damaged', 'missing']",0.75,,,,NUMBER,,P335344,17,3,date
+31218,P335344.18.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335344,18,1,none
+31219,P335344.18.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335344,18,2,none
+31220,P335344.18.3,x]+⸢x,u,u,"['x', 'x']",xx,[x]+⸢x⸣,"['missing', 'damaged']",0.75,,,,,,P335344,18,3,none
+31221,P335344.18.4,x⸣+[x,u,u,"['x', 'x']",xx,⸢x⸣+[x],"['damaged', 'missing']",0.75,,,,,,P335344,18,4,none
+31222,P335344.18.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335344,18,5,none
+31223,P335344.18.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335344,18,6,none

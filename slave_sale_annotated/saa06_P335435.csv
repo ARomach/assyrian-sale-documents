@@ -1,0 +1,35 @@
+Unnamed: 0,ref,frag,inst,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,lang,text,line,word,annotation
+12641,P335435.3.1,[x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335435,3,1,object sold
+12642,P335435.3.2,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335435,3,2,object sold
+12643,P335435.3.3,x]-⸢MEŠ⸣-šu₂,u,,u,"['x', '𒈨𒌍', '𒋙']",x𒈨𒌍𒋙,[x]-⸢MEŠ⸣-šu₂,"['missing', 'damaged', 'complete']",0.5,,,,,P335435,3,3,object sold
+12644,P335435.3.4,gab-⸢bi⸣,gabbi[all]N,,N,"['𒃮', '𒁉']",𒃮𒁉,gab-⸢bi⸣,"['complete', 'damaged']",0.25,gabbi,gabbu,all,,P335435,3,4,object sold
+12645,P335435.3.5,[x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335435,3,5,object sold
+12646,P335435.3.6,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335435,3,6,object sold
+12647,P335435.3.7,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335435,3,7,object sold
+12648,P335435.3.8,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335435,3,8,object sold
+12649,P335435.4.1,[x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335435,4,1,object sold
+12650,P335435.4.2,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335435,4,2,object sold
+12651,P335435.4.3,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335435,4,3,object sold
+12652,P335435.4.4,ša,ša[of]DET,,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,P335435,4,4,object sold
+12653,P335435.4.5,{uru}arba-[il₃{ki},Arbail[Arbela]GN$,GN,GN,"['𒌷', '𒇹', '𒀭', '𒆠']",𒌷𒇹𒀭𒆠,{URU}arba-[il₃]{[KI]},"['complete', 'complete', 'missing', 'missing']",0.5,Arbail,Arbail,Arbela,,P335435,4,5,object sold
+12654,P335435.4.6,u₂-piš-ma],epēšu[do//contract]V$uppišma,,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,[u₂-piš-ma],"['missing', 'missing', 'missing']",1.0,uppišma,epēšu,contract,,P335435,4,6,initiation of transaction
+12655,P335435.5.1,{1}mu]-⸢šal⸣-lim—d.INNIN,Mušallim-Issar[1]PN,PN,PN,"['𒁹', '𒈬', '𒊩', '𒅆', '𒀭', '𒈹']",𒁹𒈬𒊩𒅆𒀭𒈹,{[1]}[mu]-⸢šal⸣-lim-d.INNIN,"['missing', 'missing', 'damaged', 'complete', 'complete', 'complete']",0.42,Mušallim-Issar,Mušallim-Issar,1,,P335435,5,1,initiation of transaction
+12656,P335435.5.2,{lu₂}GAL—URU-MEŠ-[ni],+rabû[big one]N$rab&+ālu[city]N$ālāni,,N,"['𒇽', '𒃲', '𒌷', '𒈨𒌍', '𒉌']",𒇽𒃲𒌷𒈨𒌍𒉌,{LU₂}GAL-URU-MEŠ-[ni],"['complete', 'complete', 'complete', 'complete', 'missing']",0.2,rab,rabû,big one,,P335435,5,2,initiation of transaction
+12658,P335435.6.1,[x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335435,6,1,none
+12659,P335435.6.2,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335435,6,2,none
+12660,P335435.6.3,x],u,,u,['x'],x,[x],['missing'],1.0,,,,,P335435,6,3,none
+12661,P335435.6.4,⸢ina⸣,ina[in+=for]PRP,,PRP,['𒀸'],𒀸,⸢ina⸣,['damaged'],0.5,ina,ina,in,,P335435,6,4,price
+12662,P335435.6.5,ŠA₃-bi,libbi[interior]N,,N,"['𒊮', '𒁉']",𒊮𒁉,ŠA₃-bi,"['complete', 'complete']",0.0,libbi,libbu,interior,,P335435,6,5,price
+12663,P335435.6.6,16,n,NUMBER,n,['𒌋𒐋'],𒌋𒐋,16,['complete'],0.0,,,,,P335435,6,6,price
+12664,P335435.6.7,MA.NA,manê[a unit of weight]N,,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manê,manû,a unit of weight,,P335435,6,7,price
+12665,P335435.6.8,⸢KUG⸣.[UD],ṣarpi[silver]N,,N,"['𒆬', '𒌓']",𒆬𒌓,⸢KUG⸣.[UD],"['damaged', 'missing']",0.75,ṣarpi,ṣarpu,silver,,P335435,6,8,price
+12666,P335435.7.1,[il-qi₂],leqû[take//purchase]V$ilqi,,V,"['𒅋', '𒆠']",𒅋𒆠,[il-qi₂],"['missing', 'missing']",1.0,ilqi,leqû,purchase,,P335435,7,1,completion of transaction
+12667,P335435.7.2,⸢kas⸣-pu,kaspu[money]N,,N,"['𒆜', '𒁍']",𒆜𒁍,⸢kas⸣-pu,"['damaged', 'complete']",0.25,kaspu,kaspu,money,,P335435,7,2,confirmation of transfer 1
+12668,P335435.7.3,ga-mur,gammur[completed]AJ,,AJ,"['𒂵', '𒄯']",𒂵𒄯,ga-mur,"['complete', 'complete']",0.0,gammur,gammuru,completed,,P335435,7,3,confirmation of transfer 1
+12669,P335435.7.4,⸢ta⸣-[din],tadnu[given//paid]AJ$tadin,,AJ,"['𒋫', '𒁷']",𒋫𒁷,⸢ta⸣-[din],"['damaged', 'missing']",0.75,tadin,tadnu,paid,,P335435,7,4,confirmation of transfer 1
+12670,P335435.8.1,[UN-MEŠ,nišē[people]N,,N,"['𒌦', '𒈨𒌍']",𒌦𒈨𒌍,[UN-MEŠ],"['missing', 'missing']",1.0,nišē,nišu,people,,P335435,8,1,confirmation of transfer 2
+12671,P335435.8.2,šu₂-a-tu₂,šuāti[him//those]IP'DP$šuātu,,IP,"['𒋙', '𒀀', '𒌓']",𒋙𒀀𒌓,[šu₂-a-tu₂],"['missing', 'missing', 'missing']",1.0,šuātu,šuāti,those,,P335435,8,2,confirmation of transfer 2
+12672,P335435.8.3,zar-pu],zarpu[purchased]AJ$,,AJ,"['𒇡', '𒁍']",𒇡𒁍,[zar-pu],"['missing', 'missing']",1.0,zarpu,zarpu,purchased,,P335435,8,3,confirmation of transfer 2
+12673,P335435.8.4,laq-qi-⸢u₂⸣,leqû[taken//acquired]AJ$laqqiu,,AJ,"['𒋃', '𒆥', '𒌑']",𒋃𒆥𒌑,laq-qi-⸢u₂⸣,"['complete', 'complete', 'damaged']",0.17,laqqiu,leqû,acquired,,P335435,8,4,confirmation of transfer 2
+12674,P335435.8.5,[tu-a-ru,tuāru[revocation]'N,,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,[tu-a-ru],"['missing', 'missing', 'missing']",1.0,tuāru,târu,revocation,,P335435,8,5,exclusion of litigation
+12675,P335435.8.6,de-nu],dīnu[legal decision//lawsuit]N$dēnu,,N,"['𒁲', '𒉡']",𒁲𒉡,[de-nu],"['missing', 'missing']",1.0,dēnu,dīnu,lawsuit,,P335435,8,6,exclusion of litigation

@@ -1,0 +1,15 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+722,P527275.5.1,šību[witness]N,⸢IGI,šību,šību,witness,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,,,P527275,5,1,witness
+723,P527275.5.2,x[1]PN,{m⸣}[x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X']",𒁹XXXX,{⸢m⸣}[x-x-x-x],"['damaged', 'missing', 'missing', 'missing', 'missing']",0.9,PN,,P527275,5,2,witness
+724,P527275.6.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527275,6,1,witness
+725,P527275.6.2,x[1]PN,{m}x-[x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X', 'X']",𒁹XXXXX,{m}x-[x-x-x-x],"['complete', 'complete', 'missing', 'missing', 'missing', 'missing']",0.67,PN,,P527275,6,2,witness
+726,P527275.7.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527275,7,1,witness
+727,P527275.7.2,x[1]PN,{m}x-[x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X', 'X']",𒁹XXXXX,{m}x-[x-x-x-x],"['complete', 'complete', 'missing', 'missing', 'missing', 'missing']",0.67,PN,,P527275,7,2,witness
+728,P527275.8.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527275,8,1,witness
+729,P527275.8.2,x[1]PN,{m}[x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X']",𒁹XXXX,{m}[x-x-x-x],"['complete', 'missing', 'missing', 'missing', 'missing']",0.8,PN,,P527275,8,2,witness
+730,P527275.9.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527275,9,1,witness
+731,P527275.9.2,+Qat-x-aṣbat[]PN$,{m}ŠU-[x-(x)-aṣ-bat],Qat-x-aṣbat,Qat-x-aṣbat,1,PN,"['𒁹', '𒋗', 'X', 'X', '𒊍', '𒁁']",𒁹𒋗XX𒊍𒁁,{m}ŠU-[x-x-aṣ-bat],"['complete', 'complete', 'missing', 'missing', 'missing', 'missing']",0.67,PN,,P527275,9,2,witness
+732,P527275.10.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P527275,10,1,witness
+733,P527275.10.2,+Ki-x[]PN$,{m}ki-[x-x-(x)],Ki-x,Ki-x,1,PN,"['𒁹', '𒆠', 'X', 'X', 'X']",𒁹𒆠XXX,{m}ki-[x-x-x],"['complete', 'complete', 'missing', 'missing', 'missing']",0.6,PN,,P527275,10,2,witness
+734,P527275.11.1,Nisannu[Nisan]MN,{iti}BARAG,Nisanni,Nisannu,Nisan,MN,"['𒌗', '𒁈']",𒌗𒁈,{ITI}BARAG,"['complete', 'complete']",0.0,MN,,P527275,11,1,date
+735,P527275.11.2,n,[UD-x-KAM₂],,,,n,"['𒌓', 'X', '𒆚']",𒌓X𒆚,[UD-x-KAM₂],"['missing', 'missing', 'missing']",1.0,NUMBER,,P527275,11,2,date

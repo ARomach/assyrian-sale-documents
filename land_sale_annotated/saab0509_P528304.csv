@@ -1,0 +1,32 @@
+Unnamed: 0,ref,inst,frag,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,text,line,word,annotation
+3154,P528304.2.1,X,{na₄}KIŠIB,X,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{NA₄}KIŠIB,"['complete', 'complete']",0.0,,,,,P528304,2,1,seal identification
+3155,P528304.2.2,Bisuʾa[1]PN,{m}⸢bi⸣-su-u-a,PN,"['𒁹', '𒁉', '𒋢', '𒌋', '𒀀']",𒁹𒁉𒋢𒌋𒀀,{m}⸢bi⸣-su-u-a,"['complete', 'damaged', 'complete', 'complete', 'complete']",0.1,Bisuʾa,Bisuʾa,1,PN,P528304,2,2,seal identification
+3156,P528304.6.1,X,E₂,X,['𒂍'],𒂍,E₂,['complete'],0.0,,,,,P528304,6,1,object sold
+3157,P528304.6.2,X,SUMUN,X,['𒌀'],𒌀,SUMUN,['complete'],0.0,,,,,P528304,6,2,object sold
+3158,P528304.6.3,n,24,n,['𒌋𒌋𒐉'],𒌋𒌋𒐉,24,['complete'],0.0,,,,NUMBER,P528304,6,3,object sold
+3159,P528304.6.4,u,[x,u,['X'],X,[x],['missing'],1.0,,,,,P528304,6,4,object sold
+3160,P528304.6.5,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P528304,6,5,object sold
+3161,P528304.10.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528304,10,1,witness
+3162,P528304.10.2,x[1]PN,{m}[x,PN,"['𒁹', 'X']",𒁹X,{m}[x],"['complete', 'missing']",0.5,x,x,1,PN,P528304,10,2,witness
+3163,P528304.10.3,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528304,10,3,witness
+3164,P528304.10.4,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528304,10,4,witness
+3165,P528304.10.5,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528304,10,5,witness
+3166,P528304.10.6,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528304,10,6,witness
+3167,P528304.10.7,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528304,10,7,witness
+3168,P528304.10.8,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P528304,10,8,witness
+3169,P528304.11.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528304,11,1,witness
+3170,P528304.11.2,u,{m}{giš}BAR-[x,u,"['𒁹', '𒄑', '𒁇', 'X']",𒁹𒄑𒁇X,{m}{GIŠ}BAR-[x],"['complete', 'complete', 'complete', 'missing']",0.25,,,,,P528304,11,2,witness
+3171,P528304.11.3,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528304,11,3,witness
+3172,P528304.11.4,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528304,11,4,witness
+3173,P528304.11.5,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528304,11,5,witness
+3174,P528304.11.6,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P528304,11,6,witness
+3175,P528304.12.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528304,12,1,witness
+3176,P528304.12.2,u,{m}⸢EN⸣-[x,u,"['𒁹', '𒂗', 'X']",𒁹𒂗X,{m}⸢EN⸣-[x],"['complete', 'damaged', 'missing']",0.5,,,,,P528304,12,2,witness
+3177,P528304.12.3,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528304,12,3,witness
+3178,P528304.12.4,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528304,12,4,witness
+3179,P528304.12.5,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528304,12,5,witness
+3180,P528304.12.6,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P528304,12,6,witness
+3181,P528304.14.1,Arahsamni[Marchesvan]MN,{⸢iti}APIN⸣,MN,"['𒌗', '𒀳']",𒌗𒀳,{⸢ITI⸣}⸢APIN⸣,"['damaged', 'damaged']",0.5,Arahsamni,Arahsamnu,Marchesvan,MN,P528304,14,1,date
+3182,P528304.14.2,u,UD-[x-KAM₂],u,"['𒌓', 'X', '𒆚']",𒌓X𒆚,UD-[x-KAM₂],"['complete', 'missing', 'missing']",0.67,,,,,P528304,14,2,date
+3183,P528304.15.1,X,lim-mu,X,"['𒅆', '𒈬']",𒅆𒈬,lim-mu,"['complete', 'complete']",0.0,,,,,P528304,15,1,date
+3184,P528304.15.2,Nabu-nadin-ahi[1]PN,{m}{d}PA-AŠ-PAB,PN,"['𒁹', '𒀭', '𒉺', '𒀸', '𒉽']",𒁹𒀭𒉺𒀸𒉽,{m}{d}PA-AŠ-PAB,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Nabu-nadin-ahi,Nabu-nadin-ahi,1,PN,P528304,15,2,date

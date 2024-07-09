@@ -1,0 +1,17 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word,annotation
+8284,P514318.2.1,kunuk[seal]N,{⸢na₄⸣}[KIŠIB,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{⸢NA₄⸣}[KIŠIB],"['damaged', 'missing']",0.75,,P514318,2,1,seal identification
+8285,P514318.2.2,X,PN],,,,X,['pn'],pn,[PN],['missing'],1.0,,P514318,2,2,seal identification
+8286,P514318.6.1,šību[witness]N,⸢IGI⸣,šību,šību,witness,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,,P514318,6,1,witness
+8287,P514318.6.2,u,{[m}x,,,,u,"['𒁹', 'X']",𒁹X,{[m]}[x],"['missing', 'missing']",1.0,,P514318,6,2,witness
+8288,P514318.6.3,u,x,,,,u,['X'],X,[x],['missing'],1.0,,P514318,6,3,witness
+8289,P514318.6.4,u,x,,,,u,['X'],X,[x],['missing'],1.0,,P514318,6,4,witness
+8290,P514318.6.5,u,x],,,,u,['X'],X,[x],['missing'],1.0,,P514318,6,5,witness
+8291,P514318.7.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,P514318,7,1,witness
+8292,P514318.7.2,Kiṣir-x[1]PN,{m}ki-⸢ṣir⸣-[x-x],Kiṣir-x,Kiṣir-x,1,PN,"['𒁹', '𒆠', '𒈲', 'X', 'X']",𒁹𒆠𒈲XX,{m}ki-⸢ṣir⸣-[x-x],"['complete', 'complete', 'damaged', 'missing', 'missing']",0.5,PN,P514318,7,2,witness
+8293,P514318.8.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,P514318,8,1,witness
+8294,P514318.8.2,Lit-Aia[1]PN,ZU-a-a,Lit-Aia,Lit-Aia,1,PN,"['𒍪', '𒀀', '𒀀']",𒍪𒀀𒀀,ZU-a-a,"['complete', 'complete', 'complete']",0.0,PN,P514318,8,2,witness
+8295,P514318.10.1,šību[witness]N,⸢IGI⸣,šību,šību,witness,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,,P514318,10,1,witness
+8296,P514318.10.2,Ša-la-Aššur-mannu[1]PN,{m}ša₂-la-aš+šur-⸢man⸣-[nu],Ša-la-Aššur-mannu,Ša-la-Aššur-mannu,1,PN,"['𒁹', '𒃻', '𒆷', '𒀸', '𒋩', '𒌋𒌋', '𒉡']",𒁹𒃻𒆷𒀸𒋩𒌋𒌋𒉡,{m}ša₂-la-aš+šur-⸢man⸣-[nu],"['complete', 'complete', 'complete', 'complete', 'complete', 'damaged', 'missing']",0.21,PN,P514318,10,2,witness
+8297,P514318.11.1,šību[witness]N,[IGI],šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,P514318,11,1,witness
+8298,P514318.11.2,Seʾ-i-x[1]PN,{m}se-⸢i⸣-[x-x],Seʾ-i-x,Seʾ-i-x,1,PN,"['𒁹', '𒋛', '𒄿', 'X', 'X']",𒁹𒋛𒄿XX,{m}se-⸢i⸣-[x-x],"['complete', 'complete', 'damaged', 'missing', 'missing']",0.5,PN,P514318,11,2,witness
+8299,P514318.13.1,u,[...]-PAB,,,,u,"['x', '𒉽']",x𒉽,[x]PAB,"['missing', 'complete']",0.5,,P514318,13,1,witness

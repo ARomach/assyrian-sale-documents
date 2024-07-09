@@ -1,0 +1,49 @@
+Unnamed: 0,ref,frag,inst,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,lang,text,line,word,annotation
+27874,P237807.5.1,[a-na,ana[to+=tenfold]PRP$,,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a-na],"['missing', 'missing']",1.0,ana,ana,to,,P237807,5,1,penalties for litigation: penalty
+27875,P237807.5.2,10-MEŠ,ešriātu[tenfold]AV$ešrāti,,AV,"['𒌋', '𒈨𒌍']",𒌋𒈨𒌍,[10-MEŠ],"['missing', 'missing']",1.0,ešrāti,ešriātu,tenfold,,P237807,5,2,penalties for litigation: penalty
+27876,P237807.5.3,a-na,ana[to]PRP,,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a-na],"['missing', 'missing']",1.0,ana,ana,to,,P237807,5,3,penalties for litigation: penalty
+27877,P237807.5.4,EN-MEŠ]-šu₂,bēlēšu[owner]N,,N,"['𒂗', '𒈨𒌍', '𒋙']",𒂗𒈨𒌍𒋙,[EN-MEŠ]-šu₂,"['missing', 'missing', 'complete']",0.67,bēlēšu,bēlu,owner,,P237807,5,4,penalties for litigation: penalty
+27878,P237807.6.1,[GUR,+târu[turn//return]V'V$utâr,,V,['𒄥'],𒄥,[GUR],['missing'],1.0,utâr,târu,return,,P237807,6,1,penalties for litigation: penalty
+27879,P237807.6.2,ina,ina[in]PRP,,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,P237807,6,2,penalties for litigation: penalty
+27880,P237807.6.3,de-ni-šu₂],dēnīšu[lawsuit]N,,N,"['𒁲', '𒉌', '𒋙']",𒁲𒉌𒋙,[de-ni-šu₂],"['missing', 'missing', 'missing']",1.0,dēnīšu,dīnu,lawsuit,,P237807,6,3,penalties for litigation: penalty
+27881,P237807.6.4,⸢DUG₄⸣.DUG₄-ma,idabbubma[contest]V,,V,"['𒅗', '𒅗', '𒈠']",𒅗𒅗𒈠,⸢DUG₄⸣.DUG₄-ma,"['damaged', 'complete', 'complete']",0.17,idabbubma,dabābu,contest,,P237807,6,4,penalties for litigation: penalty
+27882,P237807.7.1,⸢la⸣,lā[not]MOD,,MOD,['𒆷'],𒆷,⸢la⸣,['damaged'],0.5,lā,lā,not,,P237807,7,1,penalties for litigation: penalty
+27883,P237807.7.2,[i-laq-qi,ilaqqi[succeed]V,,V,"['𒄿', '𒋃', '𒆥']",𒄿𒋃𒆥,[i-laq-qi],"['missing', 'missing', 'missing']",1.0,ilaqqi,leqû,succeed,,P237807,7,2,penalties for litigation: penalty
+27884,P237807.7.3,ṣib]-⸢ti⸣,ṣibti[seizure]N,,N,"['𒍦', '𒋾']",𒍦𒋾,[ṣib]-⸢ti⸣,"['missing', 'damaged']",0.75,ṣibti,ṣibtu,seizure,,P237807,7,3,guarantee clauses for slaves
+27885,P237807.7.4,be-en-nu,bennu[epilepsy]N,,N,"['𒁁', '𒂗', '𒉡']",𒁁𒂗𒉡,be-en-nu,"['complete', 'complete', 'complete']",0.0,bennu,bennu,epilepsy,,P237807,7,4,guarantee clauses for slaves
+27886,P237807.8.1,a-na,ana[for]PRP,,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,ana,ana,for,,P237807,8,1,guarantee clauses for slaves
+27887,P237807.8.2,01,n,NUMBER,n,['𒁹'],𒁹,01,['complete'],0.0,,,,,P237807,8,2,guarantee clauses for slaves
+27888,P237807.8.3,me,mē[(one) hundred]NU,,NU,['𒈨'],𒈨,me,['complete'],0.0,mē,meʾatu,(one) hundred,,P237807,8,3,guarantee clauses for slaves
+27889,P237807.8.4,UD-MEŠ,ūmāti[day]N,,N,"['𒌓', '𒈨𒌍']",𒌓𒈨𒌍,UD-MEŠ,"['complete', 'complete']",0.0,ūmāti,ūmu,day,,P237807,8,4,guarantee clauses for slaves
+27890,P237807.8.5,sa-ar-ti,sarti[fraud]N,,N,"['𒊓', '𒅈', '𒋾']",𒊓𒅈𒋾,sa-ar-ti,"['complete', 'complete', 'complete']",0.0,sarti,sartu,fraud,,P237807,8,5,guarantee clauses for slaves
+27891,P237807.9.1,a-na,ana[for]PRP,,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,ana,ana,for,,P237807,9,1,guarantee clauses for slaves
+27892,P237807.9.2,EGIR,urkīu[later]AJ,,AJ,['𒂕'],𒂕,EGIR,['complete'],0.0,urkīu,arkû,later,,P237807,9,2,guarantee clauses for slaves
+27893,P237807.9.3,UD-MEŠ,ūmāti[day]N,,N,"['𒌓', '𒈨𒌍']",𒌓𒈨𒌍,UD-MEŠ,"['complete', 'complete']",0.0,ūmāti,ūmu,day,,P237807,9,3,guarantee clauses for slaves
+27894,P237807.11.1,IGI,šību[witness]N,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P237807,11,1,witness
+27895,P237807.11.2,{1}ab-da-a,Abda[1]PN,PN,PN,"['𒁹', '𒀊', '𒁕', '𒀀']",𒁹𒀊𒁕𒀀,{1}ab-da-a,"['complete', 'complete', 'complete', 'complete']",0.0,Abda,Abda,1,,P237807,11,2,witness
+27896,P237807.11.3,{lu₂v}HAL,bārû[diviner]N$,,N,"['𒇽', '𒄬']",𒇽𒄬,{LU₂~v}HAL,"['complete', 'complete']",0.0,bārû,bārû,diviner,,P237807,11,3,witness
+27897,P237807.12.1,IGI,šību[witness]N,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P237807,12,1,witness
+27898,P237807.12.2,{1}PAB—a-bu-u,Ah-abu[1]PN$,PN,PN,"['𒁹', '𒉽', '𒀀', '𒁍', '𒌋']",𒁹𒉽𒀀𒁍𒌋,{1}PAB-a-bu-u,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Ah-abu,Ah-abu,1,,P237807,12,2,witness
+27899,P237807.13.1,IGI,šību[witness]N,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P237807,13,1,witness
+27900,P237807.13.2,{1}pu-u₂-lu,Pulu[1]PN$,PN,PN,"['𒁹', '𒁍', '𒌑', '𒇻']",𒁹𒁍𒌑𒇻,{1}pu-u₂-lu,"['complete', 'complete', 'complete', 'complete']",0.0,Pulu,Pulu,1,,P237807,13,2,witness
+27901,P237807.13.3,{lu₂v}AŠGAB,aškāpu[leatherworker]N,,N,"['𒇽', '𒀿']",𒇽𒀿,{LU₂~v}AŠGAB,"['complete', 'complete']",0.0,aškāpu,aškāpu,leatherworker,,P237807,13,3,witness
+27902,P237807.14.1,IGI,šību[witness]N,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P237807,14,1,witness
+27903,P237807.14.2,{1}ha-da-sa-a,Hadasa[1]PN$,PN,PN,"['𒁹', '𒄩', '𒁕', '𒊓', '𒀀']",𒁹𒄩𒁕𒊓𒀀,{1}ha-da-sa-a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Hadasa,Hadasa,1,,P237807,14,2,witness
+27904,P237807.14.3,{lu₂v}DAM.QAR,tankāru[merchant]N,,N,"['𒇽', '𒁮', '𒃼']",𒇽𒁮𒃼,{LU₂~v}DAM.QAR,"['complete', 'complete', 'complete']",0.0,tankāru,tamkāru,merchant,,P237807,14,3,witness
+27905,P237807.15.1,IGI,šību[witness]N,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P237807,15,1,witness
+27906,P237807.15.2,{1}bir—{d}ša₂-⸢maš⸣,Bir-Šamaš[1]PN$,PN,PN,"['𒁹', '𒄵', '𒀭', '𒃻', '𒈦']",𒁹𒄵𒀭𒃻𒈦,{1}bir-{d}ša₂-⸢maš⸣,"['complete', 'complete', 'complete', 'complete', 'damaged']",0.1,Bir-Šamaš,Bir-Šamaš,1,,P237807,15,2,witness
+27907,P237807.15.3,{lu₂v}DAM.QAR,tankāru[merchant]N,,N,"['𒇽', '𒁮', '𒃼']",𒇽𒁮𒃼,{LU₂~v}DAM.QAR,"['complete', 'complete', 'complete']",0.0,tankāru,tamkāru,merchant,,P237807,15,3,witness
+27908,P237807.16.1,IGI,šību[witness]N,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P237807,16,1,witness
+27909,P237807.16.2,{1}{d}15—BAD₃,Issar-duri[1]PN,PN,PN,"['𒁹', '𒀭', '15', '𒂦']",𒁹𒀭15𒂦,{1}{d}15-BAD₃,"['complete', 'complete', 'complete', 'complete']",0.0,Issar-duri,Issar-duri,1,,P237807,16,2,witness
+27910,P237807.17.1,IGI,šību[witness]N,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P237807,17,1,witness
+27911,P237807.17.2,{1}{d}MAŠ—DINGIR-a.a,Inurta-ilaʾi[1]PN,PN,PN,"['𒁹', '𒀭', '𒈦', '𒀭', '𒀀', '𒀀']",𒁹𒀭𒈦𒀭𒀀𒀀,{1}{d}MAŠ-DINGIR-a.a,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,Inurta-ilaʾi,Inurta-ilaʾi,1,,P237807,17,2,witness
+27912,P237807.18.1,IGI,šību[witness]N,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P237807,18,1,witness
+27913,P237807.18.2,{1}{d}PA—DI-im,Nabu-ušallim[1]PN$,PN,PN,"['𒁹', '𒀭', '𒉺', '𒁲', '𒅎']",𒁹𒀭𒉺𒁲𒅎,{1}{d}PA-DI-im,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Nabu-ušallim,Nabu-ušallim,1,,P237807,18,2,witness
+27914,P237807.18.3,{lu₂v}A.BA,ṭupšarru[scribe]N,,N,"['𒇽', '𒀀', '𒁀']",𒇽𒀀𒁀,{LU₂~v}A.BA,"['complete', 'complete', 'complete']",0.0,ṭupšarru,ṭupšarru,scribe,,P237807,18,3,witness
+27915,P237807.19.1,{iti}NE,Abu[Ab]MN,MN,MN,"['𒌗', '𒉈']",𒌗𒉈,{ITI}NE,"['complete', 'complete']",0.0,Abu,Abu,Ab,,P237807,19,1,date
+27916,P237807.19.2,UD,ūm[day]N,,N,['𒌓'],𒌓,UD,['complete'],0.0,ūm,ūmu,day,,P237807,19,2,date
+27917,P237807.19.3,15-KAM₂,n,NUMBER,n,"['15', '𒆚']",15𒆚,15-KAM₂,"['complete', 'complete']",0.0,,,,,P237807,19,3,date
+27918,P237807.20.1,lim-me,limme[eponym (of year)]N,,N,"['𒅆', '𒈨']",𒅆𒈨,lim-me,"['complete', 'complete']",0.0,limme,līmu,eponym (of year),,P237807,20,1,date
+27919,P237807.20.2,{1}DINGIR—KI-ia,Ilu-ittiya[1]PN,PN,PN,"['𒁹', '𒀭', '𒆠', '𒅀']",𒁹𒀭𒆠𒅀,{1}DINGIR-KI-ia,"['complete', 'complete', 'complete', 'complete']",0.0,Ilu-ittiya,Ilu-ittiya,1,,P237807,20,2,date
+27920,P237807.22.1,{lu₂v}GAR.KUR,+šaknu[appointee]N$šakin&+mātu[land]N$māt,,N,"['𒇽', '𒃻', '𒆳']",𒇽𒃻𒆳,{LU₂~v}GAR.KUR,"['complete', 'complete', 'complete']",0.0,šakin,šaknu,appointee,,P237807,22,1,date
+27922,P237807.22.2,{uru}di-maš-qa,Dimašqa[Damascus]GN,GN,GN,"['𒌷', '𒁲', '𒈦', '𒋡']",𒌷𒁲𒈦𒋡,{URU}di-maš-qa,"['complete', 'complete', 'complete', 'complete']",0.0,Dimašqa,Dimašqa,Damascus,,P237807,22,2,date

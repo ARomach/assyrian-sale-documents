@@ -1,0 +1,19 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+0,P522622.4.1,kaqqiri[ground]N,[KI.MEŠ,kaqqiri,qaqqaru,ground,N,"['𒆠', '𒈨𒌍']",𒆠𒈨𒌍,[KI].[MEŠ],"['missing', 'missing']",1.0,,,P522622,4,1,object sold
+1,P522622.4.2,paṣūti[bare]AJ,BABBAR.MEŠ],paṣūti,peṣû,bare,AJ,"['𒌓', '𒈨𒌍']",𒌓𒈨𒌍,[BABBAR].[MEŠ],"['missing', 'missing']",1.0,,,P522622,4,2,object sold
+2,P522622.4.3,u,x+10,,,,u,"['X', '𒌋']",X𒌋,x+10,"['complete', 'complete']",0.0,,,P522622,4,3,object sold
+3,P522622.4.4,ammiti[a unit of length]N,KUŠ₃,ammiti,ammatu,a unit of length,N,['𒌑'],𒌑,KUŠ₃,['complete'],0.0,,,P522622,4,4,object sold
+4,P522622.4.5,mūruku[length]N,[GID₂.DA],mūruku,mūraku,length,N,"['𒁍', '𒁕']",𒁍𒁕,[GID₂].[DA],"['missing', 'missing']",1.0,,,P522622,4,5,object sold
+5,P522622.5.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,,P522622,5,1,object sold
+6,P522622.5.2,ammiti[a unit of length]N,⸢KUŠ₃,ammiti,ammatu,a unit of length,N,['𒌑'],𒌑,⸢KUŠ₃⸣,['damaged'],0.5,,,P522622,5,2,object sold
+7,P522622.5.3,rapšu[wide]AJ,DAGAL⸣,rapšu,rapšu,wide,AJ,['𒂼'],𒂼,⸢DAGAL⸣,['damaged'],0.5,,,P522622,5,3,object sold
+8,P522622.6.1,ṭēhi[adjacent to]PRP,[SUHUR,ṭēhi,ṭāhu,adjacent to,PRP,['𒋦'],𒋦,[SUHUR],['missing'],1.0,,,P522622,6,1,object sold
+9,P522622.6.2,+x-bite[]PN$,{m}x-x]-bi-te,x-bite,x-bite,1,PN,"['𒁹', 'X', 'X', '𒁉', '𒋼']",𒁹XX𒁉𒋼,{[m]}[x-x]-bi-te,"['missing', 'missing', 'missing', 'complete', 'complete']",0.6,PN,,P522622,6,2,object sold
+10,P522622.7.1,ṭēhi[adjacent to]PRP,[SUHUR],ṭēhi,ṭāhu,adjacent to,PRP,['𒋦'],𒋦,[SUHUR],['missing'],1.0,,,P522622,7,1,object sold
+11,P522622.7.2,hūli[road]N,KASKAL,hūli,hūlu,road,N,['𒆜'],𒆜,KASKAL,['complete'],0.0,,,P522622,7,2,object sold
+12,P522622.7.3,+Til-Barsip[]GN$Turbasiba,{uru}tur-ba-⸢si-ba⸣{ki},Turbasiba,Til-Barsip,1,GN,"['𒌷', '𒌉', '𒁀', '𒋛', '𒁀', '𒆠']",𒌷𒌉𒁀𒋛𒁀𒆠,{URU}tur-ba-⸢si-ba⸣{KI},"['complete', 'complete', 'complete', 'damaged', 'damaged', 'complete']",0.17,GN,,P522622,7,3,object sold
+13,P522622.8.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,,P522622,8,1,none
+14,P522622.8.2,u,ZA,,,,u,['𒍝'],𒍝,ZA,['complete'],0.0,,,P522622,8,2,none
+15,P522622.9.1,u,[x],,,,u,['X'],X,[x],['missing'],1.0,,,P522622,9,1,none
+16,P522622.9.2,u,DI,,,,u,['𒁲'],𒁲,DI,['complete'],0.0,,,P522622,9,2,none
+17,P522622.9.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,,P522622,9,3,none

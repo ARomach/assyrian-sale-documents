@@ -1,0 +1,25 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+16780,P336751.2.1,⸢x,u,u,['x'],x,⸢x⸣,['damaged'],0.5,,,,,,P336751,2,1,none
+16781,P336751.2.2,x⸣,u,u,['x'],x,⸢x⸣,['damaged'],0.5,,,,,,P336751,2,2,none
+16782,P336751.2.3,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336751,2,3,none
+16783,P336751.2.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336751,2,4,none
+16784,P336751.2.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336751,2,5,none
+16785,P336751.2.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P336751,2,6,none
+16786,P336751.3.1,kaq-qi-ri,kaqqiri[ground]N,N,"['𒆕', '𒆥', '𒊑']",𒆕𒆥𒊑,kaq-qi-ri,"['complete', 'complete', 'complete']",0.0,kaqqiri,qaqqaru,ground,,,P336751,3,1,confirmation of transfer 2
+16787,P336751.3.2,pu-[ṣe-e],puṣê[bare]AJ,AJ,"['𒁍', '𒍢', '𒂊']",𒁍𒍢𒂊,pu-[ṣe-e],"['complete', 'missing', 'missing']",0.67,puṣê,peṣû,bare,,,P336751,3,2,confirmation of transfer 2
+16788,P336751.5.1,šu-a-te,šuāte[that]'DP,IP,"['𒋗', '𒀀', '𒋼']",𒋗𒀀𒋼,šu-a-te,"['complete', 'complete', 'complete']",0.0,šuāte,šuāti,that,,,P336751,5,1,confirmation of transfer 2
+16789,P336751.5.2,za-⸢ar⸣-[pu],zarpu[purchased]AJ,AJ,"['𒍝', '𒅈', '𒁍']",𒍝𒅈𒁍,za-⸢ar⸣-[pu],"['complete', 'damaged', 'missing']",0.5,zarpu,zarpu,purchased,,,P336751,5,2,confirmation of transfer 2
+16790,P336751.6.1,laq-qi-u,laqqiu[acquired]AJ,AJ,"['𒋃', '𒆥', '𒌋']",𒋃𒆥𒌋,laq-qi-u,"['complete', 'complete', 'complete']",0.0,laqqiu,leqû,acquired,,,P336751,6,1,confirmation of transfer 2
+16791,P336751.6.2,tu₂-[a-ru],tuāru[revocation]'N,V,"['𒌓', '𒀀', '𒊒']",𒌓𒀀𒊒,tu₂-[a-ru],"['complete', 'missing', 'missing']",0.67,tuāru,târu,revocation,,,P336751,6,2,exclusion of litigation
+16792,P336751.7.1,de-e-nu,dēnu[lawsuit]N,N,"['𒁲', '𒂊', '𒉡']",𒁲𒂊𒉡,de-e-nu,"['complete', 'complete', 'complete']",0.0,dēnu,dīnu,lawsuit,,,P336751,7,1,exclusion of litigation
+16793,P336751.7.2,⸢DUG₄⸣.[DUG₄],dabābu[litigation]'N,V,"['𒅗', '𒅗']",𒅗𒅗,⸢DUG₄⸣.[DUG₄],"['damaged', 'missing']",0.75,dabābu,dabābu,litigation,,,P336751,7,2,exclusion of litigation
+16794,P336751.9.1,⸢la⸣-aš₂-šu₂,laššu[(there) is not]V,V,"['𒆷', '𒀾', '𒋙']",𒆷𒀾𒋙,⸢la⸣-aš₂-šu₂,"['damaged', 'complete', 'complete']",0.17,laššu,laššu,(there) is not,,,P336751,9,1,exclusion of litigation
+16795,P336751.9.2,man-⸢nu⸣,mannu[whoever]'XP,QP,"['𒌋𒌋', '𒉡']",𒌋𒌋𒉡,man-⸢nu⸣,"['complete', 'damaged']",0.25,mannu,mannu,whoever,,,P336751,9,2,penalties for litigation: contravention
+16796,P336751.9.3,[ša,ša[that]REL,REL,['𒊭'],𒊭,[ša],['missing'],1.0,ša,ša,that,,,P336751,9,3,penalties for litigation: contravention
+16797,P336751.9.4,ina,ina[in+=in the future]PRP,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,,P336751,9,4,penalties for litigation: contravention
+16798,P336751.9.5,ur-kiš],urkiš[later]AV,AV,"['𒌨', '𒆧']",𒌨𒆧,[ur-kiš],"['missing', 'missing']",1.0,urkiš,urkiš,later,,,P336751,9,5,penalties for litigation: contravention
+16799,P336751.10.1,[ina],ina[in+=whenever]PRP,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,,P336751,10,1,penalties for litigation: contravention
+16800,P336751.10.2,⸢ma⸣-ti-ma,matīma[ever]AV,AV,"['𒈠', '𒋾', '𒈠']",𒈠𒋾𒈠,⸢ma⸣-ti-ma,"['damaged', 'complete', 'complete']",0.17,matīma,matīma,ever,,,P336751,10,2,penalties for litigation: contravention
+16801,P336751.10.3,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336751,10,3,penalties for litigation: contravention
+16802,P336751.10.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336751,10,4,penalties for litigation: contravention
+16803,P336751.10.5,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P336751,10,5,penalties for litigation: contravention

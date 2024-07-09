@@ -1,0 +1,23 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+2366,P224596.2.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P224596,2,1,completion of transaction
+2367,P224596.2.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P224596,2,2,completion of transaction
+2368,P224596.2.3,u,x]-⸢šu₂⸣-nu,,u,"['X', '𒋙', '𒉡']",X𒋙𒉡,[x]-⸢šu₂⸣-nu,"['missing', 'damaged', 'complete']",0.5,,,,P224596,2,3,completion of transaction
+2369,P224596.2.4,iškun[place]V,iš-⸢kun⸣,,V,"['𒅖', '𒆲']",𒅖𒆲,iš-⸢kun⸣,"['complete', 'damaged']",0.25,iškun,šakānu,place,P224596,2,4,completion of transaction
+2370,P224596.5.1,eqlu[land]N,[A].⸢ŠA₃⸣,,N,"['𒀀', '𒊮']",𒀀𒊮,[A].⸢ŠA₃⸣,"['missing', 'damaged']",0.75,eqlu,eqlu,land,P224596,5,1,confirmation of transfer 2
+2371,P224596.5.2,zarip[purchased]AJ,za-rip,,AJ,"['𒍝', '𒆗']",𒍝𒆗,za-rip,"['complete', 'complete']",0.0,zarip,zarpu,purchased,P224596,5,2,confirmation of transfer 2
+2372,P224596.5.3,laqi[acquired]AJ,la-⸢qi⸣,,AJ,"['𒆷', '𒆥']",𒆷𒆥,la-⸢qi⸣,"['complete', 'damaged']",0.25,laqi,leqû,acquired,P224596,5,3,confirmation of transfer 2
+2373,P224596.6.1,tuāru[revocation]'N,⸢tu⸣-a-ru,,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,⸢tu⸣-a-ru,"['damaged', 'complete', 'complete']",0.17,tuāru,târu,revocation,P224596,6,1,exclusion of litigation
+2374,P224596.6.2,dabābu[litigation]'N,da-ba-bu,,V,"['𒁕', '𒁀', '𒁍']",𒁕𒁀𒁍,da-ba-bu,"['complete', 'complete', 'complete']",0.0,dabābu,dabābu,litigation,P224596,6,2,exclusion of litigation
+2375,P224596.6.3,laššu[(there) is not]V,⸢la⸣-[šu₂],,V,"['𒆷', '𒋙']",𒆷𒋙,⸢la⸣-[šu₂],"['damaged', 'missing']",0.75,laššu,laššu,(there) is not,P224596,6,3,exclusion of litigation
+2376,P224596.7.1,+mamman[somebody//anybody]XP'XP$mamma,[man]-⸢ma⸣,,XP,"['𒌋𒌋', '𒈠']",𒌋𒌋𒈠,[man]-⸢ma⸣,"['missing', 'damaged']",0.75,mamma,mamman,anybody,P224596,7,1,penalties for litigation: penalty
+2377,P224596.7.2,issi[with]PRP,TA,,PRP,['𒋫'],𒋫,TA,['complete'],0.0,issi,išti,with,P224596,7,2,penalties for litigation: penalty
+2378,P224596.7.3,+mamman[somebody//anybody]XP'XP$mamma,man-ma,,XP,"['𒌋𒌋', '𒈠']",𒌋𒌋𒈠,man-ma,"['complete', 'complete']",0.0,mamma,mamman,anybody,P224596,7,3,penalties for litigation: penalty
+2379,P224596.7.4,lā[not]MOD,la,,MOD,['𒆷'],𒆷,la,['complete'],0.0,lā,lā,not,P224596,7,4,penalties for litigation: penalty
+2380,P224596.7.5,idabbub[contest]V,i-da-bu-⸢ub⸣,,V,"['𒄿', '𒁕', '𒁍', '𒌒']",𒄿𒁕𒁍𒌒,i-da-bu-⸢ub⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,idabbub,dabābu,contest,P224596,7,5,penalties for litigation: penalty
+2381,P224596.9.1,Tašritu[Tishri]MN,{iti}DUL,MN,MN,"['𒌗', '𒌋𒌆']",𒌗𒌋𒌆,{ITI}DUL,"['complete', 'complete']",0.0,Tašriti,Tašritu,Tishri,P224596,9,1,date
+2382,P224596.9.2,ūm[day]N,UD,,N,['𒌓'],𒌓,UD,['complete'],0.0,ūm,ūmu,day,P224596,9,2,date
+2383,P224596.9.3,n,20-KAM₂,NUMBER,n,"['𒌋𒌋', '𒆚']",𒌋𒌋𒆚,20-KAM₂,"['complete', 'complete']",0.0,,,,P224596,9,3,date
+2384,P224596.11.1,limme[eponym (of year)]N,lim-me,,N,"['𒅆', '𒈨']",𒅆𒈨,lim-me,"['complete', 'complete']",0.0,limme,līmu,eponym (of year),P224596,11,1,date
+2385,P224596.11.2,+Aššur-dan[Aššur-dan III//Aššur-dan III]RN'RN$,{1}aš-šur-KALAG-an,RN,RN,"['𒁹', '𒀸', '𒋩', '𒆗', '𒀭']",𒁹𒀸𒋩𒆗𒀭,{1}aš-šur-KALAG-an,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Aššur-dan,Aššur-dan,Aššur-dan III,P224596,11,2,date
+2386,P224596.12.1,šar[king]N,⸢MAN,,N,['𒌋𒌋'],𒌋𒌋,⸢MAN⸣,['damaged'],0.5,šar,šarru,king,P224596,12,1,date
+2387,P224596.12.2,Mat-Aššur[Assyria]GN,KUR⸣-aš-šur{ki},GN,GN,"['𒆳', '𒀸', '𒋩', '𒆠']",𒆳𒀸𒋩𒆠,⸢KUR⸣-aš-šur{KI},"['damaged', 'complete', 'complete', 'complete']",0.12,Mat-Aššur,Mat-Aššur,Assyria,P224596,12,2,date

@@ -1,0 +1,51 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+2727,P428801.5.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428801,5,1,none
+2728,P428801.5.2,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428801,5,2,none
+2729,P428801.5.3,u,x+[x,,u,"['X', 'X']",XX,x+[x],"['complete', 'missing']",0.5,,,,P428801,5,3,none
+2730,P428801.5.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428801,5,4,none
+2731,P428801.5.5,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428801,5,5,none
+2732,P428801.5.6,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428801,5,6,none
+2733,P428801.5.7,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428801,5,7,none
+2734,P428801.5.8,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428801,5,8,none
+2735,P428801.6.1,n,02,NUMBER,n,['0₂'],0₂,⸢02⸣,['damaged'],0.5,,,,P428801,6,1,penalties for litigation: penalty
+2736,P428801.6.2,manā[a unit of weight]N,MA.NA,,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manā,manû,a unit of weight,P428801,6,2,penalties for litigation: penalty
+2737,P428801.6.3,hurāṣi[gold]N,KUG.⸢GI⸣,,N,"['𒆬', '𒄀']",𒆬𒄀,KUG.⸢GI⸣,"['complete', 'damaged']",0.25,hurāṣi,hurāṣu,gold,P428801,6,3,penalties for litigation: penalty
+2738,P428801.6.4,ina[in]PRP,[ina,,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,P428801,6,4,penalties for litigation: penalty
+2739,P428801.6.5,burki[lap]N,bur-ki],,N,"['𒁓', '𒆠']",𒁓𒆠,[bur-ki],"['missing', 'missing']",1.0,burki,burku,lap,P428801,6,5,penalties for litigation: penalty
+2740,P428801.6.6,Adad[1]DN,{d}[IM],DN,DN,"['𒀭', '𒅎']",𒀭𒅎,{d}[IM],"['complete', 'missing']",0.5,Adad,Adad,1,P428801,6,6,penalties for litigation: penalty
+2741,P428801.7.1,bēl[lord]N,EN,,N,['𒂗'],𒂗,EN,['complete'],0.0,bēl,bēlu,lord,P428801,7,1,penalties for litigation: penalty
+2742,P428801.7.2,Kalzi[1]GN,{uru}kal₃-zi,GN,GN,"['𒌷', '𒆕', '𒍣']",𒌷𒆕𒍣,{URU}kal₃-zi,"['complete', 'complete', 'complete']",0.0,Kalzi,Kilizi,1,P428801,7,2,penalties for litigation: penalty
+2743,P428801.7.3,išakkan[place]V,[GAR]-⸢an⸣,,V,"['𒃻', '𒀭']",𒃻𒀭,[GAR]-⸢an⸣,"['missing', 'damaged']",0.75,išakkan,šakānu,place,P428801,7,3,penalties for litigation: penalty
+2744,P428801.9.1,šību[witness]N,⸢IGI⸣,,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,P428801,9,1,witness
+2745,P428801.9.2,Issar-ilaʾi[1]PN,{1}15-DINGIR-a.a,PN,PN,"['𒁹', '𒌋𒐊', '𒀭', '𒀀', '𒀀']",𒁹𒌋𒐊𒀭𒀀𒀀,{1}15-DINGIR-a.a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Issar-ilaʾi,Issar-ilaʾi,1,P428801,9,2,witness
+2746,P428801.9.3,šību[witness]N,⸢IGI⸣,,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,P428801,9,3,witness
+2747,P428801.9.4,u,{1}iq-[x,,u,"['𒁹', '𒅅', 'X']",𒁹𒅅X,{[1]}iq-[x],"['missing', 'complete', 'missing']",0.67,,,,P428801,9,4,witness
+2748,P428801.9.5,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428801,9,5,witness
+2749,P428801.10.1,šību[witness]N,⸢IGI⸣,,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,P428801,10,1,witness
+2750,P428801.10.2,+Ubru-Issar[]PN$Ubri-Issar,{1}ub-ri-15,PN,PN,"['𒁹', '𒌒', '𒊑', '𒌋𒐊']",𒁹𒌒𒊑𒌋𒐊,{1}ub-ri-15,"['complete', 'complete', 'complete', 'complete']",0.0,Ubri-Issar,Ubru-Issar,1,P428801,10,2,witness
+2751,P428801.10.3,šību[witness]N,⸢IGI⸣,,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,P428801,10,3,witness
+2752,P428801.10.4,Ahu-leʾi[1]PN,{1}⸢PAB⸣-ZU,PN,PN,"['𒁹', '𒉽', '𒍪']",𒁹𒉽𒍪,{[1]}⸢PAB⸣-ZU,"['missing', 'damaged', 'complete']",0.5,Ahu-leʾi,Ahu-leʾi,1,P428801,10,4,witness
+2753,P428801.11.1,šību[witness]N,⸢IGI⸣,,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,P428801,11,1,witness
+2754,P428801.11.2,Išme-ilu[1]PN,{1}iš-me-DINGIR,PN,PN,"['𒁹', '𒅖', '𒈨', '𒀭']",𒁹𒅖𒈨𒀭,{1}iš-me-DINGIR,"['complete', 'complete', 'complete', 'complete']",0.0,Išme-ilu,Išme-ilu,1,P428801,11,2,witness
+2755,P428801.11.3,urdu[slave]N&ēkalli[palace]N,{⸢lu₂}ARAD⸣-E₂.⸢GAL⸣,,N,"['𒇽', '𒀴', '𒂍', '𒃲']",𒇽𒀴𒂍𒃲,{⸢LU₂⸣}⸢ARAD⸣-E₂.⸢GAL⸣,"['damaged', 'damaged', 'complete', 'damaged']",0.38,urdu,ardu,slave,P428801,11,3,witness
+2757,P428801.12.1,šību[witness]N,⸢IGI⸣,,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,P428801,12,1,witness
+2758,P428801.12.2,+Iššilaya[]PN$,{1}iš-ši-⸢la⸣-a.a,PN,PN,"['𒁹', '𒅖', '𒅆', '𒆷', '𒀀', '𒀀']",𒁹𒅖𒅆𒆷𒀀𒀀,{1}iš-ši-⸢la⸣-a.a,"['complete', 'complete', 'complete', 'damaged', 'complete', 'complete']",0.08,Iššilaya,Iššilaya,1,P428801,12,2,witness
+2759,P428801.13.1,šību[witness]N,⸢IGI⸣,,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,P428801,13,1,witness
+2760,P428801.13.2,+Sin-mušallim[]PN$,{1}{d}30-mu-DI,PN,PN,"['𒁹', '𒀭', '𒌍', '𒈬', '𒁲']",𒁹𒀭𒌍𒈬𒁲,{1}{d}30-mu-DI,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Sin-mušallim,Sin-mušallim,1,P428801,13,2,witness
+2761,P428801.13.3,tupšarru[scribe]N,{lu₂}A.BA,,N,"['𒇽', '𒀀', '𒁀']",𒇽𒀀𒁀,{LU₂}A.BA,"['complete', 'complete', 'complete']",0.0,tupšarru,ṭupšarru,scribe,P428801,13,3,witness
+2762,P428801.14.1,ṣābit[keeper]N,ṣa-bit,,N,"['𒍝', '𒂍']",𒍝𒂍,ṣa-bit,"['complete', 'complete']",0.0,ṣābit,ṣābitu,keeper,P428801,14,1,witness
+2763,P428801.14.2,tuppi[tablet]N,tup-pi,,N,"['𒁾', '𒉿']",𒁾𒉿,tup-pi,"['complete', 'complete']",0.0,tuppi,ṭuppu,tablet,P428801,14,2,witness
+2764,P428801.15.1,Addaru[Adar]MN,{⸢iti}ŠE⸣,MN,MN,"['𒌗', '𒊺']",𒌗𒊺,{⸢ITI⸣}⸢ŠE⸣,"['damaged', 'damaged']",0.5,Addaru,Addaru,Adar,P428801,15,1,date
+2765,P428801.15.2,ūm[day]N,UD,,N,['𒌓'],𒌓,UD,['complete'],0.0,ūm,ūmu,day,P428801,15,2,date
+2766,P428801.15.3,n,14-[KAM₂],NUMBER,n,"['𒌋𒐉', '𒆚']",𒌋𒐉𒆚,14-[KAM₂],"['complete', 'missing']",0.5,,,,P428801,15,3,date
+2767,P428801.15.4,limmu[eponym (of year)]N,lim-mu,,N,"['𒅆', '𒈬']",𒅆𒈬,lim-mu,"['complete', 'complete']",0.0,limmu,līmu,eponym (of year),P428801,15,4,date
+2768,P428801.16.1,limmu[eponym (of year)]N,[lim]-⸢mu⸣,,N,"['𒅆', '𒈬']",𒅆𒈬,[lim]-⸢mu⸣,"['missing', 'damaged']",0.75,limmu,līmu,eponym (of year),P428801,16,1,date
+2769,P428801.16.2,u,{1}{d}[x,,u,"['𒁹', '𒀭', 'X']",𒁹𒀭X,{1}{d}[x],"['complete', 'complete', 'missing']",0.33,,,,P428801,16,2,date
+2770,P428801.16.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428801,16,3,date
+2771,P428801.16.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428801,16,4,date
+2772,P428801.16.5,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428801,16,5,date
+2773,P428801.17.1,n,0,NUMBER,n,['0'],0,[0],['missing'],1.0,,,,P428801,17,1,date
+2774,P428801.17.2,u,{⸢uru}x⸣-[x,,u,"['𒌷', 'X', 'X']",𒌷XX,{⸢URU⸣}⸢x⸣-[x],"['damaged', 'damaged', 'missing']",0.67,,,,P428801,17,2,date
+2775,P428801.17.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428801,17,3,date
+2776,P428801.17.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428801,17,4,date
+2777,P428801.17.5,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428801,17,5,date

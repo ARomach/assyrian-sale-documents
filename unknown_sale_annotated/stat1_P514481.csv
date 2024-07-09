@@ -1,0 +1,21 @@
+Unnamed: 0,ref,inst,frag,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,text,line,word,annotation
+1787,P514481.3.1,ina[in]PRP,⸢ina,PRP,['𒀸'],𒀸,⸢ina⸣,['damaged'],0.5,ina,ina,in,,P514481,3,1,penalties for litigation: penalty
+1788,P514481.3.2,dēnīšu[lawsuit]N,de-ni-šu₂,N,"['𒁲', '𒉌', '𒋙']",𒁲𒉌𒋙,⸢de-ni-šu₂⸣,"['damaged', 'damaged', 'damaged']",0.5,dēnīšu,dīnu,lawsuit,,P514481,3,2,penalties for litigation: penalty
+1789,P514481.3.3,idabbubma[contest]V,DUG₄⸣.[DUG₄-ma,V,"['𒅗', '𒅗', '𒈠']",𒅗𒅗𒈠,⸢DUG₄⸣.[DUG₄-ma],"['damaged', 'missing', 'missing']",0.83,idabbubma,dabābu,contest,,P514481,3,3,penalties for litigation: penalty
+1790,P514481.3.4,lā[not]MOD,la₃,MOD,['𒉡'],𒉡,[la₃],['missing'],1.0,lā,lā,not,,P514481,3,4,penalties for litigation: penalty
+1791,P514481.3.5,ilaqqi[succeed]V,TI],V,['𒋾'],𒋾,[TI],['missing'],1.0,ilaqqi,leqû,succeed,,P514481,3,5,penalties for litigation: penalty
+1792,P514481.5.1,šību[witness]N,IGI,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P514481,5,1,witness
+1793,P514481.5.2,Barruqqu[1]PN,{m}bar-ruq-⸢qu⸣,PN,"['𒁹', '𒁇', '𒊿', '𒄣']",𒁹𒁇𒊿𒄣,{m}bar-ruq-⸢qu⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,Barruqqu,Barruqqu,1,PN,P514481,5,2,witness
+1794,P514481.5.3,u,[x,u,['X'],X,[x],['missing'],1.0,,,,,P514481,5,3,witness
+1795,P514481.5.4,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P514481,5,4,witness
+1796,P514481.5.5,u,(x)],u,['X'],X,[x],['missing'],1.0,,,,,P514481,5,5,witness
+1797,P514481.6.1,šību[witness]N,⸢IGI⸣,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,,P514481,6,1,witness
+1798,P514481.6.2,Bel-Ešarra-x[]PN$,{m}EN-E₂-šar-⸢ra⸣-[x-(x),PN,"['𒁹', '𒂗', '𒂍', '𒊬', '𒊏', 'X', 'X']",𒁹𒂗𒂍𒊬𒊏XX,{m}EN-E₂-šar-⸢ra⸣-[x-x],"['complete', 'complete', 'complete', 'complete', 'damaged', 'missing', 'missing']",0.36,Bel-Ešarra-x,Bel-Ešarra-x,1,PN,P514481,6,2,witness
+1799,P514481.6.3,+ardu[servant]N$urad,ARAD],N,['𒀴'],𒀴,[ARAD],['missing'],1.0,urad,ardu,servant,,P514481,6,3,witness
+1800,P514481.7.1,+šaknu[governor]N$šakin&mātu[land]N$māti,{[lu₂]}GAR-KUR,N,"['𒇽', '𒃻', '𒆳']",𒇽𒃻𒆳,{[LU₂]}GAR-KUR,"['missing', 'complete', 'complete']",0.33,šakin,šaknu,governor,,P514481,7,1,witness
+1802,P514481.7.2,šību[witness]N,IGI,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P514481,7,2,witness
+1803,P514481.7.3,x[1]PN,{m}[x-x-(x)],PN,"['𒁹', 'X', 'X', 'X']",𒁹XXX,{m}[x-x-x],"['complete', 'missing', 'missing', 'missing']",0.75,x,x,1,PN,P514481,7,3,witness
+1804,P514481.8.1,šību[witness]N,⸢IGI⸣,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,,P514481,8,1,witness
+1805,P514481.8.2,Tarditu-x[]PN$,{m}tar-di-⸢tu₂⸣-[x-x-(x)],PN,"['𒁹', '𒋻', '𒁲', '𒌓', 'X', 'X', 'X']",𒁹𒋻𒁲𒌓XXX,{m}tar-di-⸢tu₂⸣-[x-x-x],"['complete', 'complete', 'complete', 'damaged', 'missing', 'missing', 'missing']",0.5,Tarditu-x,Tarditu-x,1,PN,P514481,8,2,witness
+1806,P514481.9.1,šību[witness]N,[IGI],N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,P514481,9,1,witness
+1807,P514481.9.2,Ahu-la-amašši[1]PN,{⸢m⸣}PAB-la-[maš-ši],PN,"['𒁹', '𒉽', '𒆷', '𒈦', '𒅆']",𒁹𒉽𒆷𒈦𒅆,{⸢m⸣}PAB-la-[maš-ši],"['damaged', 'complete', 'complete', 'missing', 'missing']",0.5,Ahu-la-amašši,Ahu-la-amašši,1,PN,P514481,9,2,witness

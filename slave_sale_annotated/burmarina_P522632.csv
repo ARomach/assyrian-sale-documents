@@ -1,0 +1,11 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+142,P522632.3.1,ilqe[purchase]V,⸢il⸣-qe,ilqe,leqû,purchase,V,"['𒅋', '𒆥']",𒅋𒆥,⸢il⸣-qe,"['damaged', 'complete']",0.25,,,P522632,3,1,completion of transaction
+143,P522632.3.2,kaspu[money]N,[kas-pu,kaspu,kaspu,money,N,"['𒆜', '𒁍']",𒆜𒁍,[kas-pu],"['missing', 'missing']",1.0,,,P522632,3,2,confirmation of transfer 1
+144,P522632.3.3,gammur[completed]AJ,gam-mur],gammur,gammuru,completed,AJ,"['𒃵', '𒄯']",𒃵𒄯,[gam-mur],"['missing', 'missing']",1.0,,,P522632,3,3,confirmation of transfer 1
+145,P522632.4.1,tadin[paid]AJ,[ta]-⸢din⸣,tadin,tadnu,paid,AJ,"['𒋫', '𒁷']",𒋫𒁷,[ta]-⸢din⸣,"['missing', 'damaged']",0.75,,,P522632,4,1,confirmation of transfer 1
+146,P522632.4.2,nišē[people]N,UN.[MEŠ,nišē,nišu,people,N,"['𒌦', '𒈨𒌍']",𒌦𒈨𒌍,UN.[MEŠ],"['complete', 'missing']",0.5,,,P522632,4,2,confirmation of transfer 2
+147,P522632.4.3,zarpu[purchased]AJ,zar₄-pu,zarpu,zarpu,purchased,AJ,"['𒆰', '𒁍']",𒆰𒁍,[zar₄-pu],"['missing', 'missing']",1.0,,,P522632,4,3,confirmation of transfer 2
+148,P522632.4.4,laqiu[acquired]AJ,la-qi-u],laqiu,leqû,acquired,AJ,"['𒆷', '𒆥', '𒌋']",𒆷𒆥𒌋,[la-qi-u],"['missing', 'missing', 'missing']",1.0,,,P522632,4,4,confirmation of transfer 2
+149,P522632.5.1,tuāru[revocation]'N,[tu]-a-⸢ru⸣,tuāru,târu,revocation,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,[tu]-a-⸢ru⸣,"['missing', 'complete', 'damaged']",0.5,,,P522632,5,1,exclusion of litigation
+150,P522632.5.2,dēnu[lawsuit]N,[de-e-nu,dēnu,dīnu,lawsuit,N,"['𒁲', '𒂊', '𒉡']",𒁲𒂊𒉡,[de-e-nu],"['missing', 'missing', 'missing']",1.0,,,P522632,5,2,exclusion of litigation
+151,P522632.5.3,dabābu[litigation]'N,DUG₄.DUG₄],dabābu,dabābu,litigation,V,"['𒅗', '𒅗']",𒅗𒅗,[DUG₄].[DUG₄],"['missing', 'missing']",1.0,,,P522632,5,3,exclusion of litigation

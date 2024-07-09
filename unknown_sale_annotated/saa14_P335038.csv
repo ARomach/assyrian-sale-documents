@@ -1,0 +1,32 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+25965,P335038.2.1,{na₄}KIŠIB,kunukku[seal]N,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{NA₄}KIŠIB,"['complete', 'complete']",0.0,kunukku,kunukku,seal,,,P335038,2,1,seal identification
+25966,P335038.2.2,{1}sa-pi-ku,Sapiku[1]PN,PN,"['𒁹', '𒊓', '𒉿', '𒆪']",𒁹𒊓𒉿𒆪,{1}sa-pi-ku,"['complete', 'complete', 'complete', 'complete']",0.0,Sapiku,Sapiku,1,PN,,P335038,2,2,seal identification
+25967,P335038.2.3,A.BA,ṭupšarru[scribe]N,N,"['𒀀', '𒁀']",𒀀𒁀,A.BA,"['complete', 'complete']",0.0,ṭupšarru,ṭupšarru,scribe,,,P335038,2,3,seal identification
+25968,P335038.2.4,o,u,u,['o'],o,o,['complete'],0.0,,,,,,P335038,2,4,seal identification
+25969,P335038.3.1,⸢EN⸣,bēl[owner]N,N,['𒂗'],𒂗,⸢EN⸣,['damaged'],0.5,bēl,bēlu,owner,,,P335038,3,1,seal identification
+25970,P335038.3.2,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335038,3,2,seal identification
+25971,P335038.3.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335038,3,3,seal identification
+25972,P335038.3.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335038,3,4,seal identification
+25973,P335038.3.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335038,3,5,seal identification
+25974,P335038.3.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335038,3,6,seal identification
+25975,P335038.3.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335038,3,7,seal identification
+25976,P335038.3.8,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335038,3,8,seal identification
+25977,P335038.7.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335038,7,1,none
+25978,P335038.7.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335038,7,2,none
+25979,P335038.7.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335038,7,3,none
+25980,P335038.7.4,x]+⸢x,u,u,"['x', 'x']",xx,[x]+⸢x⸣,"['missing', 'damaged']",0.75,,,,,,P335038,7,4,none
+25981,P335038.7.5,x⸣—DINGIR-a-[a],u,u,"['x', '𒀭', '𒀀', '𒀀']",x𒀭𒀀𒀀,⸢x⸣-DINGIR-a-[a],"['damaged', 'complete', 'complete', 'missing']",0.38,,,,,,P335038,7,5,none
+25982,P335038.8.1,[IGI,šību[witness]N,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,,P335038,8,1,witness
+25983,P335038.8.2,{1}x]-⸢ši⸣—i,u,u,"['𒁹', 'x', '𒅆', '𒄿']",𒁹x𒅆𒄿,{[1]}[x]-⸢ši⸣-i,"['missing', 'missing', 'damaged', 'complete']",0.62,,,,,,P335038,8,2,witness
+25984,P335038.9.1,[IGI,šību[witness]N,N,['𒅆'],𒅆,[IGI],['missing'],1.0,šību,šību,witness,,,P335038,9,1,witness
+25985,P335038.9.2,{1}mu-šal]-⸢lim⸣—{d}U.GUR,Mušallim-Nergal[1]PN$,PN,"['𒁹', '𒈬', '𒊩', '𒅆', '𒀭', '𒌋', '𒄥']",𒁹𒈬𒊩𒅆𒀭𒌋𒄥,{[1]}[mu-šal]-⸢lim⸣-{d}U.GUR,"['missing', 'missing', 'missing', 'damaged', 'complete', 'complete', 'complete']",0.5,Mušallim-Nergal,Mušallim-Nergal,1,PN,,P335038,9,2,witness
+25986,P335038.10.1,IGI,šību[witness]N,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,,P335038,10,1,witness
+25987,P335038.10.2,{1}A-ia,Aplaya[1]PN,PN,"['𒁹', '𒀀', '𒅀']",𒁹𒀀𒅀,{1}A-ia,"['complete', 'complete', 'complete']",0.0,Aplaya,Aplaya,1,PN,,P335038,10,2,witness
+25988,P335038.10.3,A.BA,ṭupšarru[scribe]N,N,"['𒀀', '𒁀']",𒀀𒁀,A.BA,"['complete', 'complete']",0.0,ṭupšarru,ṭupšarru,scribe,,,P335038,10,3,witness
+25989,P335038.11.1,{iti}DU₆,Tašriti[Tishri]MN,MN,"['𒌗', '𒇯']",𒌗𒇯,{ITI}DU₆,"['complete', 'complete']",0.0,Tašriti,Tašritu,Tishri,MN,,P335038,11,1,date
+25990,P335038.11.2,UD,ūm[day]N,N,['𒌓'],𒌓,UD,['complete'],0.0,ūm,ūmu,day,,,P335038,11,2,date
+25991,P335038.11.3,13-KAM,n,n,"['𒌋𒐈', '𒄰']",𒌋𒐈𒄰,13-KAM,"['complete', 'complete']",0.0,,,,NUMBER,,P335038,11,3,date
+25992,P335038.12.1,lim-mu,limmu[eponym (of year)]N,N,"['𒅆', '𒈬']",𒅆𒈬,lim-mu,"['complete', 'complete']",0.0,limmu,līmu,eponym (of year),,,P335038,12,1,date
+25993,P335038.12.2,{1}aš-šur—BAD₃—PAB,Aššur-duru-uṣur[1]PN,PN,"['𒁹', '𒀸', '𒋩', '𒂦', '𒉽']",𒁹𒀸𒋩𒂦𒉽,{1}aš-šur-BAD₃-PAB,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Aššur-duru-uṣur,Aššur-duru-uṣur,1,PN,,P335038,12,2,date
+25994,P335038.13.1,{lu₂v}GAR.KUR,šaknu[appointee]N$šakin&mātu[land]N$māti,N,"['𒇽', '𒃻', '𒆳']",𒇽𒃻𒆳,{LU₂~v}GAR.KUR,"['complete', 'complete', 'complete']",0.0,šakin,šaknu,appointee,,,P335038,13,1,date
+25996,P335038.13.2,{kur}<bar>-hal-za,Barhalza[1]GN,GN,"['𒆳', '𒁇', '𒄬', '𒍝']",𒆳𒁇𒄬𒍝,{KUR}bar-hal-za,"['complete', 'complete', 'complete', 'complete']",0.0,Barhalza,Barhalza,1,GN,,P335038,13,2,date

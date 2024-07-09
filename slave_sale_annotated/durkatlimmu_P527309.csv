@@ -1,0 +1,16 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+20973,P527309.2.1,kunuk[seal]N,{na₄}⸢KIŠIB,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{NA₄}⸢KIŠIB⸣,"['complete', 'damaged']",0.25,,,P527309,2,1,seal identification
+20974,P527309.2.2,Iddin-ahhe[1]PN,{m⸣}AŠ-⸢PAB⸣.[MEŠ],Iddin-ahhe,Iddin-ahhe,1,PN,"['𒁹', '𒀸', '𒉽', '𒈨𒌍']",𒁹𒀸𒉽𒈨𒌍,{⸢m⸣}AŠ-⸢PAB⸣.[MEŠ],"['damaged', 'complete', 'damaged', 'missing']",0.5,PN,,P527309,2,2,seal identification
+20975,P527309.4.1,mār[son]N,⸢A,mār,māru,son,N,['𒀀'],𒀀,⸢A⸣,['damaged'],0.5,,,P527309,4,1,seal identification
+20976,P527309.4.2,Mannu-ki-Arabil[1]PN,{m⸣}[man-nu-ki-{uru}arba-il₃],Mannu-ki-Arabil,Mannu-ki-Arabil,1,PN,"['𒁹', '𒌋𒌋', '𒉡', '𒆠', '𒌷', '𒇹', '𒀭']",𒁹𒌋𒌋𒉡𒆠𒌷𒇹𒀭,{⸢m⸣}[man-nu-ki]-{[URU]}[arba-il₃],"['damaged', 'missing', 'missing', 'missing', 'missing', 'missing', 'missing']",0.93,PN,,P527309,4,2,seal identification
+20977,P527309.5.1,bēl[owner]N,⸢EN⸣,bēl,bēlu,owner,N,['𒂗'],𒂗,⸢EN⸣,['damaged'],0.5,,,P527309,5,1,seal identification
+20978,P527309.5.2,X,[MI₂,,,,X,['𒊩'],𒊩,[MI₂],['missing'],1.0,,,P527309,5,2,seal identification
+20979,P527309.5.3,X,SUM-ni],,,,X,"['𒋧', '𒉌']",𒋧𒉌,[SUM-ni],"['missing', 'missing']",1.0,,,P527309,5,3,seal identification
+20980,P527309.7.1,x[1]PN,{f}x-[x-x-x-(x),x,x,1,PN,"['𒊩', 'X', 'X', 'X', 'X', 'X']",𒊩XXXXX,{f}x-[x-x-x-x],"['complete', 'complete', 'missing', 'missing', 'missing', 'missing']",0.67,PN,,P527309,7,1,object sold
+20981,P527309.7.2,amtišu[female slave]N,GEME₂-šu₂],amtišu,amtu,female slave,N,"['𒊩𒆳', '𒋙']",𒊩𒆳𒋙,[GEME₂-šu₂],"['missing', 'missing']",1.0,,,P527309,7,2,object sold
+20982,P527309.8.1,X,⸢u₂⸣-[piš-ma,,,,X,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,⸢u₂⸣-[piš-ma],"['damaged', 'missing', 'missing']",0.83,,,P527309,8,1,initiation of transaction
+20983,P527309.8.2,x[1]PN,{m}x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X']",𒁹XXXX,{[m]}[x-x-x-x],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,PN,,P527309,8,2,initiation of transaction
+20984,P527309.13.1,x[1]MN,{iti}[x,x,x,1,MN,"['𒌗', 'X']",𒌗X,{ITI}[x],"['complete', 'missing']",0.5,MN,,P527309,13,1,date
+20985,P527309.13.2,n,UD-x-KAM/KAM₂,,,,n,"['𒌓', 'X', '𒄰', '𒆚']",𒌓X𒄰𒆚,[UD-x-KAM]/[KAM₂],"['missing', 'missing', 'missing', 'missing']",1.0,NUMBER,,P527309,13,2,date
+20986,P527309.13.3,limmu[eponym (of year)]N,lim-mu],limmu,līmu,eponym (of year),N,"['𒅆', '𒈬']",𒅆𒈬,[lim-mu],"['missing', 'missing']",1.0,,,P527309,13,3,date
+20987,P527309.14.1,x[1]PN,{m}x-[x-x-x-(x)],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X', 'X']",𒁹XXXXX,{m}x-[x-x-x-x],"['complete', 'complete', 'missing', 'missing', 'missing', 'missing']",0.67,PN,,P527309,14,1,date

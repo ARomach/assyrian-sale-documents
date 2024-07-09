@@ -1,0 +1,40 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+10215,P428825.2.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428825,2,1,none
+10216,P428825.2.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428825,2,2,none
+10217,P428825.2.3,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428825,2,3,none
+10218,P428825.2.4,u,⸢x,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,P428825,2,4,none
+10219,P428825.2.5,u,x⸣,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,P428825,2,5,none
+10220,P428825.2.6,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428825,2,6,none
+10221,P428825.2.7,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428825,2,7,none
+10222,P428825.3.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428825,3,1,none
+10223,P428825.3.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428825,3,2,none
+10224,P428825.3.3,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428825,3,3,none
+10225,P428825.3.4,uppišma[contract]V,u₂-⸢piš⸣-[ma],,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,u₂-⸢piš⸣-[ma],"['complete', 'damaged', 'missing']",0.5,uppišma,epēšu,contract,P428825,3,4,initiation of transaction
+10226,P428825.4.1,Ṣil-Aššur[1]PN,{1}⸢GIŠ⸣.MI-aš-šur,PN,PN,"['𒁹', '𒄑', '𒈪', '𒀸', '𒋩']",𒁹𒄑𒈪𒀸𒋩,{[1]}⸢GIŠ⸣.MI-aš-šur,"['missing', 'damaged', 'complete', 'complete', 'complete']",0.3,Ṣil-Aššur,Ṣil-Aššur,1,P428825,4,1,initiation of transaction
+10227,P428825.4.2,u,{⸢lu₂⸣}[x,,u,"['𒇽', 'X']",𒇽X,{⸢LU₂⸣}[x],"['damaged', 'missing']",0.75,,,,P428825,4,2,initiation of transaction
+10228,P428825.4.3,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428825,4,3,initiation of transaction
+10229,P428825.5.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428825,5,1,none
+10230,P428825.5.2,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428825,5,2,none
+10231,P428825.5.3,u,bi,,u,['𒁉'],𒁉,bi,['complete'],0.0,,,,P428825,5,3,none
+10232,P428825.5.4,u,x+[x]+x,,u,"['X', 'X', 'X']",XXX,x+[x]+x,"['complete', 'missing', 'complete']",0.33,,,,P428825,5,4,none
+10233,P428825.5.5,issu[from]PRP,TA,,PRP,['𒋫'],𒋫,TA,['complete'],0.0,issu,ištu,from,P428825,5,5,completion of transaction
+10234,P428825.5.6,u,x+[x,,u,"['X', 'X']",XX,x+[x],"['complete', 'missing']",0.5,,,,P428825,5,6,completion of transaction
+10235,P428825.5.7,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428825,5,7,completion of transaction
+10236,P428825.6.1,ilqi[purchase]V,[il]-qi,,V,"['𒅋', '𒆥']",𒅋𒆥,[il]-qi,"['missing', 'complete']",0.5,ilqi,leqû,purchase,P428825,6,1,completion of transaction
+10237,P428825.6.2,kaspu[money]N,⸢kas⸣-pu,,N,"['𒆜', '𒁍']",𒆜𒁍,⸢kas⸣-pu,"['damaged', 'complete']",0.25,kaspu,kaspu,money,P428825,6,2,confirmation of transfer 1
+10238,P428825.6.3,gammur[completed]AJ,gam-[mur],,AJ,"['𒃵', '𒄯']",𒃵𒄯,gam-[mur],"['complete', 'missing']",0.5,gammur,gammuru,completed,P428825,6,3,confirmation of transfer 1
+10239,P428825.7.1,tadin[paid]AJ,[ta]-⸢din⸣,,AJ,"['𒋫', '𒁷']",𒋫𒁷,[ta]-⸢din⸣,"['missing', 'damaged']",0.75,tadin,tadnu,paid,P428825,7,1,confirmation of transfer 1
+10240,P428825.7.2,bētu[house]N,E₂,,N,['𒂍'],𒂍,E₂,['complete'],0.0,bētu,bītu,house,P428825,7,2,confirmation of transfer 2
+10241,P428825.7.3,šuātu[that]'DP,šu-a-[tu],,IP,"['𒋗', '𒀀', '𒌅']",𒋗𒀀𒌅,šu-a-[tu],"['complete', 'complete', 'missing']",0.33,šuātu,šuāti,that,P428825,7,3,confirmation of transfer 2
+10242,P428825.8.1,zarip[purchased]AJ,[za-rip,,AJ,"['𒍝', '𒆗']",𒍝𒆗,[za-rip],"['missing', 'missing']",1.0,zarip,zarpu,purchased,P428825,8,1,confirmation of transfer 2
+10243,P428825.8.2,laqi[acquired]AJ,la]-⸢qi⸣,,AJ,"['𒆷', '𒆥']",𒆷𒆥,[la]-⸢qi⸣,"['missing', 'damaged']",0.75,laqi,leqû,acquired,P428825,8,2,confirmation of transfer 2
+10244,P428825.8.3,tuāru[revocation]'N,tu-[a-ru],,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,tu-[a-ru],"['complete', 'missing', 'missing']",0.67,tuāru,târu,revocation,P428825,8,3,exclusion of litigation
+10245,P428825.9.1,dēnu[lawsuit]N,[de-e]-⸢nu,,N,"['𒁲', '𒂊', '𒉡']",𒁲𒂊𒉡,[de-e]-⸢nu⸣,"['missing', 'missing', 'damaged']",0.83,dēnu,dīnu,lawsuit,P428825,9,1,exclusion of litigation
+10246,P428825.9.2,dabābu[litigation]'N,DUG₄⸣.[DUG₄],,V,"['𒅗', '𒅗']",𒅗𒅗,⸢DUG₄⸣.[DUG₄],"['damaged', 'missing']",0.75,dabābu,dabābu,litigation,P428825,9,2,exclusion of litigation
+10247,P428825.10.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428825,10,1,none
+10248,P428825.10.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428825,10,2,none
+10249,P428825.10.3,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428825,10,3,none
+10250,P428825.10.4,u,⸢x,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,P428825,10,4,none
+10251,P428825.10.5,u,x,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,P428825,10,5,none
+10252,P428825.10.6,u,x,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,P428825,10,6,none
+10253,P428825.10.7,u,x⸣,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,P428825,10,7,none

@@ -1,0 +1,36 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+21591,P336749.5.1,[de-e]-⸢nu⸣,dēnu[lawsuit]N,N,"['𒁲', '𒂊', '𒉡']",𒁲𒂊𒉡,[de-e]-⸢nu⸣,"['missing', 'missing', 'damaged']",0.83,dēnu,dīnu,lawsuit,,,P336749,5,1,penalties for litigation: contravention
+21592,P336749.5.2,DUG₄.DUG₄,dabābu[litigation]'N,V,"['𒅗', '𒅗']",𒅗𒅗,DUG₄.DUG₄,"['complete', 'complete']",0.0,dabābu,dabābu,litigation,,,P336749,5,2,penalties for litigation: contravention
+21593,P336749.5.3,ub-ta-u-⸢ni⸣,ubtaʾʾūni[seek]V,V,"['𒌒', '𒋫', '𒌋', '𒉌']",𒌒𒋫𒌋𒉌,ub-ta-u-⸢ni⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,ubtaʾʾūni,buʾʾû,seek,,,P336749,5,3,penalties for litigation: contravention
+21594,P336749.5.4,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336749,5,4,none
+21595,P336749.5.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336749,5,5,none
+21596,P336749.5.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336749,5,6,none
+21597,P336749.5.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336749,5,7,none
+21598,P336749.5.8,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336749,5,8,none
+21599,P336749.5.9,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336749,5,9,none
+21600,P336749.5.10,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P336749,5,10,none
+21601,P336749.6.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336749,6,1,penalties for litigation: penalty
+21602,P336749.6.2,{anše}KUR].RA-MEŠ,sissê[horse]N,N,"['𒀲', '𒆳', '𒊏', '𒈨𒌍']",𒀲𒆳𒊏𒈨𒌍,{[ANŠE]}[KUR].RA-MEŠ,"['missing', 'missing', 'complete', 'complete']",0.5,sissê,sisû,horse,,,P336749,6,2,penalties for litigation: penalty
+21603,P336749.6.3,BABBAR-MEŠ-te,peṣû[white]AJ$paṣūte,AJ,"['𒌓', '𒈨𒌍', '𒋼']",𒌓𒈨𒌍𒋼,BABBAR-MEŠ-te,"['complete', 'complete', 'complete']",0.0,paṣūte,peṣû,white,,,P336749,6,3,penalties for litigation: penalty
+21604,P336749.6.4,⸢ina⸣,ina[at]PRP,PRP,['𒀸'],𒀸,⸢ina⸣,['damaged'],0.5,ina,ina,at,,,P336749,6,4,penalties for litigation: penalty
+21605,P336749.6.5,[GIR₃.2,šēpē[foot]N,N,"['𒄊', '𒈫']",𒄊𒈫,[GIR₃].[2],"['missing', 'missing']",1.0,šēpē,šēpu,foot,,,P336749,6,5,penalties for litigation: penalty
+21606,P336749.6.6,ša,ša[of]DET,DET,['𒊭'],𒊭,[ša],['missing'],1.0,ša,ša,of,,,P336749,6,6,penalties for litigation: penalty
+21607,P336749.6.7,aš-šur,Aššur[1]DN,DN,"['𒀸', '𒋩']",𒀸𒋩,[aš-šur],"['missing', 'missing']",1.0,Aššur,Aššur,1,DN,,P336749,6,7,penalties for litigation: penalty
+21608,P336749.6.8,i-rak-kas],irakkas[bind]V,V,"['𒄿', '𒊩', '𒆜']",𒄿𒊩𒆜,[i-rak-kas],"['missing', 'missing', 'missing']",1.0,irakkas,rakāsu,bind,,,P336749,6,8,penalties for litigation: penalty
+21609,P336749.7.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336749,7,1,penalties for litigation: penalty
+21610,P336749.7.2,{anše]}⸢har⸣-bat-ka-a-ni,harbakkannu[(a kind of horse)]N$harbatkanni,N,"['𒀲', '𒄯', '𒁁', '𒅗', '𒀀', '𒉌']",𒀲𒄯𒁁𒅗𒀀𒉌,{[ANŠE]}⸢har⸣-bat-ka-a-ni,"['missing', 'damaged', 'complete', 'complete', 'complete', 'complete']",0.25,harbatkanni,harbakkannu,(a kind of horse),,,P336749,7,2,penalties for litigation: penalty
+21611,P336749.7.3,ina,ina[at]PRP,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,at,,,P336749,7,3,penalties for litigation: penalty
+21612,P336749.7.4,⸢GIR₃⸣.2,šēpē[foot]N,N,"['𒄊', '𒈫']",𒄊𒈫,⸢GIR₃⸣.[2],"['damaged', 'missing']",0.75,šēpē,šēpu,foot,,,P336749,7,4,penalties for litigation: penalty
+21613,P336749.7.5,ša,ša[of]DET,DET,['𒊭'],𒊭,[ša],['missing'],1.0,ša,ša,of,,,P336749,7,5,penalties for litigation: penalty
+21614,P336749.7.6,{d}MAŠ.MAŠ,Nergal[1]DN,DN,"['𒀭', '𒈦', '𒈦']",𒀭𒈦𒈦,{[d]}[MAŠ].[MAŠ],"['missing', 'missing', 'missing']",1.0,Nergal,Nergal,1,DN,,P336749,7,6,penalties for litigation: penalty
+21615,P336749.7.7,u₂-še-rab],ušerrab[bring in]V,V,"['𒌑', '𒊺', '𒊐']",𒌑𒊺𒊐,[u₂-še-rab],"['missing', 'missing', 'missing']",1.0,ušerrab,erēbu,bring in,,,P336749,7,7,penalties for litigation: penalty
+21616,P336749.8.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P336749,8,1,penalties for litigation: penalty
+21617,P336749.8.2,MA.NA],manê[a unit of weight]N,N,"['𒈠', '𒈾']",𒈠𒈾,[MA].[NA],"['missing', 'missing']",1.0,manê,manû,a unit of weight,,,P336749,8,2,penalties for litigation: penalty
+21618,P336749.8.3,⸢KUG⸣.UD,ṣarpu[silver]N,N,"['𒆬', '𒌓']",𒆬𒌓,⸢KUG⸣.UD,"['damaged', 'complete']",0.25,ṣarpu,ṣarpu,silver,,,P336749,8,3,penalties for litigation: penalty
+21619,P336749.8.4,LUH,masû[washed]AJ,AJ,['𒈛'],𒈛,LUH,['complete'],0.0,masû,mesû,washed,,,P336749,8,4,penalties for litigation: penalty
+21620,P336749.8.5,05,n,n,['𒐊'],𒐊,05,['complete'],0.0,,,,NUMBER,,P336749,8,5,penalties for litigation: penalty
+21621,P336749.8.6,MA.NA,manê[a unit of weight]N,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manê,manû,a unit of weight,,,P336749,8,6,penalties for litigation: penalty
+21622,P336749.8.7,[KUG.GI,hurāṣu[gold]N,N,"['𒆬', '𒄀']",𒆬𒄀,[KUG].[GI],"['missing', 'missing']",1.0,hurāṣu,hurāṣu,gold,,,P336749,8,7,penalties for litigation: penalty
+21623,P336749.8.8,sak-ru,sakru[refined]AJ,AJ,"['𒊕', '𒊒']",𒊕𒊒,[sak-ru],"['missing', 'missing']",1.0,sakru,sakru,refined,,,P336749,8,8,penalties for litigation: penalty
+21624,P336749.8.9,ina,ina[in]PRP,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,,P336749,8,9,penalties for litigation: penalty
+21625,P336749.8.10,bur-ki],burki[lap]N,N,"['𒁓', '𒆠']",𒁓𒆠,[bur-ki],"['missing', 'missing']",1.0,burki,burku,lap,,,P336749,8,10,penalties for litigation: penalty

@@ -1,0 +1,37 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+14603,P335426.3.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,3,1,none
+14604,P335426.3.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,3,2,none
+14605,P335426.3.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,3,3,none
+14606,P335426.3.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,3,4,none
+14607,P335426.3.5,{1}⸢ga-ru⸣-[ṣu,Garruṣu[1]PN,PN,"['𒁹', '𒂵', '𒊒', '𒍮']",𒁹𒂵𒊒𒍮,{[1]}⸢ga-ru⸣-[ṣu],"['missing', 'damaged', 'damaged', 'missing']",0.75,Garruṣu,Garruṣu,1,PN,,P335426,3,5,none
+14608,P335426.3.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,3,6,none
+14609,P335426.3.7,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,3,7,none
+14610,P335426.4.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,4,1,none
+14611,P335426.4.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,4,2,none
+14612,P335426.4.3,{1}EN—sa-ma-[ʾa,Bel-samaʾ[1]PN$,PN,"['𒁹', '𒂗', '𒊓', '𒈠', '𒀪']",𒁹𒂗𒊓𒈠𒀪,{[1]}EN-sa-ma-[ʾa],"['missing', 'complete', 'complete', 'complete', 'missing']",0.4,Bel-samaʾ,Bel-samaʾ,1,PN,,P335426,4,3,none
+14613,P335426.4.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,4,4,none
+14614,P335426.4.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,4,5,none
+14615,P335426.4.6,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,4,6,none
+14616,P335426.5.1,[o,u,u,['o'],o,[o],['missing'],1.0,,,,,,P335426,5,1,none
+14617,P335426.5.2,{1}⸢ta-qu⸣-u₂-ni,Taquni[1]PN$,PN,"['𒁹', '𒋫', '𒄣', '𒌑', '𒉌']",𒁹𒋫𒄣𒌑𒉌,{[1]}⸢ta-qu⸣-u₂-ni,"['missing', 'damaged', 'damaged', 'complete', 'complete']",0.4,Taquni,Taquni,1,PN,,P335426,5,2,none
+14618,P335426.5.3,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,5,3,none
+14619,P335426.5.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,5,4,none
+14620,P335426.5.5,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,5,5,none
+14621,P335426.6.1,[u₂]-piš-ma,uppišma[contract]V,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,[u₂]-piš-ma,"['missing', 'complete', 'complete']",0.33,uppišma,epēšu,contract,,,P335426,6,1,initiation of transaction
+14622,P335426.6.2,{1}aš-šur—⸢šal-lim⸣—[PAB-MEŠ],Aššur-šallim-ahhe[1]PN,PN,"['𒁹', '𒀸', '𒋩', '𒊩', '𒅆', '𒉽', '𒈨𒌍']",𒁹𒀸𒋩𒊩𒅆𒉽𒈨𒌍,{1}aš-šur-⸢šal-lim⸣-[PAB-MEŠ],"['complete', 'complete', 'complete', 'damaged', 'damaged', 'missing', 'missing']",0.43,Aššur-šallim-ahhe,Aššur-šallim-ahhe,1,PN,,P335426,6,2,initiation of transaction
+14623,P335426.7.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,7,1,none
+14624,P335426.7.2,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335426,7,2,none
+14625,P335426.7.3,TA@v,issu[from+=from]PRP,PRP,['𒋬'],𒋬,TA@v,['complete'],0.0,issu,ištu,from,,,P335426,7,3,completion of transaction
+14626,P335426.7.4,[IGI],pān[front]N,N,['𒅆'],𒅆,[IGI],['missing'],1.0,pān,pānu,front,,,P335426,7,4,completion of transaction
+14627,P335426.7.5,{1}ga-ru-[ṣu],Garruṣu[1]PN,PN,"['𒁹', '𒂵', '𒊒', '𒍮']",𒁹𒂵𒊒𒍮,{1}ga-ru-[ṣu],"['complete', 'complete', 'complete', 'missing']",0.25,Garruṣu,Garruṣu,1,PN,,P335426,7,5,completion of transaction
+14628,P335426.8.1,[ina,ina[in+=for]PRP,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,,P335426,8,1,price
+14629,P335426.8.2,ŠA₃],libbi[interior]N,N,['𒊮'],𒊮,[ŠA₃],['missing'],1.0,libbi,libbu,interior,,,P335426,8,2,price
+14630,P335426.8.3,01,n,n,['𒁹'],𒁹,01,['complete'],0.0,,,,NUMBER,,P335426,8,3,price
+14631,P335426.8.4,GU₂.UN,biltu[a unit of weight]N,N,"['𒄘', '𒌦']",𒄘𒌦,GU₂.UN,"['complete', 'complete']",0.0,biltu,biltu,a unit of weight,,,P335426,8,4,price
+14632,P335426.8.5,03,n,n,['𒐈'],𒐈,03,['complete'],0.0,,,,NUMBER,,P335426,8,5,price
+14633,P335426.8.6,MA.⸢NA⸣,manê[a unit of weight]N,N,"['𒈠', '𒈾']",𒈠𒈾,MA.⸢NA⸣,"['complete', 'damaged']",0.25,manê,manû,a unit of weight,,,P335426,8,6,price
+14634,P335426.8.7,[URUDU-MEŠ],erî[copper]N,N,"['𒍏', '𒈨𒌍']",𒍏𒈨𒌍,[URUDU-MEŠ],"['missing', 'missing']",1.0,erî,erû,copper,,,P335426,8,7,price
+14635,P335426.9.1,[il-qi,ilqi[purchase]V,V,"['𒅋', '𒆥']",𒅋𒆥,[il-qi],"['missing', 'missing']",1.0,ilqi,leqû,purchase,,,P335426,9,1,completion of transaction
+14636,P335426.9.2,kas]-pu,kaspu[money]N,N,"['𒆜', '𒁍']",𒆜𒁍,[kas]-pu,"['missing', 'complete']",0.5,kaspu,kaspu,money,,,P335426,9,2,confirmation of transfer 1
+14637,P335426.9.3,gam-⸢mur⸣,gammur[completed]AJ,AJ,"['𒃵', '𒄯']",𒃵𒄯,gam-⸢mur⸣,"['complete', 'damaged']",0.25,gammur,gammuru,completed,,,P335426,9,3,confirmation of transfer 1
+14638,P335426.9.4,[ta-din],tadin[paid]AJ,AJ,"['𒋫', '𒁷']",𒋫𒁷,[ta-din],"['missing', 'missing']",1.0,tadin,tadnu,paid,,,P335426,9,4,confirmation of transfer 1

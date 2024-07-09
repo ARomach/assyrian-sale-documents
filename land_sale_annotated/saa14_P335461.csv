@@ -1,0 +1,60 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+7858,P335461.3.1,[x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,3,1,object sold
+7859,P335461.3.2,⸢ANŠE⸣,imārī[a unit of capacity]N,N,['𒀲'],𒀲,⸢ANŠE⸣,['damaged'],0.5,imārī,imēru,a unit of capacity,,,P335461,3,2,object sold
+7860,P335461.3.3,A.⸢ŠA₃,eqlu[land]N,N,"['𒀀', '𒊮']",𒀀𒊮,A.⸢ŠA₃⸣,"['complete', 'damaged']",0.25,eqlu,eqlu,land,,,P335461,3,3,object sold
+7861,P335461.3.4,x⸣+[x,u,u,"['x', 'x']",xx,⸢x⸣+[x],"['damaged', 'missing']",0.75,,,,,,P335461,3,4,object sold
+7862,P335461.3.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,3,5,object sold
+7863,P335461.3.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,3,6,object sold
+7864,P335461.3.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,3,7,object sold
+7865,P335461.3.8,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,3,8,object sold
+7866,P335461.4.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,4,1,object sold
+7867,P335461.4.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,4,2,object sold
+7868,P335461.4.3,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,4,3,object sold
+7869,P335461.4.4,ina,ina[in+=in]PRP,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,,P335461,4,4,object sold
+7870,P335461.4.5,ŠA₃,libbi[interior]N,N,['𒊮'],𒊮,ŠA₃,['complete'],0.0,libbi,libbu,interior,,,P335461,4,5,object sold
+7871,P335461.4.6,ub-⸢x⸣-a-ti,u,u,"['𒌒', 'x', '𒀀', '𒋾']",𒌒x𒀀𒋾,ub-⸢x⸣-a-ti,"['complete', 'damaged', 'complete', 'complete']",0.12,,,,,,P335461,4,6,object sold
+7872,P335461.4.7,⸢x⸣,u,u,['x'],x,⸢x⸣,['damaged'],0.5,,,,,,P335461,4,7,object sold
+7873,P335461.4.8,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,4,8,object sold
+7874,P335461.4.9,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,4,9,object sold
+7875,P335461.4.10,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,4,10,object sold
+7876,P335461.5.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,5,1,object sold
+7877,P335461.5.2,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,5,2,object sold
+7878,P335461.5.3,⸢ANŠE⸣,imārī[a unit of capacity]N,N,['𒀲'],𒀲,⸢ANŠE⸣,['damaged'],0.5,imārī,imēru,a unit of capacity,,,P335461,5,3,object sold
+7879,P335461.5.4,A.ŠA₃,eqlu[field]N,N,"['𒀀', '𒊮']",𒀀𒊮,A.ŠA₃,"['complete', 'complete']",0.0,eqlu,eqlu,field,,,P335461,5,4,object sold
+7880,P335461.5.5,ina,ina[in+=in]PRP,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,,P335461,5,5,object sold
+7881,P335461.5.6,ŠA₃,libbi[interior]N,N,['𒊮'],𒊮,ŠA₃,['complete'],0.0,libbi,libbu,interior,,,P335461,5,6,object sold
+7882,P335461.5.7,GABA,u,u,['𒃮'],𒃮,GABA,['complete'],0.0,,,,,,P335461,5,7,object sold
+7883,P335461.5.8,⸢SUHUR⸣,ṭēhi[adjacent to]PRP,PRP,['𒋦'],𒋦,⸢SUHUR⸣,['damaged'],0.5,ṭēhi,ṭāhu,adjacent to,,,P335461,5,8,object sold
+7884,P335461.5.9,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,5,9,object sold
+7885,P335461.5.10,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,5,10,object sold
+7886,P335461.5.11,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,5,11,object sold
+7887,P335461.6.1,[SUHUR,ṭēhi[adjacent to]PRP,PRP,['𒋦'],𒋦,[SUHUR],['missing'],1.0,ṭēhi,ṭāhu,adjacent to,,,P335461,6,1,object sold
+7888,P335461.6.2,KASKAL],hūli[road]N,N,['𒆜'],𒆜,[KASKAL],['missing'],1.0,hūli,hūlu,road,,,P335461,6,2,object sold
+7889,P335461.6.3,⸢ša⸣,ša[that]REL,REL,['𒊭'],𒊭,⸢ša⸣,['damaged'],0.5,ša,ša,that,,,P335461,6,3,object sold
+7890,P335461.6.4,ana,ana[to]PRP,PRP,['𒁹'],𒁹,ana,['complete'],0.0,ana,ana,to,,,P335461,6,4,object sold
+7891,P335461.6.5,{uru}ŠA₃—URU,Libbi-ali[Inner City (Assur)]GN,GN,"['𒌷', '𒊮', '𒌷']",𒌷𒊮𒌷,{URU}ŠA₃-URU,"['complete', 'complete', 'complete']",0.0,Libbi-ali,Libbi-ali,Inner City (Assur),GN,,P335461,6,5,object sold
+7892,P335461.6.6,[DU-u-ni],illakūni[lead]V,V,"['𒁺', '𒌋', '𒉌']",𒁺𒌋𒉌,[DU-u-ni],"['missing', 'missing', 'missing']",1.0,illakūni,alāku,lead,,,P335461,6,6,object sold
+7893,P335461.7.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,7,1,object sold
+7894,P335461.7.2,ANŠE,imārī[a unit of capacity]N,N,['𒀲'],𒀲,[ANŠE],['missing'],1.0,imārī,imēru,a unit of capacity,,,P335461,7,2,object sold
+7895,P335461.7.3,A].ŠA₃,eqlu[land]N,N,"['𒀀', '𒊮']",𒀀𒊮,[A].ŠA₃,"['missing', 'complete']",0.5,eqlu,eqlu,land,,,P335461,7,3,object sold
+7896,P335461.7.4,SUHUR,ṭēhi[adjacent to]PRP,PRP,['𒋦'],𒋦,SUHUR,['complete'],0.0,ṭēhi,ṭāhu,adjacent to,,,P335461,7,4,object sold
+7897,P335461.7.5,KASKAL,hūli[road]N,N,['𒆜'],𒆜,KASKAL,['complete'],0.0,hūli,hūlu,road,,,P335461,7,5,object sold
+7898,P335461.7.6,{uru}[x,u,u,"['𒌷', 'x']",𒌷x,{URU}[x],"['complete', 'missing']",0.5,,,,,,P335461,7,6,object sold
+7899,P335461.7.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,7,7,object sold
+7900,P335461.7.8,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,7,8,object sold
+7901,P335461.8.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,8,1,object sold
+7902,P335461.8.2,ANŠE,imārī[a unit of capacity]N,N,['𒀲'],𒀲,[ANŠE],['missing'],1.0,imārī,imēru,a unit of capacity,,,P335461,8,2,object sold
+7903,P335461.8.3,A].ŠA₃,eqlu[land]N,N,"['𒀀', '𒊮']",𒀀𒊮,[A].ŠA₃,"['missing', 'complete']",0.5,eqlu,eqlu,land,,,P335461,8,3,object sold
+7904,P335461.8.4,SUHUR,ṭēhi[adjacent to]PRP,PRP,['𒋦'],𒋦,SUHUR,['complete'],0.0,ṭēhi,ṭāhu,adjacent to,,,P335461,8,4,object sold
+7905,P335461.8.5,um-[me,umme[side road?]N,N,"['𒌝', '𒈨']",𒌝𒈨,um-[me],"['complete', 'missing']",0.5,umme,ummu,side road?,,,P335461,8,5,object sold
+7906,P335461.8.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,8,6,object sold
+7907,P335461.8.7,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,8,7,object sold
+7908,P335461.8.8,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,8,8,object sold
+7909,P335461.8.9,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,8,9,object sold
+7910,P335461.9.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,9,1,object sold
+7911,P335461.9.2,ANŠE,imārī[a unit of capacity]N,N,['𒀲'],𒀲,[ANŠE],['missing'],1.0,imārī,imēru,a unit of capacity,,,P335461,9,2,object sold
+7912,P335461.9.3,A].ŠA₃,eqlu[land]N,N,"['𒀀', '𒊮']",𒀀𒊮,[A].ŠA₃,"['missing', 'complete']",0.5,eqlu,eqlu,land,,,P335461,9,3,object sold
+7913,P335461.9.4,⸢SUHUR⸣,ṭēhi[adjacent to]PRP,PRP,['𒋦'],𒋦,⸢SUHUR⸣,['damaged'],0.5,ṭēhi,ṭāhu,adjacent to,,,P335461,9,4,object sold
+7914,P335461.9.5,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,9,5,object sold
+7915,P335461.9.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,9,6,object sold
+7916,P335461.9.7,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335461,9,7,object sold

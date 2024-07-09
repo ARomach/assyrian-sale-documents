@@ -1,0 +1,24 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+21709,P527207.3.1,ilqe[purchase]V,il-⸢qe⸣,ilqe,leqû,purchase,V,"['𒅋', '𒆥']",𒅋𒆥,il-⸢qe⸣,"['complete', 'damaged']",0.25,,,P527207,3,1,completion of transaction
+21710,P527207.3.2,kaspu[money]N,[kas-pu,kaspu,kaspu,money,N,"['𒆜', '𒁍']",𒆜𒁍,[kas-pu],"['missing', 'missing']",1.0,,,P527207,3,2,confirmation of transfer 1
+21711,P527207.3.3,gammur[completed]AJ,gam-mur],gammur,gammuru,completed,AJ,"['𒃵', '𒄯']",𒃵𒄯,[gam-mur],"['missing', 'missing']",1.0,,,P527207,3,3,confirmation of transfer 1
+21712,P527207.4.1,tadin[paid]AJ,ta-din,tadin,tadnu,paid,AJ,"['𒋫', '𒁷']",𒋫𒁷,ta-din,"['complete', 'complete']",0.0,,,P527207,4,1,confirmation of transfer 1
+21713,P527207.4.2,issu[woman]N,[MI₂,issu,sinništu,woman,N,['𒊩'],𒊩,[MI₂],['missing'],1.0,,,P527207,4,2,confirmation of transfer 2
+21714,P527207.4.3,zarpat[purchased]AJ,zar₄-pat,zarpat,zarpu,purchased,AJ,"['𒆰', '𒉻']",𒆰𒉻,[zar₄-pat],"['missing', 'missing']",1.0,,,P527207,4,3,confirmation of transfer 2
+21715,P527207.4.4,laqiat[acquired]AJ,la-qe-at],laqiat,leqû,acquired,AJ,"['𒆷', '𒆥', '𒀜']",𒆷𒆥𒀜,[la-qe-at],"['missing', 'missing', 'missing']",1.0,,,P527207,4,4,confirmation of transfer 2
+21716,P527207.5.1,tuāru[revocation]'N,tu-a-ru,tuāru,târu,revocation,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,tu-a-ru,"['complete', 'complete', 'complete']",0.0,,,P527207,5,1,exclusion of litigation
+21717,P527207.5.2,dēnu[lawsuit]N,[de-nu,dēnu,dīnu,lawsuit,N,"['𒁲', '𒉡']",𒁲𒉡,[de-nu],"['missing', 'missing']",1.0,,,P527207,5,2,exclusion of litigation
+21718,P527207.5.3,dabābu[litigation]'N,DUG₄.DUG₄],dabābu,dabābu,litigation,V,"['𒅗', '𒅗']",𒅗𒅗,[DUG₄].[DUG₄],"['missing', 'missing']",1.0,,,P527207,5,3,exclusion of litigation
+21719,P527207.6.1,lāšu[(there) is not]V,la-a-šu₂,lāšu,laššu,(there) is not,V,"['𒆷', '𒀀', '𒋙']",𒆷𒀀𒋙,la-a-šu₂,"['complete', 'complete', 'complete']",0.0,,,P527207,6,1,exclusion of litigation
+21720,P527207.6.2,mannu[whoever]'XP,man-⸢nu⸣,mannu,mannu,whoever,QP,"['𒌋𒌋', '𒉡']",𒌋𒌋𒉡,man-⸢nu⸣,"['complete', 'damaged']",0.25,,,P527207,6,2,penalties for litigation: contravention
+21721,P527207.6.3,ša[of]DET,[ša,ša,ša,of,DET,['𒊭'],𒊭,[ša],['missing'],1.0,,,P527207,6,3,penalties for litigation: contravention
+21722,P527207.6.4,ina[at]PRP,ina,ina,ina,at,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,,P527207,6,4,penalties for litigation: contravention
+21723,P527207.6.5,urkeš[later]AV,ur-keš,urkeš,urkiš,later,AV,"['𒌨', '𒆧']",𒌨𒆧,[ur-keš],"['missing', 'missing']",1.0,,,P527207,6,5,penalties for litigation: contravention
+21724,P527207.6.6,ina[at]PRP,ina,ina,ina,at,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,,P527207,6,6,penalties for litigation: contravention
+21725,P527207.6.7,matēma[ever]AV,ma-te-ma],matēma,matīma,ever,AV,"['𒈠', '𒋼', '𒈠']",𒈠𒋼𒈠,[ma-te-ma],"['missing', 'missing', 'missing']",1.0,,,P527207,6,7,penalties for litigation: contravention
+21726,P527207.7.1,ina[at]PRP,ina,ina,ina,at,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,,P527207,7,1,penalties for litigation: contravention
+21727,P527207.7.2,muhhi[concerning]'PRP,UGU,muhhi,muhhu,concerning,N,['𒌋𒅗'],𒌋𒅗,UGU,['complete'],0.0,,,P527207,7,2,penalties for litigation: contravention
+21728,P527207.7.3,x[1]PN,{f}[x-x-x-(x)],x,x,1,PN,"['𒊩', 'X', 'X', 'X', 'X']",𒊩XXXX,{f}[x-x-x-x],"['complete', 'missing', 'missing', 'missing', 'missing']",0.8,PN,,P527207,7,3,penalties for litigation: contravention
+21729,P527207.8.1,issi[with]PRP,⸢TA,issi,išti,with,PRP,['𒋫'],𒋫,⸢TA⸣,['damaged'],0.5,,,P527207,8,1,penalties for litigation: contravention
+21730,P527207.8.2,Šulmu-šarri[1]PN,{m}DI⸣-[mu-MAN,Šulmu-šarri,Šulmu-šarri,1,PN,"['𒁹', '𒁲', '𒈬', '𒌋𒌋']",𒁹𒁲𒈬𒌋𒌋,{⸢m⸣}⸢DI⸣-[mu-MAN],"['damaged', 'damaged', 'missing', 'missing']",0.75,PN,,P527207,8,2,penalties for litigation: contravention
+21731,P527207.8.3,marʾēšu[son]N,DUMU.MEŠ-šu₂],marʾēšu,māru,son,N,"['𒌉', '𒈨𒌍', '𒋙']",𒌉𒈨𒌍𒋙,[DUMU].[MEŠ-šu₂],"['missing', 'missing', 'missing']",1.0,,,P527207,8,3,penalties for litigation: contravention

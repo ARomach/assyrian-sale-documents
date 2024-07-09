@@ -1,0 +1,75 @@
+Unnamed: 0,ref,inst,frag,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,text,line,word,annotation
+1127,P528362.3.1,u,{mi₂}za-la-[x,u,"['𒊩', '𒍝', '𒆷', 'X']",𒊩𒍝𒆷X,{MI₂}za-la-[x],"['complete', 'complete', 'complete', 'missing']",0.25,,,,,P528362,3,1,object sold
+1128,P528362.3.2,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528362,3,2,object sold
+1129,P528362.3.3,X,GEME₂-šu₂],X,"['𒊩𒆳', '𒋙']",𒊩𒆳𒋙,[GEME₂-šu₂],"['missing', 'missing']",1.0,,,,,P528362,3,3,object sold
+1130,P528362.4.1,X,ša,X,['𒊭'],𒊭,ša,['complete'],0.0,,,,,P528362,4,1,object sold
+1131,P528362.4.2,X,{m}SUHUŠ-PAB-[MEŠ],X,"['𒁹', '𒁼', '𒉽', '𒈨𒌍']",𒁹𒁼𒉽𒈨𒌍,{m}SUHUŠ-PAB-[MEŠ],"['complete', 'complete', 'complete', 'missing']",0.25,,,,,P528362,4,2,object sold
+1132,P528362.5.1,X,u₂-piš-ma,X,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,u₂-piš-ma,"['complete', 'complete', 'complete']",0.0,,,,,P528362,5,1,initiation of transaction
+1133,P528362.5.2,x[1]PN,{m}[x,PN,"['𒁹', 'X']",𒁹X,{m}[x],"['complete', 'missing']",0.5,x,x,1.0,PN,P528362,5,2,initiation of transaction
+1134,P528362.5.3,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528362,5,3,initiation of transaction
+1135,P528362.5.4,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528362,5,4,initiation of transaction
+1136,P528362.5.5,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P528362,5,5,initiation of transaction
+1137,P528362.6.1,X,ina,X,['𒀸'],𒀸,ina,['complete'],0.0,,,,,P528362,6,1,price
+1138,P528362.6.2,X,ŠA₃-bi,X,"['𒊮', '𒁉']",𒊮𒁉,ŠA₃-bi,"['complete', 'complete']",0.0,,,,,P528362,6,2,price
+1139,P528362.6.3,n,02,n,['0₂'],0₂,02,['complete'],0.0,,,,NUMBER,P528362,6,3,price
+1140,P528362.6.4,X,⸢MA⸣.[NA,X,"['𒈠', '𒈾']",𒈠𒈾,⸢MA⸣.[NA],"['damaged', 'missing']",0.75,,,,,P528362,6,4,price
+1141,P528362.6.5,X,KU₃.UD],X,"['𒆬', '𒌓']",𒆬𒌓,[KU₃].[UD],"['missing', 'missing']",1.0,,,,,P528362,6,5,price
+1142,P528362.7.1,X,ina,X,['𒀸'],𒀸,ina,['complete'],0.0,,,,,P528362,7,1,price
+1143,P528362.7.2,n,01,n,['01'],01,01,['complete'],0.0,,,,NUMBER,P528362,7,2,price
+1144,P528362.7.3,X,MA.NA,X,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,,,,,P528362,7,3,price
+1145,P528362.7.4,X,⸢ša⸣,X,['𒊭'],𒊭,⸢ša⸣,['damaged'],0.5,,,,,P528362,7,4,price
+1146,P528362.7.5,u,[x,u,['X'],X,[x],['missing'],1.0,,,,,P528362,7,5,price
+1147,P528362.7.6,u,(x,u,['X'],X,[x],['missing'],1.0,,,,,P528362,7,6,price
+1148,P528362.7.7,u,x)],u,['X'],X,[x],['missing'],1.0,,,,,P528362,7,7,price
+1149,P528362.8.1,X,il-qi,X,"['𒅋', '𒆥']",𒅋𒆥,il-qi,"['complete', 'complete']",0.0,,,,,P528362,8,1,completion of transaction
+1150,P528362.8.2,X,kas-pu,X,"['𒆜', '𒁍']",𒆜𒁍,kas-pu,"['complete', 'complete']",0.0,,,,,P528362,8,2,confirmation of transfer 1
+1151,P528362.8.3,X,⸢gam⸣-[mur,X,"['𒃵', '𒄯']",𒃵𒄯,⸢gam⸣-[mur],"['damaged', 'missing']",0.75,,,,,P528362,8,3,confirmation of transfer 1
+1152,P528362.8.4,X,ta-din],X,"['𒋫', '𒁷']",𒋫𒁷,[ta-din],"['missing', 'missing']",1.0,,,,,P528362,8,4,confirmation of transfer 1
+1153,P528362.9.1,X,UN.MEŠ,X,"['𒌦', '𒈨𒌍']",𒌦𒈨𒌍,UN.MEŠ,"['complete', 'complete']",0.0,,,,,P528362,9,1,confirmation of transfer 2
+1154,P528362.9.2,X,za-ar₂-pu,X,"['𒍝', '𒌒', '𒁍']",𒍝𒌒𒁍,za-ar₂-pu,"['complete', 'complete', 'complete']",0.0,,,,,P528362,9,2,confirmation of transfer 2
+1155,P528362.9.3,X,[laq-qi₂-u],X,"['𒋃', '𒆠', '𒌋']",𒋃𒆠𒌋,[laq-qi₂-u],"['missing', 'missing', 'missing']",1.0,,,,,P528362,9,3,confirmation of transfer 2
+1156,P528362.10.1,X,tu-a-ru,X,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,tu-a-ru,"['complete', 'complete', 'complete']",0.0,,,,,P528362,10,1,exclusion of litigation
+1157,P528362.10.2,X,de-⸢e⸣-[nu],X,"['𒁲', '𒂊', '𒉡']",𒁲𒂊𒉡,de-⸢e⸣-[nu],"['complete', 'damaged', 'missing']",0.5,,,,,P528362,10,2,exclusion of litigation
+1158,P528362.11.1,X,da-ba-bu,X,"['𒁕', '𒁀', '𒁍']",𒁕𒁀𒁍,da-ba-bu,"['complete', 'complete', 'complete']",0.0,,,,,P528362,11,1,exclusion of litigation
+1159,P528362.11.2,X,la-⸢aš₂⸣-[šu₂],X,"['𒆷', '𒀾', '𒋙']",𒆷𒀾𒋙,la-⸢aš₂⸣-[šu₂],"['complete', 'damaged', 'missing']",0.5,,,,,P528362,11,2,exclusion of litigation
+1160,P528362.12.1,X,man-nu,X,"['𒌋𒌋', '𒉡']",𒌋𒌋𒉡,man-nu,"['complete', 'complete']",0.0,,,,,P528362,12,1,penalties for litigation: contravention
+1161,P528362.12.2,X,ša₂,X,['𒃻'],𒃻,ša₂,['complete'],0.0,,,,,P528362,12,2,penalties for litigation: contravention
+1162,P528362.12.3,X,ina,X,['𒀸'],𒀸,ina,['complete'],0.0,,,,,P528362,12,3,penalties for litigation: contravention
+1163,P528362.12.4,X,ur-kiš,X,"['𒌨', '𒆧']",𒌨𒆧,ur-kiš,"['complete', 'complete']",0.0,,,,,P528362,12,4,penalties for litigation: contravention
+1164,P528362.12.5,X,[ina,X,['𒀸'],𒀸,[ina],['missing'],1.0,,,,,P528362,12,5,penalties for litigation: contravention
+1165,P528362.12.6,X,ma-te-ma],X,"['𒈠', '𒋼', '𒈠']",𒈠𒋼𒈠,[ma-te-ma],"['missing', 'missing', 'missing']",1.0,,,,,P528362,12,6,penalties for litigation: contravention
+1166,P528362.13.1,X,lu-u,X,"['𒇻', '𒌋']",𒇻𒌋,lu-u,"['complete', 'complete']",0.0,,,,,P528362,13,1,penalties for litigation: contravention
+1167,P528362.13.2,Ubru-ahhe[1]PN,{m}SUHUŠ-⸢PAB⸣.[MEŠ],PN,"['𒁹', '𒁼', '𒉽', '𒈨𒌍']",𒁹𒁼𒉽𒈨𒌍,{m}SUHUŠ-⸢PAB⸣.[MEŠ],"['complete', 'complete', 'damaged', 'missing']",0.38,Ubru-ahhe,Ubru-ahhe,1.0,PN,P528362,13,2,penalties for litigation: contravention
+1168,P528362.17.1,u,⸢x,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,,P528362,17,1,none
+1169,P528362.17.2,u,x⸣,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,,P528362,17,2,none
+1170,P528362.17.3,X,sa,X,['𒊓'],𒊓,sa,['complete'],0.0,,,,,P528362,17,3,none
+1171,P528362.17.4,u,x,u,['X'],X,x,['complete'],0.0,,,,,P528362,17,4,none
+1172,P528362.17.5,u,[x,u,['X'],X,[x],['missing'],1.0,,,,,P528362,17,5,none
+1173,P528362.17.6,u,x]+x,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,,P528362,17,6,none
+1174,P528362.18.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528362,18,1,witness
+1175,P528362.18.2,u,{m}sin-qi-[x,u,"['𒁹', '𒌍', '𒆥', 'X']",𒁹𒌍𒆥X,{m}sin-qi-[x],"['complete', 'complete', 'complete', 'missing']",0.25,,,,,P528362,18,2,witness
+1176,P528362.18.3,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P528362,18,3,witness
+1177,P528362.19.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528362,19,1,witness
+1178,P528362.19.2,u,{m}{d}PA-gab-bu-[x,u,"['𒁹', '𒀭', '𒉺', '𒃮', '𒁍', 'X']",𒁹𒀭𒉺𒃮𒁍X,{m}{d}PA-gab-bu-[x],"['complete', 'complete', 'complete', 'complete', 'complete', 'missing']",0.17,,,,,P528362,19,2,witness
+1179,P528362.19.3,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P528362,19,3,witness
+1180,P528362.20.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528362,20,1,witness
+1181,P528362.20.2,Ṭusi[1]PN,{m}ṭu-si-[i],PN,"['𒁹', '𒂅', '𒋛', '𒄿']",𒁹𒂅𒋛𒄿,{m}ṭu-si-[i],"['complete', 'complete', 'complete', 'missing']",0.25,Ṭusi,Ṭusi,1.0,PN,P528362,20,2,witness
+1182,P528362.21.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528362,21,1,witness
+1183,P528362.21.2,u,{m}aš-šur-bal-liṭ-x+[x],u,"['𒁹', '𒀸', '𒋩', '𒁄', '𒀖', 'X', 'X']",𒁹𒀸𒋩𒁄𒀖XX,{m}aš-šur-bal-liṭ-x+[x],"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'missing']",0.14,,,,,P528362,21,2,witness
+1184,P528362.22.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528362,22,1,witness
+1185,P528362.22.2,u,{m}{d}PA-MU-[x],u,"['𒁹', '𒀭', '𒉺', '𒈬', 'X']",𒁹𒀭𒉺𒈬X,{m}{d}PA-MU-[x],"['complete', 'complete', 'complete', 'complete', 'missing']",0.2,,,,,P528362,22,2,witness
+1186,P528362.23.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528362,23,1,witness
+1187,P528362.23.2,u,{m}PAB-u-a-[x],u,"['𒁹', '𒉽', '𒌋', '𒀀', 'X']",𒁹𒉽𒌋𒀀X,{m}PAB-u-a-[x],"['complete', 'complete', 'complete', 'complete', 'missing']",0.2,,,,,P528362,23,2,witness
+1188,P528362.24.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528362,24,1,witness
+1189,P528362.24.2,Nabu-zeru-x[1]PN,{m}{d}PA-NUMUN-[x],PN,"['𒁹', '𒀭', '𒉺', '𒆰', 'X']",𒁹𒀭𒉺𒆰X,{m}{d}PA-NUMUN-[x],"['complete', 'complete', 'complete', 'complete', 'missing']",0.2,Nabu-zeru-x,Nabu-zeru-x,1.0,PN,P528362,24,2,witness
+1190,P528362.25.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528362,25,1,witness
+1191,P528362.25.2,X,{m}{iti}KIN-a.[a],X,"['𒁹', '𒌗', '𒆥', '𒀀', '𒀀']",𒁹𒌗𒆥𒀀𒀀,{m}{ITI}KIN-a.[a],"['complete', 'complete', 'complete', 'complete', 'missing']",0.2,,,,,P528362,25,2,witness
+1192,P528362.26.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528362,26,1,witness
+1193,P528362.26.2,u,{m}aš-šur-mu-[x],u,"['𒁹', '𒀸', '𒋩', '𒈬', 'X']",𒁹𒀸𒋩𒈬X,{m}aš-šur-mu-[x],"['complete', 'complete', 'complete', 'complete', 'missing']",0.2,,,,,P528362,26,2,witness
+1194,P528362.27.1,X,IGI,X,['𒅆'],𒅆,IGI,['complete'],0.0,,,,,P528362,27,1,witness
+1195,P528362.27.2,Nabu-x[1]PN,{m}{d}PA-[x,PN,"['𒁹', '𒀭', '𒉺', 'X']",𒁹𒀭𒉺X,{m}{d}PA-[x],"['complete', 'complete', 'complete', 'missing']",0.25,Nabu-x,Nabu-x,1.0,PN,P528362,27,2,witness
+1196,P528362.27.3,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P528362,27,3,witness
+1197,P528362.28.1,X,⸢IGI,X,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,,,,,P528362,28,1,witness
+1198,P528362.28.2,x[1]PN,{m⸣}[x,PN,"['𒁹', 'X']",𒁹X,{⸢m⸣}[x],"['damaged', 'missing']",0.75,x,x,1.0,PN,P528362,28,2,witness
+1199,P528362.28.3,u,x,u,['X'],X,[x],['missing'],1.0,,,,,P528362,28,3,witness
+1200,P528362.28.4,u,x],u,['X'],X,[x],['missing'],1.0,,,,,P528362,28,4,witness

@@ -1,0 +1,34 @@
+Unnamed: 0,ref,frag,inst,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,lang,text,line,word,annotation
+13198,P335392.3.1,[x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335392,3,1,object sold
+13199,P335392.3.2,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335392,3,2,object sold
+13200,P335392.3.3,PAB],gimru[total]N,,N,['𒉽'],𒉽,[PAB],['missing'],1.0,gimru,gimru,total,,P335392,3,3,object sold
+13201,P335392.3.4,08,n,NUMBER,n,['𒐍'],𒐍,⸢08⸣,['damaged'],0.5,,,,,P335392,3,4,object sold
+13202,P335392.3.5,ZI-MEŠ,nupšāti[person]N,,N,"['𒍣', '𒈨𒌍']",𒍣𒈨𒌍,ZI-MEŠ,"['complete', 'complete']",0.0,nupšāti,napištu,person,,P335392,3,5,object sold
+13203,P335392.3.6,⸢E₂⸣,bētu[plot of land]N,,N,['𒂍'],𒂍,⸢E₂⸣,['damaged'],0.5,bētu,bītu,plot of land,,P335392,3,6,object sold
+13204,P335392.3.7,[x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335392,3,7,object sold
+13205,P335392.3.8,ANŠE,imārī[a unit of capacity]N,,N,['𒀲'],𒀲,[ANŠE],['missing'],1.0,imārī,imēru,a unit of capacity,,P335392,3,8,object sold
+13206,P335392.3.9,A.ŠA₃],eqlu[land]N,,N,"['𒀀', '𒊮']",𒀀𒊮,[A].[ŠA₃],"['missing', 'missing']",1.0,eqlu,eqlu,land,,P335392,3,9,object sold
+13207,P335392.4.1,{[giš}SAR,kiriu[garden]N,,N,"['𒄑', '𒊬']",𒄑𒊬,{[GIŠ]}[SAR],"['missing', 'missing']",1.0,kiriu,kirû,garden,,P335392,4,1,object sold
+13208,P335392.4.2,x]-⸢lim⸣,u,,u,"['x', '𒅆']",x𒅆,[x]-⸢lim⸣,"['missing', 'damaged']",0.75,,,,,P335392,4,2,object sold
+13209,P335392.4.3,{giš}til-lit,tillit[vine]N,,N,"['𒄑', '𒌀', '𒀖']",𒄑𒌀𒀖,{GIŠ}til-lit,"['complete', 'complete', 'complete']",0.0,tillit,tillatu,vine,,P335392,4,3,object sold
+13210,P335392.4.4,E₂,bētu[house]N,,N,['𒂍'],𒂍,E₂,['complete'],0.0,bētu,bītu,house,,P335392,4,4,object sold
+13211,P335392.4.5,ad-[ru],adru[threshing floor]N,,N,"['𒀜', '𒊒']",𒀜𒊒,ad-[ru],"['complete', 'missing']",0.5,adru,adru,threshing floor,,P335392,4,5,object sold
+13212,P335392.6.1,{⸢giš⸣}MURUB₄,qablu[plantation (of trees)//grove]N$,,N,"['𒄑', '𒉠']",𒄑𒉠,{⸢GIŠ⸣}MURUB₄,"['damaged', 'complete']",0.25,qablu,qablu,grove,,P335392,6,1,object sold
+13213,P335392.6.2,ina,ina[in]PRP,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,P335392,6,2,object sold
+13214,P335392.6.3,{kur}na-gi-⸢i⸣,nagû[region]N$nagî,,N,"['𒆳', '𒈾', '𒄀', '𒄿']",𒆳𒈾𒄀𒄿,{KUR}na-gi-⸢i⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,nagî,nagû,region,,P335392,6,3,object sold
+13215,P335392.6.4,[o],u,,u,['o'],o,[o],['missing'],1.0,,,,,P335392,6,4,object sold
+13216,P335392.7.1,⸢ša₂⸣,ša[of]DET,,DET,['𒃻'],𒃻,⸢ša₂⸣,['damaged'],0.5,ša,ša,of,,P335392,7,1,object sold
+13217,P335392.7.2,{uru}KASKAL,Harrani[Harran]GN,GN,GN,"['𒌷', '𒆜']",𒌷𒆜,{URU}KASKAL,"['complete', 'complete']",0.0,Harrani,Harranu,Harran,,P335392,7,2,object sold
+13218,P335392.7.3,u₂-piš-ma,uppišma[contract]V,,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,u₂-piš-ma,"['complete', 'complete', 'complete']",0.0,uppišma,epēšu,contract,,P335392,7,3,initiation of transaction
+13219,P335392.8.1,{1}⸢rem₂⸣-a-ni—{d}IM,Remanni-Adad[1]PN,PN,PN,"['𒁹', '𒀖', '𒀀', '𒉌', '𒀭', '𒅎']",𒁹𒀖𒀀𒉌𒀭𒅎,{[1]}⸢rem₂⸣-a-ni-{d}IM,"['missing', 'damaged', 'complete', 'complete', 'complete', 'complete']",0.25,Remanni-Adad,Remanni-Adad,1,,P335392,8,1,initiation of transaction
+13220,P335392.9.1,{[lu₂}mu]-⸢kil⸣—PA-MEŠ,mukillu[holder]N$mukīl&appatu[bridle]N$appāti,,N,"['𒇽', '𒈬', '𒆸', '𒉺', '𒈨𒌍']",𒇽𒈬𒆸𒉺𒈨𒌍,{[LU₂]}[mu]-⸢kil⸣-PA-MEŠ,"['missing', 'missing', 'damaged', 'complete', 'complete']",0.5,mukīl,mukillu,holder,,P335392,9,1,initiation of transaction
+13222,P335392.11.1,[ina,ina[in+=for]PRP,,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,P335392,11,1,price
+13223,P335392.11.2,ŠA₃,libbi[interior]N,,N,['𒊮'],𒊮,[ŠA₃],['missing'],1.0,libbi,libbu,interior,,P335392,11,2,price
+13224,P335392.11.3,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335392,11,3,price
+13225,P335392.11.4,MA].⸢NA⸣,manê[a unit of weight]N,,N,"['𒈠', '𒈾']",𒈠𒈾,[MA].⸢NA⸣,"['missing', 'damaged']",0.75,manê,manû,a unit of weight,,P335392,11,4,price
+13226,P335392.11.5,KUG.UD,ṣarpi[silver]N,,N,"['𒆬', '𒌓']",𒆬𒌓,KUG.UD,"['complete', 'complete']",0.0,ṣarpi,ṣarpu,silver,,P335392,11,5,price
+13227,P335392.11.6,⸢ša⸣,ša[of]DET,,DET,['𒊭'],𒊭,⸢ša⸣,['damaged'],0.5,ša,ša,of,,P335392,11,6,price
+13228,P335392.12.1,{[uru}gar-ga-mis,Gargamis[Carchemish]GN,GN,GN,"['𒌷', '𒃻', '𒂵', '𒈩']",𒌷𒃻𒂵𒈩,{[URU]}[gar-ga-mis],"['missing', 'missing', 'missing', 'missing']",1.0,Gargamis,Gargamis,Carchemish,,P335392,12,1,price
+13229,P335392.12.2,x,u,,u,['x'],x,[x],['missing'],1.0,,,,,P335392,12,2,none
+13230,P335392.12.3,x]+⸢x,u,,u,"['x', 'x']",xx,[x]+⸢x⸣,"['missing', 'damaged']",0.75,,,,,P335392,12,3,none
+13231,P335392.12.4,x⸣+[x],u,,u,"['x', 'x']",xx,⸢x⸣+[x],"['damaged', 'missing']",0.75,,,,,P335392,12,4,none

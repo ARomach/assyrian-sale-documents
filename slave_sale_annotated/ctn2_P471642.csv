@@ -1,0 +1,75 @@
+Unnamed: 0,ref,inst,frag,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,text,line,word,annotation
+1431,P471642.3.1,Ahu-...[1]PN,{1}PAB-⸢x,PN,"['𒁹', '𒉽', 'X']",𒁹𒉽X,{1}PAB-⸢x⸣,"['complete', 'complete', 'damaged']",0.17,Ahu-...,Ahu-...,1,PN,P471642,3,1,object sold
+1432,P471642.3.2,u,x⸣,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,,P471642,3,2,object sold
+1433,P471642.3.3,u,[x],u,['X'],X,[x],['missing'],1.0,,,,,P471642,3,3,object sold
+1434,P471642.3.4,+Ilu-mušabši[]PN$,{1}DINGIR-mu-šab-ši⸣,PN,"['𒁹', '𒀭', '𒈬', '𒉺𒅁', '𒅆']",𒁹𒀭𒈬𒉺𒅁𒅆,{⸢1⸣}⸢DINGIR-mu-šab-ši⸣,"['damaged', 'damaged', 'damaged', 'damaged', 'damaged']",0.5,Ilu-mušabši,Ilu-mušabši,1,PN,P471642,3,4,object sold
+1435,P471642.4.1,+Šeʾi-Issar[]PN$,{1}še-ʾi-{d}INNIN,PN,"['𒁹', '𒊺', '𒀪', '𒀭', '𒈹']",𒁹𒊺𒀪𒀭𒈹,{1}še-ʾi-{d}INNIN,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Šeʾi-Issar,Šeʾi-Issar,1,PN,P471642,4,1,object sold
+1436,P471642.4.2,+Uburtu-ahheša[]PN$,{mi₂}u₂-bur-tu-PAB-MEŠ-ša,PN,"['𒊩', '𒌑', '𒁓', '𒌅', '𒉽', '𒈨𒌍', '𒊭']",𒊩𒌑𒁓𒌅𒉽𒈨𒌍𒊭,{MI₂}u₂-bur-tu-PAB-MEŠ-ša,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,Uburtu-ahheša,Uburtu-ahheša,1,PN,P471642,4,2,object sold
+1437,P471642.5.1,+Hadi-abuša[]PN$,{mi₂}ha-di-AD-ša,PN,"['𒊩', '𒄩', '𒁲', '𒀜', '𒊭']",𒊩𒄩𒁲𒀜𒊭,{MI₂}ha-di-AD-ša,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Hadi-abuša,Hadi-abuša,1,PN,P471642,5,1,object sold
+1438,P471642.5.2,+Rišutu[]PN$,{mi₂}ri-šu-tu₂,PN,"['𒊩', '𒊑', '𒋗', '𒌓']",𒊩𒊑𒋗𒌓,{MI₂}ri-šu-tu₂,"['complete', 'complete', 'complete', 'complete']",0.0,Rišutu,Rišutu,1,PN,P471642,5,2,object sold
+1439,P471642.6.1,gimru[total]N,PAB,N,['𒉽'],𒉽,PAB,['complete'],0.0,gimru,gimru,total,,P471642,6,1,object sold
+1440,P471642.6.2,n,06,n,['0₆'],0₆,06,['complete'],0.0,,,,NUMBER,P471642,6,2,object sold
+1441,P471642.6.3,nupšāti[person]N,ZI-MEŠ,N,"['𒍣', '𒈨𒌍']",𒍣𒈨𒌍,ZI-MEŠ,"['complete', 'complete']",0.0,nupšāti,napištu,person,,P471642,6,3,object sold
+1442,P471642.6.4,ša[of]DET,ša,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,P471642,6,4,object sold
+1443,P471642.6.5,Bel-ali[1]PN,{1}EN-URU,PN,"['𒁹', '𒂗', '𒌷']",𒁹𒂗𒌷,{1}EN-URU,"['complete', 'complete', 'complete']",0.0,Bel-ali,Bel-ali,1,PN,P471642,6,5,object sold
+1444,P471642.7.1,mār[son]N,DUMU,N,['𒌉'],𒌉,DUMU,['complete'],0.0,mār,māru,son,,P471642,7,1,object sold
+1445,P471642.7.2,Mušezib-ilu[1]PN,{1}mu-še-zib-DINGIR,PN,"['𒁹', '𒈬', '𒊺', '𒍦', '𒀭']",𒁹𒈬𒊺𒍦𒀭,{1}mu-še-zib-DINGIR,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Mušezib-ilu,Mušezib-ilu,1,PN,P471642,7,2,object sold
+1446,P471642.7.3,tupšarru[scribe]N,{lu₂}A.BA,N,"['𒇽', '𒀀', '𒁀']",𒇽𒀀𒁀,{LU₂}A.BA,"['complete', 'complete', 'complete']",0.0,tupšarru,ṭupšarru,scribe,,P471642,7,3,object sold
+1447,P471642.8.1,bēt[house]N&ili[god]N,E₂-DINGIR,N,"['𒂍', '𒀭']",𒂍𒀭,E₂-DINGIR,"['complete', 'complete']",0.0,bēt,bītu,house,,P471642,8,1,object sold
+1449,P471642.8.2,ša[of]DET,ša,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,P471642,8,2,object sold
+1450,P471642.8.3,Libbi-ali[Inner City (Assur)]GN,{uru}ŠA₃-URU,GN,"['𒌷', '𒊮', '𒌷']",𒌷𒊮𒌷,{URU}ŠA₃-URU,"['complete', 'complete', 'complete']",0.0,Libbi-ali,Libbi-ali,Inner City (Assur),GN,P471642,8,3,object sold
+1451,P471642.9.1,uppišma[contract]V,up-piš-ma,V,"['𒌒', '𒄫', '𒈠']",𒌒𒄫𒈠,up-piš-ma,"['complete', 'complete', 'complete']",0.0,uppišma,epēšu,contract,,P471642,9,1,initiation of transaction
+1452,P471642.9.2,ina[in]PRP,ina,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,P471642,9,2,price
+1453,P471642.9.3,libbi[interior]N,ŠA₃-bi,N,"['𒊮', '𒁉']",𒊮𒁉,ŠA₃-bi,"['complete', 'complete']",0.0,libbi,libbu,interior,,P471642,9,3,price
+1454,P471642.9.4,n,02,n,['0₂'],0₂,02,['complete'],0.0,,,,NUMBER,P471642,9,4,price
+1455,P471642.9.5,manā[a unit of weight]N,MA.NA,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manā,manû,a unit of weight,,P471642,9,5,price
+1456,P471642.9.6,ṣarpi[silver]N,KUG.UD,N,"['𒆬', '𒌓']",𒆬𒌓,KUG.UD,"['complete', 'complete']",0.0,ṣarpi,ṣarpu,silver,,P471642,9,6,price
+1457,P471642.10.1,ina[in]PRP,ina,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,P471642,10,1,price
+1458,P471642.10.2,libbi[interior]N,ŠA₃,N,['𒊮'],𒊮,ŠA₃,['complete'],0.0,libbi,libbu,interior,,P471642,10,2,price
+1459,P471642.10.3,n,01,n,['01'],01,01,['complete'],0.0,,,,NUMBER,P471642,10,3,price
+1460,P471642.10.4,manā[a unit of weight]N,MA.NA,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manā,manû,a unit of weight,,P471642,10,4,price
+1461,P471642.10.5,ša[of]DET,ša,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,P471642,10,5,price
+1462,P471642.10.6,tankāri[merchant]N,{lu₂}DAM.QAR,N,"['𒇽', '𒁮', '𒃼']",𒇽𒁮𒃼,{LU₂}DAM.QAR,"['complete', 'complete', 'complete']",0.0,tankāri,tamkāru,merchant,,P471642,10,6,price
+1463,P471642.11.1,ana[to]PRP,a-na,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,ana,ana,to,,P471642,11,1,completion of transaction
+1464,P471642.11.2,+Nabu-tuklatuʾa[]PN$Nabu-tuklatu-ṣalli,{1}{d}PA-tuk-la-tu-⸢u₂-ṣal-li⸣,PN,"['𒁹', '𒀭', '𒉺', '𒌇', '𒆷', '𒌅', '𒌑', '𒉌', '𒇷']",𒁹𒀭𒉺𒌇𒆷𒌅𒌑𒉌𒇷,{1}{d}PA-tuk-la-tu-⸢u₂-ṣal-li⸣,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'damaged', 'damaged', 'damaged']",0.17,Nabu-tuklatu-ṣalli,Nabu-tuklatuʾa,1,PN,P471642,11,2,completion of transaction
+1465,P471642.13.1,tupšar[scribe]N&ēkalli[palace]N,{lu₂}DUB.SAR-E₂.GAL,N,"['𒇽', '𒁾', '𒊬', '𒂍', '𒃲']",𒇽𒁾𒊬𒂍𒃲,{LU₂}DUB.SAR-E₂.GAL,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,tupšar,ṭupšarru,scribe,,P471642,13,1,completion of transaction
+1467,P471642.13.2,iddin[sell]V,⸢i-din⸣,V,"['𒄿', '𒁷']",𒄿𒁷,⸢i-din⸣,"['damaged', 'damaged']",0.5,iddin,tadānu,sell,,P471642,13,2,completion of transaction
+1468,P471642.14.1,kaspu[money]N,kas₂-pu,N,"['𒁉', '𒁍']",𒁉𒁍,kas₂-pu,"['complete', 'complete']",0.0,kaspu,kaspu,money,,P471642,14,1,confirmation of transfer 1
+1469,P471642.14.2,gammur[completed]AJ,ga-mur,AJ,"['𒂵', '𒄯']",𒂵𒄯,ga-mur,"['complete', 'complete']",0.0,gammur,gammuru,completed,,P471642,14,2,confirmation of transfer 1
+1470,P471642.14.3,tadni[paid]AJ,SUM-⸢ni⸣,AJ,"['𒋧', '𒉌']",𒋧𒉌,SUM-⸢ni⸣,"['complete', 'damaged']",0.25,tadni,tadnu,paid,,P471642,14,3,confirmation of transfer 1
+1471,P471642.15.1,nišē[people]N,UN-MEŠ,N,"['𒌦', '𒈨𒌍']",𒌦𒈨𒌍,UN-MEŠ,"['complete', 'complete']",0.0,nišē,nišu,people,,P471642,15,1,confirmation of transfer 2
+1472,P471642.15.2,zarpu[purchased]AJ,⸢za-ar⸣-pu,AJ,"['𒍝', '𒅈', '𒁍']",𒍝𒅈𒁍,⸢za-ar⸣-pu,"['damaged', 'damaged', 'complete']",0.33,zarpu,zarpu,purchased,,P471642,15,2,confirmation of transfer 2
+1473,P471642.15.3,laqiu[acquired]AJ,la-[qi-u],AJ,"['𒆷', '𒆥', '𒌋']",𒆷𒆥𒌋,la-[qi-u],"['complete', 'missing', 'missing']",0.67,laqiu,leqû,acquired,,P471642,15,3,confirmation of transfer 2
+1474,P471642.17.1,šummu[if]MOD,šum₂-mu,MOD,"['𒋧', '𒈬']",𒋧𒈬,šum₂-mu,"['complete', 'complete']",0.0,šummu,šumma,if,,P471642,17,1,guarantee clauses for slaves
+1475,P471642.17.2,nišē[people]N,⸢UN-MEŠ,N,"['𒌦', '𒈨𒌍']",𒌦𒈨𒌍,⸢UN-MEŠ⸣,"['damaged', 'damaged']",0.5,nišē,nišu,people,,P471642,17,2,guarantee clauses for slaves
+1476,P471642.17.3,šâtunu[those]DP,ša-tu-nu⸣,DP,"['𒊭', '𒌅', '𒉡']",𒊭𒌅𒉡,⸢ša-tu-nu⸣,"['damaged', 'damaged', 'damaged']",0.5,šâtunu,šâtunu,those,,P471642,17,3,guarantee clauses for slaves
+1477,P471642.18.1,ina[in]PRP,ina,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,,P471642,18,1,guarantee clauses for slaves
+1478,P471642.18.2,durāri[debt-remission]N,du-ra-ri,N,"['𒁺', '𒊏', '𒊑']",𒁺𒊏𒊑,du-ra-ri,"['complete', 'complete', 'complete']",0.0,durāri,andurāru,debt-remission,,P471642,18,2,guarantee clauses for slaves
+1479,P471642.18.3,uṣṣū[go out]V,u₂-ṣu-u₂,V,"['𒌑', '𒍮', '𒌑']",𒌑𒍮𒌑,u₂-ṣu-u₂,"['complete', 'complete', 'complete']",0.0,uṣṣū,aṣû,go out,,P471642,18,3,guarantee clauses for slaves
+1480,P471642.19.1,Bel-ali[1]PN,{1}EN-URU,PN,"['𒁹', '𒂗', '𒌷']",𒁹𒂗𒌷,{1}EN-URU,"['complete', 'complete', 'complete']",0.0,Bel-ali,Bel-ali,1,PN,P471642,19,1,guarantee clauses for slaves
+1481,P471642.19.2,kaspu[money]N,kas₂-pu,N,"['𒁉', '𒁍']",𒁉𒁍,kas₂-pu,"['complete', 'complete']",0.0,kaspu,kaspu,money,,P471642,19,2,guarantee clauses for slaves
+1482,P471642.19.3,ana[for]PRP,a-na,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,ana,ana,for,,P471642,19,3,guarantee clauses for slaves
+1483,P471642.19.4,bēlēšu[owner]N,EN-MEŠ-šu₂,N,"['𒂗', '𒈨𒌍', '𒋙']",𒂗𒈨𒌍𒋙,EN-MEŠ-šu₂,"['complete', 'complete', 'complete']",0.0,bēlēšu,bēlu,owner,,P471642,19,4,guarantee clauses for slaves
+1484,P471642.20.1,utâra[return]V,u₂-ta-a-ra,V,"['𒌑', '𒋫', '𒀀', '𒊏']",𒌑𒋫𒀀𒊏,u₂-ta-a-ra,"['complete', 'complete', 'complete', 'complete']",0.0,utâra,târu,return,,P471642,20,1,guarantee clauses for slaves
+1485,P471642.22.1,šību[witness]N,IGI,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P471642,22,1,witness
+1486,P471642.22.2,Mušezib-Aššur[1]PN,{1}mu-še-zib-aš-šur,PN,"['𒁹', '𒈬', '𒊺', '𒍦', '𒀸', '𒋩']",𒁹𒈬𒊺𒍦𒀸𒋩,{1}mu-še-zib-aš-šur,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,Mušezib-Aššur,Mušezib-Aššur,1,PN,P471642,22,2,witness
+1487,P471642.22.3,šību[witness]N,IGI,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P471642,22,3,witness
+1488,P471642.22.4,Duri-Aššur[1]PN,{1}BAD₃-aš-šur,PN,"['𒁹', '𒂦', '𒀸', '𒋩']",𒁹𒂦𒀸𒋩,{1}BAD₃-aš-šur,"['complete', 'complete', 'complete', 'complete']",0.0,Duri-Aššur,Duri-Aššur,1,PN,P471642,22,4,witness
+1489,P471642.23.1,šību[witness]N,IGI,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P471642,23,1,witness
+1490,P471642.23.2,+Išmanni-Issar[]PN$,{1}iš-ma-ni-{d}INNIN,PN,"['𒁹', '𒅖', '𒈠', '𒉌', '𒀭', '𒈹']",𒁹𒅖𒈠𒉌𒀭𒈹,{1}iš-ma-ni-{d}INNIN,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,Išmanni-Issar,Išmanni-Issar,1,PN,P471642,23,2,witness
+1491,P471642.23.3,šību[witness]N,IGI,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P471642,23,3,witness
+1492,P471642.23.4,Abu-ṭaba[1]PN,{1}AD-DUG₃.GA,PN,"['𒁹', '𒀜', '𒄭', '𒂵']",𒁹𒀜𒄭𒂵,{1}AD-DUG₃.GA,"['complete', 'complete', 'complete', 'complete']",0.0,Abu-ṭaba,Abu-ṭaba,1,PN,P471642,23,4,witness
+1493,P471642.24.1,gimru[total]N,PAB,N,['𒉽'],𒉽,PAB,['complete'],0.0,gimru,gimru,total,,P471642,24,1,witness
+1494,P471642.24.2,n,04,n,['0₄'],0₄,04,['complete'],0.0,,,,NUMBER,P471642,24,2,witness
+1495,P471642.24.3,marʾē[son]N,DUMU-MEŠ,N,"['𒌉', '𒈨𒌍']",𒌉𒈨𒌍,DUMU-MEŠ,"['complete', 'complete']",0.0,marʾē,māru,son,,P471642,24,3,witness
+1496,P471642.24.4,+Inurta-nišeka-uṣur[]PN$,{1}{d}MAŠ-UN-MEŠ-ka-PAB,PN,"['𒁹', '𒀭', '𒈦', '𒌦', '𒈨𒌍', '𒅗', '𒉽']",𒁹𒀭𒈦𒌦𒈨𒌍𒅗𒉽,{1}{d}MAŠ-UN-MEŠ-ka-PAB,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,Inurta-nišeka-uṣur,Inurta-nišeka-uṣur,1,PN,P471642,24,4,witness
+1497,P471642.25.1,ahhēšu[brother]N,ŠEŠ-MEŠ-šu₂,N,"['𒋀', '𒈨𒌍', '𒋙']",𒋀𒈨𒌍𒋙,ŠEŠ-MEŠ-šu₂,"['complete', 'complete', 'complete']",0.0,ahhēšu,ahu,brother,,P471642,25,1,witness
+1498,P471642.25.2,Ahu-ilaʾi[1]PN,{1}ŠEŠ-DINGIR-a.a,PN,"['𒁹', '𒋀', '𒀭', '𒀀', '𒀀']",𒁹𒋀𒀭𒀀𒀀,{1}ŠEŠ-DINGIR-a.a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Ahu-ilaʾi,Ahu-ilaʾi,1,PN,P471642,25,2,witness
+1499,P471642.26.1,šību[witness]N,IGI,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,,P471642,26,1,witness
+1500,P471642.26.2,Ilu-leʾi[1]PN,{1}DINGIR-ZU,PN,"['𒁹', '𒀭', '𒍪']",𒁹𒀭𒍪,{1}DINGIR-ZU,"['complete', 'complete', 'complete']",0.0,Ilu-leʾi,Ilu-leʾi,1,PN,P471642,26,2,witness
+1501,P471642.26.3,+ṭupšarru[scribe]N$tupšar&+kisittu[branches]N$kisitti,{lu₂}A.BA-ki-si-ti,N,"['𒇽', '𒀀', '𒁀', '𒆠', '𒋛', '𒋾']",𒇽𒀀𒁀𒆠𒋛𒋾,{LU₂}A.BA-ki-si-ti,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,tupšar,ṭupšarru,scribe,,P471642,26,3,witness
+1503,P471642.27.1,šību[witness]N,⸢IGI⸣,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,šību,šību,witness,,P471642,27,1,witness
+1504,P471642.27.2,Mušezib-Aššur[1]PN,{1}mu-še-zib-⸢aš-šur,PN,"['𒁹', '𒈬', '𒊺', '𒍦', '𒀸', '𒋩']",𒁹𒈬𒊺𒍦𒀸𒋩,{1}mu-še-zib-⸢aš-šur⸣,"['complete', 'complete', 'complete', 'complete', 'damaged', 'damaged']",0.17,Mušezib-Aššur,Mušezib-Aššur,1,PN,P471642,27,2,witness
+1505,P471642.27.3,atû[gatekeeper]N,{lu₂}I₃.DU₈⸣,N,"['𒇽', '𒉌', '𒃮']",𒇽𒉌𒃮,{⸢LU₂⸣}⸢I₃⸣.⸢DU₈⸣,"['damaged', 'damaged', 'damaged']",0.5,atû,atû,gatekeeper,,P471642,27,3,witness
+1506,P471642.27.4,ša[of]DET,ša₂,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,ša,ša,of,,P471642,27,4,witness
+1507,P471642.27.5,ēkalli[palace]N,E₂.GAL,N,"['𒂍', '𒃲']",𒂍𒃲,E₂.GAL,"['complete', 'complete']",0.0,ēkalli,ēkallu,palace,,P471642,27,5,witness

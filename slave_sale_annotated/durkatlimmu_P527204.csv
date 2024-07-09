@@ -1,0 +1,17 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+3542,P527204.3.1,x-Salmanu[1]PN,{[m}x-x]-{d}DI-[man,x-Salmanu,x-Salmanu,1,PN,"['𒁹', 'X', 'X', '𒀭', '𒁲', '𒌋𒌋']",𒁹XX𒀭𒁲𒌋𒌋,{[m]}[x-x]-{d}DI-[man],"['missing', 'missing', 'missing', 'complete', 'complete', 'missing']",0.67,PN,,P527204,3,1,object sold
+3543,P527204.3.2,urdušu[servant]N,ARAD-šu₂],urdušu,ardu,servant,N,"['𒀴', '𒋙']",𒀴𒋙,[ARAD-šu₂],"['missing', 'missing']",1.0,,,P527204,3,2,object sold
+3544,P527204.4.1,uppišma[contract]V,[u₂-piš]-ma,uppišma,epēšu,contract,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,[u₂-piš]-ma,"['missing', 'missing', 'complete']",0.67,,,P527204,4,1,initiation of transaction
+3545,P527204.4.2,Šulmu-šarri[1]PN,{m}⸢DI⸣-[mu-MAN],Šulmu-šarri,Šulmu-šarri,1,PN,"['𒁹', '𒁲', '𒈬', '𒌋𒌋']",𒁹𒁲𒈬𒌋𒌋,{m}⸢DI⸣-[mu-MAN],"['complete', 'damaged', 'missing', 'missing']",0.62,PN,,P527204,4,2,initiation of transaction
+3546,P527204.5.1,issi[with]PRP,[TA,issi,išti,with,PRP,['𒋫'],𒋫,[TA],['missing'],1.0,,,P527204,5,1,completion of transaction
+3547,P527204.5.2,šību[witness]N,IGI],šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527204,5,2,completion of transaction
+3548,P527204.5.3,+Ṣalla[]PN$,{m}ṣa-al-[la-a],Ṣalla,Ṣalla,1,PN,"['𒁹', '𒍝', '𒀠', '𒆷', '𒀀']",𒁹𒍝𒀠𒆷𒀀,{m}ṣa-al-[la-a],"['complete', 'complete', 'complete', 'missing', 'missing']",0.4,PN,,P527204,5,3,completion of transaction
+3549,P527204.6.1,ina[at]PRP,[ina,ina,ina,at,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,,,P527204,6,1,price
+3550,P527204.6.2,libbi[interior]N,ŠA₃-bi],libbi,libbu,interior,N,"['𒊮', '𒁉']",𒊮𒁉,[ŠA₃-bi],"['missing', 'missing']",1.0,,,P527204,6,2,price
+3551,P527204.6.3,n,12,,,,n,['𒌋𒈫'],𒌋𒈫,12,['complete'],0.0,NUMBER,,P527204,6,3,price
+3552,P527204.6.4,šiqlī[a unit of weight]N,⸢GIN₂⸣.[MEŠ,šiqlī,šiqlu,a unit of weight,N,"['𒂆', '𒈨𒌍']",𒂆𒈨𒌍,⸢GIN₂⸣.[MEŠ],"['damaged', 'missing']",0.75,,,P527204,6,4,price
+3553,P527204.6.5,ṣarpi[silver]N,KU₃.BABBAR],ṣarpi,ṣarpu,silver,N,"['𒆬', '𒌓']",𒆬𒌓,[KU₃].[BABBAR],"['missing', 'missing']",1.0,,,P527204,6,5,price
+3554,P527204.7.1,ilqe[purchase]V,[il-qe,ilqe,leqû,purchase,V,"['𒅋', '𒆥']",𒅋𒆥,[il-qe],"['missing', 'missing']",1.0,,,P527204,7,1,completion of transaction
+3555,P527204.7.2,kaspu[money]N,kas-pu,kaspu,kaspu,money,N,"['𒆜', '𒁍']",𒆜𒁍,[kas-pu],"['missing', 'missing']",1.0,,,P527204,7,2,confirmation of transfer 1
+3556,P527204.7.3,gammur[completed]AJ,gam]-mur,gammur,gammuru,completed,AJ,"['𒃵', '𒄯']",𒃵𒄯,[gam]-mur,"['missing', 'complete']",0.5,,,P527204,7,3,confirmation of transfer 1
+3557,P527204.7.4,tadin[paid]AJ,⸢ta⸣-[din],tadin,tadnu,paid,AJ,"['𒋫', '𒁷']",𒋫𒁷,⸢ta⸣-[din],"['damaged', 'missing']",0.75,,,P527204,7,4,confirmation of transfer 1

@@ -1,0 +1,46 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+25803,P335398.3.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335398,3,1,object sold
+25804,P335398.3.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335398,3,2,object sold
+25805,P335398.3.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335398,3,3,object sold
+25806,P335398.3.4,x]-a,u,u,"['x', '𒀀']",x𒀀,[x]-a,"['missing', 'complete']",0.5,,,,,,P335398,3,4,object sold
+25807,P335398.3.5,{1}ba-aš₂-ša₂-ša₂,Baššaša[1]PN$,PN,"['𒁹', '𒁀', '𒀾', '𒃻', '𒃻']",𒁹𒁀𒀾𒃻𒃻,{1}ba-aš₂-ša₂-ša₂,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Baššaša,Baššaša,1,PN,,P335398,3,5,object sold
+25808,P335398.3.6,PAB,gimru[total]N,N,['𒉽'],𒉽,PAB,['complete'],0.0,gimru,gimru,total,,,P335398,3,6,object sold
+25809,P335398.3.7,02,n,n,['𒈫'],𒈫,02,['complete'],0.0,,,,NUMBER,,P335398,3,7,object sold
+25810,P335398.3.8,LU₂-MEŠ,amēlē[man]N,N,"['𒇽', '𒈨𒌍']",𒇽𒈨𒌍,LU₂-MEŠ,"['complete', 'complete']",0.0,amēlē,awīlu,man,,,P335398,3,8,object sold
+25811,P335398.4.1,[x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335398,4,1,object sold
+25812,P335398.4.2,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335398,4,2,object sold
+25813,P335398.4.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335398,4,3,object sold
+25814,P335398.4.4,x]+⸢x⸣—MAN,u,u,"['x', 'x', '𒌋𒌋']",xx𒌋𒌋,[x]+⸢x⸣-MAN,"['missing', 'damaged', 'complete']",0.5,,,,,,P335398,4,4,object sold
+25815,P335398.4.5,DUMU.MI₂-sa,marʾassa[daughter]N,N,"['𒌉', '𒊩', '𒊓']",𒌉𒊩𒊓,DUMU.MI₂-sa,"['complete', 'complete', 'complete']",0.0,marʾassa,mārtu,daughter,,,P335398,4,5,object sold
+25816,P335398.4.6,PAB,gimru[total]N,N,['𒉽'],𒉽,PAB,['complete'],0.0,gimru,gimru,total,,,P335398,4,6,object sold
+25817,P335398.4.7,18,n,n,['𒌋𒐍'],𒌋𒐍,18,['complete'],0.0,,,,NUMBER,,P335398,4,7,object sold
+25818,P335398.4.8,ZI-MEŠ,nupšāti[person]N,N,"['𒍣', '𒈨𒌍']",𒍣𒈨𒌍,ZI-MEŠ,"['complete', 'complete']",0.0,nupšāti,napištu,person,,,P335398,4,8,object sold
+25819,P335398.5.1,{[uru}ŠE—{1}x,u,u,"['𒌷', '𒊺', '𒁹', 'x']",𒌷𒊺𒁹x,{[URU]}[ŠE]-{[1]}[x],"['missing', 'missing', 'missing', 'missing']",1.0,,,,,,P335398,5,1,object sold
+25820,P335398.5.2,x]—MU—AŠ,u,u,"['x', '𒈬', '𒀸']",x𒈬𒀸,[x]-MU-AŠ,"['missing', 'complete', 'complete']",0.33,,,,,,P335398,5,2,object sold
+25821,P335398.5.3,a-na,ana[to+=in its totality]PRP,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,ana,ana,to,,,P335398,5,3,object sold
+25822,P335398.5.4,gi-mir-ti-šu₂,gimirtīšu[totality]N,N,"['𒄀', '𒂇', '𒋾', '𒋙']",𒄀𒂇𒋾𒋙,gi-mir-ti-šu₂,"['complete', 'complete', 'complete', 'complete']",0.0,gimirtīšu,gimirtu,totality,,,P335398,5,4,object sold
+25823,P335398.6.1,[u₂-piš-ma,uppišma[contract]V,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,[u₂-piš-ma],"['missing', 'missing', 'missing']",1.0,uppišma,epēšu,contract,,,P335398,6,1,initiation of transaction
+25824,P335398.6.2,{1}x,u,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,,P335398,6,2,initiation of transaction
+25825,P335398.6.3,x]—DINGIR-a.a,u,u,"['x', '𒀭', '𒀀', '𒀀']",x𒀭𒀀𒀀,[x]-DINGIR-a.a,"['missing', 'complete', 'complete', 'complete']",0.25,,,,,,P335398,6,3,initiation of transaction
+25826,P335398.6.4,{lu₂v}03-šu₂,tašlīšu[third man on chariot]N,N,"['𒇽', '𒐈', '𒋙']",𒇽𒐈𒋙,{LU₂~v}03-šu₂,"['complete', 'complete', 'complete']",0.0,tašlīšu,tašlīšu,third man on chariot,,,P335398,6,4,initiation of transaction
+25827,P335398.7.1,[TA@v,issu[from+=from]PRP,PRP,['𒋬'],𒋬,[TA@v],['missing'],1.0,issu,ištu,from,,,P335398,7,1,completion of transaction
+25828,P335398.7.2,IGI,pān[front]N,N,['𒅆'],𒅆,[IGI],['missing'],1.0,pān,pānu,front,,,P335398,7,2,completion of transaction
+25829,P335398.7.3,{1}x,u,u,"['𒁹', 'x']",𒁹x,{[1]}[x],"['missing', 'missing']",1.0,,,,,,P335398,7,3,completion of transaction
+25830,P335398.7.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335398,7,4,completion of transaction
+25831,P335398.7.5,x]-me,u,u,"['x', '𒈨']",x𒈨,[x]-me,"['missing', 'complete']",0.5,,,,,,P335398,7,5,completion of transaction
+25832,P335398.7.6,{lu₂v}GAL—TUG₂.KA.KEŠ₂,rabû[big one]N$rab&kāṣiru[tailor]N$kāṣiri,N,"['𒇽', '𒃲', '𒌆', '𒅗', '𒆟']",𒇽𒃲𒌆𒅗𒆟,{LU₂~v}GAL-TUG₂.KA.KEŠ₂,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,rab,rabû,big one,,,P335398,7,6,completion of transaction
+25834,P335398.8.1,[ina,ina[in+=for]PRP,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,,P335398,8,1,price
+25835,P335398.8.2,ŠA₃-bi,libbi[interior]N,N,"['𒊮', '𒁉']",𒊮𒁉,[ŠA₃-bi],"['missing', 'missing']",1.0,libbi,libbu,interior,,,P335398,8,2,price
+25836,P335398.8.3,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335398,8,3,price
+25837,P335398.8.4,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335398,8,4,price
+25838,P335398.8.5,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335398,8,5,price
+25839,P335398.8.6,x,u,u,['x'],x,[x],['missing'],1.0,,,,,,P335398,8,6,price
+25840,P335398.8.7,x],u,u,['x'],x,[x],['missing'],1.0,,,,,,P335398,8,7,price
+25841,P335398.8.8,⸢il⸣-qi₂,ilqi[purchase]V,V,"['𒅋', '𒆠']",𒅋𒆠,⸢il⸣-qi₂,"['damaged', 'complete']",0.25,ilqi,leqû,purchase,,,P335398,8,8,completion of transaction
+25842,P335398.8.9,kas-⸢pu⸣,kaspu[money]N,N,"['𒆜', '𒁍']",𒆜𒁍,kas-⸢pu⸣,"['complete', 'damaged']",0.25,kaspu,kaspu,money,,,P335398,8,9,confirmation of transfer 1
+25843,P335398.9.1,[gam-mur,gammur[completed]AJ,AJ,"['𒃵', '𒄯']",𒃵𒄯,[gam-mur],"['missing', 'missing']",1.0,gammur,gammuru,completed,,,P335398,9,1,confirmation of transfer 1
+25844,P335398.9.2,ta-din,tadin[paid]AJ,AJ,"['𒋫', '𒁷']",𒋫𒁷,[ta-din],"['missing', 'missing']",1.0,tadin,tadnu,paid,,,P335398,9,2,confirmation of transfer 1
+25845,P335398.9.3,A.ŠA₃,eqlu[land]N,N,"['𒀀', '𒊮']",𒀀𒊮,[A].[ŠA₃],"['missing', 'missing']",1.0,eqlu,eqlu,land,,,P335398,9,3,confirmation of transfer 2
+25846,P335398.9.4,UN-MEŠ,nišē[people]N,N,"['𒌦', '𒈨𒌍']",𒌦𒈨𒌍,[UN-MEŠ],"['missing', 'missing']",1.0,nišē,nišu,people,,,P335398,9,4,confirmation of transfer 2
+25847,P335398.9.5,šu₂-a]-⸢tu₂,šuātu[that]'DP,IP,"['𒋙', '𒀀', '𒌓']",𒋙𒀀𒌓,[šu₂-a]-⸢tu₂⸣,"['missing', 'missing', 'damaged']",0.83,šuātu,šuāti,that,,,P335398,9,5,confirmation of transfer 2
+25848,P335398.9.6,zar⸣-[pu],zarpu[purchased]AJ,AJ,"['𒇡', '𒁍']",𒇡𒁍,⸢zar⸣-[pu],"['damaged', 'missing']",0.75,zarpu,zarpu,purchased,,,P335398,9,6,confirmation of transfer 2

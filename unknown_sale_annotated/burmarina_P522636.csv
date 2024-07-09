@@ -1,0 +1,8 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+427,P522636.3.1,ana[to]PRP,ana,ana,ana,to,PRP,['𒁹'],𒁹,ana,['complete'],0.0,,,P522636,3,1,penalties for litigation: penalty
+428,P522636.3.2,bēlīšu[owner]N,⸢EN⸣.[MEŠ-šu₂,bēlīšu,bēlu,owner,N,"['𒂗', '𒈨𒌍', '𒋙']",𒂗𒈨𒌍𒋙,⸢EN⸣.[MEŠ-šu₂],"['damaged', 'missing', 'missing']",0.83,,,P522636,3,2,penalties for litigation: penalty
+429,P522636.3.3,utâra[return]V,GUR-ra],utâra,târu,return,V,"['𒄥', '𒊏']",𒄥𒊏,[GUR-ra],"['missing', 'missing']",1.0,,,P522636,3,3,penalties for litigation: penalty
+430,P522636.4.1,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,IGI,['complete'],0.0,,,P522636,4,1,witness
+431,P522636.4.2,+Pan-Apladad-lamur[]PN$,{m}IGI-⸢A⸣.[U-la-mur],Pan-Apladad-lamur,Pan-Apladad-lamur,1,PN,"['𒁹', '𒅆', '𒀀', '𒌋', '𒆷', '𒄯']",𒁹𒅆𒀀𒌋𒆷𒄯,{m}IGI-⸢A⸣.[U-la-mur],"['complete', 'complete', 'damaged', 'missing', 'missing', 'missing']",0.58,PN,,P522636,4,2,witness
+432,P522636.5.1,šību[witness]N,⸢IGI⸣,šību,šību,witness,N,['𒅆'],𒅆,⸢IGI⸣,['damaged'],0.5,,,P522636,5,1,witness
+433,P522636.5.2,+Aya-x[]PN$,{m}{d}a-a-[x-x-(x)],Aya-x,Aya-x,1,PN,"['𒁹', '𒀭', '𒀀', '𒀀', 'X', 'X', 'X']",𒁹𒀭𒀀𒀀XXX,{m}{d}a-a-[x-x-x],"['complete', 'complete', 'complete', 'complete', 'missing', 'missing', 'missing']",0.43,PN,,P522636,5,2,witness

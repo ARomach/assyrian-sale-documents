@@ -1,0 +1,55 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+13210,P527305.2.1,kunuk[seal]N,{[na₄}KIŠIB],kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}[KIŠIB],"['missing', 'missing']",1.0,,,P527305,2,1,seal identification
+13211,P527305.2.2,+Kenu-lešir[]PN$,{m}GIN-⸢GIŠ⸣,Kenu-lešir,Kenu-lešir,1,PN,"['𒁹', '𒁺', '𒄑']",𒁹𒁺𒄑,{m}GIN-⸢GIŠ⸣,"['complete', 'complete', 'damaged']",0.17,PN,,P527305,2,2,seal identification
+13212,P527305.3.1,kunuk[seal]N,{[na₄}KIŠIB],kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}[KIŠIB],"['missing', 'missing']",1.0,,,P527305,3,1,seal identification
+13213,P527305.3.2,+Hamada[]PN$,{m}ha-ma-da-a,Hamada,Hamada,1,PN,"['𒁹', '𒄩', '𒈠', '𒁕', '𒀀']",𒁹𒄩𒈠𒁕𒀀,{m}ha-ma-da-a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,,P527305,3,2,seal identification
+13214,P527305.4.1,marʾē[son]N,[DUMU.MEŠ],marʾē,māru,son,N,"['𒌉', '𒈨𒌍']",𒌉𒈨𒌍,[DUMU].[MEŠ],"['missing', 'missing']",1.0,,,P527305,4,1,seal identification
+13215,P527305.4.2,Šamaš-šumu-iidina[1]PN,{m}{d}UTU-MU-AŠ,Šamaš-šumu-iidina,Šamaš-šumu-iidina,1,PN,"['𒁹', '𒀭', '𒌓', '𒈬', '𒀸']",𒁹𒀭𒌓𒈬𒀸,{m}{d}UTU-MU-AŠ,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,,P527305,4,2,seal identification
+13216,P527305.6.1,+x-ayu[from ...]EN$x-aya,{[lu₂}x-x-x]-a-a,x-aya,x-ayu,from ...,EN,"['𒇽', 'X', 'X', 'X', '𒀀', '𒀀']",𒇽XXX𒀀𒀀,{[LU₂]}[x-x-x]-a-a,"['missing', 'missing', 'missing', 'missing', 'complete', 'complete']",0.67,,,P527305,6,1,seal identification
+13217,P527305.6.2,bēl[owner]N,EN,bēl,bēlu,owner,N,['𒂗'],𒂗,EN,['complete'],0.0,,,P527305,6,2,seal identification
+13218,P527305.6.3,X,UN.MEŠ,,,,X,"['𒌦', '𒈨𒌍']",𒌦𒈨𒌍,UN.MEŠ,"['complete', 'complete']",0.0,,,P527305,6,3,seal identification
+13219,P527305.7.1,bēl[owner]N,⸢EN⸣,bēl,bēlu,owner,N,['𒂗'],𒂗,⸢EN⸣,['damaged'],0.5,,,P527305,7,1,seal identification
+13220,P527305.7.2,X,A.ŠA₃.⸢GA⸣,,,,X,"['𒀀', '𒊮', '𒂵']",𒀀𒊮𒂵,A.ŠA₃.⸢GA⸣,"['complete', 'complete', 'damaged']",0.17,,,P527305,7,2,seal identification
+13221,P527305.7.3,X,SUM-a-ni,,,,X,"['𒋧', '𒀀', '𒉌']",𒋧𒀀𒉌,SUM-a-ni,"['complete', 'complete', 'complete']",0.0,,,P527305,7,3,seal identification
+13222,P527305.10.1,X,E₂,,,,X,['𒂍'],𒂍,E₂,['complete'],0.0,,,P527305,10,1,object sold
+13223,P527305.10.2,X,[ep-šu],,,,X,"['𒅁', '𒋗']",𒅁𒋗,[ep-šu],"['missing', 'missing']",1.0,,,P527305,10,2,object sold
+13224,P527305.10.3,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,,P527305,10,3,object sold
+13225,P527305.10.4,X,⸢gi-mir⸣-ti-šu₂,,,,X,"['𒄀', '𒂇', '𒋾', '𒋙']",𒄀𒂇𒋾𒋙,⸢gi-mir⸣-ti-šu₂,"['damaged', 'damaged', 'complete', 'complete']",0.25,,,P527305,10,4,object sold
+13226,P527305.11.1,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527305,11,1,object sold
+13227,P527305.11.2,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527305,11,2,object sold
+13228,P527305.11.3,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527305,11,3,object sold
+13229,P527305.11.4,u,x],,,,u,['X'],X,[x],['missing'],1.0,,,P527305,11,4,object sold
+13230,P527305.11.5,u,x,,,,u,['X'],X,x,['complete'],0.0,,,P527305,11,5,object sold
+13231,P527305.11.6,ana[to]PRP,a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,a-na,"['complete', 'complete']",0.0,,,P527305,11,6,object sold
+13232,P527305.11.7,X,gi-mir-ti-šu₂,,,,X,"['𒄀', '𒂇', '𒋾', '𒋙']",𒄀𒂇𒋾𒋙,gi-mir-ti-šu₂,"['complete', 'complete', 'complete', 'complete']",0.0,,,P527305,11,7,object sold
+13233,P527305.12.1,X,[SUHUR,,,,X,['𒋦'],𒋦,[SUHUR],['missing'],1.0,,,P527305,12,1,object sold
+13234,P527305.12.2,x[1]PN,{m}x-x-x],x,x,1,PN,"['𒁹', 'X', 'X', 'X']",𒁹XXX,{[m]}[x-x-x],"['missing', 'missing', 'missing', 'missing']",1.0,PN,,P527305,12,2,object sold
+13235,P527305.12.3,X,⸢SUHUR⸣,,,,X,['𒋦'],𒋦,⸢SUHUR⸣,['damaged'],0.5,,,P527305,12,3,object sold
+13236,P527305.12.4,+Barritti[]PN$,{m}ba-⸢ar⸣-rit-ti,Barritti,Barritti,1,PN,"['𒁹', '𒁀', '𒅈', '𒈩', '𒋾']",𒁹𒁀𒅈𒈩𒋾,{m}ba-⸢ar⸣-rit-ti,"['complete', 'complete', 'damaged', 'complete', 'complete']",0.1,PN,,P527305,12,4,object sold
+13237,P527305.13.1,X,[SUHUR,,,,X,['𒋦'],𒋦,[SUHUR],['missing'],1.0,,,P527305,13,1,object sold
+13238,P527305.13.2,+x-sakip[]PN$,{m}x]-⸢sa-kip⸣,x-sakip,x-sakip,1,PN,"['𒁹', 'X', '𒊓', '𒄒']",𒁹X𒊓𒄒,{[m]}[x]-⸢sa-kip⸣,"['missing', 'missing', 'damaged', 'damaged']",0.75,PN,,P527305,13,2,object sold
+13239,P527305.13.3,X,SUHUR,,,,X,['𒋦'],𒋦,SUHUR,['complete'],0.0,,,P527305,13,3,object sold
+13240,P527305.13.4,+Nabu-mušaašir[]PN$,{m}{d}PA-mu-ša₂-šir,Nabu-mušaašir,Nabu-mušaašir,1,PN,"['𒁹', '𒀭', '𒉺', '𒈬', '𒃻', '𒋓']",𒁹𒀭𒉺𒈬𒃻𒋓,{m}{d}PA-mu-ša₂-šir,"['complete', 'complete', 'complete', 'complete', 'complete', 'complete']",0.0,PN,,P527305,13,4,object sold
+13241,P527305.14.1,n,[x,,,,n,['X'],X,[x],['missing'],1.0,NUMBER,,P527305,14,1,object sold
+13242,P527305.14.2,X,ZI].MEŠ,,,,X,"['𒍣', '𒈨𒌍']",𒍣𒈨𒌍,[ZI].MEŠ,"['missing', 'complete']",0.5,,,P527305,14,2,object sold
+13243,P527305.14.3,+Iahime[]PN$,{m}ia-hi-me,Iahime,Iahime,1,PN,"['𒁹', '𒅀', '𒄭', '𒈨']",𒁹𒅀𒄭𒈨,{m}ia-hi-me,"['complete', 'complete', 'complete', 'complete']",0.0,PN,,P527305,14,3,object sold
+13244,P527305.14.4,X,{lu₂}ENGAR,,,,X,"['𒇽', '𒀳']",𒇽𒀳,{LU₂}ENGAR,"['complete', 'complete']",0.0,,,P527305,14,4,object sold
+13245,P527305.15.1,n,[x,,,,n,['X'],X,[x],['missing'],1.0,NUMBER,,P527305,15,1,object sold
+13246,P527305.15.2,X,ZI].MEŠ,,,,X,"['𒍣', '𒈨𒌍']",𒍣𒈨𒌍,[ZI].MEŠ,"['missing', 'complete']",0.5,,,P527305,15,2,object sold
+13247,P527305.15.3,+x-la[]PN$,{m}x-[x-x]-la,x-la,x-la,1,PN,"['𒁹', 'X', 'X', 'X', '𒆷']",𒁹XXX𒆷,{m}x-[x-x]-la,"['complete', 'complete', 'missing', 'missing', 'complete']",0.4,PN,,P527305,15,3,object sold
+13248,P527305.16.1,n,03,,,,n,['0₃'],0₃,⸢03⸣,['damaged'],0.5,NUMBER,,P527305,16,1,object sold
+13249,P527305.16.2,X,[ZI].MEŠ,,,,X,"['𒍣', '𒈨𒌍']",𒍣𒈨𒌍,[ZI].MEŠ,"['missing', 'complete']",0.5,,,P527305,16,2,object sold
+13250,P527305.16.3,x[1]PN,{m}[x-x-x],x,x,1,PN,"['𒁹', 'X', 'X', 'X']",𒁹XXX,{m}[x-x-x],"['complete', 'missing', 'missing', 'missing']",0.75,PN,,P527305,16,3,object sold
+13251,P527305.17.1,n,03,,,,n,['0₃'],0₃,03,['complete'],0.0,NUMBER,,P527305,17,1,object sold
+13252,P527305.17.2,X,[ZI].MEŠ,,,,X,"['𒍣', '𒈨𒌍']",𒍣𒈨𒌍,[ZI].MEŠ,"['missing', 'complete']",0.5,,,P527305,17,2,object sold
+13253,P527305.17.3,+Nabu-duri[]PN$,{m}{d}PA-BAD₃,Nabu-duri,Nabu-duri,1,PN,"['𒁹', '𒀭', '𒉺', '𒂦']",𒁹𒀭𒉺𒂦,{m}{d}PA-BAD₃,"['complete', 'complete', 'complete', 'complete']",0.0,PN,,P527305,17,3,object sold
+13254,P527305.17.4,X,{⸢lu₂}MUŠEN.DU₃⸣,,,,X,"['𒇽', '𒄷', '𒆕']",𒇽𒄷𒆕,{⸢LU₂⸣}⸢MUŠEN⸣.⸢DU₃⸣,"['damaged', 'damaged', 'damaged']",0.5,,,P527305,17,4,object sold
+13255,P527305.18.1,n,02,,,,n,['0₂'],0₂,02,['complete'],0.0,NUMBER,,P527305,18,1,object sold
+13256,P527305.18.2,X,ZI.MEŠ,,,,X,"['𒍣', '𒈨𒌍']",𒍣𒈨𒌍,ZI.MEŠ,"['complete', 'complete']",0.0,,,P527305,18,2,object sold
+13257,P527305.18.3,+Gadi-x[]PN$,{f}ga-di-[x-x],Gadi-x,Gadi-x,1,PN,"['𒊩', '𒂵', '𒁲', 'X', 'X']",𒊩𒂵𒁲XX,{f}ga-di-[x-x],"['complete', 'complete', 'complete', 'missing', 'missing']",0.4,PN,,P527305,18,3,object sold
+13258,P527305.19.1,n,[x,,,,n,['X'],X,[x],['missing'],1.0,NUMBER,,P527305,19,1,object sold
+13259,P527305.19.2,X,ZI.MEŠ],,,,X,"['𒍣', '𒈨𒌍']",𒍣𒈨𒌍,[ZI].[MEŠ],"['missing', 'missing']",1.0,,,P527305,19,2,object sold
+13260,P527305.19.3,+Asusui-x[]PN$,{m}a-su-⸢si⸣-[x],Asusui-x,Asusui-x,1,PN,"['𒁹', '𒀀', '𒋢', '𒋛', 'X']",𒁹𒀀𒋢𒋛X,{m}a-su-⸢si⸣-[x],"['complete', 'complete', 'complete', 'damaged', 'missing']",0.3,PN,,P527305,19,3,object sold
+13261,P527305.26.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527305,26,1,witness
+13262,P527305.26.2,+x-Adad[]PN$,{m}x-x-x]-10,x-Adad,x-Adad,1,PN,"['𒁹', 'X', 'X', 'X', '𒌋']",𒁹XXX𒌋,{[m]}[x-x-x]-10,"['missing', 'missing', 'missing', 'missing', 'complete']",0.8,PN,,P527305,26,2,witness
+13263,P527305.26.3,tupšarru[scribe]N,A.BA,tupšarru,ṭupšarru,scribe,N,"['𒀀', '𒁀']",𒀀𒁀,A.BA,"['complete', 'complete']",0.0,,,P527305,26,3,witness

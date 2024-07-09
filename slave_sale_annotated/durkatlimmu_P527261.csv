@@ -1,0 +1,18 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+10126,P527261.2.1,kunuk[seal]N,{[na₄]}⸢KIŠIB,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{[NA₄]}⸢KIŠIB⸣,"['missing', 'damaged']",0.75,,,P527261,2,1,seal identification
+10127,P527261.2.2,+Dari-abu[]PN$,{m⸣}da-ri-⸢AD⸣,Dari-abu,Dari-abu,1,PN,"['𒁹', '𒁕', '𒊑', '𒀜']",𒁹𒁕𒊑𒀜,{⸢m⸣}da-ri-⸢AD⸣,"['damaged', 'complete', 'complete', 'damaged']",0.25,PN,,P527261,2,2,seal identification
+10128,P527261.3.1,bēl[owner]N,⸢EN⸣,bēl,bēlu,owner,N,['𒂗'],𒂗,⸢EN⸣,['damaged'],0.5,,,P527261,3,1,seal identification
+10129,P527261.3.2,amti[maid]N,GEME₂,amti,amtu,maid,N,['𒊩𒆳'],𒊩𒆳,GEME₂,['complete'],0.0,,,P527261,3,2,seal identification
+10130,P527261.3.3,X,SUM-a-ni,,,,X,"['𒋧', '𒀀', '𒉌']",𒋧𒀀𒉌,SUM-a-ni,"['complete', 'complete', 'complete']",0.0,,,P527261,3,3,seal identification
+10131,P527261.7.1,+Ana-x[]PN$X,{f}a-na-[x-x-(x),X,Ana-x,1,PN,"['𒊩', '𒀀', '𒈾', 'X', 'X', 'X']",𒊩𒀀𒈾XXX,{f}a-na-[x-x-x],"['complete', 'complete', 'complete', 'missing', 'missing', 'missing']",0.5,PN,,P527261,7,1,object sold
+10132,P527261.7.2,amtišu[female slave]N,GEME₂-šu₂],amtišu,amtu,female slave,N,"['𒊩𒆳', '𒋙']",𒊩𒆳𒋙,[GEME₂-šu₂],"['missing', 'missing']",1.0,,,P527261,7,2,object sold
+10133,P527261.8.1,X,u₂-piš-⸢ma⸣,,,,X,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,u₂-piš-⸢ma⸣,"['complete', 'complete', 'damaged']",0.17,,,P527261,8,1,initiation of transaction
+10134,P527261.8.2,x[1]PN,{[m}x-x-x-x],x,x,1,PN,"['𒁹', 'X', 'X', 'X', 'X']",𒁹XXXX,{[m]}[x-x-x-x],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,PN,,P527261,8,2,initiation of transaction
+10135,P527261.9.1,ina[at]PRP,⸢ina,ina,ina,at,PRP,['𒀸'],𒀸,⸢ina⸣,['damaged'],0.5,,,P527261,9,1,price
+10136,P527261.9.2,X,ŠA₃⸣-[bi,,,,X,"['𒊮', '𒁉']",𒊮𒁉,⸢ŠA₃⸣-[bi],"['damaged', 'missing']",0.75,,,P527261,9,2,price
+10137,P527261.9.3,n,x,,,,n,['X'],X,[x],['missing'],1.0,NUMBER,,P527261,9,3,price
+10138,P527261.9.4,manā[a unit of weight]N,MA.NA,manā,manû,a unit of weight,N,"['𒈠', '𒈾']",𒈠𒈾,[MA].[NA],"['missing', 'missing']",1.0,,,P527261,9,4,price
+10139,P527261.9.5,X,KU₃.BABBAR],,,,X,"['𒆬', '𒌓']",𒆬𒌓,[KU₃].[BABBAR],"['missing', 'missing']",1.0,,,P527261,9,5,price
+10140,P527261.14.1,Ayyaru[1]MN,{iti}GU₄,Ayyaru,Ayyaru,1,MN,"['𒌗', '𒄞']",𒌗𒄞,{ITI}GU₄,"['complete', 'complete']",0.0,MN,,P527261,14,1,date
+10141,P527261.15.1,limmu[eponym (of year)]N,lim-mu,limmu,līmu,eponym (of year),N,"['𒅆', '𒈬']",𒅆𒈬,lim-mu,"['complete', 'complete']",0.0,,,P527261,15,1,date
+10142,P527261.15.2,Mannu-ki-šarri[1]PN,{m}man-nu-ki-[MAN],Mannu-ki-šarri,Mannu-ki-šarri,1,PN,"['𒁹', '𒌋𒌋', '𒉡', '𒆠', '𒌋𒌋']",𒁹𒌋𒌋𒉡𒆠𒌋𒌋,{m}man-nu-ki-[MAN],"['complete', 'complete', 'complete', 'complete', 'missing']",0.2,PN,,P527261,15,2,date

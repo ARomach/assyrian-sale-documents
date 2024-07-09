@@ -1,0 +1,27 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+24,P522625.4.1,x[1]PN,{[m}...],x,x,1,PN,"['𒁹', 'x']",𒁹x,{[m]}[x],"['missing', 'missing']",1.0,PN,,P522625,4,1,object sold
+25,P522625.4.2,urdušunu[servant]N,⸢ARAD⸣-šu₂-nu,urdušunu,ardu,servant,N,"['𒀴', '𒋙', '𒉡']",𒀴𒋙𒉡,⸢ARAD⸣-šu₂-nu,"['damaged', 'complete', 'complete']",0.17,,,P522625,4,2,object sold
+26,P522625.5.1,uppišma[contract]V,[u₂-piš-ma,uppišma,epēšu,contract,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,[u₂-piš-ma],"['missing', 'missing', 'missing']",1.0,,,P522625,5,1,initiation of transaction
+27,P522625.5.2,Kubaba-lidi[1]PN,{m}KU₆-li-i]-di,Kubaba-lidi,Kubaba-lidi,1,PN,"['𒁹', '𒄩', '𒇷', '𒄿', '𒁲']",𒁹𒄩𒇷𒄿𒁲,{[m]}[KU₆-li-i]-di,"['missing', 'missing', 'missing', 'missing', 'complete']",0.8,PN,,P522625,5,2,initiation of transaction
+28,P522625.5.3,ina[in]PRP,ina,ina,ina,in,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,,P522625,5,3,price
+29,P522625.5.4,libbi[interior]N,ŠA₃-bi,libbi,libbu,interior,N,"['𒊮', '𒁉']",𒊮𒁉,ŠA₃-bi,"['complete', 'complete']",0.0,,,P522625,5,4,price
+30,P522625.6.1,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P522625,6,1,price
+31,P522625.6.2,manā[a unit of weight]N,MA.NA,manā,manû,a unit of weight,N,"['𒈠', '𒈾']",𒈠𒈾,[MA].[NA],"['missing', 'missing']",1.0,,,P522625,6,2,price
+32,P522625.6.3,ṣarpu[silver]N,KUG.UD,ṣarpu,ṣarpu,silver,N,"['𒆬', '𒌓']",𒆬𒌓,[KUG].[UD],"['missing', 'missing']",1.0,,,P522625,6,3,price
+33,P522625.6.4,ilaqqi[succeed]V,TI,ilaqqi,leqû,succeed,V,['𒋾'],𒋾,[TI],['missing'],1.0,,,P522625,6,4,completion of transaction
+34,P522625.6.5,kaspu[money]N,kas-pu,kaspu,kaspu,money,N,"['𒆜', '𒁍']",𒆜𒁍,[kas-pu],"['missing', 'missing']",1.0,,,P522625,6,5,confirmation of transfer 1
+35,P522625.6.6,gammur[completed]AJ,gam-mur],gammur,gammuru,completed,AJ,"['𒃵', '𒄯']",𒃵𒄯,[gam-mur],"['missing', 'missing']",1.0,,,P522625,6,6,confirmation of transfer 1
+36,P522625.6.7,tadin[paid]AJ,⸢ta⸣-din,tadin,tadnu,paid,AJ,"['𒋫', '𒁷']",𒋫𒁷,⸢ta⸣-din,"['damaged', 'complete']",0.25,,,P522625,6,7,confirmation of transfer 1
+37,P522625.7.1,urdu[servant]N,[ARAD,urdu,ardu,servant,N,['𒀴'],𒀴,[ARAD],['missing'],1.0,,,P522625,7,1,confirmation of transfer 2
+38,P522625.7.2,zarip[purchased]AJ,za-rip,zarip,zarpu,purchased,AJ,"['𒍝', '𒆗']",𒍝𒆗,[za-rip],"['missing', 'missing']",1.0,,,P522625,7,2,confirmation of transfer 2
+39,P522625.7.3,laqi[acquired]AJ,la-qi,laqi,leqû,acquired,AJ,"['𒆷', '𒆥']",𒆷𒆥,[la-qi],"['missing', 'missing']",1.0,,,P522625,7,3,confirmation of transfer 2
+40,P522625.7.4,tuāru[revocation]'N,tu-a-ru,tuāru,târu,revocation,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,[tu-a-ru],"['missing', 'missing', 'missing']",1.0,,,P522625,7,4,exclusion of litigation
+41,P522625.7.5,dēnu[lawsuit]N,de-nu,dēnu,dīnu,lawsuit,N,"['𒁲', '𒉡']",𒁲𒉡,[de-nu],"['missing', 'missing']",1.0,,,P522625,7,5,exclusion of litigation
+42,P522625.7.6,dabābu[litigation]'N,DUG₄].DUG₄,dabābu,dabābu,litigation,V,"['𒅗', '𒅗']",𒅗𒅗,[DUG₄].DUG₄,"['missing', 'complete']",0.5,,,P522625,7,6,exclusion of litigation
+43,P522625.11.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P522625,11,1,witness
+44,P522625.11.2,+x-li[]PN$,{m}...]-⸢li⸣,x-li,x-li,1,PN,"['𒁹', 'x', '𒇷']",𒁹x𒇷,{[m]}[x]⸢li⸣,"['missing', 'missing', 'damaged']",0.83,PN,,P522625,11,2,witness
+45,P522625.12.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P522625,12,1,witness
+46,P522625.12.2,x[1]PN,{m}...,x,x,1,PN,"['𒁹', 'x']",𒁹x,{[m]}[x],"['missing', 'missing']",1.0,PN,,P522625,12,2,witness
+47,P522625.12.3,bēl[owner]N&mugirri[chariot]N&mugirri[chariot]N,EN]-{⸢giš⸣}GIGIR,bēl,bēlu,owner,N,"['𒂗', '𒄑', '𒇀']",𒂗𒄑𒇀,[EN]-{⸢GIŠ⸣}GIGIR,"['missing', 'damaged', 'complete']",0.5,,,P522625,12,3,witness
+50,P522625.13.1,šību[witness]N,[IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P522625,13,1,witness
+51,P522625.13.2,+x-šu[]PN$,{m}...]-šu₂,x-šu,x-šu,1,PN,"['𒁹', 'x', '𒋙']",𒁹x𒋙,{[m]}[x]šu₂,"['missing', 'missing', 'complete']",0.67,PN,,P522625,13,2,witness

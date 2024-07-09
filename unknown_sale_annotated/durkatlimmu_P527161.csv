@@ -1,0 +1,25 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+13306,P527161.3.1,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527161,3,1,none
+13307,P527161.3.2,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527161,3,2,none
+13308,P527161.3.3,u,x,,,,u,['X'],X,[x],['missing'],1.0,,,P527161,3,3,none
+13309,P527161.3.4,u,x],,,,u,['X'],X,[x],['missing'],1.0,,,P527161,3,4,none
+13310,P527161.3.5,u,TE,,,,u,['𒋼'],𒋼,TE,['complete'],0.0,,,P527161,3,5,none
+13311,P527161.3.6,u,GAR,,,,u,['𒃻'],𒃻,GAR,['complete'],0.0,,,P527161,3,6,none
+13312,P527161.3.7,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,,P527161,3,7,none
+13313,P527161.3.8,u,(x)],,,,u,['X'],X,[x],['missing'],1.0,,,P527161,3,8,none
+13314,P527161.4.1,issi[with]PRP,[TA,issi,išti,with,PRP,['𒋫'],𒋫,[TA],['missing'],1.0,,,P527161,4,1,completion of transaction
+13315,P527161.4.2,šību[witness]N,IGI,šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,,P527161,4,2,completion of transaction
+13316,P527161.4.3,+x-šarru-iškun[]PN$,{m}x-(x)]-MAN-GAR,x-šarru-iškun,x-šarru-iškun,1,PN,"['𒁹', 'X', 'X', '𒌋𒌋', '𒃻']",𒁹XX𒌋𒌋𒃻,{[m]}[x-x]-MAN-GAR,"['missing', 'missing', 'missing', 'complete', 'complete']",0.6,PN,,P527161,4,3,completion of transaction
+13317,P527161.4.4,isseqe[acquire]V,i-se-⸢qe⸣,isseqe,leqû,acquire,V,"['𒄿', '𒋛', '𒆥']",𒄿𒋛𒆥,i-se-⸢qe⸣,"['complete', 'complete', 'damaged']",0.17,,,P527161,4,4,completion of transaction
+13318,P527161.5.1,ana[to]PRP,[a-na,ana,ana,to,PRP,"['𒀀', '𒈾']",𒀀𒈾,[a-na],"['missing', 'missing']",1.0,,,P527161,5,1,completion of transaction
+13319,P527161.5.2,+x-i[]PN$,{m}x-x]-⸢i⸣,x-i,x-i,1,PN,"['𒁹', 'X', 'X', '𒄿']",𒁹XX𒄿,{[m]}[x-x]-⸢i⸣,"['missing', 'missing', 'missing', 'damaged']",0.88,PN,,P527161,5,2,completion of transaction
+13320,P527161.5.3,ittidin[pay]V,it-ti-din,ittidin,tadānu,pay,V,"['𒀉', '𒋾', '𒁷']",𒀉𒋾𒁷,it-ti-din,"['complete', 'complete', 'complete']",0.0,,,P527161,5,3,completion of transaction
+13321,P527161.6.1,izzirip[purchase]V,[i-zi-rip],izzirip,zarāpu,purchase,V,"['𒄿', '𒍣', '𒆗']",𒄿𒍣𒆗,[i-zi-rip],"['missing', 'missing', 'missing']",1.0,,,P527161,6,1,completion of transaction
+13322,P527161.6.2,kaspu[money]N,kas-pu,kaspu,kaspu,money,N,"['𒆜', '𒁍']",𒆜𒁍,kas-pu,"['complete', 'complete']",0.0,,,P527161,6,2,confirmation of transfer 1
+13323,P527161.6.3,gammur[completed]AJ,gam-mur,gammur,gammuru,completed,AJ,"['𒃵', '𒄯']",𒃵𒄯,gam-mur,"['complete', 'complete']",0.0,,,P527161,6,3,confirmation of transfer 1
+13324,P527161.7.1,tadin[paid]AJ,[ta-din],tadin,tadnu,paid,AJ,"['𒋫', '𒁷']",𒋫𒁷,[ta-din],"['missing', 'missing']",1.0,,,P527161,7,1,confirmation of transfer 1
+13325,P527161.7.2,urdu[servant]N,⸢ARAD⸣,urdu,ardu,servant,N,['𒀴'],𒀴,⸢ARAD⸣,['damaged'],0.5,,,P527161,7,2,confirmation of transfer 2
+13326,P527161.7.3,šuāte[that]'DP,šu₂-a-te,šuāte,šuāti,that,IP,"['𒋙', '𒀀', '𒋼']",𒋙𒀀𒋼,šu₂-a-te,"['complete', 'complete', 'complete']",0.0,,,P527161,7,3,confirmation of transfer 2
+13327,P527161.8.1,zarip[purchased]AJ,[za-rip,zarip,zarpu,purchased,AJ,"['𒍝', '𒆗']",𒍝𒆗,[za-rip],"['missing', 'missing']",1.0,,,P527161,8,1,confirmation of transfer 2
+13328,P527161.8.2,laqe[acquired]AJ,la]-qe,laqe,leqû,acquired,AJ,"['𒆷', '𒆥']",𒆷𒆥,[la]-qe,"['missing', 'complete']",0.5,,,P527161,8,2,confirmation of transfer 2
+13329,P527161.8.3,tuāru[revocation]'N,tu-a-ru,tuāru,târu,revocation,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,tu-a-ru,"['complete', 'complete', 'complete']",0.0,,,P527161,8,3,exclusion of litigation

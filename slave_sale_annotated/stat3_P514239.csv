@@ -1,0 +1,33 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,text,line,word,annotation
+2267,P514239.2.1,kunuk[seal]N,{⸢na₄}KIŠIB⸣,kunuk,kunukku,seal,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{⸢NA₄⸣}⸢KIŠIB⸣,"['damaged', 'damaged']",0.5,,P514239,2,1,seal identification
+2268,P514239.2.2,Ubru-Issar[]PN$,{m}⸢SUHUŠ⸣-15,Ubru-Issar,Ubru-Issar,1,PN,"['𒁹', '𒁼', '𒌋𒐊']",𒁹𒁼𒌋𒐊,{m}⸢SUHUŠ⸣-[15],"['complete', 'damaged', 'missing']",0.5,PN,P514239,2,2,seal identification
+2269,P514239.3.1,mār[son]N,A,mār,māru,son,N,['𒀀'],𒀀,A,['complete'],0.0,,P514239,3,1,seal identification
+2270,P514239.3.2,Aššur-ahu-x[]PN$,{m}aš+šur-⸢PAB⸣-[x-x-x],Aššur-ahu-x,Aššur-ahu-x,1,PN,"['𒁹', '𒀸', '𒋩', '𒉽', 'X', 'X', 'X']",𒁹𒀸𒋩𒉽XXX,{m}aš+šur-⸢PAB⸣-[x-x-x],"['complete', 'complete', 'complete', 'damaged', 'missing', 'missing', 'missing']",0.5,PN,P514239,3,2,seal identification
+2271,P514239.4.1,bēl[lord]N,EN,bēl,bēlu,lord,N,['𒂗'],𒂗,EN,['complete'],0.0,,P514239,4,1,seal identification
+2272,P514239.4.2,māru[son]N$marʾi,DUMU,marʾi,māru,son,N,['𒌉'],𒌉,DUMU,['complete'],0.0,,P514239,4,2,seal identification
+2273,P514239.4.3,tadāni[giving]'N,⸢ta⸣-[da-ni],tadāni,tadānu,giving,V,"['𒋫', '𒁕', '𒉌']",𒋫𒁕𒉌,⸢ta⸣-[da-ni],"['damaged', 'missing', 'missing']",0.83,,P514239,4,3,seal identification
+2274,P514239.8.1,Saqapa-x[]PN$,{m}sa-qa-pa-⸢x⸣,Saqapa-x,Saqapa-x,1,PN,"['𒁹', '𒊓', '𒋡', '𒉺', 'X']",𒁹𒊓𒋡𒉺X,{m}sa-qa-pa-⸢x⸣,"['complete', 'complete', 'complete', 'complete', 'damaged']",0.1,PN,P514239,8,1,object sold
+2275,P514239.8.2,māru[son]N$marʾūšu,[DUMU-šu₂],marʾūšu,māru,son,N,"['𒌉', '𒋙']",𒌉𒋙,[DUMU-šu₂],"['missing', 'missing']",1.0,,P514239,8,2,object sold
+2276,P514239.9.1,ša[of]DET,ša,ša,ša,of,DET,['𒊭'],𒊭,ša,['complete'],0.0,,P514239,9,1,object sold
+2277,P514239.9.2,Ubru-Issar[]PN$,{m}SUHUŠ-15,Ubru-Issar,Ubru-Issar,1,PN,"['𒁹', '𒁼', '𒌋𒐊']",𒁹𒁼𒌋𒐊,{m}SUHUŠ-15,"['complete', 'complete', 'complete']",0.0,PN,P514239,9,2,object sold
+2278,P514239.9.3,mār[son]N,[A,mār,māru,son,N,['𒀀'],𒀀,[A],['missing'],1.0,,P514239,9,3,object sold
+2279,P514239.9.4,Aššur-ahu-x[]PN$,{m}aš+šur-PAB-...],Aššur-ahu-x,Aššur-ahu-x,1,PN,"['𒁹', '𒀸', '𒋩', '𒉽', 'x']",𒁹𒀸𒋩𒉽x,{[m]}[aš]+[šur-PAB-x],"['missing', 'missing', 'missing', 'missing', 'missing']",1.0,PN,P514239,9,4,object sold
+2280,P514239.10.1,uppišma[contract]V,u₂-piš-ma,uppišma,epēšu,contract,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,u₂-piš-ma,"['complete', 'complete', 'complete']",0.0,,P514239,10,1,initiation of transaction
+2281,P514239.10.2,u,[x,,,,u,['X'],X,[x],['missing'],1.0,,P514239,10,2,initiation of transaction
+2282,P514239.10.3,u,x,,,,u,['X'],X,[x],['missing'],1.0,,P514239,10,3,initiation of transaction
+2283,P514239.10.4,u,x,,,,u,['X'],X,[x],['missing'],1.0,,P514239,10,4,initiation of transaction
+2284,P514239.10.5,u,x],,,,u,['X'],X,[x],['missing'],1.0,,P514239,10,5,initiation of transaction
+2285,P514239.11.1,ina[in]PRP,ina,ina,ina,in,PRP,['𒀸'],𒀸,ina,['complete'],0.0,,P514239,11,1,price
+2286,P514239.11.2,libbi[interior]N,ŠA₃-bi,libbi,libbu,interior,N,"['𒊮', '𒁉']",𒊮𒁉,ŠA₃-bi,"['complete', 'complete']",0.0,,P514239,11,2,price
+2287,P514239.11.3,n,n,,,,n,['X'],X,[n],['missing'],1.0,NUMBER,P514239,11,3,price
+2288,P514239.11.4,šiqil[a unit of weight]N,GIN₂,šiqil,šiqlu,a unit of weight,N,['𒂆'],𒂆,[GIN₂],['missing'],1.0,,P514239,11,4,price
+2289,P514239.11.5,ṣarpi[silver]N,KU₃.BABBAR],ṣarpi,ṣarpu,silver,N,"['𒆬', '𒌓']",𒆬𒌓,[KU₃].[BABBAR],"['missing', 'missing']",1.0,,P514239,11,5,price
+2290,P514239.12.1,ilqi[purchase]V,il-⸢qi⸣,ilqi,leqû,purchase,V,"['𒅋', '𒆥']",𒅋𒆥,il-⸢qi⸣,"['complete', 'damaged']",0.25,,P514239,12,1,completion of transaction
+2291,P514239.12.2,kaspu[money]N,[kas-pu,kaspu,kaspu,money,N,"['𒆜', '𒁍']",𒆜𒁍,[kas-pu],"['missing', 'missing']",1.0,,P514239,12,2,confirmation of transfer 1
+2292,P514239.12.3,gammur[finished]AJ,gam-mur],gammur,gammuru,finished,AJ,"['𒃵', '𒄯']",𒃵𒄯,[gam-mur],"['missing', 'missing']",1.0,,P514239,12,3,confirmation of transfer 1
+2293,P514239.13.1,tadnu[given//paid]AJ'AJ$tadin,⸢ta-din⸣,tadin,tadnu,paid,AJ,"['𒋫', '𒁷']",𒋫𒁷,⸢ta-din⸣,"['damaged', 'damaged']",0.5,,P514239,13,1,confirmation of transfer 1
+2294,P514239.13.2,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,P514239,13,2,none
+2295,P514239.16.1,šību[witness]N,[IGI],šību,šību,witness,N,['𒅆'],𒅆,[IGI],['missing'],1.0,,P514239,16,1,witness
+2296,P514239.16.2,Anu-rubu[]PN$,{[m]}⸢a-nu-NUN,Anu-rubu,Anu-rubu,1,PN,"['𒁹', '𒀀', '𒉡', '𒉣']",𒁹𒀀𒉡𒉣,{[m]}⸢a-nu-NUN⸣,"['missing', 'damaged', 'damaged', 'damaged']",0.62,PN,P514239,16,2,witness
+2297,P514239.16.3,atû[gatekeeper]N,I₃.DU₈⸣,atû,atû,gatekeeper,N,"['𒉌', '𒃮']",𒉌𒃮,⸢I₃⸣.⸢DU₈⸣,"['damaged', 'damaged']",0.5,,P514239,16,3,witness
+2298,P514239.16.4,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,P514239,16,4,witness

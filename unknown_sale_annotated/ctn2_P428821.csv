@@ -1,0 +1,141 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+3589,P428821.3.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,3,1,none
+3590,P428821.3.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,3,2,none
+3591,P428821.3.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,3,3,none
+3592,P428821.3.4,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428821,3,4,none
+3593,P428821.3.5,u,bi,,u,['𒁉'],𒁉,bi,['complete'],0.0,,,,P428821,3,5,none
+3594,P428821.3.6,n,01,NUMBER,n,['01'],01,01,['complete'],0.0,,,,P428821,3,6,none
+3595,P428821.3.7,u,x+[x,,u,"['X', 'X']",XX,x+[x],"['complete', 'missing']",0.5,,,,P428821,3,7,none
+3596,P428821.3.8,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,3,8,none
+3597,P428821.3.9,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,3,9,none
+3598,P428821.3.10,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428821,3,10,none
+3599,P428821.4.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,4,1,none
+3600,P428821.4.2,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428821,4,2,none
+3601,P428821.4.3,u,ka,,u,['𒅗'],𒅗,ka,['complete'],0.0,,,,P428821,4,3,none
+3602,P428821.4.4,u,[x],,u,['X'],X,[x],['missing'],1.0,,,,P428821,4,4,none
+3603,P428821.4.5,u,⸢šur⸣,,u,['𒋩'],𒋩,⸢šur⸣,['damaged'],0.5,,,,P428821,4,5,none
+3604,P428821.4.6,u,x+[x,,u,"['X', 'X']",XX,x+[x],"['complete', 'missing']",0.5,,,,P428821,4,6,none
+3605,P428821.4.7,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428821,4,7,none
+3606,P428821.5.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,5,1,none
+3607,P428821.5.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,5,2,none
+3608,P428821.5.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,5,3,none
+3609,P428821.5.4,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428821,5,4,none
+3610,P428821.5.5,u,[x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428821,5,5,none
+3611,P428821.5.6,ina[in]PRP,ina,,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,in,P428821,5,6,price
+3612,P428821.5.7,libbi[interior]N,ŠA₃-bi,,N,"['𒊮', '𒁉']",𒊮𒁉,ŠA₃-bi,"['complete', 'complete']",0.0,libbi,libbu,interior,P428821,5,7,price
+3613,P428821.5.8,n,0,NUMBER,n,['0'],0,[0],['missing'],1.0,,,,P428821,5,8,price
+3614,P428821.6.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,6,1,price
+3615,P428821.6.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,6,2,price
+3616,P428821.6.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,6,3,price
+3617,P428821.6.4,manā[a unit of weight]N,MA].⸢NA⸣,,N,"['𒈠', '𒈾']",𒈠𒈾,[MA].⸢NA⸣,"['missing', 'damaged']",0.75,manā,manû,a unit of weight,P428821,6,4,price
+3618,P428821.6.5,erî[copper]N,URUDU-MEŠ,,N,"['𒍏', '𒈨𒌍']",𒍏𒈨𒌍,URUDU-MEŠ,"['complete', 'complete']",0.0,erî,erû,copper,P428821,6,5,price
+3619,P428821.6.6,ilqi[purchase]V,il-[qi],,V,"['𒅋', '𒆥']",𒅋𒆥,il-[qi],"['complete', 'missing']",0.5,ilqi,leqû,purchase,P428821,6,6,completion of transaction
+3620,P428821.7.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,7,1,none
+3621,P428821.7.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,7,2,none
+3622,P428821.7.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,7,3,none
+3623,P428821.7.4,zarip[purchased]AJ,za]-⸢rip,,AJ,"['𒍝', '𒆗']",𒍝𒆗,[za]-⸢rip⸣,"['missing', 'damaged']",0.75,zarip,zarpu,purchased,P428821,7,4,confirmation of transfer 2
+3624,P428821.7.5,laqi[acquired]AJ,la⸣-qi,,AJ,"['𒆷', '𒆥']",𒆷𒆥,⸢la⸣-qi,"['damaged', 'complete']",0.25,laqi,leqû,acquired,P428821,7,5,confirmation of transfer 2
+3625,P428821.7.6,kaspu[money]N,kas₂-[pu],,N,"['𒁉', '𒁍']",𒁉𒁍,kas₂-[pu],"['complete', 'missing']",0.5,kaspu,kaspu,money,P428821,7,6,confirmation of transfer 1
+3626,P428821.8.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,8,1,none
+3627,P428821.8.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,8,2,none
+3628,P428821.8.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,8,3,none
+3629,P428821.8.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,8,4,none
+3630,P428821.8.5,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428821,8,5,none
+3631,P428821.8.6,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,8,6,none
+3632,P428821.8.7,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,8,7,none
+3633,P428821.8.8,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,8,8,none
+3634,P428821.8.9,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,8,9,none
+3635,P428821.8.10,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428821,8,10,none
+3636,P428821.9.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,9,1,none
+3637,P428821.9.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,9,2,none
+3638,P428821.9.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,9,3,none
+3639,P428821.9.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,9,4,none
+3640,P428821.9.5,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428821,9,5,none
+3641,P428821.9.6,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,9,6,none
+3642,P428821.9.7,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,9,7,none
+3643,P428821.9.8,u,x]+x+[x,,u,"['X', 'X', 'X']",XXX,[x]+x+[x],"['missing', 'complete', 'missing']",0.67,,,,P428821,9,8,none
+3644,P428821.9.9,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428821,9,9,none
+3645,P428821.10.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,10,1,none
+3646,P428821.10.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,10,2,none
+3647,P428821.10.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,10,3,none
+3648,P428821.10.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,10,4,none
+3649,P428821.10.5,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,10,5,none
+3650,P428821.10.6,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,10,6,none
+3651,P428821.10.7,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428821,10,7,none
+3652,P428821.10.8,u,x+[x,,u,"['X', 'X']",XX,x+[x],"['complete', 'missing']",0.5,,,,P428821,10,8,none
+3653,P428821.10.9,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,10,9,none
+3654,P428821.10.10,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428821,10,10,none
+3655,P428821.11.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,11,1,none
+3656,P428821.11.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,11,2,none
+3657,P428821.11.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,11,3,none
+3658,P428821.11.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,11,4,none
+3659,P428821.11.5,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,11,5,none
+3660,P428821.11.6,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428821,11,6,none
+3661,P428821.11.7,u,i,,u,['𒄿'],𒄿,i,['complete'],0.0,,,,P428821,11,7,none
+3662,P428821.11.8,u,x+[x],,u,"['X', 'X']",XX,x+[x],"['complete', 'missing']",0.5,,,,P428821,11,8,none
+3663,P428821.11.9,u,x+[x,,u,"['X', 'X']",XX,x+[x],"['complete', 'missing']",0.5,,,,P428821,11,9,none
+3664,P428821.11.10,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428821,11,10,none
+3665,P428821.12.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,12,1,none
+3666,P428821.12.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,12,2,none
+3667,P428821.12.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,12,3,none
+3668,P428821.12.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,12,4,none
+3669,P428821.12.5,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428821,12,5,none
+3670,P428821.12.6,lū[or]CNJ,lu-u,,CNJ,"['𒇻', '𒌋']",𒇻𒌋,lu-u,"['complete', 'complete']",0.0,lū,lū,or,P428821,12,6,penalties for litigation: contravention
+3671,P428821.12.7,marʾēšu[son]N,⸢DUMU⸣-[MEŠ-šu₂],,N,"['𒌉', '𒈨𒌍', '𒋙']",𒌉𒈨𒌍𒋙,⸢DUMU⸣-[MEŠ-šu₂],"['damaged', 'missing', 'missing']",0.83,marʾēšu,māru,son,P428821,12,7,penalties for litigation: contravention
+3672,P428821.13.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,13,1,penalties for litigation: contravention
+3673,P428821.13.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,13,2,penalties for litigation: contravention
+3674,P428821.13.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,13,3,penalties for litigation: contravention
+3675,P428821.13.4,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428821,13,4,penalties for litigation: contravention
+3676,P428821.13.5,lū[or]CNJ,⸢lu⸣-u,,CNJ,"['𒇻', '𒌋']",𒇻𒌋,⸢lu⸣-u,"['damaged', 'complete']",0.25,lū,lū,or,P428821,13,5,penalties for litigation: contravention
+3677,P428821.13.6,ahhēšu[brother]N,ŠEŠ-MEŠ-[šu₂],,N,"['𒋀', '𒈨𒌍', '𒋙']",𒋀𒈨𒌍𒋙,ŠEŠ-MEŠ-[šu₂],"['complete', 'complete', 'missing']",0.33,ahhēšu,ahu,brother,P428821,13,6,penalties for litigation: contravention
+3678,P428821.14.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,14,1,none
+3679,P428821.14.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,14,2,none
+3680,P428821.14.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,14,3,none
+3681,P428821.14.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,14,4,none
+3682,P428821.14.5,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428821,14,5,none
+3683,P428821.14.6,u,⸢x⸣,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,P428821,14,6,none
+3684,P428821.14.7,u,ud,,u,['𒌓'],𒌓,ud,['complete'],0.0,,,,P428821,14,7,none
+3685,P428821.14.8,u,⸢x⸣,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,P428821,14,8,none
+3686,P428821.14.9,u,x+[x,,u,"['X', 'X']",XX,x+[x],"['complete', 'missing']",0.5,,,,P428821,14,9,none
+3687,P428821.14.10,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,14,10,none
+3688,P428821.14.11,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428821,14,11,none
+3689,P428821.15.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,15,1,none
+3690,P428821.15.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,15,2,none
+3691,P428821.15.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,15,3,none
+3692,P428821.15.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,15,4,none
+3693,P428821.15.5,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428821,15,5,none
+3694,P428821.15.6,u,a,,u,['𒀀'],𒀀,a,['complete'],0.0,,,,P428821,15,6,none
+3695,P428821.15.7,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,15,7,none
+3696,P428821.15.8,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,15,8,none
+3697,P428821.15.9,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,15,9,none
+3698,P428821.15.10,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,15,10,none
+3699,P428821.15.11,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428821,15,11,none
+3700,P428821.16.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,16,1,none
+3701,P428821.16.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,16,2,none
+3702,P428821.16.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,16,3,none
+3703,P428821.16.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,16,4,none
+3704,P428821.16.5,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,16,5,none
+3705,P428821.16.6,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428821,16,6,none
+3706,P428821.16.7,u,šu₂,,u,['𒋙'],𒋙,šu₂,['complete'],0.0,,,,P428821,16,7,none
+3707,P428821.16.8,u,x+[x,,u,"['X', 'X']",XX,x+[x],"['complete', 'missing']",0.5,,,,P428821,16,8,none
+3708,P428821.16.9,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,16,9,none
+3709,P428821.16.10,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,16,10,none
+3710,P428821.16.11,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428821,16,11,none
+3711,P428821.17.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,17,1,none
+3712,P428821.17.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,17,2,none
+3713,P428821.17.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,17,3,none
+3714,P428821.17.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,17,4,none
+3715,P428821.17.5,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,17,5,none
+3716,P428821.17.6,u,x]+x,,u,"['X', 'X']",XX,[x]+x,"['missing', 'complete']",0.5,,,,P428821,17,6,none
+3717,P428821.17.7,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,17,7,none
+3718,P428821.17.8,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,17,8,none
+3719,P428821.17.9,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428821,17,9,none
+3720,P428821.18.1,u,[x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,18,1,none
+3721,P428821.18.2,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,18,2,none
+3722,P428821.18.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,18,3,none
+3723,P428821.18.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,18,4,none
+3724,P428821.18.5,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,18,5,none
+3725,P428821.18.6,u,x]+x+[x,,u,"['X', 'X', 'X']",XXX,[x]+x+[x],"['missing', 'complete', 'missing']",0.67,,,,P428821,18,6,none
+3726,P428821.18.7,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,18,7,none
+3727,P428821.18.8,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P428821,18,8,none
+3728,P428821.18.9,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P428821,18,9,none

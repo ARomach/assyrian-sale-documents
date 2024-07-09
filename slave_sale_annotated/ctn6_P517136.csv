@@ -1,0 +1,43 @@
+Unnamed: 0,ref,inst,frag,mask,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,text,line,word,annotation
+5620,P517136.2.1,kunuk[seal]N,{na₄}KIŠIB,,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{NA₄}KIŠIB,"['complete', 'complete']",0.0,kunuk,kunukku,seal,P517136,2,1,seal identification
+5621,P517136.2.2,+Bel-kumuʾa[]PN$,{1}EN-⸢ku-mu⸣-[u-a],PN,PN,"['𒁹', '𒂗', '𒆪', '𒈬', '𒌋', '𒀀']",𒁹𒂗𒆪𒈬𒌋𒀀,{1}EN-⸢ku-mu⸣-[u-a],"['complete', 'complete', 'damaged', 'damaged', 'missing', 'missing']",0.5,Bel-kumuʾa,Bel-kumuʾa,1,P517136,2,2,seal identification
+5622,P517136.3.1,bēl[owner]N,⸢EN⸣,,N,['𒂗'],𒂗,⸢EN⸣,['damaged'],0.5,bēl,bēlu,owner,P517136,3,1,seal identification
+5623,P517136.3.2,issi[woman]N,MUNUS,,N,['𒊩'],𒊩,MUNUS,['complete'],0.0,issi,sinništu,woman,P517136,3,2,seal identification
+5624,P517136.3.3,tadāni[giving]'N,SUM-⸢ni⸣,,V,"['𒋧', '𒉌']",𒋧𒉌,SUM-⸢ni⸣,"['complete', 'damaged']",0.25,tadāni,tadānu,giving,P517136,3,3,seal identification
+5625,P517136.7.1,+Pilaqqitu[]PN$,{⸢f⸣}pi-la-qi-⸢tu₂⸣,PN,PN,"['𒊩', '𒉿', '𒆷', '𒆥', '𒌓']",𒊩𒉿𒆷𒆥𒌓,{⸢f⸣}pi-la-qi-⸢tu₂⸣,"['damaged', 'complete', 'complete', 'complete', 'damaged']",0.2,Pilaqqitu,Pilaqqitu,1,P517136,7,1,object sold
+5626,P517136.7.2,amtušu[maid]N,[GEME₂-šu₂],,N,"['𒊩𒆳', '𒋙']",𒊩𒆳𒋙,[GEME₂-šu₂],"['missing', 'missing']",1.0,amtušu,amtu,maid,P517136,7,2,object sold
+5627,P517136.8.1,ša[of]DET,ša,,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,P517136,8,1,object sold
+5628,P517136.8.2,Bel-kumuʾa[1]PN,{1}EN-ku-[mu-u-a,PN,PN,"['𒁹', '𒂗', '𒆪', '𒈬', '𒌋', '𒀀']",𒁹𒂗𒆪𒈬𒌋𒀀,{1}EN-ku-[mu-u-a],"['complete', 'complete', 'complete', 'missing', 'missing', 'missing']",0.5,Bel-kumuʾa,Bel-kumuʾa,1,P517136,8,2,object sold
+5629,P517136.8.3,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P517136,8,3,object sold
+5630,P517136.8.4,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P517136,8,4,object sold
+5631,P517136.8.5,u,x,,u,['X'],X,[x],['missing'],1.0,,,,P517136,8,5,object sold
+5632,P517136.8.6,u,x],,u,['X'],X,[x],['missing'],1.0,,,,P517136,8,6,object sold
+5633,P517136.9.1,+Kata...[]PN$,{f}ka-⸢ta⸣-[...],PN,PN,"['𒊩', '𒅗', '𒋫', 'x']",𒊩𒅗𒋫x,{f}ka-⸢ta⸣-[x],"['complete', 'complete', 'damaged', 'missing']",0.38,Kata...,Kata...,1,P517136,9,1,none
+5634,P517136.13.1,Pilaqqitu[1]PN,{⸢f}pi-la⸣-[qi-tu₂,PN,PN,"['𒊩', '𒉿', '𒆷', '𒆥', '𒌓']",𒊩𒉿𒆷𒆥𒌓,{⸢f⸣}⸢pi-la⸣-[qi-tu₂],"['damaged', 'damaged', 'damaged', 'missing', 'missing']",0.7,Pilaqqitu,Pilaqqitu,1,P517136,13,1,none
+5635,P517136.13.2,u,...],,u,['x'],x,[x],['missing'],1.0,,,,P517136,13,2,none
+5636,P517136.14.1,Kata...[1]PN,{f}ka-⸢ta⸣-[...],PN,PN,"['𒊩', '𒅗', '𒋫', 'x']",𒊩𒅗𒋫x,{f}ka-⸢ta⸣-[x],"['complete', 'complete', 'damaged', 'missing']",0.38,Kata...,Kata...,1,P517136,14,1,none
+5637,P517136.15.1,issu[from]PRP,TA,,PRP,['𒋫'],𒋫,TA,['complete'],0.0,issu,ištu,from,P517136,15,1,none
+5638,P517136.15.2,pān[front]N,IGI,,N,['𒅆'],𒅆,IGI,['complete'],0.0,pān,pānu,front,P517136,15,2,none
+5639,P517136.15.3,u,{1}x+[x,,u,"['𒁹', 'X', 'X']",𒁹XX,{1}x+[x],"['complete', 'complete', 'missing']",0.33,,,,P517136,15,3,none
+5640,P517136.15.4,u,...],,u,['x'],x,[x],['missing'],1.0,,,,P517136,15,4,none
+5641,P517136.16.1,šību[witness]N,IGI,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,P517136,16,1,witness
+5642,P517136.16.2,+Mardi[]PN$,{1}mar-di-[i,PN,PN,"['𒁹', '𒈥', '𒁲', '𒄿']",𒁹𒈥𒁲𒄿,{1}mar-di-[i],"['complete', 'complete', 'complete', 'missing']",0.25,Mardi,Mardi,1,P517136,16,2,witness
+5643,P517136.16.3,u,...],,u,['x'],x,[x],['missing'],1.0,,,,P517136,16,3,witness
+5644,P517136.17.1,šību[witness]N,IGI,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,P517136,17,1,witness
+5645,P517136.17.2,+Hini...[]PN$,{1}hi-ni-⸢x,PN,PN,"['𒁹', '𒄭', '𒉌', 'X']",𒁹𒄭𒉌X,{1}hi-ni-⸢x⸣,"['complete', 'complete', 'complete', 'damaged']",0.12,Hini...,Hini...,1,P517136,17,2,witness
+5646,P517136.17.3,u,x⸣,,u,['X'],X,⸢x⸣,['damaged'],0.5,,,,P517136,17,3,witness
+5647,P517136.17.4,u,[...],,u,['x'],x,[x],['missing'],1.0,,,,P517136,17,4,witness
+5648,P517136.18.1,šību[witness]N,IGI,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,P517136,18,1,witness
+5649,P517136.18.2,u,{1}⸢x⸣-ku-[...],,u,"['𒁹', 'X', '𒆪', 'x']",𒁹X𒆪x,{1}⸢x⸣-ku-[x],"['complete', 'damaged', 'complete', 'missing']",0.38,,,,P517136,18,2,witness
+5650,P517136.19.1,šību[witness]N,IGI,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,P517136,19,1,witness
+5651,P517136.19.2,u,{1}sa-[...],,u,"['𒁹', '𒊓', 'x']",𒁹𒊓x,{1}sa-[x],"['complete', 'complete', 'missing']",0.33,,,,P517136,19,2,witness
+5652,P517136.20.1,šību[witness]N,IGI,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,P517136,20,1,witness
+5653,P517136.20.2,Nergal-eṭir[1]PN,{1}U.GUR-⸢KAR⸣-[ir],PN,PN,"['𒁹', '𒌋', '𒄥', '𒋼𒀀', '𒅕']",𒁹𒌋𒄥𒋼𒀀𒅕,{1}U.GUR-⸢KAR⸣-[ir],"['complete', 'complete', 'complete', 'damaged', 'missing']",0.3,Nergal-eṭir,Nergal-eṭir,1,P517136,20,2,witness
+5654,P517136.21.1,Nisannu[Nisan]MN,{iti}BARAG,MN,MN,"['𒌗', '𒁈']",𒌗𒁈,{ITI}BARAG,"['complete', 'complete']",0.0,Nisanni,Nisannu,Nisan,P517136,21,1,date
+5655,P517136.21.2,ūm[day]N,UD,,N,['𒌓'],𒌓,UD,['complete'],0.0,ūm,ūmu,day,P517136,21,2,date
+5656,P517136.21.3,n,10+[(x).KAM₂,NUMBER,n,"['𒌋', 'X', '𒆚']",𒌋X𒆚,10+[x].[KAM₂],"['complete', 'missing', 'missing']",0.67,,,,P517136,21,3,date
+5657,P517136.21.4,limme[eponym (of year)]N,lim-me],,N,"['𒅆', '𒈨']",𒅆𒈨,[lim-me],"['missing', 'missing']",1.0,limme,līmu,eponym (of year),P517136,21,4,date
+5658,P517136.22.1,"+Nabu-tapputi-alik[chief eunuch, post-canonical eponym//chief eunuch, post-canonical eponym]PN'PN$Nabu-tapput-alik",{1}{d}PA-tap-ut-a-[lik],PN,PN,"['𒁹', '𒀭', '𒉺', '𒋰', '𒌓', '𒀀', '𒌨']",𒁹𒀭𒉺𒋰𒌓𒀀𒌨,{1}{d}PA-tap-ut-a-[lik],"['complete', 'complete', 'complete', 'complete', 'complete', 'complete', 'missing']",0.14,Nabu-tapput-alik,Nabu-tapputi-alik,"chief eunuch, post-canonical eponym",P517136,22,1,date
+5659,P517136.24.1,šību[witness]N,IGI,,N,['𒅆'],𒅆,IGI,['complete'],0.0,šību,šību,witness,P517136,24,1,witness
+5660,P517136.24.2,+Hanšilu[]PN$,{1}ha-an-ši-lu,PN,PN,"['𒁹', '𒄩', '𒀭', '𒅆', '𒇻']",𒁹𒄩𒀭𒅆𒇻,{1}ha-an-ši-lu,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Hanšilu,Hanšilu,1,P517136,24,2,witness
+5661,P517136.25.1,tupšarru[scribe]N,{lu₂}A.⸢BA⸣,,N,"['𒇽', '𒀀', '𒁀']",𒇽𒀀𒁀,{LU₂}A.⸢BA⸣,"['complete', 'complete', 'damaged']",0.17,tupšarru,ṭupšarru,scribe,P517136,25,1,witness

@@ -1,0 +1,8 @@
+Unnamed: 0,ref,inst,frag,norm,cf,sense,pos,unicode,unicode_word,reading,break,break_perc,mask,lang,text,line,word,annotation
+544,P522639.5.1,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,,P522639,5,1,none
+545,P522639.5.2,u,⸢DU⸣,,,,u,['𒁺'],𒁺,⸢DU⸣,['damaged'],0.5,,,P522639,5,2,none
+546,P522639.5.3,u,[...],,,,u,['x'],x,[x],['missing'],1.0,,,P522639,5,3,none
+547,P522639.6.1,Ayyaru[1]MN,{[iti]}GU₄,Ayyaru,Ayyaru,1,MN,"['𒌗', '𒄞']",𒌗𒄞,{[ITI]}GU₄,"['missing', 'complete']",0.5,MN,,P522639,6,1,date
+548,P522639.6.2,u,[UD-x-KAM/KAM₂],,,,u,"['𒌓', 'X', '𒄰', '𒆚']",𒌓X𒄰𒆚,[UD-x-KAM]/[KAM₂],"['missing', 'missing', 'missing', 'missing']",1.0,,,P522639,6,2,date
+549,P522639.7.1,limmu[eponym (of year)]N,[lim-mu,limmu,līmu,eponym (of year),N,"['𒅆', '𒈬']",𒅆𒈬,[lim-mu],"['missing', 'missing']",1.0,,,P522639,7,1,date
+550,P522639.7.2,+Issi-Adad-aninu[]PN$,{m]}TA-{[d}IM/10-a-ni-nu],Issi-Adad-aninu,Issi-Adad-aninu,1,PN,"['𒁹', '𒋫', '𒀭', '𒅎', '𒌋', '𒀀', '𒉌', '𒉡']",𒁹𒋫𒀭𒅎𒌋𒀀𒉌𒉡,{[m]}TA-{[d]}[IM]/[10-a-ni-nu],"['missing', 'complete', 'missing', 'missing', 'missing', 'missing', 'missing', 'missing']",0.88,PN,,P522639,7,2,date

@@ -1,0 +1,42 @@
+Unnamed: 0,ref,frag,inst,pos,unicode,unicode_word,reading,break,break_perc,norm,cf,sense,mask,lang,text,line,word,annotation
+23102,P335132.2.1,{⸢na₄⸣}KIŠIB,kunukku[seal]N,N,"['𒉌𒌓', '𒈩']",𒉌𒌓𒈩,{⸢NA₄⸣}KIŠIB,"['damaged', 'complete']",0.25,kunukku,kunukku,seal,,,P335132,2,1,seal identification
+23103,P335132.2.2,{1}is-bu-ṭu,Isputu[1]PN$,PN,"['𒁹', '𒄑', '𒁍', '𒂅']",𒁹𒄑𒁍𒂅,{1}is-bu-ṭu,"['complete', 'complete', 'complete', 'complete']",0.0,Isputu,Isputu,1,PN,,P335132,2,2,seal identification
+23104,P335132.2.3,A,mār[son]N,N,['𒀀'],𒀀,A,['complete'],0.0,mār,māru,son,,,P335132,2,3,seal identification
+23105,P335132.2.4,{1}mu-sa-la-mu,Musallamu[1]PN$,PN,"['𒁹', '𒈬', '𒊓', '𒆷', '𒈬']",𒁹𒈬𒊓𒆷𒈬,{1}mu-sa-la-mu,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Musallamu,Musallamu,1,PN,,P335132,2,4,seal identification
+23106,P335132.3.1,{⸢lu₂⸣}NU.GIŠ.SAR,nukaribbu[gardener]N,N,"['𒇽', '𒉡', '𒄑', '𒊬']",𒇽𒉡𒄑𒊬,{⸢LU₂⸣}NU.GIŠ.SAR,"['damaged', 'complete', 'complete', 'complete']",0.12,nukaribbu,nukaribbu,gardener,,,P335132,3,1,seal identification
+23107,P335132.3.2,ša,ša[of]DET,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,,P335132,3,2,seal identification
+23108,P335132.3.3,E₂.GAL,ēkalli[palace]N,N,"['𒂍', '𒃲']",𒂍𒃲,E₂.GAL,"['complete', 'complete']",0.0,ēkalli,ēkallu,palace,,,P335132,3,3,seal identification
+23109,P335132.3.4,EN,bēl[owner]N,N,['𒂗'],𒂗,EN,['complete'],0.0,bēl,bēlu,owner,,,P335132,3,4,seal identification
+23110,P335132.3.5,LU₂,amēli[man]N,N,['𒇽'],𒇽,LU₂,['complete'],0.0,amēli,awīlu,man,,,P335132,3,5,seal identification
+23111,P335132.3.6,ta-da-ni,tadānu[give//giving]V'N$tadāni,V,"['𒋫', '𒁕', '𒉌']",𒋫𒁕𒉌,ta-da-ni,"['complete', 'complete', 'complete']",0.0,tadāni,tadānu,giving,,,P335132,3,6,seal identification
+23112,P335132.7.1,{1}{d}UTU—DINGIR-a.a,Šamaš-ilaʾi[1]PN,PN,"['𒁹', '𒀭', '𒌓', '𒀭', '𒀀', '𒀀']",𒁹𒀭𒌓𒀭𒀀𒀀,{[1]}{d}UTU-DINGIR-a.a,"['missing', 'complete', 'complete', 'complete', 'complete', 'complete']",0.17,Šamaš-ilaʾi,Šamaš-ilaʾi,1,PN,,P335132,7,1,object sold
+23113,P335132.7.2,{lu₂}ŠAM₂,ša-šīmi[bought slave]N,N,"['𒇽', '𒉚']",𒇽𒉚,{LU₂}ŠAM₂,"['complete', 'complete']",0.0,ša-šīmi,ša-šīmi,bought slave,,,P335132,7,2,object sold
+23114,P335132.7.3,ARAD-šu₂,urdīšu[servant]N,N,"['𒀴', '𒋙']",𒀴𒋙,ARAD-šu₂,"['complete', 'complete']",0.0,urdīšu,ardu,servant,,,P335132,7,3,object sold
+23115,P335132.8.1,⸢ša⸣,ša[of]DET,DET,['𒊭'],𒊭,⸢ša⸣,['damaged'],0.5,ša,ša,of,,,P335132,8,1,object sold
+23116,P335132.8.2,{1}is-bu-ṭu,Isputu[1]PN$,PN,"['𒁹', '𒄑', '𒁍', '𒂅']",𒁹𒄑𒁍𒂅,{1}is-bu-ṭu,"['complete', 'complete', 'complete', 'complete']",0.0,Isputu,Isputu,1,PN,,P335132,8,2,object sold
+23117,P335132.8.3,{lu₂}NU.GIŠ.SAR,nukaribbu[gardener]N,N,"['𒇽', '𒉡', '𒄑', '𒊬']",𒇽𒉡𒄑𒊬,{LU₂}NU.GIŠ.SAR,"['complete', 'complete', 'complete', 'complete']",0.0,nukaribbu,nukaribbu,gardener,,,P335132,8,3,object sold
+23118,P335132.8.4,ša₂,ša[of]DET,DET,['𒃻'],𒃻,ša₂,['complete'],0.0,ša,ša,of,,,P335132,8,4,object sold
+23119,P335132.8.5,E₂.GAL,ēkalli[palace]N,N,"['𒂍', '𒃲']",𒂍𒃲,E₂.GAL,"['complete', 'complete']",0.0,ēkalli,ēkallu,palace,,,P335132,8,5,object sold
+23120,P335132.9.1,u₂-piš-ma,uppišma[contract]V,V,"['𒌑', '𒄫', '𒈠']",𒌑𒄫𒈠,u₂-piš-ma,"['complete', 'complete', 'complete']",0.0,uppišma,epēšu,contract,,,P335132,9,1,initiation of transaction
+23121,P335132.9.2,{1}NINA{ki}a.a,Ninuaya[1]PN,PN,"['𒁹', '𒀏', '𒆠', '𒀀', '𒀀']",𒁹𒀏𒆠𒀀𒀀,{1}NINA{KI}a.a,"['complete', 'complete', 'complete', 'complete', 'complete']",0.0,Ninuaya,Ninuayu,1,PN,,P335132,9,2,initiation of transaction
+23122,P335132.9.3,{lu₂}SAG—MAN,ša-rēš-šarri[royal eunuch]N,N,"['𒇽', '𒊕', '𒌋𒌋']",𒇽𒊕𒌋𒌋,{LU₂}SAG-MAN,"['complete', 'complete', 'complete']",0.0,ša-rēš-šarri,ša-rēš-šarri,royal eunuch,,,P335132,9,3,initiation of transaction
+23123,P335132.10.1,[ina,ina[in+=for]PRP,PRP,['𒀸'],𒀸,[ina],['missing'],1.0,ina,ina,in,,,P335132,10,1,price
+23124,P335132.10.2,ŠA₃],libbi[interior]N,N,['𒊮'],𒊮,[ŠA₃],['missing'],1.0,libbi,libbu,interior,,,P335132,10,2,price
+23125,P335132.10.3,01,n,n,['𒁹'],𒁹,01,['complete'],0.0,,,,NUMBER,,P335132,10,3,price
+23126,P335132.10.4,MA.NA,manê[a unit of weight]N,N,"['𒈠', '𒈾']",𒈠𒈾,MA.NA,"['complete', 'complete']",0.0,manê,manû,a unit of weight,,,P335132,10,4,price
+23127,P335132.10.5,KUG.UD,ṣarpi[silver]N,N,"['𒆬', '𒌓']",𒆬𒌓,KUG.UD,"['complete', 'complete']",0.0,ṣarpi,ṣarpu,silver,,,P335132,10,5,price
+23128,P335132.10.6,ina,ina[by]PRP,PRP,['𒀸'],𒀸,ina,['complete'],0.0,ina,ina,by,,,P335132,10,6,price
+23129,P335132.10.7,ša,ša[of]DET,DET,['𒊭'],𒊭,ša,['complete'],0.0,ša,ša,of,,,P335132,10,7,price
+23130,P335132.10.8,{uru}gar-ga-mis,Gargamis[Carchemish]GN,GN,"['𒌷', '𒃻', '𒂵', '𒈩']",𒌷𒃻𒂵𒈩,{URU}gar-ga-mis,"['complete', 'complete', 'complete', 'complete']",0.0,Gargamis,Gargamis,Carchemish,GN,,P335132,10,8,price
+23131,P335132.11.1,[il]-qi,ilqi[purchase]V,V,"['𒅋', '𒆥']",𒅋𒆥,[il]-qi,"['missing', 'complete']",0.5,ilqi,leqû,purchase,,,P335132,11,1,completion of transaction
+23132,P335132.11.2,kas-pu,kaspu[money]N,N,"['𒆜', '𒁍']",𒆜𒁍,kas-pu,"['complete', 'complete']",0.0,kaspu,kaspu,money,,,P335132,11,2,confirmation of transfer 1
+23133,P335132.11.3,gam-mur,gammur[completed]AJ,AJ,"['𒃵', '𒄯']",𒃵𒄯,gam-mur,"['complete', 'complete']",0.0,gammur,gammuru,completed,,,P335132,11,3,confirmation of transfer 1
+23134,P335132.11.4,ta-din,tadin[paid]AJ,AJ,"['𒋫', '𒁷']",𒋫𒁷,ta-din,"['complete', 'complete']",0.0,tadin,tadnu,paid,,,P335132,11,4,confirmation of transfer 1
+23135,P335132.12.1,[LU₂],amēli[man]N,N,['𒇽'],𒇽,[LU₂],['missing'],1.0,amēli,awīlu,man,,,P335132,12,1,confirmation of transfer 2
+23136,P335132.12.2,šu-a-tu₂,šuātu[that]'DP,IP,"['𒋗', '𒀀', '𒌓']",𒋗𒀀𒌓,šu-a-tu₂,"['complete', 'complete', 'complete']",0.0,šuātu,šuāti,that,,,P335132,12,2,confirmation of transfer 2
+23137,P335132.12.3,za-rip,zarip[purchased]AJ,AJ,"['𒍝', '𒆗']",𒍝𒆗,za-rip,"['complete', 'complete']",0.0,zarip,zarpu,purchased,,,P335132,12,3,confirmation of transfer 2
+23138,P335132.12.4,laq-qi,laqqi[acquired]AJ,AJ,"['𒋃', '𒆥']",𒋃𒆥,laq-qi,"['complete', 'complete']",0.0,laqqi,leqû,acquired,,,P335132,12,4,confirmation of transfer 2
+23139,P335132.12.5,tu-a-ru,tuāru[revocation]'N,V,"['𒌅', '𒀀', '𒊒']",𒌅𒀀𒊒,tu-a-ru,"['complete', 'complete', 'complete']",0.0,tuāru,târu,revocation,,,P335132,12,5,exclusion of litigation
+23140,P335132.13.1,[de]-e-nu,dēnu[lawsuit]N,N,"['𒁲', '𒂊', '𒉡']",𒁲𒂊𒉡,[de]-e-nu,"['missing', 'complete', 'complete']",0.33,dēnu,dīnu,lawsuit,,,P335132,13,1,exclusion of litigation
+23141,P335132.13.2,DUG₄.DUG₄,dabābu[litigation]'N,V,"['𒅗', '𒅗']",𒅗𒅗,DUG₄.DUG₄,"['complete', 'complete']",0.0,dabābu,dabābu,litigation,,,P335132,13,2,exclusion of litigation
+23142,P335132.13.3,la-aš₂-[šu₂],laššu[(there) is not]V,V,"['𒆷', '𒀾', '𒋙']",𒆷𒀾𒋙,la-aš₂-[šu₂],"['complete', 'complete', 'missing']",0.33,laššu,laššu,(there) is not,,,P335132,13,3,exclusion of litigation
